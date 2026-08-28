@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Smartphone Restriction and Its Effect on Subjective Withdrawal Related Scores</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Frontiers Media SA</publisher>
+				<availability status="unknown"><p>Copyright Frontiers Media SA</p>
+				</availability>
+				<date type="published" when="2018-08-13">13 August 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Tine</forename><forename type="middle">A</forename><surname>Eide</surname></persName>
+							<email>tine.eide@uib.no</email>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Department of Global Public Health and Primary Care</orgName>
+								<orgName type="department" key="dep2">Faculty of Medicine</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<settlement>Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sarah</forename><forename type="middle">H</forename><surname>Aarestad</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Psychosocial Science</orgName>
+								<orgName type="department" key="dep2">Faculty of Psychology</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<settlement>Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cecilie</forename><forename type="middle">S</forename><surname>Andreassen</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">Department of Clinical Psychology</orgName>
+								<orgName type="department" key="dep2">Faculty of Psychology</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<settlement>Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Robert</forename><forename type="middle">M</forename><surname>Bilder</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Psychiatry and Biobehavioral Sciences</orgName>
+								<orgName type="department" key="dep2">David Geffen School of Medicine</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Los Angeles, Los Angeles</settlement>
+									<region>CA</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ståle</forename><surname>Pallesen</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Psychosocial Science</orgName>
+								<orgName type="department" key="dep2">Faculty of Psychology</orgName>
+								<orgName type="institution">University of Bergen</orgName>
+								<address>
+									<settlement>Bergen</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">Universitat Politècnica de València</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">Università degli Studi di Palermo</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Camino Fidalgo</orgName>
+								<orgName type="institution">University of Zaragoza</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Smartphone Restriction and Its Effect on Subjective Withdrawal Related Scores</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Frontiers in Psychology</title>
+						<title level="j" type="abbrev">Front. Psychol.</title>
+						<idno type="eISSN">1664-1078</idno>
+						<imprint>
+							<publisher>Frontiers Media SA</publisher>
+							<biblScope unit="volume">9</biblScope>
+							<date type="published" when="2018-08-13">13 August 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A35ECC934EAB29A6F2F62767C7AAEF67</idno>
+					<idno type="DOI">10.3389/fpsyg.2018.01444</idno>
+					<note type="submission">This article was submitted to Human-Media Interaction, a section of the journal Frontiers in Psychology Received: 16 April 2018 Accepted: 23 July 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>smartphone</term>
+					<term>restriction</term>
+					<term>withdrawal</term>
+					<term>FoMO</term>
+					<term>experimental study</term>
+					<term>behavioural addiction</term>
+					<term>PANAS</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Excessive smartphone use has been associated with a number of negative consequences for the individual and the environment. Some similarities can be observed between excessive smartphone usage and several behavioural addictions, and continual usage constitutes one of several characteristics included in addiction. In the extreme high end of the distribution of smartphone usage, smartphone restriction might be expected to elicit negative effects for individuals. These negative effects may be regarded as withdrawal symptoms traditionally associated with substance-related addictions. To address this timely issue, the present study examined scores on the Smartphone Withdrawal Scale (SWS), the Fear of Missing Out Scale (FoMOS) and the Positive and Negative Affect Schedule (PANAS) during 72 h of smartphone restriction. A sample of 127 participants (72.4% women), aged 18-48 years (M = 25.0, SD = 4.5), were randomly assigned into one of two conditions: a restricted condition (experimental group, n = 67) or a control condition (control group, n = 60). During the restriction period participants completed the aforementioned scales three times a day. The results revealed significantly higher scores on the SWS and FoMOS for participants allocated to the restricted condition than those assigned to the control condition. Overall the results suggest that smartphone restriction could cause withdrawal symptoms.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Modern mobile technologies have become increasingly popular and more advanced over the last decade. State of the art (i.e., smartphones) includes several multimedia functions, which enable users to be constantly connected and have access to an uninterrupted flow of real time data from social networking sites (SNSs; <ref type="bibr" target="#b50">Valderrama, 2014;</ref><ref type="bibr" target="#b11">Chóliz et al., 2016)</ref>. Consequently, the smartphone has become a crucial component in peoples' lives, with 73% reporting that they would feel panic if they had misplaced their smartphone and 58% reporting checking it at least once every hour <ref type="bibr">(Lookout, 2012)</ref>.</p><p>Excessive and problematic smartphone usage, also referred to as an (behavioural) addiction <ref type="bibr" target="#b3">(Andreassen et al., 2013;</ref><ref type="bibr">Billieux et al., 2015a)</ref>, has potentially harmful effects (see <ref type="bibr" target="#b16">Elhai et al., 2017</ref>, for a systematic review). Research indicates that overuse can lead to undesired outcomes for both the individual and their surroundings and may be of significant concern for public health <ref type="bibr" target="#b48">(Tossell et al., 2015;</ref><ref type="bibr" target="#b52">van Deursen et al., 2015)</ref>. Some studies indicate that excessive smartphone use can lead to musculoskeletal impairment <ref type="bibr" target="#b28">( İnal et al., 2015;</ref><ref type="bibr" target="#b55">Xie et al., 2016)</ref>, poor academic performance <ref type="bibr" target="#b33">(Lepp et al., 2014)</ref>, anxiety and depression <ref type="bibr" target="#b14">(Demirci et al., 2015;</ref><ref type="bibr" target="#b15">Elhai et al., 2016)</ref> as well as poor sleep quality <ref type="bibr" target="#b9">(Chang et al., 2015)</ref>. The term behavioural addiction refers to an addiction that is non-chemical or non-substance related in nature and, that prior to <ref type="bibr" target="#b20">Griffiths (1996)</ref> article, was often termed non-substance use addiction. Smartphone addiction has emerged as a subcategory of behavioural addictions. According to the component model of addiction <ref type="bibr" target="#b22">Griffiths (2005)</ref> suggested that it was characterized by six components, these including salience, mood modification, tolerance, withdrawal symptoms, conflict, and relapse. These components were assumed to be common for both addictions related to substance use as well as for behavioural addiction. The withdrawal symptoms component refers to the unpleasant psychological and physiological effects that occur as a consequence of discontinuance of the particular activity. The dominating withdrawal effect may vary for each individual in terms of psychological and physiological outcomes. Psychological withdrawal symptoms refer to effects such as moodiness, irritability, and anxiousness, while physiological withdrawal symptoms include sweats, nausea, insomnia, headaches, and so on. Psychological withdrawal symptoms are effects that have been well documented in substance use addiction <ref type="bibr" target="#b35">(Orford, 2001)</ref>, and there is now a growing body of evidence also suggesting that withdrawal symptoms exist for behavioural addictions, such as pathological gambling <ref type="bibr" target="#b21">(Griffiths, 2004)</ref>.</p><p>So far the number of studies that have focused on the effects of restricting access to smartphones is limited. One study revealed that restriction made participants significantly more anxious over time <ref type="bibr" target="#b10">(Cheever et al., 2014)</ref>. However, this effect was found only in individuals who were heavy or moderate users of smartphones <ref type="bibr" target="#b10">(Cheever et al., 2014)</ref>. In another study being unable to answer incoming calls on ones' smartphone was found to cause increased heart rate and blood pressure, as well as feelings of anxiety and unpleasantness <ref type="bibr" target="#b12">(Clayton et al., 2015)</ref>. Several other studies have examined smartphone restriction and potential addiction through various designs <ref type="bibr" target="#b42">(Sapacz et al., 2016;</ref><ref type="bibr" target="#b13">Cutino and Nees, 2017;</ref><ref type="bibr" target="#b51">van den Eijnden et al., 2017)</ref>. These findings suggest that withdrawal symptoms may be in play when people's access to their mobile phone is restricted. A phenomenon that may explain symptoms of smartphone restriction withdrawal is fear of missing out (FoMO), which denotes an overhanging concern that one is excluded from taking part in or sharing enjoyable experiences others might be having <ref type="bibr" target="#b38">(Przybylski et al., 2013)</ref>. Online participation might be particularly attractive due to the immediate access to information about friends and events, where individuals high in FoMO might gravitate toward these social media channels. Furthermore, restriction from access to these channels might provoke withdrawal related symptoms. Several studies attest to a positive association between FoMO and continual excessive smartphone use <ref type="bibr">(Rosen et al., 2013a,b;</ref><ref type="bibr" target="#b33">Lepp et al., 2014;</ref><ref type="bibr" target="#b12">Clayton et al., 2015;</ref><ref type="bibr" target="#b15">Elhai et al., 2016;</ref><ref type="bibr" target="#b19">Fuster et al., 2017)</ref>. In line with this, a growing body of research on excessive smartphone use has shown it to be strongly associated with addictive use of online social media <ref type="bibr" target="#b3">(Andreassen et al., 2013</ref><ref type="bibr" target="#b2">(Andreassen et al., , 2016;;</ref><ref type="bibr" target="#b41">Salehan and Negahban, 2013;</ref><ref type="bibr" target="#b19">Fuster et al., 2017;</ref><ref type="bibr">Lopez-Fernandez et al., 2017)</ref>. Characteristics of the smartphone, such as size and portability, could facilitate multiple reinforcement pairings associated with the stimuli, which rapidly may instigate an addictive behavioural pattern. There exist different viewpoints regarding the addiction to technology, whether they involve being addicted to the medium itself or whether the medium is merely a promoter of other addictions. There are three main views regarding this issue: (1) one can be addicted to the medium itself; (2) one could be addicted to the medium, because it grants access to different types of content that is accessible only through the medium; and (3) one is only addicted to the content the medium makes accessible and not to the medium itself. <ref type="bibr" target="#b56">Young (1998)</ref> argues that the medium is what causes addiction due to the fact that the content would not be accessible without it, while <ref type="bibr" target="#b23">Griffiths et al. (2016)</ref> argue that the medium itself is not addictive, but the medium is used as a platform/source that promotes addictions. Nevertheless, some findings from case studies have indicated that a few individuals seem to be addicted to the Internet itself. These individuals often use the Internet for chat rooms and activities that are accessible only through the Internet <ref type="bibr" target="#b23">(Griffiths et al., 2016)</ref>. This argument has also been used to describe people that seem to be addicted to social media and SNSs <ref type="bibr" target="#b29">(Kuss and Griffiths, 2011;</ref><ref type="bibr" target="#b24">Griffiths et al., 2014)</ref>. In addition, there is some debate to whether one can go as far as to call excessive or problematic smartphone usage, addiction <ref type="bibr">(Billieux et al., 2015b)</ref>. Independently of this discussion, there exists some resemblance between excessive smartphone use and behavioural addiction, which makes an investigation of the potential withdrawal symptoms upon restriction of interest.</p><p>When considering withdrawal symptoms, the physiological are more specific to the substance use-related addictions <ref type="bibr" target="#b44">(Shiffman and Jarvik, 1976;</ref><ref type="bibr" target="#b20">Griffiths, 1996</ref><ref type="bibr" target="#b22">Griffiths, , 2005;;</ref><ref type="bibr" target="#b17">Etter, 2005)</ref>, whereas withdrawal symptoms in behavioural addictions typically consist mainly of psychological symptoms <ref type="bibr" target="#b20">(Griffiths, 1996</ref><ref type="bibr" target="#b22">(Griffiths, , 2005;;</ref><ref type="bibr" target="#b0">Alavi et al., 2012;</ref><ref type="bibr" target="#b36">Parlak and Eckhardt, 2014)</ref>. Several studies have used anxiety measures and the related negative effects as means for investigating individual experience during restriction periods in persons suffering from different behavioural addictions <ref type="bibr" target="#b38">(Przybylski et al., 2013;</ref><ref type="bibr" target="#b10">Cheever et al., 2014;</ref><ref type="bibr" target="#b12">Clayton et al., 2015)</ref>. However, there is little research on withdrawal in behavioural addiction <ref type="bibr" target="#b45">(Starcevic, 2016)</ref>.</p><p>Studies of substance addiction withdrawal have shown that there are certain temporal trends regarding symptom development. Knowledge about these effects can be highly useful as the issue of withdrawal symptoms in behavioural addictions has yet to be sufficiently researched. <ref type="bibr" target="#b44">Shiffman and Jarvik (1976)</ref> studied smokers who abstained from cigarettes over a certain period. The results indicated that the symptoms had a U-shaped function, whereby the symptoms were more salient in the beginning and toward the end of a restriction period. However, a study on alcohol withdrawal found the symptoms to follow an inverted U-curve <ref type="bibr" target="#b43">(Sellers and Kalant, 1976)</ref>. These findings indicate that there might be some differences across various addictions regarding the temporal shape of the withdrawal symptoms. In addition, <ref type="bibr" target="#b27">Hughes et al. (2004)</ref> performed a systematic literature review where they studied smokers, and found that most of the relapses happened within the first 8 days. Thus, it could be argued that there should be greater clinical focus on the first week of restriction periods <ref type="bibr" target="#b27">(Hughes et al., 2004)</ref>.</p><p>There is little research done on withdrawal and its temporal development in behavioural addiction.</p><p>Against this backdrop, we designed an experiment comparing 72 h of smartphone restriction to a control condition with no restriction. We hypothesised that participants in the experimental condition would score significantly higher on smartphone withdrawal symptoms, fear of missing out and negative mood, albeit lower on positive mood, compared to controls (H1), reflecting main effects of condition. We also expected that negative symptoms would be larger in the beginning of the registration period compared to later (H2), reflecting main effects of time. Finally, we expected a larger drop in withdrawal symptoms over time in the experimental than in the control condition (H3), which would be reflected by significant two-way interaction (Condition × Time) effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>The sample comprised 127 participants, 72.4% women (n = 92) and 27.6% men (n = 35). All participants were between the ages of 18 and 48 years old, with a mean age of 25 years (SD = 4.5). In all, 79.5% (n = 101) were full-time students attending higher education in Bergen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Instruments</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Demography</head><p>The participants were asked to complete items regarding their age, gender, relationship status, and student status.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Smartphone Frequency and Use Items</head><p>The questionnaire consisted of five items where the participants rated themselves on topics such as frequency, duration and characteristics (e.g., "Do you use your smartphone every day?") of smartphone use. The questionnaire is reproduced in Appendix A.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Smartphone Withdrawal Scale (SWS)</head><p>This scale was included in the study for measuring the degree of withdrawal symptoms related to smartphone restriction. The Smartphone Withdrawal Scale (SWS) is a modified version of the Cigarette Withdrawal Scale (CWS; <ref type="bibr" target="#b17">Etter, 2005)</ref>. Although cigarette withdrawal concerns a substance, there is a substantial overlap between symptoms of tobacco withdrawal and withdrawal symptoms associated with behavioural addiction (American Psychiatric Association, 2013). The CWS originally consists of 21 items divided into six subscales (Depression-Anxiety, Craving, Irritability-Impatience, Difficulty Concentrating, Appetite-Weight Gain, and Insomnia), but in the present study the Appetite-Weight Gain and the Insomnia subscale were not included as they seemed less relevant for smartphone withdrawal. Four items on the Craving subscale, specific to cigarette use, were modified to become relevant for smartphone withdrawal. In addition, the scale was altered from a trait to state format, by wording the questions from a general to a specific state (e.g., "The only thing I can think about in this moment, is my smartphone"; see Supplementary Material for a full list of items). The modified scale consists of 15 items rated on a five-point Likert scale ranging from 1 (totally disagree) to 5 (totally agree). A composite score was calculated based on the sum score of all the 15 items. The Cronbach's alpha for the SWS was shown to be very good across all the nine times it was measured, ranging from 0.88 to 0.92.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Positive and Negative Affect Schedule (PANAS)</head><p>The Positive and Negative Affect Schedule (PANAS) <ref type="bibr" target="#b53">(Watson et al., 1988)</ref> was used to measure self-reported mood and consists of 20 items, 10 items related to the Positive Affect Schedule (PA) and 10 items related to the Negative Affect Schedule (NA). These items describe different affective states, such as hostile and excited. The participants scored each item on a five-point Likert scale from (very slightly or not at all) to 5 (extremely), based on their present state. In the present study, the Cronbach's alpha reliabilities for both the PA (0.87-0.92) and the NA (0.77-0.85) subscale were shown to be good to excellent across the nine times of measuring.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fear of Missing Out Scale (FoMOS)</head><p>The Fear of Missing Out Scale (FoMOS) <ref type="bibr" target="#b38">(Przybylski et al., 2013)</ref> was used as a self-reported measure of FoMO. However, in the present study, the scale was adapted into a state measure by wording the questions from a general to a specific and present state. The scale consists of 10 items (e.g., "I fear others have more rewarding experiences than me right now") rated on a five-point Likert scale from 1 (not at all true of me) to 5 (extremely true of me). The FoMOS demonstrated good internal consistency across the nine times of measuring with an alpha reliability ranging from 0.80 to 0.87.</p><p>The measures used to characterise smartphone usage were administered one time, while the battery of withdrawal related scales was completed at nine intervals during the restriction period. These withdrawal-related scales comprised the dependent variables. Time represented the repeated measures for each participant (nine times), which enabled an investigation of intraindividual variations. Condition represented either restricted or control.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>The participants were recruited through advertisement on Facebook and by personal appeal. Participants who did not use their smartphone for at least 1 h on a daily basis were excluded. The study took place over ten weekends during the period from October 2016 to February 2017. Each participant was assigned a unique ID and randomised into either a restricted or a control condition by an online randomiser calculator <ref type="bibr" target="#b49">(Urbaniak and Plous, 2015)</ref>.  The Monday before the experimental weekend (Friday-Monday; see Figure <ref type="figure" target="#fig_0">1</ref>) the participants received an email containing a link to a web-based survey (demographics and smartphone usage). Upon inclusion, all participants were given a unique, consecutively allocated id-number and randomly divided into either restricted or control condition (see Figure <ref type="figure" target="#fig_1">2</ref>). On Friday, those allocated to the restricted condition (experimental group; n = 67) were instructed to turn off their smartphones and hand them in. The smartphone was placed in a secure locked cabinet over the weekend. Those allocated to the control condition (control group; n = 60) were allowed to keep and use their smartphone as usual. During the restriction period (72 h), the participants were instructed to complete relevant questionnaires (SWS, FoMOS, and PANAS) three times a day in a pamphlet they received on the first experimental day. On the following Monday, the participants handed in the completed questionnaires. Those in the restricted condition got their smartphones back and responded to an open-ended qualitative question regarding challenges related to the restriction period. All participants received a remuneration of 500 NOK for taking part in the study. The amount was undisclosed in advance to ensure the primary motivation for participation in the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics</head><p>The study was conducted in accordance to the Declaration of Helsinki and approved by the Norwegian Data Protection Authority (project no. 49769) and the ethics committee consisted of one person, Belinda Gloppen Helle from the Norwegian Centre for Research Data. All participants were recruited from the general adult population (at least 18 years old) and all gave electronic informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Analysis</head><p>A linear mixed model analysis was applied and a restricted maximum likelihood approach was used as this produces unbiased estimates of variance and covariance parameters. Random intercept was included in the models <ref type="bibr" target="#b25">(Harville, 1977;</ref><ref type="bibr" target="#b54">West et al., 2014)</ref>. In the analysis, between-subjects factors reflected the potential difference between the individuals in the restricted condition and the control condition, in terms of smartphone withdrawal (determined from the SWS score), fear of missing out (determined from the FoMOS score), and positive/negative affect (determined from the PANAS scores). A power-analysis showed that the number of participants included would be sufficient for a power of 0.80 in the cases of medium effect sizes for the fixed factors and an expected correlation coefficient between repeated measures of 0.5 <ref type="bibr" target="#b26">(Hedeker et al., 1999)</ref>. All analyses were conducted using SPSS Version 23.</p><p>On the items from the SWS scale, completed during the restriction period, the missing data comprised 4.4% of the total. FoMO items had 4.2%, the PA scale 4.5%, and the NA scale had 4.2% missing data. However, the linear mixed model analytic approach makes it possible to use the available data for units where time points are missing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>The dataset will be made available upon request to the TE.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Descriptives</head><p>Smartphone usage was measured prior to the experimental weekend. The difference in self-reported smartphone usage did not differ between groups (t = 1.36, df = 125, p = 0.177). See Table <ref type="table" target="#tab_0">1</ref> for more detailed descriptives. There was no difference in gender distribution (χ 2 = 0.373, df = 1, p = 0.541) between the two conditions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis of experiment</head><p>The Effect of Smartphone Restriction on Withdrawal Symptoms (see Tables <ref type="table" target="#tab_1">2,</ref><ref type="table" target="#tab_2">3</ref>)</p><p>On the SWS there was a statistically significant main effect of condition, F(1,124.97) = 4.90, p &lt; 0.05, and time, F(8,951.19) = 2.83, p &lt; 0.005 on the total score. The interaction effect between condition and time was not statistically significant, F(8,951.19) = 0.226, p = 0.986 (Figure <ref type="figure" target="#fig_2">3</ref>). Specifically, Time 1 had a statistically significant higher SWS score compared to Time 9 (t = 2.48, p &lt; 0.05) which represented the reference time.   The Effect of Smartphone Restriction on Fear of Missing Out (see Tables <ref type="table" target="#tab_2">3,</ref><ref type="table" target="#tab_3">4</ref>)</p><p>There was statistically significant main effect of condition, F(1,124.81) = 3.99, p &lt; 0.05, and time, F(8,952.40) = 8.17, p &lt; 0.001, on the total score of FoMOS. The interaction effect between condition and time was not statistically significant, F(8,952.40) = 0.652, p = 0.734 (Figure <ref type="figure" target="#fig_4">4</ref>). Further, Time 1 (t = 3.72, p &lt; 0.001), Time 2 (t = 2.28, p &lt; 0.05), and Time 4 (t = 2.18, p &lt; 0.05) had a statistically significant higher FoMOS score compared to the reference time (Time 9).</p><p>The Effect of Smartphone Restriction on Positive and Negative Affect (see Tables <ref type="table" target="#tab_2">3,</ref><ref type="table" target="#tab_4">5</ref>)</p><p>There was no statistically significant main effect for condition, F(1,125.15) = 1.89, p = 0.171 on PA. However, the analysis revealed a statistically significant main effect for time, F(8,951.23) = 3.72, p &lt; 0.001, on the total score of PA. No significant results were found between each timepoint in the  follow-up test. The interaction effect between condition and time on the PA score, F(8,951.23) = 0.865, p = 0.546, was not statistically significant (Figure <ref type="figure" target="#fig_5">5</ref>). The NA score had no significant main effect for condition, F(1,124.23) = 1.73, p = 0.191, nor for time F(8,952.48) = 1.95, p = 0.050 (Table <ref type="table" target="#tab_5">6</ref>).</p><p>Furthermore, the interaction effect between condition and time on the NA score F(8,952.48) = 0.730, p = 0.665, was not statistically significant (Figure <ref type="figure" target="#fig_6">6</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The main aim of the present study was to investigate withdrawal symptoms, fear of missing out, and positive and negative affect associated with smartphone restriction over time. Based on the research design, the present study represents one of the first experimental studies undertaken on this topic. The findings were consistent with one of the hypotheses and previous research, with results showing that smartphone restriction contributed significantly to the explained variance symptoms of withdrawal and FoMO. However, restriction was not related with positive or negative affect.  There was a significant main effect for condition on the SWS where the restricted condition had a higher mean score compared to the control condition. More specifically, this evidence indicates that smartphone restriction provokes psychological withdrawal symptoms similar to those found in other behavioural addictions. The results also revealed a significant main effect for condition on FoMOS indicating that the FoMOS scores were significantly higher for the restricted condition, compared to the control condition, irrespective of the effect of time. FoMOS could be a representation of the social aspect of withdrawal and could therefore provide support for this hypothesis. These results could arise from a restriction of the immediate access to social networks, which provoke these negative effects. There was no significant main effect for condition on PA, thereby representing no significant difference between the restricted condition and  the control condition in terms of PA scores. This indicates that being restricted from the smartphone does not cause a decrease in PA. Regarding NA, there was no significant main effect for condition. This result suggests that being restricted from the smartphone does not cause an increase in NA. These findings provide partial support to H1 by indicating that individuals are negatively affected when restricted from interacting with their smartphones. A significant main effect of time for the SWS, FoMOS, and PA was found, indicating that the scores differed significantly over time, regardless of condition. Further, the main effect of time for NA was not significant. Hence, H2 was partially supported by the data. There was no significant interaction effect for the outcome variables (SWS, FoMOS, PA, and NA), which results in lack of support for H3. Consequently, the present study could not identify trends regarding the negative effects caused by the restriction period.</p><p>The reported negative effects (SWS and FoMOS) caused by an inability to interact with one's smartphone could be linked to higher levels of stress <ref type="bibr" target="#b32">(Lazarus and Folkman, 1984;</ref><ref type="bibr" target="#b18">Folkman, 2008)</ref> as some studies have suggested that using one's smartphone can cause a temporary outlet for stress <ref type="bibr" target="#b31">(Lavoie and Pychyl, 2001;</ref><ref type="bibr" target="#b46">Thomée et al., 2007)</ref>. A study by <ref type="bibr" target="#b37">Patel et al. (2006)</ref> revealed that children who played a handheld video game before surgery had lower levels of stress and anxiety than children who only had their parents present. A handheld video game does have some characteristics similar to smartphones, which makes this comparison relevant regarding the interpretation of the present findings. Although several games are available via smartphones, there are also some notably differences between video games and smartphones which put limits on the comparative effects. However, when in possession, a smartphone is immediately accessible with all the different process-and social apps. One can speculate that young adults may experience the same negative reinforcing effect of a smartphone in various daily stressful situations. If so, one may further argue that restriction of the same types of devices could restrict the negative reinforcing effect of the smartphone. However, these are merely speculations and further studies are needed to examine the possibilities of such a connection. From the PANAS scale, Negative Affect has been proven to be positively correlated with self-reported stress <ref type="bibr" target="#b53">(Watson et al., 1988)</ref>.</p><p>Another explanation for the findings regarding H1 can be linked to connectedness and an extension of the self. SNSs popularity have continued to grow since they first where introduced and they have developed to incorporate functions, such as instant messaging. It has been suggested that a possible explanation for SNSs being as popular as they have become is due to being able to connect to fundamental human needs. SNSs are able to offer their users social support by offering a way of being constantly connected to family, friends, and acquaintances 24/7. In addition, these instant message applications offer a private forum for peers to interact without supervision from others. This could help explain the high engagement users show to SNSs <ref type="bibr" target="#b8">(Carbonell and Panova, 2017;</ref><ref type="bibr" target="#b30">Kuss and Griffiths, 2017)</ref>. Smartphones have made it easier to access SNSs and therefore by restricting smartphone interaction one makes it more challenging to be constantly connected and fully engaged in the aspects of society facilitated by smartphones.</p><p>Another highly related term in regard to the social aspect of restriction is the extended self, proposed by <ref type="bibr" target="#b4">Belk (1988)</ref>. In the construct of the sense of self, he claims that an individual's possessions represent an important part in reflecting one's identities. When their possessions are taken away, a diminished sense of self would occur. This implies an emergence of negative emotions. One consequence of technological changes is the extension of the self into graphical representations of the individual, such as avatars that can affect our offline sense of self. The digital platform has gone from being somewhat private to becoming the main platform for revealing and projecting ourselves. An increase in sharing of private information on SNSs may leave the user in a vulnerable position, where frequent posts are required in order to maintain or gain control <ref type="bibr" target="#b47">(Thompson and Cupples, 2008)</ref>.</p><p>Being unable to ask questions, provide instructions or exchange personal information on the go could explain the higher score on the SWS and FoMOS. In addition, it could be related to the process apps that are accessible on the smartphone, which enables interaction with the general society through news, bus tickets, emails, and so on. This is in conformity with some of the challenges reported by the restricted participants, where almost half reported difficulty with being restricted from the process apps, as well as social communication. Further, the participants reported challenges associated with planning and immediate inaccessibility to other persons. The extended self provides an interesting view regarding use of technology. Through digital technology, the offline and online self becomes jointly constructed; thus, imposing a restriction on an individual that removes him/her from the online self, such as smartphone restriction, could provoke withdrawal related symptoms <ref type="bibr" target="#b4">(Belk, 1988</ref><ref type="bibr" target="#b5">(Belk, , 2013))</ref>.</p><p>This study is one of the first investigating the effect of restriction of smartphone for the extension of time and by physically removing the smartphone. Few other studies have examined smartphone restriction, but with various designs. A study by <ref type="bibr" target="#b10">Cheever et al. (2014)</ref>, the participants were randomly assigned into one of two conditions: one condition turned in their smartphone, while the other condition was allowed to keep their smartphone but had to turn it off for the duration of the study. The experimental phase lasted for only 75 min. A second study investigated smartphone restriction for 3 h at a festival (van den <ref type="bibr" target="#b51">Eijnden et al., 2017)</ref>. In this study, the participants got to keep their smartphone, but had to put it in flight mode and the screen was made invisible by a seal. Regarding withdrawal trends, the former is the only one including trends. This is, however, difficult to compared with the present study due to the difference in duration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strengths and Limitations</head><p>The dependent variables were included to assess different and relevant aspects of smartphone withdrawal and represent one key strength of the present study. The 72 h experimental phase, considerably longer than a previous smartphone restriction experiment allowed for detailed assessment of fluctuations in the dependent variable and is another asset of the present study <ref type="bibr" target="#b10">(Cheever et al., 2014;</ref><ref type="bibr" target="#b51">van den Eijnden et al., 2017)</ref>. The fact that the participants in the experimental condition handed in their smartphones during the restriction period ensured the integrity of the experiment.</p><p>In terms of limitations selection bias is a possible weakness of the present study as one can assume that individuals who were excessive users were less likely to participate. The participants could also pick freely the weekend they wished to participate. This could be a limitation considering that participants could adjust their weekend plans accordingly. A preponderance of females in the sample represents another limitation, as some studies have suggested that men and women engage in different types of smartphone usage. It is further conceivable that the participants used SNSs on other technological devices (e.g., laptop, tablet) during the restriction period. This should thus be controlled for in future studies. It could be argued that the present study did not imply real restriction as the participants could use other electronic devices by which they could access internet. However, as most people today use their mobile phones to access internet in situations when they have not access to a PC/tablet the present study did imply restriction regarding those types of situations. Also, it should be noted that some applications are only available on mobile phones. In addition, it should be kept in mind that the aim of the present study was to investigate mobile phone withdrawal specifically, and not internet withdrawal in general. The fact that the experimental group had higher scores on several withdrawal measures compared to the control group does also suggest that real restriction did occur. One of the scales used to measure smartphone withdrawal (SWS) was a modified cigarette withdrawal scale. Although the SWS had a high internal consistency it has not been used in any other studies, which may be regarded as a weakness. Further, the fundamental difference between smartphone and nicotine addictive properties is worth mentioning. In addition, a lack of baseline scores for the withdrawal related scores serves as another limitation for the present study. Finally, it should be noted that the difference between the experimental group and the control group in frequency of smartphone usage prior to the start of the restriction period could potentially be a limitation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implications</head><p>In terms of behavioural addictions, the findings complement the body of evidence indicating that excessive smartphone usage embodies elements of addiction. Findings from the present study will aid the expansion of knowledge and understanding surrounding this part of the addiction field, such as the negative effects following restriction. These results actualize the focus on effects related to withdrawal in behaviours vulnerable to excessive use. Further, this study could aid future studies that will examine withdrawal related symptoms following restriction, as both strengths and weaknesses have been highlighted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>The present study revealed that being restricted from ones' smartphone increases withdrawal symptoms and fear of missing out, but do not influence positive and negative affect, specifically. The results indicate that a large part of the negative effects experienced by the participants in the restriction period, are similar to those of other types of behavioural addictions. In addition, the study included the time component in order to examine withdrawal trends, but the results was not significant. Given the result of the present study, it is important in future studies to fully explore the concept of smartphone addiction with focus on withdrawal symptoms. It would also be of interest to compare withdrawal trends across the spectrum of addictions. This is the first study of its kind to the authors' knowledge, regarding complexity of design. Future studies should take strengths and limitations into account when investigating this topic further.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIGURE 1 |</head><label>1</label><figDesc>FIGURE 1 | Progression model illustrating the experimental design.</figDesc><graphic coords="4,126.93,69.02,339.36,76.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>FIGURE 2 |</head><label>2</label><figDesc>FIGURE 2 | Flowchart participant recruitment.</figDesc><graphic coords="4,128.61,189.73,336.00,411.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FIGURE 3 |</head><label>3</label><figDesc>FIGURE 3 | Mean scores on the Smartphone Withdrawal Scale (SWS) for the restricted and control condition. The error bars represent standard error mean for each value. * p &lt; 0.05 for main effect of condition, † p &lt; 0.05 for main effect of time, and p &lt; 0.05 for Time 1 compare to Time 9.</figDesc><graphic coords="6,53.27,245.43,228.00,188.85" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>the reference time. FoMOS, Fear of Missing Out Scale. * p &lt; 0.05, * * p &lt; 0.01, * * * p &lt; 0.005, * * * * p &lt; 0.001.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>FIGURE 4 |</head><label>4</label><figDesc>FIGURE 4 | Mean scores on the Fear of Missing Out (FOMO) Scale for the restricted (n = 67) and control (n = 60) condition. The error bars represent standard error mean for each value. * p &lt; 0.05 for main effect of condition, † p &lt; 0.05 for effect of time, p &lt; 0.05 for Time 2 and Time 4 compared to Time 9, and p &lt; 0.001 for Time 1 compared to Time 9.</figDesc><graphic coords="7,53.27,69.02,228.00,175.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>FIGURE 5 |</head><label>5</label><figDesc>FIGURE 5 | Mean scores on Positive Affect (PA) for the restricted (n = 67) and control (n = 60) condition. The error bars represent standard error mean for each value. † p &lt; 0.001 for main effect of time.</figDesc><graphic coords="7,311.95,69.02,228.00,190.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>FIGURE 6 |</head><label>6</label><figDesc>FIGURE 6 | Mean scores on Negative Affect (NA) for the restricted (n = 67) and control (n = 60) condition. The error bars represent standard error mean for each value.</figDesc><graphic coords="8,53.15,69.02,228.24,170.88" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE 1 |</head><label>1</label><figDesc>Mean (M) and standard deviations (SD) of reported smartphone usage and experienced difficulty during the smartphone restriction period in percentage.</figDesc><table><row><cell>M (SD)</cell><cell>Percentage</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>TABLE 2 |</head><label>2</label><figDesc>The effect of smartphone restriction on withdrawal (SWS) scores by linear mixed models.</figDesc><table><row><cell>Time</cell><cell>Estimate</cell><cell>Standard error</cell><cell>t</cell><cell>F</cell></row><row><cell>1</cell><cell>0.177</cell><cell>0.071</cell><cell>2.48  *</cell><cell></cell></row><row><cell>2</cell><cell>0.133</cell><cell>0.072</cell><cell>1.85</cell><cell></cell></row><row><cell>3</cell><cell>0.026</cell><cell>0.072</cell><cell>0.359</cell><cell></cell></row><row><cell>4</cell><cell>0.053</cell><cell>0.071</cell><cell>0.745</cell><cell></cell></row><row><cell>5</cell><cell>-0.050</cell><cell>0.072</cell><cell>-0.696</cell><cell></cell></row><row><cell>6</cell><cell>-0.011</cell><cell>0.072</cell><cell>-0.150</cell><cell></cell></row><row><cell>7</cell><cell>0.032</cell><cell>0.072</cell><cell>0.449</cell><cell></cell></row><row><cell>8</cell><cell>0.047</cell><cell>0.071</cell><cell>0.657</cell><cell></cell></row><row><cell>9</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Condition</cell><cell></cell><cell></cell><cell></cell><cell>4.90  *</cell></row><row><cell>Time</cell><cell></cell><cell></cell><cell></cell><cell>2.83  *  *</cell></row><row><cell>Condition</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p><p>* time 0.226 Time 9 represents the reference time. SWS, Smartphone Withdrawal Scale.</p>* p &lt; 0.05, * * p &lt; 0.01, * * * p &lt; 0.005, * * * * p &lt; 0.001.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>TABLE 3 |</head><label>3</label><figDesc>The mean and standard deviation for each condition on the SWS, FoMOS, and PANAS at Time 1-9.</figDesc><table><row><cell>Restricted</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>TABLE 4 |</head><label>4</label><figDesc>The effect of smartphone restriction on fear of missing out (FoMOS) scores by linear mixed models.</figDesc><table><row><cell>Time</cell><cell>Estimate</cell><cell>Standard error</cell><cell>t</cell><cell>F</cell></row><row><cell>1</cell><cell>0.239</cell><cell>0.064</cell><cell>3.72  *  *  *  *</cell><cell></cell></row><row><cell>2</cell><cell>0.149</cell><cell>0.065</cell><cell>2.28  *</cell><cell></cell></row><row><cell>3</cell><cell>0.114</cell><cell>0.065</cell><cell>1.75</cell><cell></cell></row><row><cell>4</cell><cell>0.140</cell><cell>0.064</cell><cell>2.18  *</cell><cell></cell></row><row><cell>5</cell><cell>0.072</cell><cell>0.065</cell><cell>1.11</cell><cell></cell></row><row><cell>6</cell><cell>-0.021</cell><cell>0.065</cell><cell>-0.328</cell><cell></cell></row><row><cell>7</cell><cell>0.018</cell><cell>0.065</cell><cell>0.280</cell><cell></cell></row><row><cell>8</cell><cell>-0.026</cell><cell>0.064</cell><cell>-0.407</cell><cell></cell></row><row><cell>9</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Condition</cell><cell></cell><cell></cell><cell></cell><cell>3.99</cell></row></table><note><p>* Time 8.17</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>TABLE 5 |</head><label>5</label><figDesc>The effect of smartphone restriction on positive affect (PANAS) scores by linear mixed models.</figDesc><table><row><cell>Time</cell><cell>Estimate</cell><cell>Standard error</cell><cell>t</cell><cell>F</cell></row><row><cell>1</cell><cell>0.190</cell><cell>0.109</cell><cell>1.75</cell><cell></cell></row><row><cell>2</cell><cell>0.101</cell><cell>0.111</cell><cell>0.914</cell><cell></cell></row><row><cell>3</cell><cell>0.181</cell><cell>0.111</cell><cell>1.64</cell><cell></cell></row><row><cell>4</cell><cell>0.045</cell><cell>0.110</cell><cell>0.405</cell><cell></cell></row><row><cell>5</cell><cell>0.131</cell><cell>0.110</cell><cell>1.19</cell><cell></cell></row><row><cell>6</cell><cell>0.002</cell><cell>0.110</cell><cell>0.015</cell><cell></cell></row><row><cell>7</cell><cell>0.017</cell><cell>0.109</cell><cell>-0.155</cell><cell></cell></row><row><cell>8</cell><cell>-0.017</cell><cell>0.109</cell><cell>-0.155</cell><cell></cell></row><row><cell>9</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Condition</cell><cell></cell><cell></cell><cell></cell><cell>1.89</cell></row><row><cell>Time</cell><cell></cell><cell></cell><cell></cell><cell>3.72  *  *  *  *</cell></row><row><cell>Condition  *  time</cell><cell></cell><cell></cell><cell></cell><cell>0.865</cell></row><row><cell cols="5">Time 9 represents the reference time. PANAS, Positive and Negative Affect</cell></row><row><cell>Schedule.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>* p &lt; 0.05, * * p &lt; 0.01, * * * p &lt; 0.005, * * * * p &lt; 0.001.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>TABLE 6 |</head><label>6</label><figDesc>The effect of smartphone restriction on negative affect (PANAS) scores by linear mixed models.</figDesc><table><row><cell>Time</cell><cell>Estimate</cell><cell>Standard error</cell><cell>t</cell><cell>F</cell></row><row><cell>1</cell><cell>0.054</cell><cell>0.049</cell><cell>1.10</cell><cell></cell></row><row><cell>2</cell><cell>0.069</cell><cell>0.049</cell><cell>1.40</cell><cell></cell></row><row><cell>3</cell><cell>0.042</cell><cell>0.049</cell><cell>0.861</cell><cell></cell></row><row><cell>4</cell><cell>-0.012</cell><cell>0.049</cell><cell>-0.252</cell><cell></cell></row><row><cell>5</cell><cell>-0.030</cell><cell>0.049</cell><cell>-0.614</cell><cell></cell></row><row><cell>6</cell><cell>0.028</cell><cell>0.049</cell><cell>0.570</cell><cell></cell></row><row><cell>7</cell><cell>0.032</cell><cell>0.049</cell><cell>0.652</cell><cell></cell></row><row><cell>8</cell><cell>0.000</cell><cell>0.049</cell><cell>0.003</cell><cell></cell></row><row><cell>9</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Condition</cell><cell></cell><cell></cell><cell></cell><cell>1.73</cell></row><row><cell>Time</cell><cell></cell><cell></cell><cell></cell><cell>1.95  *</cell></row><row><cell>Condition  *  time</cell><cell></cell><cell></cell><cell></cell><cell>0.730</cell></row><row><cell cols="5">Time 9 represents the reference time. PANAS, Positive and Negative Affect</cell></row><row><cell>Schedule.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>* p &lt; 0.05, * * p &lt; 0.01, * * * p &lt; 0.005, * * * * p &lt; 0.001.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Frontiers in Psychology | www.frontiersin.org</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>August 2018 | Volume 9 | Article 1444</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR CONTRIBUTIONS</head><p>TE, SA, and SP conceived and designed the experiment and analyzed the data. TE and SA performed the experiments. TE, SA, SP, CA, and RB wrote the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPLEMENTARY MATERIAL</head><p>The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fpsyg.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2018.01444/full#supplementary-material</head><p>Conflict of Interest Statement: The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Behavioral addiction versus substance addiction: correspondence of psychiatric and psychological views</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Alavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ferdosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jannatifard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eslami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Alaghemandan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Setare</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Prevent. Med</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="290" to="294" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m">Diagnostic and Statistical Manual of Mental Disorders</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Psychiatric Association</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>5th Edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The relationship between addictive use of social media and video games and symptoms of psychiatric disorders: a large-scale crosssectional study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Andreassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Demetrovics</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mazzoni</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/adb0000160</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Addict. Behav</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="252" to="262" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The relationships between behavioral addictions and the five-factor model of personality</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Andreassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Gjertsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Krossbakken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kvam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pallesen</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/JBA.2.2013.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Behav. Addict</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="90" to="99" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Possessions and the extended self</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Belk</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/209154</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Consum. Res</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="139" to="168" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Extended self in a digital world</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Belk</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/671052</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Consum. Res</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="477" to="500" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Can disordered mobile phone use be considered a behavioral addiction? An update on current evidence and a comprehensive model for future research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maurage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lopez-Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40429-015-0054-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Addict. Rep</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="156" to="162" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Are we overpathologizing everyday life? A tenable blueprint for behavioral addiction research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schimmenti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Khazaal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maurage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Heeren</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.4.2015.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Behav. Addict</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="119" to="123" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A critical consideration of social networking sites&apos; addiction potential</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Carbonell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Panova</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/16066359.2016.1197915</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addict. Res. Theory</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="48" to="57" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and nextmorning alertness</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aeschbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Duffy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Czeisler</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1418490112</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="1232" to="1237" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Out of sight is not out of mind: the impact of restricting wireless mobile device use on anxiety levels among low, moderate and high users</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Cheever</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Carrier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chavez</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.05.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="290" to="297" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Development of a brief multicultural version of the test of mobile phone dependence (TMDbrief) questionnaire</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chóliz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Phansalkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Corr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mujjahid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Flores</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2016.00650</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">650</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The extended iSelf: the impact of iPhone separation on cognition, emotion, and physiology</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Clayton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Leshner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Almond</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12109</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Med. Commun</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="119" to="135" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Restricting mobile phone access during homework increases attainment of study goals</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Cutino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Nees</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2050157916664558</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mob. Media Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="63" to="79" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Relationship of smartphone use severity with sleep quality, depression, and anxiety in university students</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Demirci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Akgönül</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akpinar</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.4.2015.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Behav. Addict</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="85" to="92" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Fear of missing out, need for touch, anxiety and depression are related to problematic smartphone use</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Elhai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Dvorak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2016.05.079</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="509" to="516" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Depression and emotion regulation predict objective smartphone use measured over one week</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Elhai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Tiamiyu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Weeks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Picard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.paid.2017.04.051</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pers. Individ. Diff</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="21" to="28" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A self-administered questionnaire to measure cigarette withdrawal symptoms: the Cigarette Withdrawal Scale</title>
+		<author>
+			<persName><forename type="first">J.-F</forename><surname>Etter</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14622200412331328501</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nicot. Tobac. Res</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="47" to="57" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The case for positive emotions in the stress process</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Folkman</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10615800701740457</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anixety Stress Coping</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="3" to="14" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Fear of Missing Out, online social networking and mobile phone addiction: a latent profile approach</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fuster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chamarro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Oberst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aloma</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="23" to="30" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Behavioural addiction: an issue for everybody?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/13665629610116872</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Empl. Councel. Today</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="19" to="25" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Betting your life on it</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.329.7474.1055</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Br. Med. J</title>
+		<imprint>
+			<biblScope unit="volume">329</biblScope>
+			<biblScope unit="page" from="1055" to="1056" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A &apos;components&apos; model of addiction within a biopsychosocial framework</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1465980500114359</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Subst. Use</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="191" to="197" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The evolution of Internet addiction: a global perspective</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Pontes</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.addbeh.2015.11.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addict. Behav</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="193" to="195" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Social networking addiction: an overview of preliminary findings</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Demetrovics</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/B978-0-12-407724-9.00006-9</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Behavioural Addictions: Criteria, Evidence and Treatment</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Rosenberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Feder</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier Science</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="119" to="141" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Maximum likelihood approaches to variance component estimation an to related problems</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Harville</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.1977.10480998</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Statist. Assoc</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="320" to="338" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Sample size estimation for longitudinal designs with attrition: comparing time-related contrasts between groups</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hedeker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Gibbons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Waternaux</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/10769986024001070</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Educ. Behav. Statist</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="70" to="93" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Shape of the relapse curve and longterm abstinence among untreated smokers</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Naud</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1360-0443.2004.00540.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="29" to="38" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Effects of smartphone overuse on hand function, pinch strength, and the median nerve</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>İnal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Çetýntürk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Akgönül</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Savaş</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/mus.24695</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Muscle Nerve</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="183" to="188" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Online social networking and addictiona review of the psychological literature</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph8093528</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Pub. Health</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="3528" to="3552" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Social networking sites and addiction: ten lessons learned</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph14030311</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Pub. Health</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">311</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Cyberslacking and the procrastination superhighway: a Web-based survey of online procrastination, attitudes, and emotion</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lavoie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pychyl</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/089443930101900403</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Sci. Comput. Rev</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="431" to="444" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Lazarus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Folkman</surname></persName>
+		</author>
+		<title level="m">Stress, Appraisal, and Coping</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The relationship between cell phone use, academic performance, anxiety, and satisfaction with life in college students</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lepp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Barkley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Karpinski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.10.049</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="343" to="350" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Self-reported dependence on mobile phones in young adults: a European cross-cultural empirical survey</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Romo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Morvan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Graziani</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.6.2017.020</idno>
+		<ptr target="https://www.businesswire.com/news/home/20120621005339/en/Mobile-Mindset-Study-Reveals" />
+	</analytic>
+	<monogr>
+		<title level="m">Mobile Mindset Study Reveals Americans&apos; Smartphone Attachment is Altering Our Behaviors and Emotions</title>
+		<imprint>
+			<publisher>Lookout</publisher>
+			<date type="published" when="2012">2012. 2017</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="168" to="177" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Excessive Appetites: A Psychological View of the Addictions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Orford</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Wiley</publisher>
+			<pubPlace>Chichester</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd Edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Developing a Facebook withdrawal scale: results of a controlled field experiment</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Parlak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Eckhardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">the European Conference on Information Systems (ECIS)</title>
+		<meeting><address><addrLine>Tel Aviv</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Distraction with a hand-held video game reduces pediatric preoperative anxiety</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schieble</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schoenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Delphin</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1460-9592.2006.01914.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatr. Anesth</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1019" to="1027" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Motivational, emotional, and behavioral correlates of fear of missing out</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Murayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Dehaan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gladwell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.02.014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1841" to="1848" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The media and technology usage and attitudes scale: an empirical investigation</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Whaling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Carrier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Cheever</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rokkum</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.06.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2501" to="2511" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Is Facebook creating &quot;IDisorders&quot;? The link between clinical symptoms of psychiatric disorders and technology use, attitudes and anxiety</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Whaling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Cheever</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2012.11.012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1243" to="1254" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Social networking on smartphones: when mobile phones become addictive</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salehan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Negahban</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.07.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="2632" to="2639" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Are we addicted to our cell phones?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sapacz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rockman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Clark</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2015.12.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="153" to="159" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Alcohol intoxication and withdrawal</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Sellers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kalant</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJM197604012941405</idno>
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">294</biblScope>
+			<biblScope unit="page" from="757" to="762" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Smoking withdrawal symptoms in two weeks of abstinence</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Shiffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Jarvik</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF00634151</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychopharmacology</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="35" to="39" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Tolerance and withdrawal symptoms may not be helpful to enhance understanding of behavioural addiction</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Starcevic</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/add.13381</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="1307" to="1308" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Prevalence of perceived stress, symptoms of depression and sleep disturbances in relation to information and communication technology (ICT) use among young adults -an explorative prospective study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thomée</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eklöf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gustafsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nilsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hagberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2004.12.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1300" to="1321" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Seen and not heard? Text messaging and digital sociality</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cupples</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14649360701789634</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Cult. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="95" to="108" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Exploring smartphone addiction: insights from long-term telemetric behavioral measures</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tossell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Kortum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shepard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rahmati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zhong</surname></persName>
+		</author>
+		<idno type="DOI">10.3991/ijim.v9i2.4300</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IJIM</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="37" to="43" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Research Randomizer (Version 4.0)</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Urbaniak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Plous</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015-10">2015. 18th of October, 2016</date>
+		</imprint>
+	</monogr>
+	<note>Computer software</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Development and Validation of the Problematic Smartphone Use Scale</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Valderrama</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<pubPlace>Alhambra, CA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Alliant International University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Doctoral dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Are smartphone dependence symptoms related to FoMO, craving and withdrawal symptoms during smartphone abstinence? Findings from a natural experiment</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van Den Eijnden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Doornwaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ter Bogt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Behav. Addict</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">56</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Suppl</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Modeling habitual and addictive smartphone behavior: the role of smartphone usage types, emotional intelligence, social stress, self-regulation, age, and gender</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Van Deursen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Bolle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hegner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Kommers</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.12.039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="411" to="420" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Development and validation of brief measures of positive and negative affect: the PANAS scales</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tellegen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.54.6.1063</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Pers. Soc. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="1063" to="1070" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>West</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Galecki</surname></persName>
+		</author>
+		<idno type="DOI">10.1201/b17198</idno>
+		<title level="m">Linear mixed Models, 2nd Edn</title>
+		<meeting><address><addrLine>Ann Arbor, MI</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">A comparison of muscle activity in using touchscreen smartphone among young people with and without chronic neck-shoulder pain</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Szeto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Madeleine</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/00140139.2015.1056237</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ergonomics</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="61" to="72" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Internet addiction: the emergence of a new clinical disorder</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Young</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cpb.1998.1.237</idno>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="237" to="244" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

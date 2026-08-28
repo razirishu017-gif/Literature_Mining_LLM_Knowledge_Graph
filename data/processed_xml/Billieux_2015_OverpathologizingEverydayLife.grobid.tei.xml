@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Are we overpathologizing everyday life? A tenable blueprint for behavioral addiction research</title>
+				<funder>
+					<orgName type="full">Belgian National Foundation for Scientific Research (F.R.S.-FNRS, Belgium</orgName>
+				</funder>
+				<funder ref="#_gp8BFCB">
+					<orgName type="full">Research Fellow</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Belgium National Lottery</orgName>
+				</funder>
+				<funder ref="#_P8V6ZK8">
+					<orgName type="full">European Commission</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Belgian Foundation &quot;Vocatio&quot; (Scientific Vocation)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Akademiai Kiado Zrt.</publisher>
+				<availability status="unknown"><p>Copyright Akademiai Kiado Zrt.</p>
+				</availability>
+				<date type="published" when="2015-05-27">May 27, 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Joël</forename><surname>Billieux</surname></persName>
+							<email>joel.billieux@uclouvain.be</email>
+							<affiliation key="aff0">
+								<orgName type="department">Psychological Sciences Research Institute</orgName>
+								<orgName type="laboratory">Laboratory for Experimental Psychopathology</orgName>
+								<orgName type="institution">Université Catholique de Louvain</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Louvain-la-Neuve</orgName>
+								<address>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Internet and Gambling Disorders Clinic</orgName>
+								<orgName type="department" key="dep2">Department of Adult Psychiatry</orgName>
+								<orgName type="institution">Cliniques Universitaires Saint-Luc</orgName>
+								<address>
+									<settlement>Brussels</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Adriano</forename><surname>Schimmenti</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Faculty of Human and Social Sciences</orgName>
+								<orgName type="institution">UKE -Kore University of Enna</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yasser</forename><surname>Khazaal</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Addictology Division</orgName>
+								<orgName type="department" key="dep2">Mental Health and Psychiatry Department</orgName>
+								<orgName type="institution">Geneva University Hospitals</orgName>
+								<address>
+									<settlement>Geneva</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Pierre</forename><surname>Maurage</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Psychological Sciences Research Institute</orgName>
+								<orgName type="laboratory">Laboratory for Experimental Psychopathology</orgName>
+								<orgName type="institution">Université Catholique de Louvain</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Louvain-la-Neuve</orgName>
+								<address>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Internet and Gambling Disorders Clinic</orgName>
+								<orgName type="department" key="dep2">Department of Adult Psychiatry</orgName>
+								<orgName type="institution">Cliniques Universitaires Saint-Luc</orgName>
+								<address>
+									<settlement>Brussels</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alexandre</forename><surname>Heeren</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Psychological Sciences Research Institute</orgName>
+								<orgName type="laboratory">Laboratory for Experimental Psychopathology</orgName>
+								<orgName type="institution">Université Catholique de Louvain</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Louvain-la-Neuve</orgName>
+								<address>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="laboratory" key="lab1">Laboratory for Experimental Psychopathology</orgName>
+								<orgName type="laboratory" key="lab2">Psychological Sciences Research Institute</orgName>
+								<orgName type="institution">Université Catholique de Louvain</orgName>
+								<address>
+									<addrLine>10, Place du Cardinal Mercier -1348</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="institution">Louvain</orgName>
+								<address>
+									<settlement>La-Neuve</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Are we overpathologizing everyday life? A tenable blueprint for behavioral addiction research</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Behavioral Addictions</title>
+						<title level="j" type="abbrev">JBA</title>
+						<idno type="ISSN">2062-5871</idno>
+						<imprint>
+							<publisher>Akademiai Kiado Zrt.</publisher>
+							<biblScope unit="volume">4</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="119" to="123"/>
+							<date type="published" when="2015-05-27">May 27, 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">0C732EB0E92AF00B829CD65B510833AC</idno>
+					<idno type="DOI">10.1556/2006.4.2015.009</idno>
+					<note type="submission">Received: February 5, 2015; revised manuscript received: February 13, 2015; accepted: February 14, 2015</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>behavioral addictions</term>
+					<term>everyday behaviors</term>
+					<term>mental health</term>
+					<term>psychopathology</term>
+					<term>DSM</term>
+					<term>diagnosis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Behavioral addiction research has been particularly flourishing over the last two decades. However, recent publications have suggested that nearly all daily life activities might lead to a genuine addiction. Methods and aim: In this article, we discuss how the use of atheoretical and confirmatory research approaches may result in the identification of an unlimited list of "new" behavioral addictions. Results: Both methodological and theoretical shortcomings of these studies were discussed. Conclusions: We suggested that studies overpathologizing daily life activities are likely to prompt a dismissive appraisal of behavioral addiction research. Consequently, we proposed several roadmaps for future research in the field, centrally highlighting the need for longer tenable behavioral addiction research that shifts from a mere criteria-based approach toward an approach focusing on the psychological processes involved.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Imagine the following situation: DC is a 26-year-old man, currently PhD student (third year) in a prestigious university and has an outstanding track record, since he already has first-authored seven peer-reviewed articles. Yet, despite this promising profile, DC is constantly overwhelmed with intrusive and obsessive work-related thoughts. He checks his mailbox night and day, waiting for potential editorial responses about submitted papers, and constantly monitors his bibliometric performance. Since the beginning of his third year, he has been spending a huge amount of time browsing scientific professional network (e.g., ResearchGate) to compare his performance with those of his colleagues, and feels very excited each time he got new citations. When he feels sad or anxious, to get quick relief, he compulsorily overchecks his CV, last publication, and bibliometric indicators. He unsuccessfully tried to reduce these habits and to diminish his work charge due to incoming conflicts with both his family and friends (e.g., stop working on the weekend). Over the years, he lost some friends and progressively became aware that spending all his time to increase his academic CV will not help him making new ones. He wants to publish more and more, and this is the main interest in his life. Now it is rather clear that this PhD student meets the criteria for a new subtype of workaholism called "Research Addiction". No matter if he is still living alone with his father at the age of 26. No matter if he was exposed to severe psychological abuse by his mother during his entire childhood and has never been in a relationship. No matter if he is characterized by a narcissistic personality. Yes, it does definitively fit with the criteria for "Research Addiction".</p><p>Without any doubt, we assume that any mental health scholar or practitioner, irrespective of his/her clinical experience, should casually laugh in reaction to the aforementioned definition. Yet this description should not appear as totally unrealistic; there are unfortunately more than enough recent publications that created innovative yet absurd addictive disorders as we just did. The difference is that these papers did not intend to make it as a spoof. Consequently, in this article, we will discuss how the use of atheoretical and confirmatory approaches in the understanding of excessive behaviors might result in the identification of such awkward "new" behavioral addictions. As we will argue, many of these resulting constructs have neither specificity nor external and clinical validity. Just as we did through our fictive new addictive disorder, this could weaken and shatter rather than improve the understanding and the soundness of clinical directions in behavioral addiction research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BEHAVIORAL ADDICTIONS -A PLAGUE OF OUR ERA?</head><p>In a seminal work, Isaac <ref type="bibr" target="#b18">Marks (1990)</ref> introduced the construct of "non-chemical addictions". Since Marks' initial proposal, the addiction research field has endorsed the term "behavioral addiction", leading to the flourishing accretion of publications (see Figure <ref type="figure" target="#fig_0">1</ref>) in key journals in the addictive behaviors research field (e.g., Addiction, Addictive Behaviors, Psychology of Addictive Behaviors). Likewise, since 2012, this enthusiasm has culminated through the enactment of Journal of Behavioral Addictions, a peer-review journal entirely assigned to this concept.</p><p>In 2013, a major step towards the recognition of behavioral addictions as psychiatric diagnoses has been reached when "pathological gambling", renamed "gambling disorder", was aligned alongside other addictive behaviors in the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) of the American Psychiatric Association (APA, 2013). It is here important to mention that decades of empirical research have been conducted before this disorder was officially recognized as an addictive disorder in the DSM-5. Crucially, this change in the classification of gambling disorder was fostered by an accumulation of data supporting similarities with substance addictions. For instance, akin neurobiological alterations were found in gambling and substance disorders (e.g., <ref type="bibr" target="#b13">Grant, Brewer &amp; Potenza, 2006;</ref><ref type="bibr" target="#b22">Potenza, 2008)</ref>. Likewise, analogous impairments in cognitive mechanisms were identified, including high-level of impulsivity, poor top-down executive control, myopia toward delayed outcomes of choices, and over-sensitivity to addiction-related cues (e.g., <ref type="bibr" target="#b7">Clark, 2010;</ref><ref type="bibr" target="#b12">Goudriaan, Oosterlaan, de Beurs &amp; van den Brink, 2006)</ref>. Further ammunitions for skeptics came from the recent inclusion in DSM-5 Section III (i.e., emerging measures and models) of another type of behavioral addiction, namely "Internet Gaming Disorder". This inclusion is disputable and maybe premature, since there are several classification inconsistencies in prior studies as well as poor evidence regarding its etiology and course <ref type="bibr" target="#b21">(Petry &amp; O'Brien, 2013;</ref><ref type="bibr" target="#b25">Schimmenti, Caretti &amp; La Barbera, 2014)</ref>. However, this inclusion has already resulted in several epidemiological studies and research programs testing the fuzzy boundaries of this new addictive disorder <ref type="bibr" target="#b16">(Ko et al., 2014;</ref><ref type="bibr" target="#b23">Rehbein, Kliem, Baier, Mössle &amp; Petry, 2015)</ref>.</p><p>Capitalizing upon the growing evidence that linked gambling disorder (and, to a lesser extent, Internet-related disorders) to substance use disorder, scholars have conceptualized a wide range of daily behaviors as prospective "new" behavioral addictions. Most of the time, this was based on the observation that excessive involvement in those activities is associated with key addiction symptoms such as apparent tolerance and withdrawal, loss of control, craving, cognitive salience, or mood regulation. Examples of dysfunctional conducts that are often described as behavioral addictions include (but are not limited to) hyper-sexuality, compulsive buying, binge eating, excessive work involvement ("workaholism"), or excessive physical exercise <ref type="bibr" target="#b8">(Demetrovics &amp; Griffiths, 2012)</ref>. In fact, according to the criteria commonly used to identify behavioral addictions, it is likely that the excessive involvement in any type of activity can be considered as a psychiatric disorder (see Mihordin, 2012, for a critical discussion and an illustration applied to model railroading). This phenomenon is not anecdotic and is susceptible to result in a severe overpathologization of everyday behaviors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>HOW TO CREATE NEW DIAGNOSES BASED ON OLD RECIPES?</head><p>The principle behind the creation of new behavioral addictions diagnoses is often quite straightforward and mostly follows an atheoretical and confirmatory approach consisting in three steps. First, based on anecdotal observations, the targeted behavior is a priori considered as an addictive behavior. Then, screening tools are developed according to the traditional substance abuse criteria. Eventually, studies are conducted to determine whether risk factors (e.g., biological, psychosocial) known to play a role in the development and maintenance of substance addictions (e.g., impulsivity traits, attentional biases) are associated with the new addictive disorder.</p><p>Although this three-step approach can be highlighted in numerous attempts to identify and characterize new behavioral addictions (for an illustration applied to mobile phone, see <ref type="bibr" target="#b2">Billieux, Philippot et al., 2014)</ref>, we decided to rely here on a prototypical illustration provided by <ref type="bibr">Targhetta, Nalpas and Perne (2013)</ref>, where they proposed that the high commitment in Argentine tango can be viewed as a behavioral addiction.</p><p>The first step of the approach -i.e. the adoption of a confirmatory approach derived from an anecdotal observation -is well identified in the introduction when the authors describe the way they discovered a case of an Argentine tango addict.</p><p>"At the end of a 10-day tango festival, RT [one of the authors of the paper] noticed a dancer presented by the tango teacher as the only dancer who attended the milonga (place for the tango dancing) every night from the opening to the end of the session. RT developed a friendly relationship with this dancer and throughout their discussions RT suspected this dancer could be "addicted" to tango. Therefore, RT proposed to the dancer to conduct a complete interview, aiming to verify this hypothesis […] (p. 179)."</p><p>Based on this initial observation, they decided to carry on an exploratory survey to determine the prevalence and characteristics of Argentine tango addiction. This last point brings us to the second step of the approach, which is the development of a screening instrument based on the hypothesis that excessive involvement in Argentine tango falls under the spectrum of addictive disorders. Here, <ref type="bibr" target="#b28">Targhetta et al. (2013)</ref> have developed a questionnaire based on both DSM-IV criteria for substance dependence and <ref type="bibr" target="#b11">Goodman's (1990)</ref> criteria for addictive disorders. As an illustration, Goodman's criteria E1 (cognitive salience) and E6 (giving up of recreational, occupational or social activities) were translated into the following item: "I organize my vacation in relation to tango dancing".</p><p>Although developing items assessing loss of control, negative outcomes, craving, withdrawal, or mood modification with respect to any kind of behaviors is usually pretty straightforward, it is here worth noting that the challenge is quite harder when it comes to conceptualizing and operationalizing the dimension of tolerance, one of the key features of addiction. Several unfortunate proposals can be identified in the literature. For example, in a highly cited editorial, <ref type="bibr" target="#b5">Block (2008)</ref> proposed that tolerance, in the framework of Internet addiction, "is reflected by the need for better computer equipment, more software, or more hours of use" (p. 306). Another example is when <ref type="bibr" target="#b6">Chóliz (2010)</ref> argued that tolerance, in the framework of mobile phone addiction, results in "a gradual increase in mobile phone use to obtain the same level of satisfaction, as well as the need to substitute operative devices with the new models that appear on the market" (p. 374). Clearly, such proposals unfortunately index the poor operationalization of these constructs that often characterizes the translation of the biomedical substance abuse into excessive behaviors. Facing the same challenge, Targhetta and colleagues ( <ref type="formula">2013</ref>) assessed Argentine tango tolerance with the following item:"At the beginning of tango dancing, I needed to increase my time of dancing (excepted that devoted to learning)". Obviously, the need to increase the time spent in a specific behavior can be driven by various motives, especially at the early stages of involvement, and these motives are mostly unrelated to tolerance symptoms. For example, they might be related instead to the development of new competencies and skills, which can represent a powerful reinforcement and can increase self-efficacy and self-esteem. As an illustration, no one would argue that an adolescent boy who starts playing guitar or piano for hours and hours and finds much pleasure in doing this is developing tolerance towards the behavior and/or "music addiction". Moreover, if such behavior helps the adolescent to feel accepted by his peers, or to impress the girl he likes, no one would say that the excessive behavior is dysfunctional or testifying the development of an addiction.</p><p>The third step consists in establishing the biopsychosocial correlates of the new identified behavioral addiction by relying on available evidence in substance addiction (or more strongly established behavioral addiction like disordered gambling). Unsurprisingly, these studies almost systematically emphasized moderate to strong relationships between the targeted constructs (e.g., impulsivity traits) and the presence of addiction symptoms. Indeed, as the items assessing the targeted construct were based on the substance abuse framework, it is obvious that correlations with established risk factors for substance disorders will be found. In the case of tango addiction, it can easily be hypothesized that items such as those developed by Targhetta and colleagues (2013) will correlate with constructs such as impulsivity (e.g., items assessing loss of control), sensation seeking (e.g., items assessing hedonic aspects of tango), and neuroticism (e.g., items assessing mood regulation or stress reduction).</p><p>Today, the behavioral addiction research field is invaded by an increasing number of studies that creates new psychiatric disorders by endorsing concepts and models that were based on decades of research and were validated for other disorders (mainly substance use, gambling, and Internet gaming disorders). The intrinsic problem of such an atheoretical and confirmatory approach is that it lacks specificity. Thus, based on deductive quantitative studies, new behavioral addictions are described, along with their diagnostic criteria and prevalence in the community. Nonetheless, at the same time, we cruelly lack a theoretically sound model that can specify the unique factors and processes involved, as well as of preliminary qualitative studies that allow understanding the phenomenology and specificity of these problematic behaviors. Moreover, these studies often rely on the assumption that, because the new category they developed only concerns a small part of the whole sample, it does identify disorder. However, statistical deviance alone often fails to identify disorders. Not all disorders are rare (e.g. nicotine addiction, concerning a third of the adult population worldwide), and conversely most rare conditions (e.g., very high intelligence or a virtuosity in piano playing) are not disor-ders <ref type="bibr" target="#b19">(McNally, 2011)</ref>. Eventually, most studies conducted to identify new behavioral addictions fail to consider two factors that are in our view mandatory to define a pathological condition, namely functional impairment (i.e. significant deleterious impact on the daily life) and stability of the dysfunctional behavior. With regard to these particular issues, a recent 5-year longitudinal study <ref type="bibr" target="#b17">(Konkolÿ Thege, Woodin, Hodgins &amp; Williams, 2015)</ref> shed some light on the natural course and impact of several behaviors often considered as behavioral addictions (i.e., exercising, sexual behavior, shopping, online chatting, video gaming, problem eating behaviors). This study showed that the excessive involvement in the targeted behaviors (reflected by self-reported functional impairment) tends to be fairly transient for most individuals. Importantly, such type of data supports the view that excessive behaviors are often context-dependent, and that spontaneous recovery is frequent (for similar findings in the field of gambling disorders, see <ref type="bibr" target="#b27">Slutske, 2006)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SYNDROMES VERSUS PROCESSES -CLINICAL IMPLICATIONS</head><p>The "addiction model" is nowadays frequently applied to excessive behaviors. This phenomenon is largely explained by accumulating evidence suggesting an overlap among social, psychological and neurobiological factors involved in the etiology of substance and behavioral addictions (i.e. the third step of the approach described above). The main consequence of such an approach is that individuals who exhibit behavioral addiction symptoms are usually treated with standardized interventions that have been proven effective for patients presenting substance addiction issues. In fact, such an approach, which is diagnostic-centered, might lead to neglecting the key psychological processes (motivational, affective, cognitive, interpersonal, and social) sustaining the dysfunctional involvement in a specific conduct <ref type="bibr" target="#b10">(Dudley, Kuyken &amp; Padesky, 2011;</ref><ref type="bibr" target="#b15">Kinderman &amp; Tai, 2007)</ref>.</p><p>As an illustration, recent research supports the view that considering the function of multiplayer online games (MOG) is fundamental to understand their excessive use. Accordingly, identifying the various individual motives that drive online gaming is a requirement for the understanding of a dysfunctional usage and the elaboration of tailored psychological interventions <ref type="bibr" target="#b4">(Billieux et al., 2013;</ref><ref type="bibr" target="#b9">Demetrovics et al., 2011;</ref><ref type="bibr" target="#b24">Schimmenti &amp; Caretti, 2010)</ref>. In the same vein, recent studies have evidenced that similar symptoms (e.g., loss of control over gaming or negative outcomes resulting from over-involvement) are involved in distinct online gaming motives. While dysfunctional gaming may result from a desire of game achievement (e.g., owning a powerful avatar or becoming the master of a recognized guild, see <ref type="bibr" target="#b4">Billieux et al., 2013)</ref>, it can also be conceived as an avoidance strategy to face negative life events (e.g., the loss of a job, the confrontation to a trauma) or social anxiety <ref type="bibr" target="#b14">(Kardefelt-Winther, 2014;</ref><ref type="bibr" target="#b26">Schimmenti, Guglielmucci, Barbasio &amp; Granieri, 2012)</ref>. Consequently, each of these subtypes will require distinct and individualized psychological interventions <ref type="bibr">(Billieux, Thorens et al., 2015)</ref>. At a more global level, a decade of both qualitative and empirical research supports that problematic involvement in MOG depends on a constellation of factors that are unique to this activity and not necessarily relevant when considering other types of "Internet addictions" (for instance, cybersex or social networks problematic use; <ref type="bibr" target="#b1">Billieux, Deleuze et al., 2014)</ref>.</p><p>To conclude, we would like to emphasize that the objective of the current paper was neither to minimize the obvious negative outcomes and psychological distress that can result from the dysfunctional involvement in specific activities, nor to refute the notion that these disorders can in some cases be conceptualized (and treated) as addictive behaviors. Nonetheless, our major aim was first to emphasize how everyday life behaviors tend to be too easily overpathologized and considered as behavioral addictions. Consequently, we centrally wanted to point out the multi-faceted nature and heterogeneity of these disorders that is too often neglected in favor of a simplistic symptomatic description.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Behavioral addiction papers published between 1990 and 2014 Note: The research was performed on PUBMED. All articles included mentioned either "behavioral addiction" or "behavioural addiction" as keywords. The highest number of published papers was in 2013 (n = 2563), the year in which the DSM-5 was released. The research was performed in February 2015.</figDesc><graphic coords="2,45.92,425.20,503.83,298.64" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Unauthenticated | Downloaded 07/01/26 02:02 PM UTC</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Funding sources: <rs type="person">Joël Billieux</rs> and <rs type="person">Pierre Maurage</rs> are granted by the <rs type="funder">Belgium National Lottery</rs> for research on gambling disorder. <rs type="person">Joël Billieux</rs> is granted by the <rs type="funder">European Commission</rs> for Research on the <rs type="projectName">Problematic usage of information and communication technology</rs> ("<rs type="projectName">Tech Use Disorders</rs>"; Grant ID: <rs type="grantNumber">FP7-PEOPLE-2013-IEF-627999</rs>). <rs type="person">Pierre Maurage</rs> (Research Associate) and <rs type="person">Alexandre Heeren</rs> (Senior <rs type="funder">Research Fellow</rs>) are funded by the <rs type="funder">Belgian National Foundation for Scientific Research (F.R.S.-FNRS, Belgium</rs>). <rs type="person">Alexandre Heeren</rs> is also funded by the <rs type="funder">Belgian Foundation "Vocatio" (Scientific Vocation)</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_P8V6ZK8">
+					<orgName type="project" subtype="full">Problematic usage of information and communication technology</orgName>
+				</org>
+				<org type="funded-project" xml:id="_gp8BFCB">
+					<idno type="grant-number">FP7-PEOPLE-2013-IEF-627999</idno>
+					<orgName type="project" subtype="full">Tech Use Disorders</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Authors' contribution: The first author had the initial ideas and decided to write this paper. The first author invited the other authors to contribute. All authors substantially contributed to the writing of the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest:</head><p>The authors declare no conflict of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m">Diagnostic and statistical manual of mental disorders</title>
+		<editor>
+			<persName><forename type="first">American</forename><surname>Psychiatric</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Association</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>5th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Internet gaming addiction: The case of massively multiplayer online role playing games</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Deleuze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The textbook of addiction treatment: International perspectives</title>
+		<editor>
+			<persName><forename type="first">N</forename><surname>El-Guebaly</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Galanter</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Carrá</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="1515" to="1525" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Is dysfunctional use of the mobile phone a behavioural addiction? Confronting symptom-based versus process-based approaches</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Philippot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schmid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maurage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>De Mol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Der Linden</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cpp.1910</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Psychology &amp; Psychotherapy</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>Epub ahead of print</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Problematic involvement in online games: A cluster analytic approach</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Thorens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Khazaal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zullino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Achab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Der Linden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="242" to="250" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Why do you play World of Warcraft? An in-depth exploration of self-reported motivations to play online and in-game behaviours in the Unauthenticated | Downloaded 07/01/26 02:02 PM UTC Are we overpathologizing everyday life</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Der Linden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Achab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Khazaal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Paraskevopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zullino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Thorens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="103" to="109" />
+			<date type="published" when="2013">2013. 2015</date>
+		</imprint>
+	</monogr>
+	<note>Computers in Human Behavior</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Issues for DSM-V: Internet addiction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Block</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="306" to="307" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Mobile phone addiction: A point of issue</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chóliz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="373" to="374" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Decision-making during gambling: An integration of cognitive and psychobiological approaches</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Clark</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philosophical Transactions of the Royal Society B: Biological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">365</biblScope>
+			<biblScope unit="page">319</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Behavioral addictions: Past, present and future</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Demetrovics</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1" to="2" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Why do you play? The development of the motives for online gaming questionnaire (MOGQ)</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Demetrovics</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Urbán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nagygyörgy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Farkas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zilahy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mervó</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Reindl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ágoston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kertés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Harmath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavior Research Methods</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="814" to="825" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Disorder specific and trans-diagnostic case conceptualisation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dudley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Kuyken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Padesky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Psychology Review</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="213" to="224" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Addiction: Definition and implications</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goodman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Addiction</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1403" to="1408" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Neurocognitive functions in pathological gambling: A comparison with alcohol dependence, Tourette syndrome and normal controls</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Goudriaan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oosterlaan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>De Beurs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Van Den Brink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="534" to="547" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The neurobiology of substance and behavioral addictions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Brewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Potenza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CNS Spectrum</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="924" to="930" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A conceptual and methodological critique of Internet addiction research: Towards a model of compensatory Internet use</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kardefelt-Winther</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="351" to="354" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Empirically grounded clinical interventions: Clinical implications of a psychological model of mental disorder</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kinderman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavioural and Cognitive Psychotherapy</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Evaluation of the diagnostic criteria of In-ternet gaming disorder in the DSM-5 among young adults in Taiwan</title>
+		<author>
+			<persName><forename type="first">C.-H</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-Y</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P.-W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-F</forename><surname>Yen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Psychiatric Research</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="103" to="110" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Natural course of behavioral addictions: A 5-year longitudinal study</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Konkolÿ Thege</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Woodin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Hodgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Behavioural (non-chemical) addictions</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Marks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Addiction</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="1389" to="1394" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Mcnally</surname></persName>
+		</author>
+		<title level="m">What is mental illness?</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Behavioral Addiction-Quo Vadis?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mihordin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Nervous and Mental Disease</title>
+		<imprint>
+			<biblScope unit="volume">200</biblScope>
+			<biblScope unit="page" from="489" to="491" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Internet gaming disorder and the DSM-5</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Petry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>O'brien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="1186" to="1187" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The neurobiology of pathological gambling and drug addiction: An overview and new findings</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Potenza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philosophical Transactions of the Royal Society B: Biological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">363</biblScope>
+			<biblScope unit="page" from="3181" to="3189" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Prevalence of Internet Gaming Disorder in German adolescents: Diagnostic contribution of the nine DSM-5 criteria in a statewide representative sample</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rehbein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kliem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Baier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mössle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Petry</surname></persName>
+		</author>
+		<idno>doi: 10.111/add.12849</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>Epub ahead of print</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Psychic retreats or psychic pits? Unbearable states of mind and technological addiction</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schimmenti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Caretti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychoanalytic Psychology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="115" to="132" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Internet Gaming Disorder or Internet Addiction? A plea for conceptual clarity</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schimmenti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Caretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>La Barbera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Neuropsychiatry</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="145" to="146" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Attachment disorganization and dissociation in virtual worlds: A study on problematic Internet use among players of online role playing games</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schimmenti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Guglielmucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Barbasio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Granieri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Neuropsychiatry</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="195" to="202" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Natural recovery and treatment-seeking in pathological gambling: Results of two US national surveys</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Slutske</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">163</biblScope>
+			<biblScope unit="page" from="297" to="302" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Argentine tango: Another behavioral addiction</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Targhetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nalpas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Perney</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="179" to="186" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

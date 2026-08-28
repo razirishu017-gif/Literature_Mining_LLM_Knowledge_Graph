@@ -1,0 +1,47 @@
+intervention,relationship,outcome,source_paper,"True_Positive (1=Correct, 0=Incorrect)",Reviewer_Notes
+Sleep Quality,increases,Depression,Woods_2016_Sleepyteens.grobid.txt,1,we expect that greater overall social media use will be associated with poorer sleep quality and higher levels of anxiety and depression.
+Excessive Smartphone Use,correlates_with,Addiction,Eide_2018_SmartphoneRestriction.grobid.txt,1,"In line with this, a growing body of research on excessive smartphone use has shown it to be strongly associated with addictive use of online social media (Andreassen et al., 2013, 2016; Salehan and Negahban, 2013; Fuster et al., 2017; Lopez-Fernandez et al., 2017)."
+Social Media Limitation,improves,Autonomy,Hunt_2018_NoMoreFOMO.grobid.txt,1,"We selected the dimensions of autonomy and self-acceptance, as these dimensions are most pertinent to the potential effects of social media."
+Facebook Abstinence,increases,Life Satisfaction,Tromholt_2016_FacebookExperiment.grobid.txt,1,Facebook users would report lower levels of cognitive well-being (life satisfaction) than Facebook users not using Facebook for 1 week.
+Social Media Abstinence,increases,Mental Well-Being,Brown_2020_FearOfMissingOut.grobid.txt,1,Results revealed that participants ($N=61$) experienced a significant increase in MWB [mental wellbeing]... following SM abstinence
+Social Media Use,reduces,Self-Esteem,Woods_2016_Sleepyteens.grobid.txt,1,"With an apparent link between social media use and poor sleep – which in turn is known to contribute to anxiety, depression and low self-esteem"
+Controlled Internet Use Intervention,reduces,Internet Addiction,Kuss_2014_InternetAddiction.grobid.txt,1,"Based on the available evidence, recent research furthermore suggests that the best approach to treating Internet addiction is an individual approach, and a combination of psychopharmacotherapy with psychotherapy appears most efficacious[16]."
+Social Media Limitation,reduces,Depression,Hunt_2018_NoMoreFOMO.grobid.txt,1,"Even subjects with lower levels of depression saw a statistically significant improvement as the result of cutting down on social
+media, although a mean decline of one point in BDI score is
+probably not clinically meaningful."
+Media Multitasking,reduces,Task-Switching Ability,Firth_2019_OnlineBrain.grobid.txt,1,Cognitive testing of the two groups produced the then-surprising finding that those involved in heavy media multi-tasking performed worse in task-switching tests than their counterparts
+Emotional Investment In Social Media,increases,Depression,Woods_2016_Sleepyteens.grobid.txt,1,"In addition, a novel contribution of this study will be to examine adolescents’ nighttime-specific social media use and emotional investment in social media, both of which are expected to be related to poorer sleep quality and increased anxiety and depression levels."
+Smartphone Addiction,correlates_with,Life Satisfaction,Panova_2018_IsSmartphoneAddiction.grobid.txt,1,"correlate the 'disorder' with various intrapsychic measures, such as... life satisfaction"
+Sleep Quality,increases,Self-Esteem,Woods_2016_Sleepyteens.grobid.txt,1,"poorer sleep quality was associated with lower self-esteem,"
+Social Media Abstinence,reduces,Fomo,Brown_2020_FearOfMissingOut.grobid.txt,1,"SM abstinence period significantly increased perceived MWB and SC, and significantly decreased perceived FoMO"
+Cognitive Behavioral Therapy,reduces,Cognitive Impairment,Kuss_2014_InternetAddiction.grobid.txt,1,"cognitive measures indicated
+that CBT is efficacious in reducing cognitive impairment
+associated with Internet addiction[86]"
+Social Network Site Usage,increases,Distraction,Kuss_2011_OnlineSocialNetworking.grobid.txt,1,"According to a more recent study assessing the relationships between Facebook usage and
+academic performance in a sample of 219 university students [73], Facebook users had lower Grade
+Point Averages and spent less time studying than students who did not use this SNS. Of the 26% of
+students reporting an impact of their usage on their lives, three-quarters (74%) claimed that it had a
+negative impact, namely procrastination, distraction, and poor time-management. A potential
+explanation for this may be that students who used the Internet to study may have been distracted by
+simultaneous engagement in SNSs, implying that this form of multitasking is detrimental to academic
+achievement [73]."
+Internet Addiction,increases,Interpersonal Impairment,Kuss_2014_InternetAddiction.grobid.txt,1,"Additionally, patients
+with Internet addiction differed from patients with
+pathological gambling in that the former experienced
+higher mental and behavioural disengagement, which
+was found to be associated with interpersonal impairments[
+26]."
+Escitalopram,reduces,Internet Use,Kuss_2014_InternetAddiction.grobid.txt,1,The treatment phase resulted in a significant decrease in Internet use
+Nighttime Social Media Use,increases,Anxiety,Woods_2016_Sleepyteens.grobid.txt,1,nighttime social media use and poor sleep was explained by anxiety and depression in individuals with elevated anxiety.
+Social Media Addiction,correlates_with,Ocd,Andreassen_2016_AddictiveSocialMedia.grobid.txt,1,OCD was positively related to addictive use of both video games (?=.071) and social media (?=.147)
+Digital Detox,reduces,Duration Of Use,Radtke_2022_DigitalDetox.grobid.txt,1,It was demonstrated that the duration of smartphone or SNS/IM use decreased during the intervention period
+Emotional Investment In Social Media,increases,Depression,Woods_2016_Sleepyteens.grobid.txt,1,higher depression levels were associated with increased... emotional investment in social media
+R/T Group Counselling,reduces,Internet Addiction,Kuss_2014_InternetAddiction.grobid.txt,1,Treatment programme reduced addiction level and increased self-esteem
+Emotional Investment In Social Media,reduces,Self-Esteem,Woods_2016_Sleepyteens.grobid.txt,1,greater emotional investment in social media was associated with lower self-esteem
+Online Searching,increases,Illusion Of Self-Knowledge,Firth_2019_OnlineBrain.grobid.txt,1,"online searching increases our sense of how much we know, even though the illusion of self-knowledge is only perceived for the domains in which the Internet can 'fill in the gaps' for us"
+Smartphone Information Retrieval,increases,Illusion Of Self-Knowledge,Firth_2019_OnlineBrain.grobid.txt,1,More recent studies have shown that illusions of self-knowledge similarly persist when using smartphones to retrieve online information
+Social Media Use,reduces,Sleep Quality,Levenson_2016_SocialMediaAndSleep.grobid.txt,1,participants with higher SM use volume and frequency had significantly greater odds of having sleep disturbance
+Moderate Screen Time,increases,Anxiety,Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt,1,"Moderate use was also linked to a greater risk of depression (RR 1.61, CI 1.03, 2.52) and anxiety diagnoses (RR 1.52, CI 1.06, 2.18) among 14 to 17-year-olds"
+Social Media Use,correlates_with,Anxiety,Woods_2016_Sleepyteens.grobid.txt,1,higher anxiety levels were also associated with greater overall social media use
+Social Media Limitation,improves,Social Connectedness,Brown_2020_FearOfMissingOut.grobid.txt,1,Results revealed that participants ($N=61$) experienced a significant increase in MWB [mental wellbeing] and SC [social connectedness]... following SM abstinence
+Medication Only,increases,Anxiety,Kuss_2014_InternetAddiction.grobid.txt,1,Anxiety increased in medicated group

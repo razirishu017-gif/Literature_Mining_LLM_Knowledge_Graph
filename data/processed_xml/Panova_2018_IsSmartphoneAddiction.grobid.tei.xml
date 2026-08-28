@@ -1,0 +1,2113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Is smartphone addiction really an addiction?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Akademiai Kiado Zrt.</publisher>
+				<availability status="unknown"><p>Copyright Akademiai Kiado Zrt.</p>
+				</availability>
+				<date type="published" when="2018-06-12">June 12, 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Tayana</forename><surname>Panova</surname></persName>
+							<email>tayana.panova@gmail.com</email>
+						</author>
+						<author>
+							<persName><forename type="first">Xavier</forename><surname>Carbonell</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">The Department of Psychology</orgName>
+								<orgName type="institution">Ramon Llull University</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">The Department of Psychology</orgName>
+								<orgName type="institution">Ramon Llull University</orgName>
+								<address>
+									<addrLine>Passeig de Sant Gervasi</addrLine>
+									<postCode>47, 08022</postCode>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Is smartphone addiction really an addiction?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Behavioral Addictions</title>
+						<title level="j" type="abbrev">J Behav Addict</title>
+						<idno type="ISSN">2062-5871</idno>
+						<idno type="eISSN">2063-5303</idno>
+						<imprint>
+							<publisher>Akademiai Kiado Zrt.</publisher>
+							<biblScope unit="volume">7</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="252" to="259"/>
+							<date type="published" when="2018-06-12">June 12, 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F543EC0356E5FC8A2AAAF71A25493C90</idno>
+					<idno type="DOI">10.1556/2006.7.2018.49</idno>
+					<note type="submission">Received: July 13, 2017; revised manuscript received: February 9, 2018; second revised manuscript received: May 12, 2018; accepted: May 13, 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>smartphones</term>
+					<term>addiction</term>
+					<term>technology</term>
+					<term>mobile phones</term>
+					<term>Internet</term>
+					<term>problematic use</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Aims: In light of the rise in research on technological addictions and smartphone addiction in particular, the aim of this paper was to review the relevant literature on the topic of smartphone addiction and determine whether this disorder exists or if it does not adequately satisfy the criteria for addiction. Methods: We reviewed quantitative and qualitative studies on smartphone addiction and analyzed their methods and conclusions to make a determination on the suitability of the diagnosis "addiction" to excessive and problematic smartphone use. Results: Although the majority of research in the field declares that smartphones are addictive or takes the existence of smartphone addiction as granted, we did not find sufficient support from the addiction perspective to confirm the existence of smartphone addiction at this time. The behaviors observed in the research could be better labeled as problematic or maladaptive smartphone use and their consequences do not meet the severity levels of those caused by addiction. Discussion and conclusions: Addiction is a disorder with severe effects on physical and psychological health. A behavior may have a similar presentation as addiction in terms of excessive use, impulse control problems, and negative consequences, but that does not mean that it should be considered an addiction. We propose moving away from the addiction framework when studying technological behaviors and using other terms such as "problematic use" to describe them. We recommend that problematic technology use is to be studied in its sociocultural context with an increased focus on its compensatory functions, motivations, and gratifications.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>The recent development of the multifunctional smartphone and its subsequent global popularity has changed the communication and information landscape; remolded the interests, values, and desires of many users; and triggered concerns around the world about overuse and addiction. In the past few years, there has been a surge in literature on behavioral addictions to studying <ref type="bibr" target="#b1">(Atroszko, Andreassen, Griffiths, &amp; Pallesen, 2015)</ref>, tanning <ref type="bibr" target="#b52">(Nolan &amp; Feldman, 2009)</ref>, cosmetic surgery <ref type="bibr" target="#b65">(Suissa, 2008)</ref>, Argentinean tango <ref type="bibr" target="#b67">(Targhetta, Nalpas, &amp; Perney, 2013)</ref>, Harry Potter <ref type="bibr" target="#b58">(Rudski, Segal, &amp; Kallen, 2009)</ref>, and various other potential topics. This increase in interest is particularly notable in the discussion on mobile phone addiction <ref type="bibr" target="#b4">(Bianchi &amp; Phillips, 2005;</ref><ref type="bibr" target="#b5">Billieux, Maurage, Lopez-Fernandez, Kuss, &amp; Griffiths, 2015;</ref><ref type="bibr">Chóliz, 2010;</ref><ref type="bibr" target="#b54">Pedrero, Rodríguez, &amp; Ruiz, 2012)</ref>, which has more recently evolved into smartphone addiction.</p><p>Mobile phones and smartphones are both mobile, personal devices that indicate social identity and status, but the main differentiating feature between them is that a smartphone has permanent access to the Internet and consequently all of the Internet's appealing and problematic content. Smartphones provide numerous gratifications, such as sociability, entertainment, information finding, time management, coping strategies, and social identity maintenance <ref type="bibr" target="#b3">(Bian &amp; Leung, 2015;</ref><ref type="bibr">Kuss, Kanjo, et al., 2018;</ref><ref type="bibr" target="#b40">Kwon et al., 2013;</ref><ref type="bibr" target="#b45">Lin et al., 2014;</ref><ref type="bibr" target="#b63">Skierkowski &amp; Wood, 2012)</ref>. The smartphone has become an essential part of daily life and research has shown that certain people become so attached to their device that they experience separation anxiety when it is not with them <ref type="bibr" target="#b12">(Cheever, Rosen, Carrier, &amp; Chavez, 2014;</ref><ref type="bibr" target="#b33">King et al., 2013)</ref>. The device can even be comforting in times of stress, offering a "security blanket" effect whereby the initial negative response to a stressor is lowered in a similar way that occurs with children and a comfort object like a blanket <ref type="bibr" target="#b53">(Panova &amp; Lleras, 2016)</ref>.</p><p>The smartphone's popularity and users' deep connection with it has therefore awoken concerns about its addiction potential. The American Psychiatric Association <ref type="bibr">(APA, 2013)</ref> first categorized a behaviorgamblingas a nonsubstance-related addictive disorder and recommends further research on Internet gaming disorder. However, at this time, no mention has been made of smartphone addiction in either the DSM-5 or in the ICD-11's draft. Nevertheless, research on smartphone and mobile phone addiction has notably increased in recent years <ref type="bibr" target="#b0">(Aljomaa, Mohammad, Albursan, Bakhiet, &amp; Abduljabbar, 2016;</ref><ref type="bibr" target="#b3">Bian &amp; Leung, 2015;</ref><ref type="bibr" target="#b13">Chiu, 2014;</ref><ref type="bibr" target="#b15">Darcin et al., 2016;</ref><ref type="bibr" target="#b16">Demirci, Akgönül, &amp; Akpinar, 2015;</ref><ref type="bibr" target="#b20">Fu Yuan, Chiu, &amp; Huang, 2012;</ref><ref type="bibr" target="#b24">Haug et al., 2015;</ref><ref type="bibr" target="#b25">Hawi &amp; Samaha, 2016;</ref><ref type="bibr" target="#b36">Körmendi, Brutóczki, Végh, &amp; Székely, 2016;</ref><ref type="bibr" target="#b42">Leung, 2007;</ref><ref type="bibr" target="#b45">Lin et al., 2014;</ref><ref type="bibr" target="#b46">Lopez-Fernandez, 2015;</ref><ref type="bibr" target="#b57">Roberts, Pullig, &amp; Manolis, 2015;</ref><ref type="bibr" target="#b59">Salehan &amp; Negahban, 2013;</ref><ref type="bibr" target="#b70">Van Deursen, Bolle, Hegner, &amp; Kommers, 2015)</ref> and there seems to be a rising tendency to label popular technological behaviors as addictive.</p><p>Even though the disorder is not recognized in psychiatry manuals, screening studies estimate that smartphone addiction ranges from anywhere between just above 0% and 35%, with one study reporting that 48% of undergraduate university students were smartphone addicted <ref type="bibr" target="#b0">(Aljomaa et al., 2016)</ref>, and the most frequent range being between 10% and 20% (see <ref type="bibr">Billieux, Maurage, et al., 2015 and</ref><ref type="bibr" target="#b9">Carbonell et al., 2012</ref> for a review). However, most of these studies use self-report measures, thereby relying on the accuracy of users' perceptions about their own use, and each study uses different methods and questionnaires to determine the existence of addiction.</p><p>Before pathologizing technology-related behaviors, it is important to analyze them in context. For example, there has been a considerable amount of research conducted on smartphone addiction in countries, such as South Korea, China, and Taiwan <ref type="bibr" target="#b10">(Carbonell, Guardiola, Fuster, Gil, &amp; Panova, 2016;</ref><ref type="bibr" target="#b60">Sánchez-Carbonell, Guardiola, Bellés, &amp; Beranuy, 2005)</ref>. It has been suggested that this may be because the cultural norms in some Asian societies make it difficult for people to find the time and opportunity to freely socialize with one another and be themselves, which in turn contributes to the high use of personal mobile devices <ref type="bibr" target="#b27">(Ito, 2005)</ref>. Other culturally oriented studies have highlighted how the values of certain cultures are reflected and expressed in mobile phone behavior <ref type="bibr" target="#b26">(Horst &amp; Miller, 2005;</ref><ref type="bibr" target="#b41">Leonardi, Leonardi, &amp; Hudson, 2006)</ref>. These studies suggest that the sociocultural context has an important influence on why and how certain smartphone behaviors occur and therefore should be considered when studying problematic use. Professional, social, and academic contexts should also be considered when studying problematic smartphone behavior, because much of smartphone use is dependent on professional, social, or academic demands.</p><p>Most of the smartphone addiction studies at the moment focus on discovering what percentage of the sample are smartphone-addicted and then looking for correlations between the addiction scores with various other behaviors and characteristics. However, at this time, there is not a strict set of standardized criteria applied to the diagnosis of smartphone addicts. Moreover, a critical analysis of whether smartphone use can even be considered addictive has not been conducted. With all the above in mind, this paper is going to consider whether smartphones can be considered addictive by analyzing the literature on the subject through the lens of addiction criteria and determining whether the concern about "smartphone addiction" is merited.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SMARTPHONE ADDICTION ANALYZED THROUGH ADDICTION CRITERIA</head><p>In order for substance and behavioral addictions to be comparable, they must share the core symptoms of the disorder and have many similarities in phenomenology and adverse consequences. According to <ref type="bibr" target="#b21">Goodman (1990)</ref>, addiction defines a condition whereby a problematic behavior is characterized by (a) recurrent failure to control the behavior and (b) continuation of the behavior despite significant negative consequences. The well-accepted symptoms of addiction proposed by Griffiths are mood modification, tolerance, salience, withdrawal symptoms, conflict, and relapse <ref type="bibr" target="#b22">(Griffiths, 1995</ref><ref type="bibr" target="#b23">(Griffiths, , 2005))</ref>. However, the descriptions of these criteria can cover a broad-spectrum of severity, which can be more or less significant. Recently, <ref type="bibr" target="#b62">Saunders et al. (2017)</ref> stated that in the ICD-11 draft, the primary features of substance dependence are (a) a strong internal drive to use the substance, coupled with an impaired ability to control that use; (b) increasing priority given to using the substance than doing other activities; and (c) persistence of use despite harm and adverse consequences. On the topic of behavioral addiction specifically, <ref type="bibr" target="#b31">Kardefelt-Winther et al. (2017)</ref> proposed a definition of two components: (a) significant functional impairment or distress as a direct consequence of the behavior and (b) persistence over time. We can therefore summarize the theoretical definition of addiction from its various sources by two key points: the (severe) harm, impairment, or negative consequences and the psychological (craving, salience, and loss of control) and physical dependence (tolerance and withdrawal) that leads one to carry on the behavior. At this point, we will review the critical criteria for addiction and determine how well smartphone addiction satisfies them.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Significant functional impairment</head><p>One of the essential features of a behavioral addiction should be the functional impairment in clinical settings <ref type="bibr" target="#b31">(Kardefelt-Winther et al., 2017)</ref>. If the harm is not significantly severe, the disorder would be better classified as problematic or maladaptive use or else considered as a side effect/manifestation of another primary disorder. The screening studies have indicated negative consequences associated with high smartphone use, such as interpersonal and academic problems <ref type="bibr" target="#b3">(Bian &amp; Leung, 2015;</ref><ref type="bibr" target="#b15">Darcin et al., 2016;</ref><ref type="bibr" target="#b25">Hawi &amp; Samaha, 2016;</ref><ref type="bibr" target="#b51">Murdock, 2013)</ref>. However, although face-to-face relationships may suffer with the prioritization of smartphone use over in vivo interaction and academic achievement may be negatively impacted by high use, these problems can also be associated with a variety of other reasons and stressors that are not considered to fall in the category of addiction.</p><p>A subsection of functional impairment related to addiction is also financial problems. With drug addictions, gambling addiction and others, one of the primary problems is the significant loss of money associated with maintaining the addiction. <ref type="bibr">When Billieux, Van der Linden, and Rochat (2008)</ref> built the Problematic Mobile Phone Use Questionnaire (PMPU-Q), one of the dimensions they looked at was the financial problems associated with mobile phone use. However, this dimension has been excluded in the Problematic Mobile Phone Use Questionnaire -Revised <ref type="bibr" target="#b38">(Kuss, Harkin, Kanjo, &amp; Billieux, 2018)</ref>, because the new use policies and rates of telecommunications companies make it insignificant, once again highlighting the importance of a technology-related behavior's sociocultural context.</p><p>It is also important to consider that although many studies have addressed the issue of smartphone addiction, it has not been reported in any of those reviewed that the researchers or the ethics committees in the universities felt the ethical obligation to provide a psychological treatment to the "phone addicts" identified in the research. This is itself an important indicator of the level of functional impairment exhibited by "addictive" smartphone use. It is necessary to distinguish serious psychopathology, such as addiction from passion, high engagement, lack of adaptive, self-control, or coping strategies, so that we do not undermine the severity of mental disorders <ref type="bibr" target="#b11">(Carbonell &amp; Panova, 2017;</ref><ref type="bibr" target="#b55">Petry &amp; O'Brien, 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Severe physical consequences</head><p>One main characteristic of an addiction is the impairment of physical health. Smokers have little psychological impairment, but they suffer from demonstrable physical harm. This does not seem to be the case for smartphone use. There are no more physical consequences than mild tendinitis (Fernandez-Guerrero, 2014) and anecdotal reports of suffering from lightheadedness or blurred vision, pain in the wrists, or at the back of the neck and urban incidents from people talking/texting while walking.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tolerance</head><p>Tolerance, in the framework of mobile phone addiction, has been described as "a gradual increase in mobile phone use to obtain the same level of satisfaction, as well as the need to substitute operative devices with the new models that appear on the market" (Chóliz, 2010). In the screening studies, the factor analysis put many items about loss of control in a tolerance factor, i.e, "I try cutting my smartphone usage time, but I fail" (Kim, Lee, Lee, Nam, &amp; Chung, 2014) and "I use smartphone for a longer period of time and spend more money than I intended" <ref type="bibr" target="#b45">(Lin et al., 2014)</ref>. The number of hours employed on the phone is used as criteria without considering that smartphone use is a normalized part of everyday life in many societies today even when engaged with very frequently <ref type="bibr" target="#b31">(Kardefelt-Winther et al., 2017)</ref>; therefore, increase in use should not be a valid criterion.</p><p>Other items used in questionnaires are vague, such as "I need to spend an increasing amount of time on smartphone to achieve same satisfaction as before" <ref type="bibr" target="#b45">(Lin et al., 2014)</ref>. Although tolerance may be a true aspect of smartphone use, variables such as satisfaction and enjoyment are rarely operationalized and standardized, thereby leaving them open to interpretation by each participant. In addition, without exploring the motivations behind increased use of the smartphone, its consequences cannot be categorized as indicative of a disorder. For some, higher use of the device could mean being more active at work or increasing one's social circle. As <ref type="bibr" target="#b6">Billieux et al. (2014)</ref> concluded, inferring tolerance based on the increasing use of the mobile phone is highly tentative. Similarly, <ref type="bibr" target="#b34">King, Herd, and Delfabbro (2018)</ref> conclude that the use of time spent with a technology as a measure of tolerance may be simple and objective but can be criticized, because it does not capture the essence of what people are actually doing with the technology and why. This same reasoning can be applied to smartphonerelated tolerance measures, such as "time on the phone" or "number of messages." Increased time on the smartphone and higher messaging behavior can be indicators of problematic use or they may indicate a promotion at work, new friends, etc. Therefore, a deeper analysis of motivations and gratifications associated with the behaviors is necessary.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Salience</head><p>In the Smartphone Addiction Scale <ref type="bibr" target="#b40">(Kwon et al., 2013)</ref>, the item "Having my smartphone in my mind even when I am not using it" relates to the concept of salience. In Griffiths' (2005) component model of addiction, salience is when the activity in question becomes the most important activity to the user and dominates their thinking. Although many smartphone users may agree that they think about the smartphone frequently, even when they are not using it, so much of a user's social, professional, and personal life is mediated through the smartphone that we would argue it is reasonable for the device to be at the forefront of one's thoughts and that this does not constitute an indicator of addiction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Withdrawal</head><p>It is not mandatory that a substance produces withdrawal to be considered a substance-use disorder (i.e., hallucinogens) and, besides that, withdrawal is not one of the criteria for gambling disorder <ref type="bibr">(APA, 2013, p. 585</ref>). In the case of Internet gaming disorder, Kaptsis, King, Delfabbro, and Gradisar (2016) also concluded after a systematic review that available evidence on the existence of true addictive withdrawal in Internet gaming is very underdeveloped. But scholars in smartphone addiction found that some items could be grouped in a withdrawal factor when questionnaires were administered to their samples. Examples of items loading the withdrawal factor are: "I feel restless and irritable when the smartphone is unavailable" <ref type="bibr" target="#b45">(Lin et al., 2014)</ref>, "It would be painful if I am not allowed to use smartphone" <ref type="bibr" target="#b32">(Kim et al., 2014)</ref>, and "Bringing my smartphone to the toilet even when I am in a hurry to get there" <ref type="bibr" target="#b40">(Kwon et al., 2013)</ref>. However, this reported discomfort of being far from the smartphone must be viewed in context.</p><p>For most users, after a period of time and adaptation, the multifaceted functionality of the smartphone becomes an essential part of everyday life, therefore not having it on hand leads to the need for restructuring and adapting one's regular activities, something which is always initially uncomfortable and/or stressful. In addition, being far from the device can be a stressful state for many because of the awareness that their contacts, both personal and professional, will feel displeasure and/or offense at being ignored <ref type="bibr" target="#b68">(Thomée, Dellve, Harenstam, &amp; Hagberg, 2010)</ref>. Therefore, the reaction of stress at having this important tool missing is not abnormal. It is also important to note that smartphones are often expensive and contain sensitive personal information; therefore, a primary stressor during their absence may be a fear that the device can fall into the wrong hands, get damaged, or get stolen, which are normal reactions when viewed in context.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Loss of control</head><p>Loss of control is, besides craving and salience, a component of psychological dependence <ref type="bibr" target="#b61">(Sánchez-Carbonell, Beranuy, Castellana, Chamarro, &amp; Oberst, 2008)</ref>. In the case of smartphone use, the loss of control exhibited is still far beneath the threshold of severity that would merit clinical attention. Again, the screening test literature supports the evidence of psychological dependence and loss of control, but the level of its severity is not often reported or standardized. For example, items of loss of control are "I try to spend less time on smartphone, but the efforts were in vain" (see <ref type="bibr" target="#b45">Lin et al., 2014)</ref>; "I fail to control the impulse to use smartphone" (see <ref type="bibr" target="#b45">Lin et al., 2014)</ref>; and "I find myself engaged on the mobile phone for longer periods of time than intended" (see <ref type="bibr" target="#b4">Bianchi &amp; Phillips, 2005)</ref>. However, even when a university student rates this type of item high on a Likert scale, the answer does not necessarily have clinical relevance <ref type="bibr" target="#b7">(Billieux, Schimmenti, Khazaal, Maurage, &amp; Heeren, 2015;</ref><ref type="bibr" target="#b30">Kardefelt-Winther, 2015)</ref>. If there is not a perceived severe consequence associated with failure to limit smartphone use and if there are perceived benefits of the activities on the smartphone, then this type of "loss of control" is not indicative of a "disorder."</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stability of the dysfunctional behavior</head><p>There are no longitudinal studies to confirm stability and durability of the disorder. In behavioral and substance addictions, spontaneous remission <ref type="bibr" target="#b64">(Stall &amp; Biernacki, 1986;</ref><ref type="bibr" target="#b71">Walters, 2000)</ref> may occur not because the disorder occurs and then spontaneously disappears but because there is no real disorder in the first place. However, there is insufficient research on the topic to make conclusions in this regard.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Relapse</head><p>This condition is very distressing and harmful in substance addicts <ref type="bibr" target="#b49">(Marlatt &amp; Gordon, 1985)</ref>, but there is no information about relapse with the presumed smartphone addiction. However, this may be because there are no clinical samples and longitudinal studies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>"Better explained by"</head><p>Finally, one important criterion is that the disorder is not better explained by another condition. For example, the criteria B for gambling disorder is "The gambling behavior is not better explained by a manic episode" (APA, 2013). As <ref type="bibr" target="#b6">Billieux et al. (2014)</ref> have commented in their case study, "Thalia" could fit the criteria for mobile phone addiction but her condition could be better understood through a psychological process-based clinical formulation where the irrational beliefs about the self, the dependent relationship-maintenance style, the insecure attachment style, the low impulse control in emotional contexts, the repetitive negative thoughts, and the reassurance behaviors could better explain her mobile phone overuse. According to <ref type="bibr" target="#b6">Billieux et al. (2014)</ref>, this overuse should not be directly targeted by a psychological intervention but will improve as the emotional distress improves. The negative effects associated with smartphone use may therefore be better explained by other conditions in many other instances.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ISSUES WITH THE SCREENING STUDIES</head><p>At present, we want to point out that the symptoms of smartphone addiction have been identified in screening and correlational studies with healthy people (many of the university students) instead of clinical samples (not identified). It is worth stating that <ref type="bibr" target="#b7">Billieux, Schimmenti, et al. (2015)</ref>; <ref type="bibr" target="#b11">Carbonell and Panova (2017);</ref><ref type="bibr" target="#b31">and Kardefelt-Winther et al. (2017)</ref> have already criticized in detail how these studies give undue support to behavioral addictions and the same analysis could be applied to the smartphone. In the studies, the "addictive" use of the phone is first described according to a variety of psychological symptoms like excessive use, high economic cost, academic, work and family relationship impairment, tolerance, salience, withdrawal, and so on using a variety of diverse scales and questionnaires. After the often arbitrary definition of addictive smartphone use is outlined, screening tools identify the "addicts," estimate their prevalence and correlate the "disorder" with various intrapsychic measures, such as shyness <ref type="bibr" target="#b3">(Bian &amp; Leung, 2015)</ref>, stress <ref type="bibr" target="#b13">(Chiu, 2014;</ref><ref type="bibr" target="#b70">Van Deursen et al., 2015)</ref>, depression <ref type="bibr" target="#b16">(Demirci et al., 2015;</ref><ref type="bibr" target="#b17">Elhai, Levine, Dvorak, &amp; Hall, 2016)</ref>, self-esteem <ref type="bibr" target="#b20">(Fu Yuan et al., 2012)</ref>, life satisfaction <ref type="bibr" target="#b25">(Hawi &amp; Samaha, 2016)</ref>, loneliness <ref type="bibr" target="#b3">(Bian &amp; Leung, 2015)</ref>, and self-perceived sleep disturbances <ref type="bibr" target="#b16">(Demirci et al., 2015)</ref> among others.</p><p>Regarding these studies, let us address some primary concerns: (a) there is a lack of longitudinal studies to confirm the disorder's stability; (b) the screening instruments used are not valid for diagnosis; (c) there is a large probability of false positives; (d) there are many arbitrarily designed items like "eleven or more calls or SMS messages per day (high use)" (i.e, <ref type="bibr" target="#b69">Thomée, Härenstam, &amp; Hagberg, 2011)</ref>; (e) exploratory studies rely on self-report data, which are collected using convenience samples; and (f) there is a lack of consistency in methodology, definitions, measurement, cut-off scores, and diagnostic criteria across studies. These concerns highlight the general lack of construct validity surrounding smartphone addiction research and the consequent lack of strength of its conclusions.</p><p>To study clinical-level impairment such as addiction, it is recommended to assess the functional impairment in clinical settings, supported by a health professional, rather than through surveys implemented in a healthy population <ref type="bibr" target="#b31">(Kardefelt-Winther et al., 2017)</ref>. There is one case study reported in the academic literature on mobile phone addiction, in which the authors conclude that " : : : social network addiction is a better concept to describe Anette's case than the cell phone addiction" <ref type="bibr" target="#b36">(Körmendi et al., 2016)</ref>. There is one other mobile phone addiction case study <ref type="bibr" target="#b6">(Billieux et al., 2014)</ref>, but its presentation has only a pedagogical purpose.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SMARTPHONE AS AN OBJECT</head><p>The smartphone is a physical object used to access the Internet and its content. In comparison with substance addiction, this object would be like the glass in alcohol addiction or the needle in heroin addiction. "Needle addiction" <ref type="bibr" target="#b44">(Levine, 1974)</ref> and "bottle addiction" are visual words and are accepted in colloquial language, but the addiction is to the substance not to the vessel or to the route of administration. There is a tendency in research on this subject to address smartphones as a single addictive entity, measuring the level of "smartphone use" or "smartphone addiction," although the smartphone itself is causing the problems in the way that a drug does. The physical, mobile aspect of the smartphone facilitates problematic Internet behaviors (i.e., obsessive social media use, porn, and gambling addiction) by making them accessible anytime and anywhere and therefore increasing how often they are used, but the problem is not the smartphone device itself. The problems arising from smartphone use are dependent on what activities the user engages with while on the smartphone, the motivations for engaging with these activities, and the gratifications received from them which then reinforce continued use <ref type="bibr" target="#b28">(Jeong, Kim, Yum, &amp; Hwang, 2016;</ref><ref type="bibr" target="#b47">Lopez-Fernandez et al., 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONFUSING SMARTPHONE ADDICTION WITH OTHER ADDICTIONS</head><p>In the discussion on technological addictions, it is important to distinguish between addictions to the Internet and addictions on the Internet <ref type="bibr" target="#b35">(Király et al., 2014)</ref>. When a pathological gambler uses the Internet to play poker, it is more accurately an addiction on the Internet, secondary to his first problem (gambling). Another prevalent activity on the smartphone is game playing <ref type="bibr" target="#b2">(Balakrishnan &amp; Griffiths, 2018;</ref><ref type="bibr" target="#b48">Lopez-Fernandez, Männikkö, Kääriäinen, Griffiths, &amp; Kuss, 2018)</ref>. <ref type="bibr" target="#b2">Balakrishnan and Griffiths (2018)</ref> found frequent claims of "addictiveness" of smartphone games by game players; however, in this scenario, the potential addiction would be to the gaming behavior specifically, not to the device as a whole. Thus, to use the smartphone for gambling or to engage in other addictive behaviors should not be confused with a smartphone addiction <ref type="bibr" target="#b47">(Lopez-Fernandez et al., 2017)</ref>. Related to the above is the issue of the relationship between "smartphone addiction" and "Internet addiction." The smartphone is used to access the Internet; therefore, if there is an addictive problem, it is with the Internet and not with the smartphone. This same reasoning has been used to distinguish between an Internet addiction and addictions to specific activities carried out on the network, with one of the most prevalent behaviors online being social networking <ref type="bibr" target="#b28">(Jeong et al., 2016;</ref><ref type="bibr" target="#b50">Muñoz-Miralles et al., 2013;</ref><ref type="bibr" target="#b56">Pontes, Szabo, &amp; Griffiths, 2015;</ref><ref type="bibr" target="#b59">Salehan &amp; Negahban, 2013)</ref>. Since many people access their social networks on their device, it can lead to the impression of device addiction; however, the rationale of distinguishing the platform from the behavior needs to be observed. We argue that common behaviors conducted on the smartphone, such as specific Internet uses, social networking, and gaming, should be cautiously explored in the context of their own motivations, gratifications, and sociocultural context and not as components of a smartphone addiction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TERMINOLOGY</head><p>As we previously stated in the study of <ref type="bibr" target="#b11">Carbonell and Panova (2017)</ref>, the problems associated with the conceptualization and acceptance of technological and behavioral addictions may be, to a great degree, an issue related to the terminology. We would argue that it is unlikely that the majority of scientists in this field believe smartphone "addiction" is comparable to heroin or tobacco addiction in terms of the severity and/or associated health problems; however, there is no other accepted term for a behavior that manifests similar problems with a lack of self-control, attachment, high use, and problematic consequences. Therefore, for lack of a better word, "addiction" has become an accepted umbrella term. However, this is a problem because extending the term "addiction" to conditions better described as problematic or maladaptive use can undermine the integrity of this term and the severity of disorders that truly merit it. It can also misguide the research and treatment efforts for the current problem, because they are being designed within an addiction framework when in actuality a different approach may be more suitable and effective. Therefore, the authors propose seeking a different term to associate with this problem in the academic literature, such as problematic use. In fact, recent papers on the topic use alternative terms such as "problematic smartphone use" <ref type="bibr">(Kuss, Kanjo, et al., 2018)</ref> or "self-reported dependence on mobile phones" <ref type="bibr" target="#b47">(Lopez-Fernandez et al., 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>The aim of this study was to critically consider whether smartphone addiction exists. After reviewing the literature on smartphone addiction, we have concluded that the weakness of screening and correlational studies, the scarcity of the case and longitudinal studies, the vague definitions of the criteria for smartphone addiction, and the lack of severe psychological or physical consequences associated with it do not support the existence of smartphone addiction at this time and we therefore suggest moving away from an addiction framework when addressing and studying this issue.</p><p>Although certain parallels exist between classically defined addiction and high use of the smartphone, the levels of severity for smartphone use are much lower, an important fact since severity of impairment is one of the primary criteria for distinguishing between addiction and problematic behavior. A person who bites their nails compulsively also exhibits self-harm, loss of control, physical consequences, relapse, and craving, but we do not label it a nail-biting addiction. It is important not to diagnose excessive, maladaptive, or problematic behavior as an addictive in order to avoid generating false epidemics of misidentified pseudopatients <ref type="bibr" target="#b19">(Frances &amp; Widiger, 2012</ref>) and pathologizing common behaviors <ref type="bibr" target="#b31">(Kardefelt-Winther et al., 2017)</ref>.</p><p>It is important to note that research shows that smartphone use is associated with various problems. In correlational studies, overuse of the smartphone is associated with various mental health concerns, such as anxiety, depression, stress, and low self-esteem (for a review, see <ref type="bibr" target="#b17">Elhai et al., 2016;</ref><ref type="bibr" target="#b53">Panova &amp; Lleras, 2016)</ref>. However, the existence of negative consequences is not the same as the existence of addiction. We would like to shift the perspective on this issue away from an addiction framework and view smartphone use in a context that considers the compensatory functions of the device and how it interacts with the user's needs, desires, and primary disorders.</p><p>One reason that smartphone use may be pathologized is because the role the device plays in people's lives is not yet fully understood. <ref type="bibr" target="#b66">Surrat (1999)</ref> has explained how the limited understanding of any new information and communication technologies is often taken advantage of by the media who capitalize on the suspicion that accompanies new technological developments and publish sensationalist news stories about addictions and psychopathology, which contribute to the social construction of a pathology. More recently, <ref type="bibr" target="#b19">Frances and Widiger (2012)</ref> have detailed a background of overdiagnosis in mental health. In our opinion, to consider intensive smartphone use a disorder in the same category as cocaine or alcohol addiction undermines the severity of addiction.</p><p>In summary, the smartphone's defining featuresportable, quick, convenient, and privatemay facilitate the access to certain problematic behaviors and the corresponding rewards received from them that make the behaviors more frequent, but addiction is more than a matter of impulse-control and excessive behavior. Therefore, although the media may turn to terminology such as "addiction" because it seems like the closest metaphor for the technology-related behavioral problems, we are observing in society today, we believe it is the responsibility of academics to use more accurate language and diagnostic terms and at the current moment the research does not support the claim that addiction is a correct term for the problems associated with smartphone use. The use of smartphones and other devices are associated with various negative consequences and research on them should continue; however, in order to address and treat their associated problems accurately and effectively, they should not be misdiagnosed as consequences of addiction.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Journal of Behavioral Addictions 7(2), pp. 252-259 (2018) | 253 Is smartphone addiction really an addiction? Unauthenticated | Downloaded 07/01/26 02:01 PM UTC</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Panova and CarbonellUnauthenticated | Downloaded 07/01/26 02:01 PM UTC</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Journal of Behavioral Addictions 7(2), pp. 252-259 (2018) | 255 Is smartphone addiction really an addiction? Unauthenticated | Downloaded 07/01/26 02:01 PM UTC</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>Funding sources: No financial support was received for this study.</p><p>Authors' contribution: Both the authors TP and XC developed the study aims; analyzed the papers referenced within; and actively participated in developing the critiques, theories, and conclusions expressed within the paper.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest:</head><p>The authors declare no conflict of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Panova and Carbonell</head><p>Unauthenticated | Downloaded 07/01/26 02:01 PM UTC</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Smartphone addiction among university students in the light of some variables</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Aljomaa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Mohammad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Albursan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Bakhiet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Abduljabbar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2016.03.041</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Diagnostic and statistical manual of mental disorders (DSM-5)</title>
+		<meeting><address><addrLine>Arlington, VA</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Psychiatric Association</publisher>
+			<date type="published" when="2013">2016. 2013</date>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="155" to="164" />
+		</imprint>
+	</monogr>
+	<note>American Psychiatric Association</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Study addiction -A new area of psychological study: Conceptualization, assessment, and preliminary empirical findings</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Atroszko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Andreassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pallesen</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.4.2015.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="75" to="84" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Perceived addictiveness of smartphone games: A content analysis of game reviews by players</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Balakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11469-018-9897-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Mental Health and Addiction</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Linking loneliness, shyness, smartphone addiction symptoms, and patterns of smartphone use to social capital</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leung</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0894439314528779</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science Computer Review</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="61" to="79" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Psychological predictors of problem mobile phone use</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bianchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Phillips</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cpb.2005.8.39</idno>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="39" to="51" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Can disordered mobile phone use be considered a behavioral addiction? An update on current evidence and a comprehensive model for future research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maurage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lopez-Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40429-015-0054-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Current Addiction Reports</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="156" to="162" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Is dysfunctional use of the mobile phone a behavioural addiction? Confronting symptom-based versus process-based approaches</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Philippot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schmid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maurage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>De Mol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Der Linden</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cpp.191010.1002/cpp.1910</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Psychology and Psychotherapy</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="460" to="468" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Are we overpathologizing everyday life? A tenable blueprint for behavioral addiction research</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schimmenti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Khazaal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maurage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Heeren</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.4.2015.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="119" to="123" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The role of impulsivity in actual and problematic use of the mobile phone</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Der Linden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rochat</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/acp.1429</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Cognitive Psychology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1195" to="1210" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Problematic Internet and cell phone use in Spanish teenagers and young students</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Carbonell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chamarro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Oberst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cladellas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Talarn</surname></persName>
+		</author>
+		<idno type="DOI">10.6018/analesps.28.3.156061</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Anales de Psicología</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="789" to="796" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Trends in scientific literature on addiction to the Internet, video games, and cell phones from 2006 to 2010</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Carbonell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Guardiola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fuster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Panova</surname></persName>
+		</author>
+		<idno type="DOI">10.4103/2008-7802.179511</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Preventive Medicine</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">63</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A critical consideration of social networking sites&apos; addiction potential</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Carbonell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Panova</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/16066359.2016.1197915</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction Research &amp; Theory</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="48" to="57" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Out of sight is not out of mind: The impact of restricting wireless mobile device use on anxiety levels among low, moderate and high users</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cheever</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Carrier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chavez</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.05.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="290" to="297" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The relationship between life stress and smartphone addiction on Taiwanese university student: A mediation model of learning self-efficacy and social self-efficacy</title>
+		<author>
+			<persName><forename type="first">S.-I</forename><surname>Chiu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.01.024</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="49" to="57" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Mobile phone addiction: A point of issue</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ch Óliz</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1360-0443.2009.02854.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="252" to="259" />
+			<date type="published" when="2010">2010. 2018. 26 02:01 PM UTC</date>
+		</imprint>
+	</monogr>
+	<note>Addiction. 257 Is smartphone addiction really an addiction? Unauthenticated | Downloaded 07/01/</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Smartphone addiction and its relationship with social anxiety and loneliness</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Darcin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Noyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nurmedov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Yılmaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dilbaz</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0144929X.2016.1158319</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Behaviour and Information Technology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="520" to="525" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Relationship of smartphone use severity with sleep quality, depression, and anxiety in university students</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Demirci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Akgönül</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akpinar</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.4.2015.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="85" to="92" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Fear of missing out, need for touch, anxiety and depression are related to problematic smartphone use</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Elhai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Levine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Dvorak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2016.05.079</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="509" to="516" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">WhatsAppitis</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Fernandez-Guerrero</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0140-6736(14)60519-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">383</biblScope>
+			<biblScope unit="page">1040</biblScope>
+			<date type="published" when="2014">2014. 9922</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Psychiatric diagnosis: Lessons from the DSM-IV past and cautions for the DSM-5 future</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Frances</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Widiger</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-clinpsy-032511-143102</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="109" to="130" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A model of the relationship between psychological characteristics, mobile phone addiction and use of mobile phones by Taiwanese university female students</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fu Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-I</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D.-H</forename><surname>Huang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2012.06.020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2152" to="2159" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Addiction: Definition and implications</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Goodman</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1360-0443.1990.tb01620.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Addictions</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1403" to="1408" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Technological addictions</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Psychology Forum</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="14" to="19" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A &quot;components&quot; model of addiction within a biopsychosocial framework</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/14659890500114359</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Substance Use</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="191" to="197" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Smartphone use and smartphone addiction among young people in Switzerland</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Haug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Filler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kowatsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Schaub</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.4.2015.037</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="299" to="307" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">To excel or not to excel: Strong evidence on the adverse effect of smartphone addiction on academic performance</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Hawi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Samaha</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.compedu.2016.03.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers &amp; Education</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="81" to="89" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">From kinship to link-up: Cell phones and social networking in Jamaica</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Horst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Miller</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/432650</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Current Anthropology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="755" to="778" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Mobile phones, Japanese youth, and the re-placement of social contact</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ito</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mobile communications: Re-negotiation of the social sphere</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Ling</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Pedersen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="131" to="148" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">What type of content are smartphone users addicted to?: SNS vs. games</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Jeong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Yum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hwang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2015.07.035</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="10" to="17" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Withdrawal symptoms in Internet gaming disorder: A systematic review</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kaptsis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Delfabbro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gradisar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cpr.2015.11.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Psychology Review</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="58" to="66" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Commentary on: Are we overpathologizing everyday life? A tenable blueprint for behavioral addiction research. Problems with atheorical and confirmatory reserach approaches in the study of behavioral addictions</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kardefelt-Winther</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.4.2015.019</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="126" to="129" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">How can we conceptualize behavioural addiction without pathologizing common behaviours?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kardefelt-Winther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Heeren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schimmenti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Van Rooij</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Maurage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Edman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blaszczynski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Khazaal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/add.13763</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1709" to="1715" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Development of Korean Smartphone Addiction Proneness Scale for youth</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Nam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chung</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0097920</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">97920</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Nomophobia: Dependency on virtual environments or social phobia?</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Valença</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Baczynski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Nardi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2012.07.025</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="140" to="144" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Motivational components of tolerance in Internet gaming disorder</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C E</forename><surname>Herd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Delfabbro</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2017.09.023</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="133" to="141" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Problematic Internet use and problematic online gaming are not the same: Findings from a large nationally representative adolescent sample</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Király</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Urbán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Farkas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kökönyei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Elekes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tamás</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Demetrovics</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2014.0475</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="749" to="754" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Smartphone use can be addictive? A case report</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Körmendi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Brutóczki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Végh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Székely</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.5.2016.033</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="548" to="552" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1556/2006.5.2016.033</idno>
+		<idno>5. 2016.033</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Problematic smartphone use: Investigating contemporary experiences using a convergent design</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Harkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kanjo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph15010142</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Environmental Research and Public Health</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">142</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Problematic mobile phone use and addiction across generations: The roles of psychopathological symptoms and smartphone use</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kanjo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Crook-Rumsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kibowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sumich</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s41347-017-0041-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Technology in Behavioral Science</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Development and validation of a Smartphone Addiction Scale (SAS)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Won</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Gu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0056936</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">56936</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Culture, organization, and contradiction in the social construction of technology: Adoption and use of the cell phone across three cultures</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Leonardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Leonardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hudson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The cell phone reader: Essays in social transformation</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Kavoori</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Arceneaux</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Peter Lang</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="205" to="225" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Leisure boredom, sensation seeking, selfesteem, addiction symptoms and patterns of mobile phone use</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Leung</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m">Mediated Interpersonal Communication</title>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Konijn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Utz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Tanis</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Barnes</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<biblScope unit="page" from="359" to="381" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Needle Freaks&quot;: Compulsive self-injection drug users</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Levine</surname></persName>
+		</author>
+		<idno type="DOI">10.1176/ajp.131.3.297</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The American Journal of Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="297" to="300" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Development and validation of the Smartphone Addiction Inventory (SPAI)</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Tseng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B J</forename><surname>Kuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chen</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0098312</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">98312</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Short version of the Smartphone Addiction Scale adapted to Spanish and French: Towards a cross-cultural research in problematic mobile phone use</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lopez-Fernandez</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.addbeh.2015.11.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addictive Behaviors</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="275" to="280" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Self-reported dependence on mobile phones in young adults: A European cross-cultural empirical survey</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lopez-Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Romo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Morvan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Graziani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rousseau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Rumpf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bischof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Gässler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schimmenti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Passanisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Männikkö</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kääriänen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Demetrovics</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Király</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chóliz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Zacarés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Serra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Pontes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lelonek-Kuleta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chwaszcz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zullino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rochat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Achab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.6.2017.020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="168" to="177" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Mobile gaming and problematic smartphone use: A comparative study between Belgium and Finland</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lopez-Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Männikkö</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kääriäinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.6.2017.080</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="88" to="99" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Marlatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Gordon</surname></persName>
+		</author>
+		<title level="m">Relapse prevention</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guilford</publisher>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Acceso y uso de nuevas tecnologías entre los jóvenes de educación secundaria, implicaciones en salud. Estudio JOITIC [Access and use of new information and telecommunication technologies among teenagers at high school, health implications. JOITIC Study</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Muñoz-Miralles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ortega-González</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Batalla-Martínez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>López-Morón</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Manresa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Torán-Monserrat</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.aprim.2013.06.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Atencion Primaria</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="77" to="88" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Texting while stressed: Implications for students&apos; burnout, sleep, and well-being</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Murdock</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/ppm0000012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology of Popular Media Culture</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="207" to="221" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Ultraviolet tanning addiction</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Nolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Feldman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.det.2008.11.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Dermatologic Clinics</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="109" to="112" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Avoidance or boredom: Negative mental health outcomes associated with use of information and communication technologies depend on users&apos; motivations</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Panova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lleras</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2015.12.062</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="249" to="258" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Adicción o abuso del teléfono móvil. Revisión de la literatura [Mobile phone abuse or addiction. A review of the literature</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Pedrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Rodríguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ruiz</surname></persName>
+		</author>
+		<idno type="DOI">10.20882/adicciones.107</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Adicciones</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="139" to="152" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Internet gaming disorder and the DSM-5</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Petry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>O'brien</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/add.12162</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1186" to="1187" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The impact of Internet-based specific activities on the perceptions of Internet addiction, quality of life, and excessive usage: A cross-sectional study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Pontes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Szabo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.abrep.2015.03.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addictive Behaviors Reports</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="19" to="25" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">I need my smartphone: A hierarchical model of personality and cellphone addiction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pullig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Manolis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.paid.2015.01.049</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="13" to="19" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Harry Potter and the end of the road: Parallels with addiction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rudski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Segal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kallen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/16066350802334595</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction Research &amp; Theory</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="260" to="277" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Social networking on smartphones: When mobile phones become addictive</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Salehan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Negahban</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.07.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2632" to="2639" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">European Union scientific production on alcohol and drug misuse (1976-2000)</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Sánchez-Carbonell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Guardiola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bellés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beranuy</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1360-0443.2005.01135.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addiction</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1166" to="1174" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">La adiccion a Internet y al móvil: ¿Moda o trastorno? [Internet and mobile phone addiction: A passing fad or a disorder?</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Sánchez-Carbonell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beranuy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Castellana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chamarro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Oberst</surname></persName>
+		</author>
+		<idno type="DOI">10.20882/adicciones.279</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Adicciones</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="160" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Gaming disorder: Its delineation as an important condition for diagnosis, management, and prevention</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Saunders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Long</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fauth-Bühler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Rumpf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bowden-Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rahimi-Movaghar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bahar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Achab</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Potenza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Petry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Spritzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ambekar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Derevensky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Pontes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Higuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mihara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Assangangkornchai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sharma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Kashef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Farrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Scafato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Carragher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Poznyak</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.6.2017.039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="271" to="279" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">To text or not to text? The importance of text messaging among college-aged youth</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Skierkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Wood</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2011.11.023</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="744" to="756" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Spontaneous remission from the problematic use of substances: An inductive model derived from a comparative analysis of the alcohol, opiate, tobacco, and food/obesity literatures</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Biernacki</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/10826088609063434</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of the Addictions</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Addiction to cosmetic surgery: Representations and medicalization of the body</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Suissa</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11469-008-9164-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Mental Health and Addiction</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="619" to="630" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Surrat</surname></persName>
+		</author>
+		<title level="m">Netaholics?: The creation of a pathology</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>Nova Science</publisher>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Argentine tango: Another behavioral addiction?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Targhetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nalpas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Perney</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/JBA.2.2013.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="179" to="186" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Perceived connections between information and communication technology use and mental symptoms among young adults -A qualitative study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thomée</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dellve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Harenstam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hagberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2458-10-66</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">66</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Mobile phone use and stress, sleep disturbances, and symptoms of depression among young adults -A prospective cohort study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thomée</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Härenstam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hagberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2458-11-66</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">66</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Modeling habitual and addictive smartphone behavior. The role of smartphone usage types, emotional intelligence, social stress, self-regulation, age, and gender</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J A M</forename><surname>Van Deursen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Bolle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hegner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A M</forename><surname>Kommers</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.12.039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="411" to="420" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Spontaneous remission from alcohol, tobacco, and other drug abuse: Seeking quantitative answers to qualitative questions</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Walters</surname></persName>
+		</author>
+		<idno type="DOI">10.1081/ADA-100100255</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The American Journal of Drug and Alcohol Abuse</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="252" to="259" />
+			<date type="published" when="2000">2000. 2018. 07/01/26 02:01 PM UTC</date>
+		</imprint>
+	</monogr>
+	<note>Journal of Behavioral Addictions. Is smartphone addiction really an addiction? Unauthenticated</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

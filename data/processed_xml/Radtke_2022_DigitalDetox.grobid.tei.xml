@@ -1,0 +1,2084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Digital detox: An effective solution in the smartphone era? A systematic literature review</title>
+				<funder ref="#_uTTW2bm">
+					<orgName type="full">Swiss National Science Foundation</orgName>
+					<orgName type="abbreviated">SNSF</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2021-07-15">2021-07-15</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Theda</forename><surname>Radtke</surname></persName>
+							<email>radtke@uni-wuppertal.de</email>
+							<idno type="ORCID">0000-0003-1228-1834</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Health Psychology and Applied Diagnostic</orgName>
+								<orgName type="department" key="dep2">Institute of Psychology</orgName>
+								<orgName type="institution">University of Wuppertal</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">Health Psychology and Applied Diagnostic</orgName>
+								<orgName type="department" key="dep2">Institute of Psychology</orgName>
+								<orgName type="institution">University of Wuppertal</orgName>
+								<address>
+									<addrLine>Gaußstraße 20</addrLine>
+									<postCode>42119</postCode>
+									<settlement>Wuppertal</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Theresa</forename><surname>Apel</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Health, Work &amp; Organizational Psychology</orgName>
+								<orgName type="department" key="dep2">School of Psychology and Psychotherapy</orgName>
+								<orgName type="institution">Witten/Herdecke University</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Konstantin</forename><surname>Schenkel</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Applied Social and Health Psychology</orgName>
+								<orgName type="institution">University of Zurich</orgName>
+								<address>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jan</forename><surname>Keller</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Division Health Psychology</orgName>
+								<orgName type="department" key="dep2">Department of Education and Psychology</orgName>
+								<orgName type="institution">Freie Universität Berlin</orgName>
+								<address>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eike</forename><surname>Von Lindern</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Dialog N -Research and Communication for People</orgName>
+								<orgName type="department" key="dep2">Environment and Nature</orgName>
+								<address>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Digital detox: An effective solution in the smartphone era? A systematic literature review</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Mobile Media &amp; Communication</title>
+						<title level="j" type="abbrev">Mobile Media &amp; Communication</title>
+						<idno type="ISSN">2050-1579</idno>
+						<idno type="eISSN">2050-1587</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">10</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="190" to="215"/>
+							<date type="published" when="2021-07-15" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">0F63926F4C49450E19913C15014F9D0C</idno>
+					<idno type="DOI">10.1177/20501579211028647</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Mobile</term>
+					<term>disconnect</term>
+					<term>micro break</term>
+					<term>timeout</term>
+					<term>abstinence</term>
+					<term>unplug</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Smartphone use, e.g., on social network sites or instant messaging, can impair wellbeing and is related to clinical phenomena, like depression. Digital detox interventions have been suggested as a solution to reduce negative impacts from smartphone use on outcomes like well-being or social relationships. Digital detox is defined as timeouts from using electronic devices (e.g., smartphones), either completely or for specific subsets of smartphone use. However, until now, it has been unclear whether digital detox interventions are effective at promoting a healthy way of life in the digital era. This systematic literature review aimed to answer the question of whether digital detox interventions are effective at improving outcomes like health and well-being, social relationships, self-control or performance.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Nowadays, smartphones are ubiquitous. On average, we spend nearly three hours per day on our smartphones <ref type="bibr" target="#b37">(Markowetz, 2015)</ref>. Unlike other electronic devices, smartphones enable the use of such functions almost anytime and anywhere, with numerous consequences for our daily lives.</p><p>Smartphones come with benefits, such as constant contact with friends, attractive leisure activities, Internet access to an endless supply of information, and positive consequences for knowledge sharing <ref type="bibr" target="#b35">(Lepp et al., 2013;</ref><ref type="bibr" target="#b46">Omar et al., 2016)</ref>. Conversely, smartphone use can impair well-being, a trend that has become an issue of great concern to both the public and researchers. For instance, research has shown that smartphone use affects health and well-being, performance, and social interactions. Regarding healthrelated problems, studies have found that smartphone use is related to higher depression rates and anxiety <ref type="bibr" target="#b34">(Lepp et al., 2014)</ref>, sleep difficulties <ref type="bibr" target="#b63">(Thomée, 2018)</ref>, and also musculoskeletal problems in case of smartphone overuse <ref type="bibr" target="#b27">(İNal et al., 2015)</ref>. Furthermore, a predominance of empirical results indicates a negative association between smartphone use and academic performance <ref type="bibr" target="#b2">(Amez &amp; Baert, 2020)</ref>, which corresponds with results showing that smartphone overuse is related to lower work productivity and engagement (e.g., <ref type="bibr">Duke &amp; Montag, 2017)</ref>. Moreover, smartphone use also increases negative affect or stress and reduces the quality of interactions when individuals focus on their own smartphones during social interactions (so-called phubbing; <ref type="bibr" target="#b39">McDaniel &amp; Radesky, 2018;</ref><ref type="bibr" target="#b45">Nuñez et al., 2020)</ref>.</p><p>Even though some of the negative associations between digital technology use and health and well-being are small <ref type="bibr" target="#b16">(Dienlin &amp; Johannes, 2020;</ref><ref type="bibr">Orben &amp; Przybylski, 2019a;</ref><ref type="bibr">Orben &amp; Przybylski, 2019b)</ref>, smartphone users are concerned about their own smartphone use. For example, research has demonstrated that smartphone users blog about the need to spend time away from their smartphones <ref type="bibr" target="#b28">(Jorge, 2019;</ref><ref type="bibr" target="#b33">Kuntsman &amp; Miyake, 2016)</ref>, or even search for strategies to better manage their online time, e.g., with the help of applications such as iOS Screen Time, Android Digital Well-Being, Moment, Forest, Quality Time, Detox, Space, or OffTime. Furthermore, groups have organized an annual National (and Global) Day of Unplugging, which have been held for several years now with many followers (National Day of <ref type="bibr">Unplugging, n.d.)</ref>. Thus, it is not surprising that mass media present unplugging from smartphones as a trendy way to reduce the negative impact from smartphone use on health-related outcomes. Self-help tips are available on many platforms, such as social media, websites, and books with titles such as 24/6: The power of unplugging one day a week <ref type="bibr" target="#b50">(Price, 2018;</ref><ref type="bibr" target="#b54">Shlain, 2019;</ref><ref type="bibr" target="#b60">Syvertsen, 2017)</ref>. The concerns expressed in these texts reflect general concerns about smartphone use, and advice is given on how to rebalance one's life by restricting smartphone use <ref type="bibr" target="#b60">(Syvertsen, 2017)</ref>. In a similar vein, holiday tour operators promote so-called digital detox camps or centers and "mobile free" holidays. All aim to help people escape from everyday digital connectivity. Particularly in Asia such holidays and events are booming <ref type="bibr" target="#b11">(Collier, 2009;</ref><ref type="bibr" target="#b14">Dickinson et al., 2016;</ref><ref type="bibr" target="#b60">Syvertsen, 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Digital detox definition</head><p>Both the public and scientific community use different terms when it comes to non-use of electronical devices. Usually, terms like abstinence, break, disconnection, detox, timeout, or unplugging are used (e.g., <ref type="bibr" target="#b4">Brown &amp; Kuss, 2020;</ref><ref type="bibr" target="#b21">Fioravanti et al., 2019)</ref>. The important aspect that these terms have in common is they describe a period during which use of digital devices, e.g., tablets, is restricted. In our review, we used the umbrella term digital detox to encapsulate all these different terms. The term was introduced for the first time around 2012 <ref type="bibr" target="#b20">(Felix &amp; Dean, 2012)</ref>. Digital detox is defined as a "period of time during which a person refrains from using their electronic devices, such as smartphones, regarded as an opportunity to reduce stress or focus on social interaction in the physical world" <ref type="bibr">(Oxford Dictionaries, 2019)</ref>. This definition conceives digital detox as temporary abstinence from electronical devices to cleanse oneself, similar to fasting. Thus, digital detox differs from detoxification therapies to abstain permanently from illicit drugs or alcohol <ref type="bibr" target="#b61">(Syvertsen &amp; Enli, 2019)</ref>. Furthermore, this definition also highlights a difference when compared with abstinence from TV viewing, which was advertised in the 1990s and early 2000s. Digital detox emphasizes an effort to raise awareness of excessive use and boost self-optimization to reduce stress, whereas abandoning TV was promoted due to negative evaluations of the medium and its content <ref type="bibr" target="#b61">(Syvertsen &amp; Enli, 2019)</ref>. However, the definition of digital detox <ref type="bibr">(Oxford Dictionaries, 2019)</ref> remains unclear in relation to the following aspects. No conclusion can be drawn as to whether (a) a person can take a timeout from only one device (e.g., the smartphone) or whether, according to the definition, all devices may no longer be used, (b) it entails merely voluntarily or intentionally staying away from digital devices or includes involuntary, forced abstinence, (c) abstaining from any particular content is relevant or digital detox refers to a complete timeout from electronic devices only. Therefore, we suggest extending the definition.</p><p>In line with the hierarchical computer-mediated communication taxonomy <ref type="bibr" target="#b40">(Meier &amp; Reinecke, 2020)</ref>, digital detox should not refer exclusively to a period of time during which a person refrains from using (a) electronic devices, but instead should be extended to a time period during which individuals do not engage in using (b) certain types of applications (e.g., social media), (c) branded media (e.g., unplugging from Facebook), (d) special features (e.g., disconnect from chats), (e) interactions (e.g., active usage of WhatsApp), and/or (f) messages (e.g., voice messages). As indicated by <ref type="bibr" target="#b40">Meier and Reinecke (2020)</ref>, the distinction between the six levels is more than relevant to capture all different aspects of electronic media use in a systematic approach. Based on this taxonomy, we secondly suggest that digital detox includes breaks from just one device as well as from all digital devices. In line with the taxonomy of behavior change techniques (BCTs; BCT 7.5) from <ref type="bibr" target="#b41">Michie et al. (2013)</ref>, we thirdly understand digital detox to be a voluntary and intentional limited removal of this aversive stimulus, namely digital devices and/or specific subsets of smartphone use, to promote health behavior change. We assume that it is important to add the terms voluntary and intentional, as research has shown that individuals' intentions and motivations are important for successful health behavior change (e.g., <ref type="bibr" target="#b24">Hardcastle et al., 2015;</ref><ref type="bibr" target="#b43">Miller &amp; Rollnick, 2013;</ref><ref type="bibr" target="#b70">Vitinius et al., 2018)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The present systematic review's context</head><p>Although digital detox is ubiquitous and, per its definition, an opportunity to reduce stress or focus on social interactions in the physical world, it remains unclear whether digital detox is an effective strategy to promote a healthy way of life in the digital era. Surprisingly, no systematic review has been published on the efficacy of digital detox, yielding a body of literature with isolated findings. However, digital detox interventions can only be used as a strategy to reduce the possible negative impact of digital technologies on health and well-being in case of a synthesized overview of existing empirical evidence. Furthermore, the identification of effective digital detox interventions might guide the development and dissemination of future digital detox interventions. Thus, the present systematic review aims to compare findings regarding digital detox interventions systematically. This paper will focus on studies that have investigated timeouts from the device of smartphones instead of timeouts from other devices, e.g., TVs, radios, or other portable devices, e.g., music players. This decision is based on the circumstance that unlike other electronic devices, the smartphone enables the use of several functions anytime and anywhere, leading to constant connections among individuals, each creating a greater source of distraction and stress (e.g., <ref type="bibr" target="#b13">Demirci et al., 2015)</ref>. Furthermore, as already discussed above, the history of the term digital detox is closely related to the proliferation of the smartphone and can be distinguished from abandoning TV <ref type="bibr" target="#b61">(Syvertsen &amp; Enli, 2019)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Use of social network sites (SNS) and instant messaging (IM) as part of smartphone use.</head><p>Along with the focus on digital detox interventions regarding the smartphone as a device, we also want to draw attention to digital detox interventions regarding the use of certain types of applications as the use of SNS, e.g., Instagram, as well as IM like Threema, or texting. As is remarkably obvious, a significant amount of smartphone use worldwide entails the use of SNS/IM <ref type="bibr" target="#b37">(Markowetz, 2015;</ref><ref type="bibr">Statista, 2020)</ref>. Therefore, we focused on this specific subset of electronic media use. However, we decided to exclude other types of use, like shopping or gaming, as their usage frequency is lower in the population worldwide. In addition, reviews on hazardous gaming and prevention approaches already exist <ref type="bibr" target="#b12">(Costa &amp; Kuss, 2019;</ref><ref type="bibr" target="#b30">King et al., 2018)</ref>. Furthermore, abstinence treatment programs that target excessive gaming usually combine their treatment with psychopharmacology or psychotherapy <ref type="bibr" target="#b55">(Singh, 2019)</ref>. In contrast, this review focuses on interventions that have studied digital detox as the main behavior change strategy among individuals without diagnosed Internet gaming disorders, according to the Diagnostic and Statistical Manual of Mental Disorders (DSM-5; American Psychiatric Association, 2013) and the International Classification of Diseases <ref type="bibr">(ICD-11;</ref><ref type="bibr">WHO, 2018)</ref>. This also corresponds with the definition of digital detox, which states that it entails creating well-being and opportunities to reduce technology-related stress <ref type="bibr">(Oxford Dictionaries, 2019)</ref>.</p><p>Voluntary and intentional abstinence from smartphones. As the use of digital devices is an integral part of life, making it unrealistic to live without them, we further aim to summarize studies of limited abstinence periods in contrast to complete abstinence approaches (e.g., giving up Facebook). This procedure takes into account the definition of digital detox and recommendations on behavioral addiction research that aim for controlled use, rather than complete abstinence (e.g., alcohol; <ref type="bibr" target="#b74">Yau et al., 2014)</ref>. As already indicated above, we clarified that digital detox also should be defined as voluntary abstinence from digital devices. Therefore, we will not include involuntary detox interventions or restrictions imposed by others, e.g., school restrictions, parental allocation of screen time to their children, or employer restrictions <ref type="bibr" target="#b7">(Chun, 2018</ref>, for a conceptualization). Furthermore, we will not focus on laboratory studies that investigated involuntary separation from smartphones with the help of a cover story (e.g., <ref type="bibr" target="#b8">Clayton et al., 2015;</ref><ref type="bibr" target="#b52">Schmidt et al., 2018)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The review's aims</head><p>This review aims to compare studies systematically regarding digital detox interventions based on the conditions outlined above. Furthermore, an in-depth evaluation of digital detox interventions also should identify different digital detox components -e.g., content that individuals disconnect from, duration of timeouts, or studies' quality -to provide a basis for further research on digital detox interventions. The Participants, Interventions, Comparisons, Outcomes and Study design (PICOS) approach <ref type="bibr" target="#b42">(Miller, 2001)</ref> was used to develop research questions to guide the search strategies and data review (see Method section below). The first research question is: Do digital detox interventions differ in terms of (a) the content that individuals disconnect from, (b) the duration of the timeouts, and c) studies' quality? In addition, the second and main research question asks about the effectiveness of digital detox interventions: Are digital detox interventions effective at improving outcomes such as duration of use, performance, selfcontrol, health and well-being, and/or social relationships?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>This systematic review proceeded in accordance with Preferred Reporting Items for Systematic Review, and Meta-Analysis (PRISMA) guidelines <ref type="bibr" target="#b44">(Moher et al., 2009</ref>; see also Supplemental 1).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Search strategy</head><p>Relevant studies published between January 2008 and September 2020 were searched. This time period was chosen to exclude studies published before 2008 because the smartphone gained importance with the introduction of the iPhone in 2007. From then on, the smartphone changed many people's daily lives <ref type="bibr" target="#b0">(Addo, 2013)</ref>, and more attention was given to timeouts from new technologies like the smartphone.</p><p>The literature search was done in seven databases: PsycINFO, PBSC, PsycArticles, PubMed, Cochrane Library, Web of Science, and Google Scholar to identify additional articles. Search terms can be found in Supplemental 2 in addition to an example of the search strategy. The search strategy's sensitivity was tested by checking whether it retrieved articles by <ref type="bibr" target="#b65">Turel and Cavagnaro (2019)</ref> and <ref type="bibr" target="#b72">Wilcockson et al. (2019)</ref>, identified as key publications in preliminary searches. In addition, the reference lists of all included articles were screened to capture further relevant studies missed by the electronic searches. Finally, important journals in this research area were searched manually for recently added publications, particularly Computers in Human Behavior and Cyberpsychology, Behavior, and Social Networking. After identifying and deleting duplicates, citations and full texts were imported into a literature database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inclusion and exclusion criteria</head><p>Type of studies. The included studies in our review needed to fulfill the following criteria: (a) written in English; (b) investigated a digital detox intervention with a voluntary limited absence of use; (c) examined abstinence from digital devices, including the smartphone or a specific subset of digital device use, e.g., the use of SNS/IM; and (d) conducted inferential statistics that examined the intervention's effect compared with a control group or baseline assessment.</p><p>Type of sample. This review will not be limited to a particular population, but studies must provide information about the sample type, allowing for classification of participants.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Type of outcome.</head><p>No focus on specific outcomes was predefined to ensure a broad overview on the effects from digital detox interventions, including health-related outcomes, social relationships, cognitive performance, or other aspects.</p><p>Exclusion of studies. As a consequence of the inclusion criteria, we excluded studies that focused on external restrictions, e.g., school restrictions. Corresponding with this, we also excluded studies that masked the reason for the period of abstinence from the smartphone with a cover story, e.g., to not disturb others during the experiment. Furthermore, studies focusing on behavior change techniques other than BCT 7.5 or in combination with the BCT 7.5 -e.g., mindfulness, resilience, or self-control trainings -were excluded from further consideration. In addition, studies on Internet gaming disorders were excluded, as were studies that only examined Internet addiction, but not in the context of smartphone use. Finally, qualitative studies were excluded.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study selection</head><p>Two reviewers independently screened titles, abstracts, and full-text articles to decide whether an article was relevant to the review based on the inclusion and exclusion criteria. Inter-rater reliability between the two reviewers was assessed using the Cohen's kappa statistic <ref type="bibr" target="#b9">(Cohen, 1960)</ref>. In the event of a disagreement, a third person was consulted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data extraction</head><p>Data were extracted from the selected articles and entered into an electronic data sheet, which recorded year of publication, research question or purpose, study design, outcome and measurement types, and the main results (see Supplemental 3).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Studies' quality</head><p>To evaluate the identified studies' quality, a tool by <ref type="bibr" target="#b31">Kmet et al. (2004)</ref> was applied to address the following criteria: clarity of research objectives; description of study design, participants, measures, randomizations, blinding, and selection of outcomes; rationale for the sample size and analytic method; estimates of variance reported for the main results/outcomes; a control of analyses for confounding effects; and the reporting of results in sufficient detail. Each component was rated using a three-point response scale (two points for "yes," one point for "partial," 0 points for "no"). If one criterion was not applicable for a study, its score was excluded from the computation of the overall score. The quality scores were used to determine the relative quality of the studies included in the review. According to <ref type="bibr" target="#b31">Kmet et al. (2004)</ref>, a value above 75% of the possible scores indicates high quality (conservative cut-off point), whereas a value below 55% indicates low quality. Two reviewers (TR and TA) assessed the studies independently. Subsequently, inter-rater agreement was computed. Disagreements were resolved via discussion and consultation with a third author. The level of agreement between the two reviewers was measured with the interclass correlation coefficient (ICC), which was .946 (95% CI <ref type="bibr">[.868, .978]</ref>), indicating a very good level of agreement <ref type="bibr" target="#b32">(Koo &amp; Li, 2016)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overall search findings</head><p>Figure <ref type="figure" target="#fig_0">1</ref> shows the PRISMA flow diagram <ref type="bibr" target="#b44">(Moher et al., 2009)</ref>, indicating the search process to select the final studies that satisfied the inclusion criteria. Accordingly, the results from this systematic review are based on k = 21 studies from 20 published articles.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Descriptive results</head><p>Table <ref type="table" target="#tab_0">1</ref> provides an overview of the studies' characteristics. The studies were conducted in 11 countries, mostly the United States (k = 7), followed by Australia (k = 3). The other studies originated from Belgium, Denmark, Germany, Italy, South Korea, New Zealand, Norway, United Arab Emirates, and the United Kingdom. A total of 3,625 participants were enrolled in all 21 studies, ranging from n = 15 to n = 1,095 participants per study. The average sample size was 173 participants with a Mdn = 98 (n = 104 [Mdn = 80] if excluding studies with more than 500 participants). The vast majority of the studies investigated students as the enrolled sample (k = 15). Other studies used non-student opportunity samples (k = 3), elite athletes (k = 1), or Instagram (k = 1) or Facebook users (k = 2).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Descriptive results according to the first research question</head><p>Table <ref type="table" target="#tab_0">1</ref> presents the summary of all studies reviewed in this paper (for a detailed overview of the findings, including effect sizes, please see Supplemental 3).   • Anxiety (HADS)</p><p>• Flourishing (Flourishing scale)</p><p>• Self-regulation (Self-Regulation Scale) If not mentioned otherwise, it was not assessed whether participants followed the instruction of the digital detox intervention in terms of time.</p><p>+ = positive effects of digital detox; -= negative effects of digital detox; ± = positive and negative effects of digital detox.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 1. (Continued)</head><p>Content that individuals disconnect from. Most of the studies investigated digital detox interventions regarding SNS (k = 13), mainly Facebook (k = 6), Instagram (k = 1), social media use in general (k = 4), or the most prominent SNS (k = 2). Only one study examined texting. Furthermore, several studies examined timeouts from smartphones (k = 5) or from all electronic devices, including smartphones (k = 1).</p><p>Duration of the timeout. The range of the instructed detox duration was from 24 hours to four weeks. Most of the studies investigated a separation from digital devices or specific subsets of use one week long (k = 9). A total of k = 7 studies examined intervention periods that were shorter than one week, particularly 24 hours, 48 hours, or three to five days. In contrast, k = 4 studies examined longer breaks.</p><p>Studies' quality. All selected studies included interventions conducted in the field. Of the 21 studies, 12 were randomized controlled trials <ref type="bibr" target="#b18">(Eide et al., 2018;</ref><ref type="bibr" target="#b21">Fioravanti et al., 2019;</ref><ref type="bibr" target="#b22">Hall et al., 2019;</ref><ref type="bibr" target="#b23">Hanley et al., 2019;</ref><ref type="bibr" target="#b26">Hunt et al., 2018;</ref><ref type="bibr" target="#b31">Ko et al., 2015;</ref><ref type="bibr" target="#b56">Skierkowski &amp; Wood, 2012;</ref><ref type="bibr" target="#b64">Tromholt, 2016;</ref><ref type="bibr" target="#b65">Turel &amp; Cavagnaro, 2019;</ref><ref type="bibr" target="#b66">Turel et al., 2018;</ref><ref type="bibr" target="#b69">Vanman et al., 2018;</ref><ref type="bibr" target="#b68">Vally &amp; D'Souza, 2019)</ref>, from which 10 studies also reported a pre-and post-intervention measurement of the variables. The remaining eight non-randomized controlled trials all had pre-and post-intervention measurements. Furthermore, studies' quality was evaluated according to a tool by <ref type="bibr" target="#b31">Kmet et al. (2004)</ref>. Overall, none of the studies was below the cut-off point of 55% and k = 6 studies were above the 75% cut-off point.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Findings according to our main research questions</head><p>According to the main research question, the effectiveness of the digital detox interventions is presented in a structured overview according to the categories: duration of use, performance, self-control, health and well-being, and social relationships.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Duration of use</head><p>Six studies used a device-based measurement of the smartphone use <ref type="bibr" target="#b3">(Anrijs et al., 2018;</ref><ref type="bibr">Ko et al., 2018;</ref><ref type="bibr" target="#b36">Liao, 2019)</ref> or SNS/IM use <ref type="bibr" target="#b4">(Brown &amp; Kuss, 2020;</ref><ref type="bibr" target="#b23">Hanley et al., 2019;</ref><ref type="bibr" target="#b26">Hunt et al., 2018)</ref>. Applications such as ActionDash, Moment, Quality Time, Rescue Time, Screen Time, and Tracky were used. Three other studies used self-reports to measure changes in time spent on social media <ref type="bibr" target="#b25">(Hinsch &amp; Sheldon, 2013</ref>, study 1 and 2; <ref type="bibr" target="#b59">Stieger &amp; Lewetz, 2018)</ref>. Overall, all studies reported a significant decrease in smartphone or app use with medium effect sizes during intervention days or after the intervention compared with pre-intervention days and/or a control group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Performance</head><p>Cognitive and physical performance. Only three studies investigated performance outcomes. As shown by <ref type="bibr" target="#b17">Dunican et al. (2017)</ref>, no significant effect from a digital detox intervention was found on cognitive and physical performance among judo athletes compared with a control group. In the same vein, <ref type="bibr" target="#b66">Turel et al. (2018)</ref> found no effect from abstinence from SNS on grade point averages, but <ref type="bibr" target="#b65">Turel and Cavagnaro (2019)</ref> demonstrated that participants who abstained from using Facebook for over a week had higher time-distortion estimates compared with a control group when they had to estimate the time they needed to complete the survey. Participants with lower risk for social media addiction indicated a downward time distortion, whereas participants high at risk for social media addiction showed an upward distortion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Self-control</head><p>Self-regulation. A study by <ref type="bibr" target="#b36">Liao (2019)</ref> examined self-regulation in attention control after a two-week digital detox intervention period. Participants with low depression and anxiety symptoms showed an increase in their self-regulation skills, and the effect sizes were large. Another study <ref type="bibr" target="#b31">(Ko et al., 2015)</ref> that investigated self-efficacy of self-regulation in smartphone use found no improvements compared with a control group.</p><p>Procrastination. Two studies from <ref type="bibr" target="#b25">Hinsch and Sheldon (2013)</ref> showed that a reduction/ cessation of Facebook use resulted in a decrease of procrastination directly after the intervention and at a 48-hour follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Health and well-being</head><p>Sleep. Sleep was assessed in two studies <ref type="bibr" target="#b17">(Dunican et al., 2017;</ref><ref type="bibr" target="#b36">Liao, 2019)</ref>. While <ref type="bibr" target="#b36">Liao's (2019)</ref> measured sleep quality using the Pittsburgh Sleep Quality Index <ref type="bibr" target="#b6">(Buysse et al., 1989)</ref>, <ref type="bibr" target="#b17">Dunican et al.'s (2017)</ref> used a device-based measurement, the ActiGraph, to assess sleep quality. While <ref type="bibr" target="#b17">Dunican et al. (2017)</ref> found no effects on sleep quality, <ref type="bibr" target="#b36">Liao (2019)</ref> reported that people with mild-to-moderate anxiety and depression symptoms improved their sleep quality with medium to large effect sizes.</p><p>Life satisfaction. Eight studies examined the effect from digital detox interventions on life satisfaction <ref type="bibr" target="#b23">(Hanley et al., 2019;</ref><ref type="bibr" target="#b21">Fioravanti et al., 2019;</ref><ref type="bibr" target="#b22">Hall et al., 2019;</ref><ref type="bibr">Hinsch &amp; Sheldon, 2013, study 1 and 2;</ref><ref type="bibr" target="#b64">Tromholt, 2016;</ref><ref type="bibr" target="#b69">Vanman et al., 2018;</ref><ref type="bibr" target="#b68">Vally &amp; D'Souza, 2019)</ref>. Most of the studies used the Satisfaction With Life Scale (SWLS; <ref type="bibr" target="#b15">Diener et al., 1985)</ref>. Two of the studies found no effect from timeouts from SNS on life satisfaction <ref type="bibr" target="#b23">(Hanley et al., 2019;</ref><ref type="bibr" target="#b22">Hall et al., 2019)</ref>, whereas two studies observed a decrease in life satisfaction as a result of detox interventions <ref type="bibr" target="#b69">(Vanman et al., 2018;</ref><ref type="bibr" target="#b68">Vally &amp; D'Souza, 2019)</ref>. In contrast, four studies found an increase in life satisfaction after taking a break from SNS use <ref type="bibr" target="#b25">(Hinsch &amp; Sheldon, 2013</ref>, study 1 and 2; <ref type="bibr" target="#b21">Fioravanti et al., 2019;</ref><ref type="bibr" target="#b64">Tromholt, 2016)</ref>, although one study could confirm this finding only for women. Effect sizes were small to moderate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjective well-being</head><p>Affect. Seven studies assessed the effect from digital detox interventions on affect <ref type="bibr" target="#b18">(Eide et al., 2018;</ref><ref type="bibr" target="#b21">Fioravanti et al., 2019;</ref><ref type="bibr" target="#b22">Hall et al., 2019;</ref><ref type="bibr" target="#b23">Hanley et al., 2019;</ref><ref type="bibr" target="#b59">Stieger &amp; Lewetz, 2018;</ref><ref type="bibr" target="#b64">Tromholt, 2016;</ref><ref type="bibr" target="#b69">Vanman et al., 2018;</ref><ref type="bibr" target="#b68">Vally &amp; D'Souza, 2019)</ref>.</p><p>All studies except those from <ref type="bibr" target="#b22">Hall et al. (2019)</ref> used the Positive and Negative Affect Schedule (PANAS) <ref type="bibr" target="#b71">(Watson et al., 1988)</ref>. Most of the studies reported no effect on either positive or negative affect, but two studies <ref type="bibr" target="#b23">(Hanley et al., 2019;</ref><ref type="bibr" target="#b68">Vally &amp; D'Souza, 2019)</ref> found that participants after a digital detox intervention reported higher negative affect compared with a control group. Only two studies found beneficial effects from a break from Facebook <ref type="bibr" target="#b64">(Tromholt, 2016)</ref> or Instagram (only valid for women) <ref type="bibr" target="#b21">(Fioravanti et al., 2019)</ref> on affect.</p><p>Mood. One study <ref type="bibr" target="#b72">(Wilcockson et al., 2019)</ref> focused on mood by utilizing the Brief Mood Introspection Scale (BMIS) <ref type="bibr" target="#b38">(Mayer &amp; Gaschke, 1988)</ref>. No effect from the 24-hour digital detox intervention on mood was found.</p><p>Mental and psychological well-being. A study by <ref type="bibr" target="#b4">Brown and Kuss (2020)</ref> investigated mental well-being using the Warwick-Edinburgh MWB Scale (WEMWBS; <ref type="bibr" target="#b62">Tennant et al., 2007)</ref>. A medium effect from the seven-day digital detox intervention through an increase in mental well-being was observed, corresponding with results by <ref type="bibr" target="#b36">Liao (2019)</ref> showing that participants with mild-moderate depression symptoms reported improvements in flourishing after a smartphone-use reduction period. In contrast, a study by <ref type="bibr" target="#b26">Hunt et al. (2018)</ref> found no effect from their digital detox intervention on psychological well-being.</p><p>Boredom. One study <ref type="bibr" target="#b59">(Stieger &amp; Lewetz, 2018)</ref> found that a social media abstinence period of seven days led to higher boredom levels.</p><p>Anxiety. Four studies <ref type="bibr" target="#b26">(Hunt et al., 2018;</ref><ref type="bibr" target="#b36">Liao, 2019;</ref><ref type="bibr" target="#b56">Skierkowski &amp; Wood, 2012;</ref><ref type="bibr" target="#b72">Wilcockson et al., 2019)</ref> examined anxiety using the State and Trait Anxiety Inventory (STAI) <ref type="bibr" target="#b57">(Spielberger et al., 1970)</ref> or the Hospital Anxiety and Depression Scale (HADS) <ref type="bibr" target="#b75">(Zigmond &amp; Snaith, 1983)</ref>. Only one study <ref type="bibr" target="#b36">(Liao, 2019)</ref> found a decrease in anxiety for participants with mild-moderate anxiety symptoms after the intervention compared with the baseline assessment, whereas the other three studies found no effect.</p><p>Stress. Five studies investigated the effect from a detox intervention on stress <ref type="bibr" target="#b3">(Anrijs et al., 2018;</ref><ref type="bibr" target="#b36">Liao, 2019;</ref><ref type="bibr" target="#b66">Turel et al., 2018;</ref><ref type="bibr" target="#b69">Vanman et al., 2018;</ref><ref type="bibr" target="#b68">Vally &amp; D'Souza, 2019)</ref>. Four of the studies used the Perceived Stress Scale (PSS) <ref type="bibr" target="#b10">(Cohen et al., 1983)</ref>, whereas one study also measured cortisol levels <ref type="bibr" target="#b69">(Vanman et al., 2018)</ref>. The study by <ref type="bibr" target="#b3">Anrijs et al. (2018)</ref> measured skin-conductance response rate. Whereas two studies found no effect from a digital detox intervention on perceived stress <ref type="bibr" target="#b69">(Vanman et al., 2018;</ref><ref type="bibr" target="#b68">Vally &amp; D'Souza, 2019)</ref>, the other three studies found a significant decrease in perceived stress <ref type="bibr" target="#b36">(Liao, 2019;</ref><ref type="bibr" target="#b66">Turel et al., 2018)</ref>, cortisol level <ref type="bibr" target="#b69">(Vanman et al., 2018)</ref>, and skin-conductance rate <ref type="bibr" target="#b3">(Anrijs et al., 2018)</ref> with medium to large effect sizes. However, one study found a significant reduction in perceived stress only among participants with mildmoderate depression symptomology <ref type="bibr" target="#b36">(Liao, 2019)</ref>. Furthermore, it was found that excessive users of SNS benefited from abstinence to a larger degree compared with typical users of SNS <ref type="bibr" target="#b66">(Turel et al., 2018)</ref>.</p><p>Depression. Three studies <ref type="bibr" target="#b26">(Hunt et al., 2018;</ref><ref type="bibr" target="#b36">Liao, 2019;</ref><ref type="bibr" target="#b64">Tromholt, 2016)</ref> measured the effect from a digital detox intervention on depression. All three studies found a significant decline in depression symptoms after a break from social media use or smartphone use in general.</p><p>Addiction. Only one study measured the effect from a timeout from smartphone use on smartphone addiction <ref type="bibr" target="#b31">(Ko et al., 2015)</ref>. It was shown that participants' smartphone addiction scores decreased after a two-week-long group digital detox intervention compared with an individual digital detox intervention. Furthermore, three studies investigated withdrawal symptoms in relation to a digital detox intervention. As shown by all three studies, symptoms of craving and withdrawal significantly increased during and after abstinence from smartphone or SNS use <ref type="bibr" target="#b18">(Eide et al., 2018;</ref><ref type="bibr" target="#b59">Stieger &amp; Lewetz, 2018;</ref><ref type="bibr" target="#b72">Wilcockson et al., 2019)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social relationship</head><p>Fear of missing out. Three studies <ref type="bibr" target="#b4">(Brown &amp; Kuss, 2020;</ref><ref type="bibr" target="#b18">Eide et al., 2018;</ref><ref type="bibr" target="#b26">Hunt et al., 2018)</ref> examined fear of missing out (FoMO) using the FoMO scale <ref type="bibr" target="#b51">(Przybylski et al., 2013)</ref>. While one study found no effect from a smartphone limitation on FoMo scores compared with a control group <ref type="bibr" target="#b26">(Hunt et al., 2018)</ref>, the two other studies revealed contrary findings. <ref type="bibr" target="#b18">Eide et al. (2018)</ref> found an increase in FoMO scores, whereas <ref type="bibr" target="#b4">Brown and Kuss (2020)</ref> reported a medium effect from the digital detox intervention on FoMO score reduction.</p><p>Social connectedness. Two studies focused on social connectedness <ref type="bibr" target="#b4">(Brown &amp; Kuss, 2020;</ref><ref type="bibr" target="#b53">Sheldon et al., 2011)</ref> while investigating the effect from digital detox. The intervention from <ref type="bibr" target="#b4">Brown and Kuss (2020)</ref> that examined a one-week abstinence from social media use showed a small to medium effect on the increase in social connectedness. Conversely, <ref type="bibr" target="#b53">Sheldon et al. (2011)</ref> noted a decrease in feelings of relatedness after a 48-hour abstinence from Facebook. Participants who experienced a larger increase in disconnection engaged in more Facebook use afterward.</p><p>Loneliness. Loneliness was captured in four studies <ref type="bibr" target="#b22">(Hall et al., 2019;</ref><ref type="bibr" target="#b26">Hunt et al., 2018;</ref><ref type="bibr" target="#b69">Vanman et al., 2018;</ref><ref type="bibr" target="#b68">Vally &amp; D'Souza, 2019)</ref> with mostly different scales. One study <ref type="bibr" target="#b26">(Hunt et al., 2018)</ref> found a decrease in loneliness compared with a control group, whereas another study <ref type="bibr" target="#b68">(Vally &amp; D'Souza, 2019)</ref> found an increase in loneliness. The other two studies reported no effect from the digital detox intervention on loneliness.</p><p>Social support and social pressure. Two studies investigated social support <ref type="bibr" target="#b26">(Hunt et al., 2018)</ref> and social pressure <ref type="bibr" target="#b59">(Stieger &amp; Lewetz, 2018)</ref> based on a timeout from social media use. While no effect from social media abstinence was found on social support <ref type="bibr" target="#b26">(Hunt et al., 2018)</ref>, <ref type="bibr" target="#b59">Stieger and Lewetz (2018)</ref> showed that participants reported higher social pressure during social media abstinence compared with the pre-intervention measurement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This systematic review provides a synthesis of existing evidence of associations between digital detox and different outcomes, e.g., time of use, performance, self-control, health and well-being, and social relationships. Generally, our review shows that the results across the studies and the different outcomes are quite diverse. Even though a few more studies revealed positive, rather than negative, consequences from digital detox interventions, most of the studies showed either no effects or mixed findings regarding digital detox efficacy. These diverse and contradictory findings are equally evident across randomized controlled trials and non-randomized controlled trials, as well as across studies with different sample sizes. Furthermore, diverse findings are also observable across studies with similar digital detox intervention periods and subsets of smartphone use the individuals disconnected from. However, in reviewing the various outcomes, it becomes apparent that there are some outcomes for which there appear to be consistent findings. It was demonstrated that the duration of smartphone or SNS/IM use decreased during the intervention period. Furthermore, all three studies that investigated depression symptoms found a decline in such symptoms after a digital detox intervention. Nevertheless, no effect across studies was found consistently among cognitive and physical performance measures after a digital detox intervention. For all other presented outcomes in this review, the included studies revealed mixed and contradictory findings. Thus, the answer to our main research question of whether digital detox interventions are effective in improving outcomes such as duration of use, performance, self-control, health and well-being, or social relationships is that mixed findings exist, but no clear answer can be given yet.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Explanation of the findings</head><p>We identified several possible reasons for inconsistent findings. First, wide variety in the implementation of digital detox interventions was found. For example, some studies (e.g., <ref type="bibr" target="#b31">Ko et al., 2015;</ref><ref type="bibr" target="#b65">Turel &amp; Cavagnaro, 2019)</ref> allowed participants to define individual goals about the length of the timeout or to interrupt the timeout earlier than planned, whereas other studies (e.g., <ref type="bibr" target="#b18">Eide et al., 2018;</ref><ref type="bibr" target="#b53">Sheldon et al., 2011)</ref> instructed a complete separation from the use of smartphones or certain apps. Although both approaches have their justifications, the different instructions for the digital timeouts can lead to different findings regarding outcomes. Second, not all studies used the same measurements to assess the same outcomes. For example, life satisfaction was measured using the Satisfaction With Life Scale <ref type="bibr" target="#b15">(Diener et al., 1985)</ref>, Quality of Life Enjoyment and Satisfaction Questionnaire <ref type="bibr" target="#b19">(Endicott et al., 1993)</ref>, or other unspecified scales. Thus, the findings might differ due to different assessments, but a large number of studies used the same scales to measure affect, depression, and anxiety. Third, the studies differed in terms of measurement time points. Some studies assessed the change in outcomes during the intervention, whereas others assessed change after the intervention with different time spans (e.g., directly after the intervention or one week later). Furthermore, only a few studies included follow-up measurements (e.g., <ref type="bibr" target="#b26">Hunt et al., 2018)</ref>. Thus, it remains unclear whether the effects are valid only during the digital detox intervention, immediately after the intervention, short term, or long term. A fourth reason that needs attention is the fact that the studies differed in terms of their samples. Next to a large deviation in sample sizes, the sample types were quite diverse across the studies, even though most of the studies used student samples. Future research should investigate digital detox interventions in large-scale studies with the general population (cf. <ref type="bibr" target="#b16">Dienlin &amp; Johannes, 2020</ref>). In addition, some studies distinguished between participants with higher and lower (smartphone/SNS/IM) addiction scores and higher and lower depression scores, whereas other studies did not. By doing so, the advantage is to identify for whom the intervention is effective. Thus, future research should focus on possible moderating variables -e.g., gender, or usage frequency -and triggers to use smartphones/ SNS/IM to get more insight on which digital detox intervention might be beneficial or harmful for whom.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations of the studies included in this review and recommendations for future research</head><p>Several limitations in the included studies in this review need to be mentioned that also might explain the findings, as only six of the 21 studies had a high quality according to criteria suggested by <ref type="bibr">Kmel et al. (2004)</ref>. One limitation in most of the studies is the lack of device-based measurements of smartphone and SNS/IM use that would allow for reliable assessments of the duration of usage (cf. <ref type="bibr" target="#b16">Dienlin, &amp; Johannes, 2020;</ref><ref type="bibr">Orben &amp; Przybylski, 2019b)</ref>. Furthermore, it would be helpful to measure physiological indicators of health-related outcomes, such as the skin-conductance response rate (cf. <ref type="bibr" target="#b3">Anrijs et al., 2018)</ref>, as a stress indicator. Thus, future research needs to incorporate device-based measurements. Another limitation belongs to the aspect of compensatory behaviors during the digital detox intervention. Most studies did not control whether participants used other electronic devices instead of their smartphones or switched to other SNS/IM use during the separation phase. However, this is of great importance to derive the right conclusions from the digital detox interventions. Most studies included in our review had rather small sample sizes with non-representative samples. Furthermore, not all studies were randomized controlled trials. As a consequence, the studies' internal validity needs be considered with caution, as it is most likely that not all confounding variables have been controlled for. A possible solution would be to use laboratory studies (e.g., <ref type="bibr" target="#b8">Clayton et al., 2015;</ref><ref type="bibr" target="#b52">Schmidt et al., 2018;</ref><ref type="bibr" target="#b67">Turgeman et al., 2020)</ref>, though laboratory studies might confound ecological validity, especially when considering variety and diversity in everyday smartphone use. In addition, in all these laboratory experiments, the smartphone was taken away from the participants upon presentation of a cover story. Thus, apart from the lack of external validity, intention to take a smartphone break or reduce SNS/IM use is not considered. Therefore, it is highly recommended to investigate the effect from digital detox interventions with (a) large sample sizes, (b) randomized controlled field experiments, (c) valid measurements like device-based assessments, (d) long-term intervention periods, and (e) short-and long-term follow-ups. Overall, more high-quality research on the consequences of digital detox interventions is needed, as only a few studies per outcome exist, as can be seen in the results section. In addition, only three studies <ref type="bibr" target="#b25">(Hinsch &amp; Sheldon, 2013;</ref><ref type="bibr" target="#b56">Skierkowski &amp; Wood, 2012;</ref><ref type="bibr" target="#b66">Turel et al., 2018)</ref> investigated possible mediators of the effect from digital detox intervention on examined outcomes. This is essential for deriving conclusions as to why digital detox interventions might be beneficial or harmful. Examples of possible mediators could be procrastination, withdrawal symptoms, or social support. Corresponding with this, the timeout duration should be investigated systematically, as this factor might allow for a distinction between beneficial and harmful digital detox interventions as well. In line with this, it is also needed to check whether participants implement digital detox interventions as instructed and how long each timeout is. In our review, only three studies <ref type="bibr" target="#b17">(Dunican et al., 2017;</ref><ref type="bibr" target="#b18">Eide et al., 2018;</ref><ref type="bibr" target="#b72">Wilcockson et al., 2019)</ref> placed the electronic devices, e.g., in a locked cabinet to ensure full adherence to the digital detox intervention. The other studies did not measure the duration of the timeout even though six studies used a device-based measurement. However, these studies focused on the duration of the smartphone or SNS/IM usage which can be only regarded as a proxy of the timeout itself.</p><p>Next to the rather methodological aspects for future research, one important conceptual issue regarding the definition of digital detox should be taken into account. From our perspective, the current definition needs to be extended in terms of the hierarchical computer-mediated communication taxonomy <ref type="bibr" target="#b40">(Meier &amp; Reinecke, 2020)</ref>. Digital detox should not only refer to a time period during which a person refrains from using electronic devices, but also to time periods during which a person does not engage in certain types of applications, branded media, special features, interactions, and/or messages. This is also in line with the definitions used in the studies included in this review. Across the 21 studies different terms are used like "removal of electronical devices" <ref type="bibr" target="#b17">(Dunican et al., 2017)</ref>, "smartphone/Facebook restrictions" (e.g., <ref type="bibr" target="#b18">Eide et al., 2018)</ref>, "vacation from Facebook" <ref type="bibr" target="#b23">(Hanley et al, 2019)</ref>, or "abstinence from Facebook/social media" (e.g., <ref type="bibr" target="#b22">Hall et al., 2019)</ref>. In line with the definition of <ref type="bibr" target="#b3">Anrijs et al. (2018)</ref> we further recommend to add the terms "voluntary/intentional abstinence" to the definition of digital detox (see the introduction section for reasons). However, it needs to be mentioned that most of the studies included in this review did not present a definition of digital detox. Therefore, a stronger conceptual and theoretical embedding of digital detox (interventions) is necessary. Corresponding with this, another aspect of future research could be the focus on digital detox interventions that emphasize a healthy way of using the smartphone, instead of discouraging the use of smartphones (cf. <ref type="bibr" target="#b5">Buctot et al., 2018;</ref><ref type="bibr" target="#b29">Keller et al., 2021)</ref>, as this might be more realistic in everyday life, because the smartphone is and will remain people's daily companion.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The systematic review's strengths and limitations</head><p>This review provides information for research and practitioners about digital detox interventions' efficacy. Furthermore, we discussed implications for the definition of digital detox and provided a conceptual framework for future research. Aside from these strengths, limitations in this review also need to be mentioned. The first is the wide variety of terms used in studies that investigate a timeout from smartphone/SNS/IM use. Studies used alternative terms, and it could be the case that some studies might have been missed because we have not included the term in our literature search. This might be the case for specific social media platforms (e.g., TikTok) or terms that describe a timeout from smartphone or social media use (e.g., a year without such media). However, it is not feasible to account for all possible synonymous terms in the literature search. Another limitation is the focus on smartphone use in general and SNS/IM use. As the smartphone could be used for other activities -e.g., gambling, or dating -our findings might result in an incomplete picture of digital detox interventions. However, considering that SNS/ IM use is the most widespread use for the smartphone, our review covers a wide range of behavior. Furthermore, study selection may have been skewed, as only studies published in English were included. Therefore, the results can be transferred only to the Western world, with no more than two studies from other countries (South Korea and United Arab Emirates).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>This review provides a novel insight into the associations between digital detox interventions and different outcomes. It can be concluded that across the included studies, digital detox interventions exert some promising effects on usage itself and on depression symptoms. However, the inconsistent findings regarding other outcomes across all presented studies prevent making a recommendation as to whether to promote or discard digital detox interventions, as positive and counterproductive consequences need to be examined more clearly. Thus, it is recommended that more investment in empirical highquality research be implemented to understand under which circumstances digital detox is helpful and for whom. Thus, potential moderating and mediating variables need to be examined in the future -including for the duration of the digital detox period, the level of smartphone addiction, or the level of technology-related stress -before the utility of digital detox interventions can be determined adequately.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. PRISMA flow diagram depicting the systematic search process.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>•••</head><label></label><figDesc>Significantly less time on Facebook directly after the intervention and 1 week later compared to the baseline • Participants' life satisfaction increased, whereas the level of procrastination decreased from baseline to 48 hours later satisfaction increased, and their levels of procrastination decreased between baseline and 48 hours later, as well as between baseline and follow-up + EG used less social media than the CG • EG scored significantly lower on the Loneliness Scale compared to CG • In EG clinically significant declines in depressive symptoms • No difference between EG and CG for social support, fear of missing out, anxiety, self-esteem, and psychological wellbeing Participants in group intervention significantly decreased app use, whereas the alone users did not • Participants in the group intervention decreased SAS scores significantly greater than those in the alone group • No significant differences for self-efficacy improvements between the two groups • Participants in the group intervention tended to set longer timeouts than the alone users</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Studies' characteristics and results.</figDesc><table><row><cell>Categorization</cell><cell>of results</cell><cell></cell><cell></cell><cell>+</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>+</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>no effect</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>-, no effect</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>+</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>no effect</cell><cell></cell><cell>-, no effect</cell><cell>(Continued)</cell></row><row><cell>Main findings</cell><cell></cell><cell></cell><cell></cell><cell>• App events lower during intervention days</cell><cell>• Skin conductance response rate was higher during normal</cell><cell>days than during intervention</cell><cell></cell><cell></cell><cell>• Decrease in smartphone use after abstinence</cell><cell>• Decrease in perceived FoMO scores after abstinence</cell><cell>• Increase in perceived MWB scores after abstinence</cell><cell>• Increase in perceived SC scores after abstinence</cell><cell></cell><cell>• Speed of performance and errors, as well as performance</cell><cell>in distance were unchanged during intervention in the</cell><cell>device restricted group</cell><cell>• No difference in any sleep measure between groups</cell><cell></cell><cell>• Smartphone restriction provokes psychological withdrawal</cell><cell>symptoms compared to the CG</cell><cell>• FoMO scores were significantly higher for the restricted</cell><cell>condition, compared to the CG</cell><cell>• Restriction was not related with positive or negative affect</cell><cell>• Women in EG reported significantly higher post-test</cell><cell>satisfaction with life levels; no effect in CG and no effect</cell><cell>for men</cell><cell>• Women in the EG reported significantly higher post-test</cell><cell>positive affect scores</cell><cell>• Effect of TimeXGroup on positive affect was only</cell><cell>significant among those who scored above the median on</cell><cell>the Social Comparison Appearance Scale</cell><cell>• The duration of abstinence was not associated with change</cell><cell>in outcomes</cell><cell>• Loneliness, affective well-being, quality of day did not differ</cell><cell>before compared to after periods of abstinence</cell><cell>• No effect on life satisfaction</cell><cell>• Positive affect decreased from T1 to T2 for more active</cell><cell>users in the EG compared to passive users</cell><cell>• Interaction of EG and use style on negative affect</cell><cell>• Negative affect increased in EG compared to active users</cell></row><row><cell>Main outcome variable(s) (Type of</cell><cell>assessment)</cell><cell></cell><cell></cell><cell>• App use (mobileDNA app)</cell><cell>• Stress (Skin conductance response</cell><cell>rate Imec Chillband)</cell><cell></cell><cell></cell><cell>• Smartphone use (Screen Time</cell><cell>app, ActionDash or Tracky app)</cell><cell>• FoMO</cell><cell>• Mental well-being (MWB)</cell><cell>• Social connectedness (SC)</cell><cell>• Cognitive performance (Cogstate</cell><cell>research tool)</cell><cell>• Physical performance (SL-THT)</cell><cell>• Sleep (Actigraph)</cell><cell></cell><cell>• Withdrawal symptoms</cell><cell>(Smartphone Withdrawal Scale)</cell><cell>• FoMO</cell><cell>• PANAS</cell><cell></cell><cell>• Life satisfaction (Satisfaction with</cell><cell>Life Scale)</cell><cell>• PANAS</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>• Loneliness</cell><cell>• Affective well-being (SF-36)</cell><cell>• Quality of day (Quality of Life</cell><cell>Measure)</cell><cell>• Life satisfaction (Quality of Life</cell><cell>Enjoyment and Satisfaction</cell><cell>Questionnaire-18)</cell><cell>• PANAS</cell></row><row><cell>Digital detox: Duration 1</cell><cell>Content to disconnect</cell><cell>from Type of</cell><cell>assessment 2</cell><cell>• 1 week</cell><cell>• Smartphone usage</cell><cell>• App-based</cell><cell>measurement of</cell><cell>usage time</cell><cell>• 7 days</cell><cell>• Social media</cell><cell>• App-based</cell><cell>measurement of</cell><cell>usage time</cell><cell>• 48 hours</cell><cell>• All electronic devices</cell><cell>• Removal of all</cell><cell>electronic devices</cell><cell></cell><cell>• 72 hours</cell><cell>• Smartphone usage</cell><cell>• Smartphone stored in</cell><cell>a locked cabinet</cell><cell></cell><cell>• 1 week</cell><cell>• Instagram</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>• 1-4 weeks</cell><cell>• Social media use</cell><cell>• 1 week</cell><cell>• Social network sites</cell><cell>• App-based</cell><cell>measurement of</cell><cell>usage time</cell></row><row><cell>Design</cell><cell></cell><cell></cell><cell></cell><cell>Baseline 1 week -</cell><cell>followed by a one-week</cell><cell>intervention</cell><cell></cell><cell></cell><cell>Baseline 7 days -</cell><cell>followed by a 7-day</cell><cell>intervention</cell><cell></cell><cell></cell><cell>Pre-test -followed by</cell><cell>a 2-day intervention</cell><cell>period, test at first</cell><cell>and second day of the</cell><cell>intervention -Post-test</cell><cell>Pre-test -followed by</cell><cell>a 4-day intervention</cell><cell>period</cell><cell></cell><cell></cell><cell>Pre-test -followed by</cell><cell>a 1-week intervention</cell><cell>period -Post-test</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Daily diaries during</cell><cell>the 28 days of the</cell><cell>intervention period</cell><cell>Baseline 1 week -</cell><cell>followed by a one-week</cell><cell>intervention</cell></row><row><cell>Sample</cell><cell></cell><cell></cell><cell></cell><cell>N = 15</cell><cell>Students</cell><cell>(Female n = 10)</cell><cell></cell><cell></cell><cell>N = 61</cell><cell>Opportunity sample</cell><cell>(Female n = 41)</cell><cell></cell><cell></cell><cell>N = 23</cell><cell>Elite judo athletes</cell><cell>(Female n = 11)</cell><cell></cell><cell></cell><cell>N = 127</cell><cell>Mostly students</cell><cell>(Female n = 92)</cell><cell></cell><cell></cell><cell>N = 80</cell><cell>Instagram users</cell><cell>(Female n = 40)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>N = 130</cell><cell>Community and</cell><cell>student participants</cell><cell>(Female n = 102.5)</cell><cell>N = 78</cell><cell>Opportunity sample</cell><cell>(Female n = 43)</cell></row><row><cell>Study</cell><cell></cell><cell></cell><cell></cell><cell>Anrijs et al.,</cell><cell>2018</cell><cell>Belgium</cell><cell></cell><cell></cell><cell>Brown &amp;</cell><cell>Kuss, 2020</cell><cell>United</cell><cell>Kingdom</cell><cell></cell><cell>Dunican</cell><cell>et al., 2017</cell><cell>Australia</cell><cell></cell><cell></cell><cell>Eide et al.,</cell><cell>2018</cell><cell>Norway</cell><cell></cell><cell></cell><cell>Fioravanti</cell><cell>et al., 2019</cell><cell>Italy</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Hall et al.,</cell><cell>2019</cell><cell>United States</cell><cell>of America</cell><cell>Hanley et al.,</cell><cell>2019</cell><cell>Australia</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>(Continued)   </figDesc><table><row><cell>+, no effect</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(Continued)</cell></row><row><cell>Participants in mild and moderate depression symptomology</cell><cell>groups significantly reduced their smartphone use</cell><cell>Low group: improvements in self-regulation; no other</cell><cell>changes in psychological outcomes</cell><cell>Mild-moderate group: reductions in depression symptoms,</cell><cell>perceived stress; improvements in flourishing, and sleep</cell><cell>quality; no reductions in anxiety, or improvements in</cell><cell>self-regulation</cell><cell>Low anxiety symptomology participants: reduction</cell><cell>of smartphone use and increased self-regulation;</cell><cell>Mild-moderate anxiety symptoms participants: reduction</cell><cell>of anxiety, and improvements in sleep quality</cell></row><row><cell>•</cell><cell></cell><cell>•</cell><cell></cell><cell>•</cell><cell></cell><cell></cell><cell></cell><cell>•</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Sleep Quality (Pittsburgh Sleep</cell><cell>Quality Index)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>•</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 1 .</head><label>1</label><figDesc>(Continued)   If not mentioned otherwise, the digital detox intervention was instructed for the complete duration of the intervention period. 2</figDesc><table><row><cell>Study Sample Design Digital detox: Duration 1 Main outcome variable(s) (Type of Main findings Categorization</cell><cell>Content to disconnect assessment) of results</cell><cell>from Type of</cell><cell>assessment 2</cell><cell>Vally &amp; N = 78 Pre-test -followed by • 7 days • Stress (PSS) • Participants in the EG reported lower levels of subjective -, no effect</cell><cell>D'Souza, University students a 7-day intervention • Social media use • Well-being (SWLS) well-being compared to the CG</cell><cell>2019 (Female n = 41) period -Post-test • PANAS • Participants in the EG reported higher levels of negative</cell><cell>United Arab • Loneliness (SELSA-S) affect compared to the CG</cell><cell>Emirates • No significant difference was found for positive affect or</cell><cell>perceived stress (despite a decline in the experimental</cell><cell>group)</cell><cell>• No moderating effect regarding use frequency or active/</cell><cell>passive use was found</cell><cell>Vanman N = 138 Pre-test -followed by • 5 days • Stress (PSS) • Participants in the EG reported more negative words, ±, no effect</cell><cell>et al., 2018 Active Facebook a 5-day intervention • Facebook • Well-being (SWLS) compared to the CG regarding the anticipation of the</cell><cell>Australia users period -Post-test • PANAS next five days</cell><cell>(Female n = 54) • Loneliness (SELSA-S) • EG reported lower life satisfaction over time</cell><cell>• Cortisol measure • No effect of the intervention on perceived stress, PANAS,</cell><cell>and SELSA-S</cell><cell>• EG showed a decline in cortisol levels compared to the</cell><cell>CG</cell><cell>Wilcockson N = 45 Baseline 1 week before • 24 hours • Mood (BMIS) • No significant main effect of session on mood or anxiety -, no effect</cell><cell>et al., 2019 Psychology students plus directly before the • Smartphone usage • Anxiety (STAI-6) • A significant main effect of session was observed on</cell><cell>United (Female n = 14.85) timeout -followed by • Smartphone secured • Craving (Adapted: Desire of craving. Craving was highest directly after the smartphone</cell><cell>Kingdom 24-hour intervention in a plastic bag Alcohol Questionnaire) abstinence</cell><cell>period -a third and</cell><cell>fourth Post-test</cell><cell>Note. EG = Experimental group; CG = Control group; BDI-II = Beck Depression Inventory; BMIS = Brief Mood Introspection Scale; CASP = Diagnostic Analysis of Nonverbal Behavior</cell><cell>and the Child and Adolescent Social Perception Measure; CES-D = Center for Epidemiologic Studies Depression Scale; FoMO = Fear of Missing Out Scale; HADS = Hospital Anxiety</cell><cell>and Depression Scale; ISEL = Interpersonal Support and Evaluation List; MWB = Warwick-Edinburgh MWB Scale; PANAS = Positive and Negative Affect Schedule; PSS(-10) = Perceived</cell><cell>Stress Scale; PWB = = Social Connectedness Scale -Revised; SELSA-S = Smartphone Addiction Scale; SC = Remote Associates Test; SAS = Ryff Psychological Well-Being Scale; RAT</cell><cell>= Short; 6 = Six); SWLS = Spielberger State-Trait Anxiety Inventory (S = Single Leg Three Hop Test; STAI = Short Form Health 36; SL-THT Social and Emotional Loneliness Scale; SF-36</cell><cell>= Satisfaction with Life Scale; 1</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Radtke et al.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors would like to thank all student assistants for their assistance with the literature search for the manuscript.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The author(s) disclosed receipt of the following financial support for the research, authorship, and/ or publication of this article: this work was funded by the <rs type="funder">Swiss National Science Foundation (SNSF)</rs>. Grant number: <rs type="grantNumber">100019_169781/1</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_uTTW2bm">
+					<idno type="grant-number">100019_169781/1</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contribution</head><p>TR designed the study. All authors contributed to the systematic search and data extraction, as well as the interpretation of the data. Furthermore, all authors helped draft, write, and revise the paper, as well as approve the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p>The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ORCID iD</head><p>Theda Radtke https://orcid.org/0000-0003-1228-1834</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplemental material</head><p>Supplemental material for this article is available online.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author biographies</head><p>Theda Radtke is professor of Health Psychology and Applied Diagnostics at the University of Wuppertal. Her expertise is in theory-and evidence-based health promotion using modern technologies. In her research, she focuses on a healthy approach to digital media use (e.g. digital detox) as well as increasing physical activity.</p><p>Theresa Apel is a research assistant and works as a course coordinator at the University of Witten/ Herdecke. She also supports teaching in educational psychology.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The adoption of mobile phone: How has it changed us socially?</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Addo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Issues in Business Management and Economics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="47" to="60" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Diagnostic and statistical manual of mental disorders</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>American Psychiatric Association</publisher>
+		</imprint>
+	</monogr>
+	<note>5th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Smartphone use and academic performance: A literature review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Amez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baert</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijer.2020.101618</idno>
+		<ptr target="https://doi.org/10.1016/j.ijer.2020.101618" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Educational Research</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page">101618</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">MobileDNA: Relating physiological stress measurements to smartphone usage to assess the effect of a digital detox</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Anrijs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bombeke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Durnez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Van Damme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vanhaelewyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Conradie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>De Marez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">HCI International 2018 -Posters&apos; Extended Abstracts</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Stephanidis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Las Vegas, NV, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Fear of missing out, mental wellbeing, and social connectedness: A seven-day social media abstinence trial</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph17124566</idno>
+		<ptr target="https://doi.org/10.3390/ijerph17124566" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Environmental Research and Public Health</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">4566</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Development and evaluation of smartphone detox program for university students</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Buctot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Park</surname></persName>
+		</author>
+		<idno type="DOI">10.5392/IJoC.2018.14.4.001</idno>
+		<ptr target="https://doi.org/10.5392/IJoC.2018.14.4.001" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Contents</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The Pittsburgh Sleep Quality Index: A new instrument for psychiatric practice and research</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Buysse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Monk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Berman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kupfer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0165-1781(89)90047-4</idno>
+		<ptr target="https://doi.org/10.1016/0165-1781(89)90047-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Research</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="193" to="213" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Conceptualizing effective interventions for smartphone addiction among Korean female adolescents</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chun</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.childyouth.2017.11.013</idno>
+		<ptr target="https://doi.org/10.1016/j.childyouth.2017.11.013" />
+	</analytic>
+	<monogr>
+		<title level="j">Children and Youth Services Review</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="35" to="39" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The extended iSelf: The impact of iPhone separation on cognition, emotion, and physiology</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Clayton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Leshner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Almond</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/jcc4.12109</idno>
+		<ptr target="https://doi.org/10.1111/jcc4.12109" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="119" to="135" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A coefficient of agreement for nominal scales</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/001316446002000104</idno>
+		<ptr target="https://doi.org/10.1177/001316446002000104" />
+	</analytic>
+	<monogr>
+		<title level="j">Educational and Psychological Measurement</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="37" to="46" />
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A global measure of perceived stress</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cohen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kamarck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mermelstein</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/2136404</idno>
+		<ptr target="https://doi.org/10.2307/2136404" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health and Social Behavior</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="385" to="296" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Virtual detox: Inpatient therapy for Internet addicts</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Collier</surname></persName>
+		</author>
+		<idno type="DOI">10.1503/cmaj.109-3051</idno>
+		<ptr target="https://doi.org/doi:10.1503/cmaj.109-3051" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Medical Association Journal</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="page" from="193" to="E194" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Current diagnostic procedures and interventions for gaming disorders: A systematic review</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2019.00578</idno>
+		<ptr target="https://doi.org/10.3389/fpsyg.2019.00578" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">578</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Relationship of smartphone use severity with sleep quality, depression, and anxiety in university students</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Demirci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Akgonul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Akpinar</surname></persName>
+		</author>
+		<idno type="DOI">10.1556/2006.4.2015.010</idno>
+		<ptr target="https://doi.org/doi:10.1556/2006.4.2015.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Behavioral Addictions</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="85" to="92" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Mobile technology and the tourist experience: (Dis)connection at the campsite</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Dickinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Hibbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Filimonau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tourism Management</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="193" to="201" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The satisfaction with life scale</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Emmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Larsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Griffin</surname></persName>
+		</author>
+		<idno type="DOI">10.1207/s15327752jpa4901_13</idno>
+		<ptr target="https://doi.org/10.1207/s15327752jpa4901_13" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality Assessment</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="71" to="75" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Smartphone addiction, daily interruptions and self-reported productivity</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Dienlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Johannes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Montag</surname></persName>
+		</author>
+		<idno type="DOI">10.31887/DCNS</idno>
+		<ptr target="https://doi.org/10.1016/j.abrep.2017.07.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Dialogues in Clinical Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="90" to="95" />
+			<date type="published" when="2017">2020. 2017</date>
+		</imprint>
+	</monogr>
+	<note>Addictive Behaviors Reports</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The effects of the removal of electronic devices for 48 hours on sleep in elite judo athletes</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Dunican</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Halson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Reale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Caldwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eastwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename></persName>
+		</author>
+		<idno type="DOI">10.1519/JSC.0000000000001697</idno>
+		<ptr target="https://doi.org/doi:10.1519/JSC.0000000000001697" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Strength &amp; Conditioning Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2832" to="2839" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Smartphone restriction and its effect on subjective withdrawal related scores</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Eide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Aarestad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Andreassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Bilder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pallesen</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2018.01444</idno>
+		<ptr target="https://doi.org/doi:10.3389/fpsyg.2018.01444" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Quality of life enjoyment and satisfaction questionnaire: A new measure</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Endicott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Blumenthal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychopharmacology Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">321</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Felix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dean</surname></persName>
+		</author>
+		<ptr target="https://www.digitaldetox.com/our-story" />
+		<title level="m">Our story, 2 decades in the making</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Taking a short break from Instagram: The effects on subjective well-being</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fioravanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Prostamo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Casale</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2019.0400</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2019.0400" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Experimentally manipulating social media abstinence: results of a four-week diary study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Xing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15213269.2019.1688171</idno>
+		<ptr target="https://doi.org/10.1080/15213269.2019.1688171" />
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychology</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Taking a break: The effect of taking a vacation from Facebook and Instagram on subjective well-being</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hanley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Watt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Coventry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jankowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plos One</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">217743</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Motivating the unmotivated: How can health behavior be changed in those unwilling to change</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Hardcastle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hancox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hattar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Maxwell-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Thøgersen-Ntoumani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Hagger</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyg.2015.00835</idno>
+		<ptr target="https://doi.org/doi:10.3389/fpsyg.2015.00835" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychology</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">835</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The impact of frequent social internet consumption: Increased procrastination and lower life satisfaction</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hinsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Sheldon</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cb.1453</idno>
+		<ptr target="https://doi.org/doi:10.1002/cb.1453" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Consumer Behaviour</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="496" to="505" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">No more FOMO: Limiting social media decreases loneliness and depression</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Marx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lipson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Young</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/jscp.2018.37.10.751</idno>
+		<ptr target="https://doi.org/doi:10.1521/jscp.2018.37.10.751" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="751" to="768" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Effects of smartphone overuse on hand function, pinch strength, and the median nerve</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>İnal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Demirci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Çetintürk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Akgönül</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Savaş</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/mus.24695</idno>
+		<ptr target="https://dx.doi.org/10.1002/mus.24695" />
+	</analytic>
+	<monogr>
+		<title level="j">Muscle &amp; Nerve</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="183" to="188" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Social media, interrupted: Users recounting temporary disconnection on Instagram</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jorge</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305119881691</idno>
+		<ptr target="https://doi.org/10.1177/2056305119881691" />
+	</analytic>
+	<monogr>
+		<title level="j">Social Media + Society</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Effects of an appbased intervention on problematic smartphone use: Randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Keller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roitzheim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Radtke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schenkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schwarzer</surname></persName>
+		</author>
+		<ptr target="https://preprints.jmir.org/preprint/26397" />
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">JMIR Preprints</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Policy and prevention approaches for disordered and hazardous gaming and internet use: An international perspective</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Delfabro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yim Dho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M S</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pallesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mentzoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Carragher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sakuma</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11121-017-0813-1</idno>
+		<ptr target="https://doi.org/10.1007/s11121-017-0813-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Preventive Science</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="233" to="249" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Standard quality assessment criteria for evaluating primary research papers from a variety of fields</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Kmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Heizmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jeong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yatani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Chung</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/2675133.2675244</idno>
+		<ptr target="https://doi.org/10.1145/2675133.2675244" />
+	</analytic>
+	<monogr>
+		<title level="m">18th ACM Conference</title>
+		<meeting><address><addrLine>Vancouver, BC, Canada</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004">2004. 2015. March 14-18</date>
+		</imprint>
+	</monogr>
+	<note>NUGU: A group-based intervention app for improving selfregulation of limiting smartphone use. Conference presentation</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A guideline of selecting and reporting intraclass correlation coefficients for reliability research</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Koo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.Jcm.2016.02.012</idno>
+		<ptr target="https://doi.org/10.1016/j.Jcm.2016.02.012" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Chiropractic Medicine</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="155" to="163" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Paradoxes of digital dis/engagement: A follow up study (businesses and services)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kuntsman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Miyake</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Working Papers of the Communities &amp; Culture Network</title>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The relationship between cell phone use, academic performance, anxiety, and satisfaction with life in college students</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lepp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Barkley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Karpinski</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.10.049</idno>
+		<ptr target="https://doi.org/doi:10.1016/j.chb.2013.10.049" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="343" to="350" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The relationship between cell phone use, physical and sedentary activity, and cardiorespiratory fitness in a sample of U.S. college students</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lepp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Barkley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Sanders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rebold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gates</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1479-5868-10-79</idno>
+		<ptr target="https://doi.org/doi:10.1186/1479-5868-10-79" />
+	</analytic>
+	<monogr>
+		<title level="j">The International Journal of Behavioral Nutrition and Physical Activity</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">79</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Liao</surname></persName>
+		</author>
+		<title level="m">Put your smartphone down: Preliminary evidence that reducing smartphone use improves psychological well-being in people with poor mental health</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Otago</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Unpublished master thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Markowetz</surname></persName>
+		</author>
+		<title level="m">Digitaler Burnout. Warum unsere permanente Smartphone Nutzung gefährlich ist [Digital burnout: Why our permanent smartphone use is dangerous</title>
+		<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<publisher>Droemer HC</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">The experience and meta-experience of mood</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">N</forename><surname>Gaschke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="102" to="111" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Technoference: Parent distraction with technology and associations with child behavior problems</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Mcdaniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Radesky</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/cdev.12822</idno>
+		<ptr target="https://doi.org/10.1111/cdev.12822" />
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="100" to="109" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Computer-mediated communication, social media, and mental health: A conceptual and empirical meta-review</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Meier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Reinecke</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0093650220958224</idno>
+		<ptr target="https://doi.org/10.1177/0093650220958224" />
+	</analytic>
+	<monogr>
+		<title level="j">Communication Research</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The behavior change technique taxonomy (v1) of 93 hierarchically-clustered techniques: Building an international consensus for the reporting of behavior change interventions</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Michie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Abraham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Francis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hardeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Eccles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Wood</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12160-013-9486-6</idno>
+		<ptr target="https://doi.org/10.1007/s12160-013-9486-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Behavioral Medicine</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="81" to="95" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">PICO worksheet and search strategy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>US National Center for Dental Hygiene Research</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rollnick</surname></persName>
+		</author>
+		<title level="m">Motivational interviewing: Preparing people for change</title>
+		<imprint>
+			<publisher>Guilford Press</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>3rd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Liberati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tetzlaff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Prisma</forename><surname>The</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Group</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pmed1000097NationalDayofUnplugging</idno>
+		<ptr target="https://www.nationaldayofun-plugging.com/" />
+	</analytic>
+	<monogr>
+		<title level="m">National Day of Unplugging</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1000097</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Third-person perspective on phubbing: observing smartphone-induced social exclusion generates negative affect, stress, and derogatory attitudes</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Nuñez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Radtke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eimler</surname></persName>
+		</author>
+		<idno type="DOI">10.5817/CP2020-3-3</idno>
+		<ptr target="https://doi.org/10.5817/CP2020-3-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology: Journal of Psychosocial Research on Cyberspace</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Social media usage, perceived teamefficacy and knowledge sharing behaviour among employees of an oil and gas organisation in Malaysia</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Omar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Dahalan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H M</forename><surname>Yusoff</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S2212-5671(16)30130-7</idno>
+		<ptr target="https://doi.org/10.1016/S2212-5671(16)30130-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Procedia Economics and Finance</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="309" to="316" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Screens, teens, and psychological well-being: Evidence from three time-use-diary studies</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Orben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0956797619830329</idno>
+		<ptr target="https://doi.org/10.1177/0956797619830329" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="682" to="696" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The association between adolescent well-being and digital technology use</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Orben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41562-018-0506-1</idno>
+		<ptr target="https://doi.org/10.1038/s41562-018-0506-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Human Behaviour</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="173" to="182" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<ptr target="http://www.oxford-dictionaries.com/definition/english/digital-detox" />
+		<title level="m">Definition of digital detox in English</title>
+		<imprint>
+			<publisher>Oxford Dictionaries</publisher>
+			<date type="published" when="2019-01-30">2019, January 30</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Price</surname></persName>
+		</author>
+		<title level="m">How to break up with your phone</title>
+		<imprint>
+			<publisher>Ten Speed Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Motivational, emotional, and behavioral correlates of fear of missing out</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Murayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>De Haan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gladwell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.02.014</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2013.02.014" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1841" to="1848" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Generation &quot;always on&quot; turned off: Effects of smartphone separation on anxiety mediated by the fear of missing out</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Muench</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Breitenbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carolus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">HCI International 2018 -Posters&apos; Extended Abstracts</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Stephanidis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Las Vegas, NV, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="436" to="443" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">A two-process view of Facebook use and relatedness need-satisfaction: Disconnection drives use, and connection rewards it</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Sheldon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Abad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hinsch</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0022407</idno>
+		<ptr target="https://doi.org/10.1037/a0022407" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="766" to="775" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">24/6: The power of unplugging one day a week</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shlain</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Gallery Books</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Compulsive digital gaming: An emerging mental health disorder in children</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Singh</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12098-018-2785-y</idno>
+		<ptr target="https://doi.org/10.1007/s12098-018-2785-y" />
+	</analytic>
+	<monogr>
+		<title level="j">The Indian Journal of Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="171" to="173" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">To text or not to text? The importance of text messaging among college-aged youth</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Skierkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Wood</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2011.11.023</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2011.11.023" />
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="74" to="756" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Spielberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Gorsuch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Lushene</surname></persName>
+		</author>
+		<title level="m">Manual for the State-Trait Anxiety Inventory</title>
+		<imprint>
+			<publisher>Consulting Psychologists Press</publisher>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<ptr target="https://de.statista.com/statistik/daten/studie/181086/umfrage/die-weltweit-groessten-social-net-works-nach-anzahl-der-user/" />
+		<title level="m">Social Networks mit den meisten Nutzern weltweit</title>
+		<imprint>
+			<publisher>Statista</publisher>
+			<date type="published" when="2020-08-14">2020, 14 August. 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">A week without using social media: Results from an ecological momentary intervention study using smartphones</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stieger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lewetz</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2018.0070</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2018.0070" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Caught in the net&quot;: Online and social media disappointment and detox</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Syvertsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-319-46499-2_5</idno>
+		<ptr target="https://doi.org/10.1007/978-3-319-46499-2_5" />
+	</analytic>
+	<monogr>
+		<title level="j">Media Resistance</title>
+		<imprint>
+			<biblScope unit="page" from="77" to="97" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Digital detox: Media resistance and the promise of authenticity</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Syvertsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Enli</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1354856519847325</idno>
+		<ptr target="https://doi.org/10.1177/1354856519847325" />
+	</analytic>
+	<monogr>
+		<title level="j">Convergence</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">The Warwick-Edinburgh Mental Well-being Scale (WEMWBS): Development and UK validation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tennant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fishwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Platt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Joseph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Parkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Secker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stewart-Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1477-7525-5-63</idno>
+		<ptr target="https://doi.org/10.1186/1477-7525-5-63" />
+	</analytic>
+	<monogr>
+		<title level="j">Health and Quality of Life Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">63</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Mobile phone use and mental health: A review of the research that takes a psychological perspective on exposure</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thomée</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph15122692</idno>
+		<ptr target="https://doi.org/doi:10.3390/ijerph15122692" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Environmental Research and Public Health</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2018">2018. 2692</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">The Facebook experiment: Quitting Facebook leads to higher levels of wellbeing</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tromholt</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2016.0259</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2016.0259" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Effect of abstinence from social media on time perception: Differences between low-and at-risk for social media &quot;addiction&quot; groups</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Turel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cavagnaro</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11126-018-9614-3</idno>
+		<ptr target="https://doi.org/10.1007/s11126-018-9614-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatric Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Short abstinence from online social networking sites reduces perceived stress, especially in excessive users</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Turel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Cavagnaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Meshi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.psychres.2018.11.017</idno>
+		<ptr target="https://doi.org/doi:10.1016/j.psychres.2018.11.017" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Research</title>
+		<imprint>
+			<biblScope unit="volume">270</biblScope>
+			<biblScope unit="page" from="947" to="953" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Studies on the relationship between social anxiety and excessive smartphone use and on the effects of abstinence and sensation seeking on excessive smartphone use</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Turgeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hefner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bazon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Yehoshua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Weinstein</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph17041262</idno>
+		<ptr target="https://doi.org/10.3390/ijerph17041262" />
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Environmental Research and Public Health</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">1262</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Abstinence from social media use, subjective well-being, stress, and loneliness</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Vally</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Souza</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ppc.12431</idno>
+		<ptr target="https://doi.org/10.1111/ppc.12431" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatric Care</title>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">The burden of online friends: The effects of giving up Facebook on stress and well-being</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vanman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tobin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00224545.2018.1453467</idno>
+		<ptr target="https://doi.org/10.1080/00224545.2018.1453467" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="496" to="508" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Perceived psychotherapist&apos;s empathy and therapy motivation as determinants of long-term therapy success -results of a cohort study of short term psychodynamic inpatient psychotherapy</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vitinius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tieden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hellmich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Pfaff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Albus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ommen</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fpsyt.2018.00660</idno>
+		<ptr target="https://doi.org/10.3389/fpsyt.2018.00660" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Development and validation of brief measures of positive and negative affect: The PANAS scales</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tellegen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-3514.54.6.1063</idno>
+		<ptr target="https://doi.org/10.1037/0022-3514.54.6.1063" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1063" to="1070" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Digital detox: The effect of smartphone abstinence on mood, anxiety, and craving</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D W</forename><surname>Wilcockson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Ellis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.addbeh.2019.06.002</idno>
+		<ptr target="https://doi.org/doi:10.1016/j.addbeh.2019.06.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Addictive Behaviors</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page">106265</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<ptr target="https://icd.who.int/browse11/l-m/en" />
+		<title level="m">International classification of diseases for mortality and morbidity statistics (11th Revision)</title>
+		<imprint>
+			<publisher>World Health Organization</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Food addiction: Evidence, evaluation, and treatment</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Yau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Gottlieb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Krasna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Potenza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Behavioral addictions: Criteria, evidence and treatment</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Rosenberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Feder</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="143" to="184" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">The Hospital Anxiety and Depression Scale</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Zigmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Snaith</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1600-0447.1983.tb09716.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1600-0447.1983.tb09716.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Acta Psychiatrica Scandinavicq</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="361" to="370" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">Post-doc and docent at the University of Zurich. He teaches and conduct research on health behavior and health behavior changes. For the past few years, his research focus is on the impact of digital technology use and physical inactivity</title>
+		<author>
+			<persName><forename type="first">Konstantin</forename><surname>Schenkel</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jan</forename><surname>Keller</surname></persName>
+		</author>
+		<title level="m">Post-doc and docent at the Freie Universität Berlin. He teaches and conduct research on health behavior and health behavior changes</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">His research focusses restorative environments research, health promotion, experience of protected areas, national parks and wilderness, analyzing geospatial data, as well as intervention and communication design aiming at promoting sustainable behavior</title>
+		<author>
+			<persName><surname>Eike Von</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lindern is co-founder of Dialog N -Research and Communication for People, Environment and Nature and holds a PhD in environmental psychology</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

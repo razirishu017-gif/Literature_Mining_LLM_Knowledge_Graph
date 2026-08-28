@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">93095329B4DBA2408154978364182D8B</idno>
+					<idno type="DOI">10.1016/j.adolescence.2016.05.008)</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Social media</term>
+					<term>adolescence</term>
+					<term>sleep</term>
+					<term>anxiety</term>
+					<term>depression</term>
+					<term>self-esteem</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study examined how social media use related to sleep quality, self-esteem, anxiety and depression in 467 adolescents. We measured overall social media use, nighttime-specific social media use, emotional investment in social media, sleep quality, self-esteem and levels of anxiety and depression. Adolescents who used social media more -both overall and at night -and those who were more emotionally invested in social media experienced poorer sleep quality, lower self-esteem and higher levels of anxiety and depression. Nighttime-specific social media use predicted poorer sleep quality after controlling for anxiety, depression and self-esteem. These findings contribute to the growing body of evidence that social media use is related to various aspects of wellbeing in adolescents. In addition, our results indicate that nighttime-specific social media use and emotional investment in social media are two important factors that merit further investigation in relation to adolescent sleep and wellbeing.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Social media sites -such as Facebook and Twitter -have rapidly become a central part of young people's lives, with over 90% now using social media, day and night <ref type="bibr" target="#b11">(Duggan &amp; Smith, 2013)</ref>. Evidence is increasingly supporting a link between social media use and various aspects of adolescent wellbeing, including sleep and mental health (e.g. <ref type="bibr" target="#b13">Espinoza, 2011;</ref><ref type="bibr" target="#b14">Farahani, Kazemi, Aghamohamadi, Bakhtiarvand &amp; Ansari, 2011;</ref><ref type="bibr" target="#b30">Pantic et al., 2012)</ref>. Poor sleep quality is prevalent in adolescents <ref type="bibr">(Telzer, Fulgini, Lieberman &amp; Galván, 2013)</ref>, and is known to contribute to depression, anxiety and low self-esteem <ref type="bibr" target="#b0">(Alfano, Zakem, Costa, Taylor &amp; Weems, 2009;</ref><ref type="bibr" target="#b16">Fredriksen, Rhodes, Reddy &amp; Way, 2004)</ref>. Since adolescence is a period of increased vulnerability for low self-esteem and the onset of depression and anxiety <ref type="bibr" target="#b29">(Orth, Maes &amp; Schmitt, 2015;</ref><ref type="bibr" target="#b28">McLaughlin &amp; King, 2015)</ref>, it is essential to understand how social media use relates to these factors. The present study makes a novel contribution to the literature by examining how overall vs. nighttime-specific social media use and emotional investment in social media relate to sleep quality, anxiety, depression and self-esteem in adolescents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social media and sleep quality</head><p>There is a substantial body of evidence linking poor sleep to computer and Internet use in general, with only a small number of recent studies examining social media use specifically. Increased Internet use is associated with shorter sleep duration <ref type="bibr" target="#b17">(Garmy, Nyberg &amp; Jakobsson 2012;</ref><ref type="bibr" target="#b31">Pea et al., 2012)</ref>; later bedtimes and rise times (Van den <ref type="bibr" target="#b40">Bulck, 2004;</ref><ref type="bibr" target="#b33">Shochat, Flint-Bretler &amp; Tzischinsky, 2010;</ref><ref type="bibr" target="#b17">Garmy et al., 2012)</ref>; longer sleep latencies <ref type="bibr" target="#b33">(Shochat et al., 2010)</ref>; and increased daytime tiredness in adolescents <ref type="bibr" target="#b17">(Garmy et al., 2012;</ref><ref type="bibr" target="#b40">Van den Bulck, 2004)</ref>. Concerning social media in particular, <ref type="bibr" target="#b13">Espinoza (2011)</ref> surveyed 268 young adolescents and found that 37% reported losing sleep due to the use of social networking sites. However, as a relatively recent phenomenon, social media has yet to be extensively researched. To address this gap in the literature, the present study will examine how adolescents' sleep quality relates to social media use specifically. It is expected that greater social media use will be associated with poorer sleep quality, in line with previous findings on general Internet use.</p><p>Previous findings on Internet use in general are certainly relevant when considering social media use specifically, as young people spend 54% of their time online using social media <ref type="bibr" target="#b37">(Thompson &amp; Lougheed, 2012)</ref>. However, unlike other uses of the Internet, social media involves incoming alerts at all times of the day. This unique feature of social media is particularly relevant to sleep quality for two reasons. Firstly, incoming alerts during the night have the potential to disturb sleep, as 86% of adolescents sleep with their phone in the bedroom -often under their pillow or in their hand <ref type="bibr" target="#b27">(Lenhart, Ling, Campbell &amp; Purcell, 2010)</ref>. A quarter of adolescents report sleep interruptions from incoming text messages ( <ref type="bibr" target="#b41">Van den Bulck, 2003)</ref> and social media alerts are likely to cause similar sleep disturbances. Secondly, constant incoming alerts create considerable pressure to be available 24/7 and contribute to a fear of missing out <ref type="bibr" target="#b36">(Thomée, Dellve, Harenstam &amp; Hagberg, 2010)</ref>. Young adults experience considerable anxiety when their access to texting is restricted and report feeling stressed and guilty when they do not reply to a message immediately <ref type="bibr" target="#b34">(Skierkowski &amp; Wood, 2012;</ref><ref type="bibr" target="#b36">Thomée et al., 2010)</ref>. It is therefore possible that young people struggle to relax at bedtime due to anxiety at missing out on new messages or content. These unique aspects of social media use provide further reason to expect a link with poor sleep quality.</p><p>Sleep interruptions from alerts and anxiety at missing out on new content are just two of the many possible mechanisms underlying a link between social media use and poor sleep. <ref type="bibr" target="#b6">Cain and Gradisar (2010)</ref> outlined a number of possible mechanisms for the observed link between electronic media use and poor sleep, including reduced overall levels of physical activity and digital screen exposure before bedtime interfering with melatonin production and delaying circadian rhythms. The approach adopted here will contribute to our current understanding of the mechanisms underlying a link between social media use and poor sleep, by examining overall vs. nighttime-specific use and emotional investment in social media, which includes feeling upset or disconnected when unable to access social media accounts. For example, an association between poor sleep quality and overall social media use would support the role of a less physically active lifestyle. In contrast, a stronger relationship with nighttime-specific use would point towards sleep interruptions from alerts or disrupted circadian rhythms from digital screen exposure at bedtime.</p><p>Alternatively, an association between poor sleep and emotional investment in social media would suggest that anxiety at missing out on new content means that young people struggle to relax at bedtime. Therefore, by examining the timing of social media use and the level of emotional investment in social media -as opposed to simply the daily duration of use -this study aims to inform our understanding of the mechanisms underlying a link between social media and poor sleep.</p><p>In line with previous findings on Internet use in general, it is expected that greater social media use -both overall and specifically at night -will be associated with poorer sleep quality. It is also expected that higher levels of emotional investment in social media -which includes distress at being unable to log on -will be associated with poorer sleep.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social media and psychological wellbeing</head><p>Since poor sleep is known to contribute to anxiety, depression and low self-esteem during adolescence <ref type="bibr" target="#b0">(Alfano et al., 2009;</ref><ref type="bibr" target="#b16">Fredriksen et al., 2004)</ref>, this study also examines how adolescents' social media use relates to these aspects of psychological wellbeing. Adolescence is a vulnerable period where individuals are at risk for low self-esteem <ref type="bibr" target="#b29">(Orth, Maes &amp; Schmitt, 2015)</ref> and the onset of anxiety and depression <ref type="bibr" target="#b28">(McLaughlin &amp; King, 2015.)</ref>. Therefore, it is crucial that we explore how adolescents' social media use relates to psychological wellbeing. With an apparent link between social media use and poor sleep -which in turn is known to contribute to anxiety, depression and low self-esteem <ref type="bibr" target="#b0">(Alfano et al., 2009;</ref><ref type="bibr" target="#b16">Fredriksen et al., 2004</ref>) -we need to examine these factors together and explore how they are related.</p><p>This study extends previous work by examining how anxiety, depression and selfesteem relate not only to social media use in general, but also nighttime-specific use and emotional investment in social media.</p><p>Previous studies have reported that adolescents who spend more time online and using social media sites tend to experience higher levels of anxiety and depression <ref type="bibr" target="#b2">(Banjanin, Banjanin, Dimitrijevic &amp; Pantic, 2015;</ref><ref type="bibr" target="#b14">Farahani et al., 2011;</ref><ref type="bibr" target="#b30">Pantic et al., 2012)</ref>. We therefore expect that social media use will be associated with increased anxiety and depression in the present study. Furthermore, social media -unlike other Internet or computer use -is unique in the social pressure it creates to be available at all times and respond to messages and new content immediately <ref type="bibr" target="#b36">(Thomée et al., 2010)</ref>. Young adults in particular report considerable anxiety when their access to text-based communication is restricted <ref type="bibr" target="#b34">(Skierkowski &amp; Wood, 2012)</ref>. We therefore expect that emotional investment in social media -which includes feeling upset and disconnected from others when unable to access social media sites -will be associated with higher anxiety and depression levels.</p><p>Finally, previous studies have highlighted links between social media use and selfesteem levels: receiving positive or negative feedback on an online profile can increase or decrease self-esteem accordingly <ref type="bibr" target="#b39">(Valkenburg, Peter &amp; Schouten, 2006)</ref>, while viewing one's own profile has been shown to increase self-esteem <ref type="bibr" target="#b19">(Gonzales &amp; Hancock, 2011)</ref>. In contrast, more frequent Facebook use has been linked to lower self-esteem in adults, due to increased exposure to upward social comparisons <ref type="bibr" target="#b44">(Vogel, Rose, Roberts &amp; Eckles, 2014)</ref>. Since the available evidence on self-esteem and social media use provides a complex picture, this study will explore whether social media use is associated with self-esteem levels in adolescence, without predicting whether the association will be positive or negative. It is possible that interpersonal feedback and social comparisons via social media will have a stronger effect on self-esteem levels of adolescents who feel a strong emotional connection to social media sites. This study will therefore also explore whether levels of emotional investment in social media are related to self-esteem levels, again without predicting whether this association will be positive or negative. We hypothesise that there will be an association between self-esteem and levels of social media use and emotional investment in social media.</p><p>Based on the research conducted to date, we expect that greater overall social media use will be associated with poorer sleep quality and higher levels of anxiety and depression. In addition, a novel contribution of this study will be to examine adolescents' nighttime-specific social media use and emotional investment in social media, both of which are expected to be related to poorer sleep quality and increased anxiety and depression levels. We will also explore whether overall use, nighttimespecific use and emotional investment are related to self-esteem levels in adolescents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants and procedure</head><p>Participants were 467 secondary school pupils, aged 11-17 years. Pupils in 1 st to 4 th year (aged 11-15) completed questionnaires in class, either in pencil-and-paper form or online, hosted by qualtrics.com. Participants were briefed and gave written consent to participate either with a signed consent form (for those completing paper questionnaires) or using an onscreen tick box at the start of the online survey. When required, the researcher and class teacher provided language support to pupils who spoke English as a second language. Pupils were debriefed and encouraged to speak to their assigned pastoral care teacher (responsible for dealing with any issues relating to pupil wellbeing) about any concerns about their mood, self-esteem or sleep. Pupils in 5 th and 6 th year (aged 15-17) completed the online questionnaire hosted by qualtrics.com outside of class, via a link circulated by the school. Parents had been informed about the study in advance by a letter from the school, with the opportunity to withdraw their child from the study. Ethical approval was granted by the relevant City Council.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Poor sleep quality</head><p>Poor sleep quality was assessed using the Pittsburgh Sleep Quality Index (PSQI; <ref type="bibr" target="#b5">Buysse, Reynolds, Monk, Berman &amp; Kupfer, 1989)</ref>. This measure consists of 19 selfrated items, which are combined to give seven component scores from 0-3 points, where 0 indicates no difficulty and 3 indicates severe difficulty. These seven component scores are combined to provide a global score of 0-21, where higher scores indicate poorer sleep quality and a score greater than 5 distinguishes poor sleepers from good sleepers. The measure is commonly used with adolescents, as well as adults, and has a Cronbach's alpha of .72 in adolescents and young adults (De la <ref type="bibr" target="#b8">Vega et al., 2015)</ref>. In the current sample, Cronbach's alpha was .76.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Anxiety and depression</head><p>The Hospital Anxiety and Depression Scale (HADS; <ref type="bibr" target="#b46">Zigmond &amp; Snaith, 1983</ref>) was used to assess anxiety and depression levels. Two subscales, each consisting of 7 items scored from 0-3, give two overall scores of 0-21 for anxiety and depression levels. Those scoring 8 or above on the relevant subscale are classed as anxious or depressed accordingly. The HADS has been validated for use with adolescents <ref type="bibr" target="#b45">(White, Leach, Sims, Atkinson &amp; Cottrell, 1999)</ref> and has high reliability (Cronbach's alpha = .88; <ref type="bibr">Kjaergaard, Wang, Waterloo &amp; Jorde, 2014)</ref>. Both subscales had good reliability in the current sample, with Cronbach's alphas of .80 and .72 for anxiety and depression, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Self-esteem</head><p>The Rosenberg Self-Esteem Scale (RSES; <ref type="bibr" target="#b32">Rosenberg, 1965)</ref> was used to assess trait self-esteem. Participants rated 8 statements on a 4-point Likert scale from "strongly disagree" to "strongly agree". <ref type="bibr" target="#b32">Rosenberg (1965)</ref> did not set a cut-off score and the scale is used as a continuous measure, where higher scores indicate higher selfesteem. The measure has been found to have good reliability in older adolescents and young adults (Cronbach's alpha = .86; <ref type="bibr" target="#b38">Tinakon &amp; Nahathai, 2012)</ref>. Similarly, Cronbach's alpha was .83 in the current study, indicated high reliability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Emotional investment in social media</head><p>To assess emotional investment in social media, we used a slight modification of the Social Integration and Emotional Connection subscale of the Social Media Use Integration Scale (Jenkins-Guarnieri, Wright &amp; Johnson, 2013), whose authors report good reliability with Cronbach's alpha of .89. For use in the current study, "social media" replaced "Facebook" in the six items, which included "I get upset when I can't log on to social media". Items were rated on a 5-point Likert scale from "strongly disagree" to "strongly agree", such that a higher overall score indicated a greater level of emotional investment. This was a reliable measure in the current sample (Cronbach's alpha = .78).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overall and nighttime-specific social media use</head><p>The authors of the current study developed two measures to assess levels of social media use. The first measured overall social media use and consisted of 6 questions on: the frequency and duration of social media use; the spread of social media use throughout the day; the number of different social media sites and devices (PC, phone etc.) used. Items included "How often do you use social media?" (6-point scale from "Less than once a month" to "Daily") and "How many hours do you use social media on a typical day?" (6-point scale from "Less than 1 hour" to "6+ hours").</p><p>The second measured nighttime-specific social media use and consisted of 7 questions on: the frequency of social media use shortly before bed, in bed and intending to go to sleep; the duration of social media use after bedtime; perceived sleep delays due to social media; the frequency and duration of sleep disturbances from social media alerts. Items included "How often during the last month have you used social media in bed?" (6-point scale from "Never" to "Daily") and "How often do social media alerts wake you up when you are asleep?" (6-point scale from "Never" to "More than once a night"). Each scale gave an overall score of 0-31, where higher scores indicated higher levels of social media use. Cronbach's alphas were .65 and .78 for overall and nighttime-specific social media use, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Mean scores and standard deviations for each measure are presented in Table <ref type="table" target="#tab_0">1</ref>. 97% of participants indicated that they used social media. 35% of participants were classed as poor sleepers, with a PSQI score greater than 5 <ref type="bibr" target="#b5">(Buysse et al., 1989)</ref>. PSQI scores were positively skewed, so were transformed -by taking log10(score+1) -to meet normality assumptions for all further analysis. 47% of participants were classed as anxious and 21% as depressed, according to the HADS cut-off score of 8 or above <ref type="bibr" target="#b46">(Zigmond &amp; Snaith, 1983)</ref>.</p><p>Table 2 presents the correlations between variables. All hypotheses were supported by significant correlation coefficients that indicate small to moderate effect sizes. In line with our predictions concerning social media use and sleep, poorer sleep quality was associated with increased levels of overall social media use, r = .24, p &lt; .001, nighttime-specific social media use, r = .34, p &lt; .001, and emotional investment in social media, r = .28, p &lt; .001. In line with hypotheses concerning anxiety, higher anxiety levels were also associated with greater overall social media use, r = .21, p &lt; .001, nighttime-specific social media use, r = .27, p &lt; .001, and emotional investment in social media, r = .32, p &lt; .001. Similarly, higher depression levels were associated with increased overall social media use, r = .11, p &lt; .01, nighttime-specific social media use, r = .21, p &lt; .001, and emotional investment in social media r = .24, p &lt; .01. Finally, our hypotheses on social media use and self-esteem were supported. The relationship between self-esteem and social media use was found to be negative, such that lower self-esteem scores were associated with higher levels of overall social media use, r = -.17, p &lt; .001, nighttime-specific social media use, r = -.17, p &lt; .001, and emotional investment in social media, r = -.24, p &lt; .001. The effect sizes indicated by the reported correlation coefficients indicate that poor sleep quality was most strongly associated with nighttime-specific social media use, while anxiety, depression and self-esteem were most strongly associated with emotional investment in social media.</p><p>In addition, consistent with the existing literature, poorer sleep quality was associated with lower self-esteem, r = -.41, p &lt; .001, and increased anxiety and depression levels, r = .53, p &lt; .001; r = .42, p &lt; .001, respectively. Therefore a hierarchical regression was carried out to explore whether social media use significantly predicted poorer sleep quality after accounting for self-esteem, anxiety and depression levels.</p><p>The results are presented in Table <ref type="table">3</ref>.</p><p>In step 1, overall social media use, nighttime-specific social media use and emotional investment in social media were entered. Nighttime-specific use, β = .27, p &lt; .001, and emotional investment, β = .16, p &lt; .01, both significantly predicted poorer sleep quality, together explaining 13.2% of the variance in sleep quality F(3, 425) = 21.5, p &lt; .001. In step 2, anxiety, depression and self-esteem were entered, and the new model explained a total of 35.3% of the variance in sleep quality, F(6, 422) = 38.4, p &lt; .001. Anxiety significantly predicted poorer sleep quality, β = .34, p &lt; .001, as did depression, β = .15, p &lt; .01. Self-esteem was marginally significant as a predictor of better sleep quality, β = -.10, p = .052. Nighttime-specific use remained a significant predictor of poorer sleep quality after entering anxiety, depression and self-esteem, β = .18, p &lt; .01, whereas emotional investment became nonsignificant, β = .02, ns.</p><p>Finally, since sleep is closely linked to anxiety and depression in previous literature <ref type="bibr" target="#b0">(Alfano et al., 2009)</ref> and in our current sample, we examined the relationship between social media use and sleep in groups with elevated anxiety and depression. Although 21% of participants were classed as 'depressed' by the HADS, with a depression score of at least 8, the majority of these scored in the borderline range of 8-10 <ref type="bibr" target="#b46">(Zigmond &amp; Snaith, 1983)</ref>, and so a separate clinical group for depression was not well justified. In contrast, almost half of participants scored 8 or above for anxiety on the HADS, with scores ranging up to 19 out of 21, suggesting substantial dysfunction.</p><p>Table <ref type="table" target="#tab_1">4</ref> presents the results of a hierarchical regression on sleep quality for anxious individuals. In this high anxiety group, nighttime-specific social media use did significantly predict poorer sleep quality in step 1, β = .21, p &lt; .05, but became only marginally significant after including anxiety, depression and self-esteem in step 2, β = .16, p = .06. In the full model, only anxiety and depression significantly predicted poorer sleep quality (β = .20, p &lt; .01 and β = .19, p &lt; .01, respectively), explaining 23.4% of the variance in poor sleep quality.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The aim of this study was to examine how social media use -including nighttimespecific use and emotional investment in social media -relates to sleep quality, selfesteem, anxiety and depression in adolescents. As expected, greater overall social media use, nighttime-specific social media use and emotional investment in social media were each associated with poorer sleep quality and higher levels of anxiety and depression. In addition we found that overall use, nighttime-specific use and emotional investment were each associated with lower self-esteem. Taking the three social media measures together, nighttime-specific social media use and emotional investment in social media significantly predicted poorer sleep quality, whereas overall use did not. Nighttime-specific social media use still predicted poorer sleep quality after controlling for anxiety, depression and self-esteem, whereas the link between emotional investment and poor sleep was mediated by these variables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social media and sleep quality</head><p>Greater overall social media use was associated with poorer sleep quality, in line with previous research that has linked daily duration of Internet use to poor sleep <ref type="bibr" target="#b17">(Garmy et al., 2012;</ref><ref type="bibr" target="#b31">Pea et al., 2012;</ref><ref type="bibr" target="#b33">Shochat et al., 2010;</ref><ref type="bibr" target="#b40">Van den Bulck, 2004)</ref>. However, a novel contribution from the present study was the finding that nighttime-specific social media use and emotional investment in social media were both more strongly related to poor sleep than overall social media use. This suggests that social media use in bed (leading to later bedtimes and shorter sleep duration) and anxiety at not being connected to social media (making it difficult to log out and relax at bedtime) may explain the observed link between social media use and poor sleep, as discussed below.</p><p>Nighttime-specific social media use significantly predicted poorer sleep, whereas overall use did not. This suggests that social media behaviours around bedtime are more important in explaining the link between social media use and poor sleep than general behaviours throughout the day, such as lower levels of physical activity <ref type="bibr" target="#b6">(Cain &amp; Gradisar, 2010)</ref>. Rather, these results are consistent with suggestions that social media use may directly displace sleep or interfere with melatonin production via digital screen exposure at bedtime <ref type="bibr" target="#b6">(Cain &amp; Gradisar, 2010)</ref>. The present findings are also consistent with the idea that social media alerts may interrupt adolescents' sleep, as has been reported with text messages ( <ref type="bibr" target="#b41">Van den Bulck, 2003)</ref>. Whilst these proposed mechanisms assume that social media use causes poorer sleep quality, it is also possible that poor sleepers use social media more as a sleep aid, as adolescents commonly report using computers and TV as sleep aids <ref type="bibr" target="#b12">(Eggermont &amp; Van den Bulck, 2006)</ref>. Longitudinal research is required to examine the direction of this association and further qualitative research is planned to explore how and why adolescents are using social media late at night and how this relates to their sleep and wellbeing.</p><p>Emotional investment in social media also predicted poorer sleep quality. Previous qualitative research has found that young adults experience considerable pressure to be constantly available and reply to messages immediately <ref type="bibr" target="#b36">(Thomée et al., 2010)</ref>.</p><p>Adolescents who are more emotionally connected to social media sites, feeling upset and disconnected when they cannot use social media, may therefore struggle to relax at bedtime for fear of missing out on new messages or content. Emotional investment no longer significantly predicted poorer sleep quality after including anxiety, depression and self-esteem as predictors. This may suggest that a strong emotional connection to social media sites impacts on sleep quality by increasing anxiety, which is known to contribute to poor sleep <ref type="bibr" target="#b10">(Doane, Gress-Smith &amp; Breitenstein, 2015)</ref>.</p><p>Together, the current findings on sleep quality indicate that the timing of adolescents' social media use and the emotional connection they have to sites are more important factors than simply the frequency or duration of social media use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social media and wellbeing</head><p>As expected, overall social media use was associated with higher levels of anxiety and depression, in line with previous findings <ref type="bibr" target="#b2">(Banjanin, Banjanin, Dimitrijevic &amp; Pantic, 2015;</ref><ref type="bibr" target="#b14">Farahani et al., 2011;</ref><ref type="bibr" target="#b30">Pantic et al., 2012)</ref>. As with all of the present findings, the direction of this relationship remains to be established. Anxious adolescents may tend to use social media more, in line with previous findings that those higher in neuroticism prefer social uses of the Internet <ref type="bibr" target="#b20">(Hamburger and Ben-Artzi, 2000)</ref>. Similarly, depressed adolescents may use social media more in order to regulate their low mood, in light of evidence that children and adults use TV viewing for emotional regulation <ref type="bibr" target="#b7">(Chen &amp; Kennedy, 2005;</ref><ref type="bibr" target="#b42">Van Der Goot, Beentjes &amp; Van Selm, 2012)</ref>. However, whilst the direction of the association between social media use and anxiety and depression remains unclear, the current findings clearly suggest that sleep quality is involved in this relationship. The significant associations between nighttimespecific social media use, poor sleep quality and anxiety and depression are in line with the idea that adolescents' late night social media use results in later bedtimes and poorer sleep, which in turn contributes to anxiety and depression <ref type="bibr" target="#b21">(Jackson, Sztendur, Diamond, Byles &amp; Bruck, 2014)</ref>. Equally, since anxiety is known to interfere with sleep <ref type="bibr" target="#b10">(Doane et al., 2015)</ref>, anxious adolescents may use social media more at night when they are unable to sleep. Further research is needed to explore the role of poor sleep in linking social media use and anxiety and depression, and to examine the direction of this relationship. The current study has begun to address how these factors are linked by examining the relationship between social media use and sleep in a separate group with elevated anxiety. Unlike the whole sample, in this high anxiety group nighttime-specific social media use no longer significantly predicted poorer sleep after controlling for anxiety and depression. This highlights the close connections between these factors, as the link between nighttime social media use and poor sleep was explained by anxiety and depression in individuals with elevated anxiety. It is possible that those experiencing poor mental health may turn to social media in bed as a sleep aid or to regulate mood <ref type="bibr" target="#b12">(Eggermont &amp; Van den Bulck, 2006</ref><ref type="bibr" target="#b42">, Van Der Goot et al., 2012)</ref>.</p><p>In addition to this indirect link between social media use and anxiety and depression, mediated by poor sleep, our findings concerning emotional investment in social media also point towards a direct relationship. Emotional investment in social media was most strongly associated with anxiety and depression, compared to overall or nighttime-specific use. This suggests that adolescents who are more emotionally invested in social media sites are at increased risk of anxiety and depression due to the feelings of distress and isolation they experience when they are not connected to social media. This is in line with previous qualitative findings that social pressure to be constantly available led young adults to experience feelings of stress, guilt and isolation when they did not respond to messages immediately <ref type="bibr" target="#b36">(Thomée et al., 2010)</ref>.</p><p>Planned qualitative research will explore adolescents' emotional connection to social media and how this relates to psychological wellbeing.</p><p>As well as increased anxiety and depression, social media use was also related to lower self-esteem, consistent with previous findings that more frequent Facebook use is associated with lower self-esteem <ref type="bibr" target="#b44">(Vogel et al., 2014)</ref>. In the case of self-esteem, previous findings support a direct link with social media use, as receiving negative feedback and engaging in upward social comparisons through social media have both been shown to decrease self-esteem in adolescents <ref type="bibr" target="#b39">(Valkenburg et al., 2006;</ref><ref type="bibr" target="#b44">Vogel et al., 2014)</ref>. The current finding that overall social media use was associated with lower self-esteem may therefore reflect increased exposure to other users' carefully constructed profiles that emphasise their positive characteristics <ref type="bibr" target="#b19">(Gonzales &amp; Hancock, 2011)</ref>, thus diminishing adolescents' own feelings of self-worth. Furthermore, the novel finding that greater emotional investment in social media was associated with lower self-esteem suggests that adolescents who feel a strong emotional connection to social media sites are most at risk. Self-esteem levels of these highly invested individuals may be more vulnerable to upward social comparisons and negative feedback through social media <ref type="bibr" target="#b39">(Valkenburg et al., 2006;</ref><ref type="bibr" target="#b44">Vogel et al., 2014)</ref>.</p><p>As with anxiety and depression, our findings indicate that poor sleep may be involved in the relationship between social media use and low self-esteem. With significant associations between social media use, low self-esteem and poor sleep quality, the current findings suggest that lower levels of self-esteem amongst heavy social media users may be in part due to poorer sleep, which is known to contribute to low selfesteem during adolescence <ref type="bibr" target="#b16">(Fredriksen et al., 2004)</ref>. Further research will provide insight into the underlying mechanisms of the link between self-esteem and social media use, including the role of poor sleep and adolescents' emotional investment in social media sites.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations and future directions</head><p>One limitation of this study's methodology is that participants' gender and age were not recorded or included in analysis. Compared to their male counterparts, female adolescents tend to use social networking sites more <ref type="bibr" target="#b3">(Barker, 2009)</ref>; experience poorer sleep quality <ref type="bibr" target="#b26">(Lazaratou, Dikeos, Anagnostopoulos, Sbokou &amp; Soldatos, 2005)</ref>; have lower self-esteem <ref type="bibr" target="#b1">(Bachman, O'Malley, Freedman-Doan, Trzesniewski &amp; Donnellan, 2011)</ref>; and experience higher levels of anxiety and depression <ref type="bibr" target="#b15">(Faravelli, Scarpato, Castellini &amp; Lo Sauro, 2013;</ref><ref type="bibr" target="#b43">Van Oort, Greaves-Lord, Verhulst, Ormel &amp; Huizink, 2009)</ref>. Similarly, older adolescents tend to use computers more, sleep less and experience higher levels of anxiety and depression than younger adolescents <ref type="bibr" target="#b17">(Garmy, Nyberg &amp; Jakobsson, 2012;</ref><ref type="bibr" target="#b24">Kozina, 2014;</ref><ref type="bibr" target="#b9">De Matos et al., 2008)</ref>. The reported correlations could partly reflect these trends, and further research should explore any gender or age differences in how social media use relates to sleep quality, anxiety, depression and self-esteem across adolescence.</p><p>Another potential issue with the current methodology is that a number of participants were not native speakers of English and some had poor levels of literacy. This may have resulted in less accurate data from certain participants due to poor understanding of questions or increased social desirability bias, especially on sensitive measures concerning mood or self-esteem, when language support was given by a researcher or teacher <ref type="bibr" target="#b25">(Krumpal, 2013)</ref>. However, in line with school policy, support was given to overcome language barriers and avoid excluding pupils from the study.</p><p>Moving forward and building on the present correlational findings, there is a clear need to establish the direction of the various associations reported here. For example, many of the proposed explanations of the observed association between electronic media use and poor sleep assume that media use leads to sleep problems <ref type="bibr" target="#b6">(Cain &amp; Gradisar, 2010)</ref>. However, it is also possible that poor sleep leads to increased media use as a coping strategy or sleep aid <ref type="bibr">(Tavernier &amp; Willoughby, 2013)</ref>. Longitudinal evidence is required to examine the direction of association between social media use and sleep quality, anxiety, depression and self-esteem in adolescence. Such evidence is crucial to improve our understanding of how social media use may impact on adolescent wellbeing, in order to establish healthy social media practices.</p><p>This study is the first to examine how nighttime-specific social media use and emotional investment in social media relate to sleep quality, anxiety, depression and self-esteem in adolescence. Our findings indicate that the timing of social media usespecifically at bedtime and during the night -is an important factor that merits further investigation in relation to adolescents' sleep quality and levels of anxiety and depression. An important novel contribution of this study is the finding that emotional investment in social media is more strongly with anxiety, depression and low selfesteem associated than overall or nighttime-specific social media use. Future qualitative research will be particularly valuable to gain a deeper insight into adolescents' emotional connection to social media sites and to explore how this may impact on wellbeing.</p><p>In conclusion, this study contributes to the growing body of evidence linking social media use to sleep quality, anxiety, depression and self-esteem in adolescents.</p><p>Consistent with previous research, higher levels of social media use were associated with poorer sleep quality, lower self-esteem and increased anxiety and depression. In addition, our findings indicated that nighttime-specific social media use and emotional investment in social media were both associated with poorer sleep quality, lower self-esteem and higher anxiety and depression levels. Nighttime-specific social media use predicted poorer sleep quality, controlling for anxiety, depression and selfesteem. These findings highlight nighttime-specific social media use and emotional investment in social media as important factors that merit further investigation in relation to adolescent wellbeing. Further research is required to examine the direction of these associations and explore the underlying mechanisms. As well as guiding future research, the current findings can inform educational interventions aimed at adolescents and parents, concerning healthy social media practices for sleep and wellbeing.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Means and standard deviations</figDesc><table><row><cell>Variable</cell><cell>M (SD)</cell></row><row><cell>Poor sleep quality</cell><cell>5.28 (3.23)</cell></row><row><cell>Overall social media use</cell><cell>13.64 (4.94)</cell></row><row><cell>Nighttime-specific social media use</cell><cell>12.61 (7.48)</cell></row><row><cell>Emotional investment in social media</cell><cell>16.31 (5.01)</cell></row><row><cell>Self-esteem</cell><cell>14.65 (4.41)</cell></row><row><cell>Anxiety</cell><cell>7.48 (4.24)</cell></row><row><cell>Depression</cell><cell>4.38 (3.49)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 4 .</head><label>4</label><figDesc>Hierarchical regression for the prediction of poor sleep quality (anxious = .07 for Step 1; ΔR 2 = .15 for Step 2 (ps &lt; .001). N=213. † p &lt; .10, *p &lt; .05, **p &lt; .01.</figDesc><table><row><cell>group)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Step 1</cell><cell></cell><cell></cell><cell>Step 2</cell><cell></cell><cell></cell></row><row><cell>Variable</cell><cell>B</cell><cell>SE B</cell><cell>Β</cell><cell>B</cell><cell>SE B</cell><cell>β</cell></row><row><cell>Overall social media use</cell><cell cols="3">0.003 0.004 .07</cell><cell cols="3">0.003 0.004 .06</cell></row><row><cell>Nighttime-specific social media use</cell><cell cols="3">0.006 0.003 .21*</cell><cell cols="3">0.005 0.002 .16  †</cell></row><row><cell>Emotional investment in social media</cell><cell cols="2">0.002 0.06</cell><cell>.05</cell><cell cols="3">0.001 0.003 .01</cell></row><row><cell>Anxiety</cell><cell></cell><cell></cell><cell></cell><cell>0.02</cell><cell cols="2">0.005 .20**</cell></row><row><cell>Depression</cell><cell></cell><cell></cell><cell></cell><cell>0.01</cell><cell cols="2">0.004 .19**</cell></row><row><cell>Self-esteem</cell><cell></cell><cell></cell><cell></cell><cell cols="3">-0.01 0.004 -.12</cell></row><row><cell>Notes. R 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Sleep problems and their relation to cognitive factors, anxiety, and depressive symptoms in children and adolescents</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Alfano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Zakem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Weems</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Depression &amp; Anxiety</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="503" to="512" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Adolescent self-esteem: Differences by race/ethnicity, gender, and age</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Bachman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>O'malley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Freedman-Doan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Trzesniewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Donnellan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Self &amp; Identity</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="445" to="473" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Relationship between internet use and depression: Focus on physiological mood oscillations, social networking and online addictive behavior</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Banjanin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Banjanin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dimitrijevic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Pantic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers In Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="308" to="312" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Older adolescents&apos; motivations for social network site use: The influence of gender, group identity, and collective self-esteem</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Barker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="209" to="213" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The validity of the Hospital Anxiety and Depression Scale. An updated literature review</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bjelland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Haug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Neckelmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Psychosomatic Research</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="69" to="77" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The Pittsburgh Sleep Quality Index: A new instrument for psychiatric practice and research</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Buysse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Reynolds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Monk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Berman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kupfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Research</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="193" to="213" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Electronic media use and sleep in school-aged children and adolescents: A review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gradisar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Medicine</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="735" to="742" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Cultural variations in children&apos;s coping behaviour, TV viewing time, and family functioning</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kennedy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Nursing Review</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="186" to="195" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The Pittsburgh Sleep Quality Index: Validity and factor structure in young people</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>De La Vega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tomé-Pires</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Solé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Racine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Castarlenas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Miró</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Assessment</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="22" to="27" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Anxiety, depression and coping strategies: Improving the evaluation and the understanding of these dimensions during pre-adolescence and adolescence</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>De Matos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tomé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Borges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Manso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Of Cognitive And Behavioral Psychotherapies</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="169" to="184" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Multi-method assessments of sleep over the transition to college and the associations with depression and anxiety symptoms</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Doane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Gress-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Breitenstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Of Youth And Adolescence</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="389" to="404" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duggan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Smith</surname></persName>
+		</author>
+		<ptr target="http://www.pewinternet.org/2013/12/30/demographics-of-key-social-networking-platforms/" />
+	</analytic>
+	<monogr>
+		<title level="m">Demographics of key social networking platforms</title>
+		<title level="s">Pew Internet &amp; American Life Project</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Nodding off or switching off? The use of popular media as a sleep aid in secondary-school children</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eggermont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Den Bulck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Of Paediatrics And Child Health</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">7-8</biblScope>
+			<biblScope unit="page" from="428" to="433" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">The pervasiveness, connectedness, and intrusiveness of social network site use among young adolescents</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Espinoza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior &amp; Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="705" to="709" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Examining mental health indices in students using Facebook in Iran</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Farahani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Kazemi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Aghamohamadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bakhtiarvand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ansari</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Procedia -Social and Behavioural Sciences</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="811" to="814" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Gender differences in depression and anxiety: The role of age</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Faravelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Scarpato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Castellini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lo Sauro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Research</title>
+		<imprint>
+			<biblScope unit="volume">210</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1301" to="1303" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Sleepless in Chicago: Tracking the effects of adolescent sleep loss during the middle school years</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fredriksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rhodes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Way</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="84" to="95" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Sleep and television and computer habits of Swedish school-age children</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Garmy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nyberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Jakobsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal Of School Nursing</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="469" to="476" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Goldberg</surname></persName>
+		</author>
+		<title level="m">Manual of the general health questionnaire</title>
+		<meeting><address><addrLine>Windsor, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>NFER-Nelson</publisher>
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Mirror, mirror on my Facebook wall: Effects of exposure to Facebook on self-esteem</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Gonzales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hancock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior &amp; Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="79" to="83" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The relationship between extraversion and neuroticism and the different uses of the Internet</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">A</forename><surname>Hamburger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ben-Artzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers In Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="441" to="449" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Sleep difficulties and the development of depression and anxiety: A longitudinal study of young Australian women</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Sztendur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T</forename><surname>Diamond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Byles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bruck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archives Of Women&apos;s Mental Health</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="189" to="198" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Development and validation of a social media use integration scale</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Jenkins-Guarnieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology Of Popular Media Culture</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="38" to="50" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A study of the psychometric properties of the Beck Depression Inventory-II, the Montgomery and Åsberg Depression Rating Scale, and the Hospital Anxiety and Depression Scale in a sample from a healthy population</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kjaergaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Arfwedson</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Waterloo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jorde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Journal of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="83" to="89" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Developmental and time-related trends of anxiety from childhood to early adolescence: Two-wave cohort study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kozina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal Of Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="546" to="559" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Determinants of social desirability bias in sensitive surveys: A literature review</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Krumpal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quality &amp; Quantity: International Journal Of Methodology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="2025" to="2047" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Sleep problems in adolescence. A study of senior high school students in Greece</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lazaratou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Dikeos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Anagnostopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sbokou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Soldatos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Child &amp; Adolescent Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="237" to="243" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Teens and Mobile Phones</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lenhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Purcell</surname></persName>
+		</author>
+		<ptr target="http://www.pewinternet.org/2010/04/20/teens-and-mobile-phones/" />
+		<imprint>
+			<date type="published" when="2010-02-15">2010. 15 February 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Developmental trajectories of anxiety and depression in early adolescence</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Mclaughlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Of Abnormal Child Psychology</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="311" to="323" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Self-esteem development across the life span: A longitudinal study with a large sample from Germany</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Orth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Maes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schmitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="248" to="259" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Association between online social networking and depression in high school students: Behavioral physiology viewpoint</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Pantic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Damjanovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Todorovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Topalovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bojovic-Jovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ristic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pantic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatria Danubina</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="90" to="93" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Media use, face-to-face communication, media multitasking, and social well-being among 8-to 12-year-old girls</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Meheula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bamford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">&amp;</forename><forename type="middle">.</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="327" to="336" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<title level="m">Society and the adolescent self-image</title>
+		<meeting><address><addrLine>Princeton, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Sleep patterns, electronic media exposure and daytime sleep-related behaviours among Israeli adolescents</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shochat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Flint-Bretler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Tzischinsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Paediatrica</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="1396" to="1400" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">To text or not to text? The importance of text messaging among college-aged youth</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Skierkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Wood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="744" to="756" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The effects of poor quality sleep on brain function and risk taking in adolescence</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Telzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Fuligni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Lieberman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Galván</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroimage</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="275" to="283" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Perceived connections between information and communication technology use and mental symptoms among young adults -A qualitative study</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thomée</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Dellve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Harenstam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hagberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">66</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Frazzled by Facebook? An exploratory study of gender differences in social network communication among undergraduate men and women</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lougheed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">College Student Journal</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="88" to="98" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">A comparison of reliability and construct validity between the original and revised versions of the Rosenberg self-esteem scale</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tinakon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Nahathai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Investigation</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="54" to="58" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Friend networking sites and their relationship to adolescents&apos; well-being and social self-esteem</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Schouten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology &amp; Behavior</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="584" to="590" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Television viewing, computer game playing, and Internet use and self-reported time to bed and time out of bed in secondary-school children</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Den Bulck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep: Journal Of Sleep And Sleep Disorders Research</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="101" to="104" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Text messaging as a cause of sleep interruption in adolescents, evidence from a cross-sectional study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Den Bulck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Of Sleep Research</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">263</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Meanings of television in older adults&apos; lives: An analysis of change and continuity in television viewing</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Der Goot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Beentjes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Selm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ageing &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="147" to="168" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The developmental course of anxiety symptoms during adolescence: The TRIALS study</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Van Oort</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Greaves-Lord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Verhulst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ormel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Huizink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Of Child Psychology And Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1209" to="1217" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Social comparison, social media, and self-esteem</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Vogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eckles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychology Of Popular Media Culture</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="206" to="222" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Validation of the Hospital Anxiety and Depression Scale for use with adolescents</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Leach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sims</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Atkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cottrell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The British Journal Of Psychiatry</title>
+		<imprint>
+			<biblScope unit="page" from="175452" to="175454" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The Hospital Anxiety and Depression Scale</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Zigmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Snaith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Psychiatrica Scandinavica</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="361" to="370" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

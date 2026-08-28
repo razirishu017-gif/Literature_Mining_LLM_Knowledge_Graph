@@ -1,0 +1,3032 @@
+[
+    {
+        "intervention": "Addictive Video Gaming",
+        "relationship": "increases",
+        "outcome": "Functional Impairment",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive Social Networking",
+        "relationship": "increases",
+        "outcome": "Functional Impairment",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive Technology Use",
+        "relationship": "reduces",
+        "outcome": "Negative Affect",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive Technology Use",
+        "relationship": "increases",
+        "outcome": "Withdrawal Distress",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive Technology Use",
+        "relationship": "increases",
+        "outcome": "Functional Impairment",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Problematic Video Gaming",
+        "relationship": "correlates_with",
+        "outcome": "ADHD Symptoms",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive Internet Use",
+        "relationship": "correlates_with",
+        "outcome": "ADHD Symptoms",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Excessive Technology Use",
+        "relationship": "correlates_with",
+        "outcome": "OCD Symptoms",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Addiction",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Addiction",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Video Game Addiction",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Video Game Addiction",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Anxiety",
+        "relationship": "increases",
+        "outcome": "Social Media Addiction",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Depression",
+        "relationship": "increases",
+        "outcome": "Video Game Addiction",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "ADHD Symptoms",
+        "relationship": "correlates_with",
+        "outcome": "Social Media Addiction",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "OCD Symptoms",
+        "relationship": "correlates_with",
+        "outcome": "Social Media Addiction",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Anxiety",
+        "relationship": "correlates_with",
+        "outcome": "Video Game Addiction",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Depression",
+        "relationship": "correlates_with",
+        "outcome": "Video Game Addiction",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Cognitive Behavioral Techniques",
+        "relationship": "reduces",
+        "outcome": "Anxiety",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Cognitive Behavioral Techniques",
+        "relationship": "reduces",
+        "outcome": "Depression",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Motivational Interviewing",
+        "relationship": "reduces",
+        "outcome": "Addictive Behavior",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Mindfulness Meditation",
+        "relationship": "improves",
+        "outcome": "Well-being",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Pharmacotherapy",
+        "relationship": "reduces",
+        "outcome": "Depression",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive social media use",
+        "relationship": "correlates_with",
+        "outcome": "Anxiety",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive social media use",
+        "relationship": "correlates_with",
+        "outcome": "ADHD",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive social media use",
+        "relationship": "correlates_with",
+        "outcome": "OCD",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive social media use",
+        "relationship": "correlates_with",
+        "outcome": "Depression",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive video game use",
+        "relationship": "correlates_with",
+        "outcome": "ADHD",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive video game use",
+        "relationship": "correlates_with",
+        "outcome": "OCD",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive video game use",
+        "relationship": "correlates_with",
+        "outcome": "Depression",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Addictive video game use",
+        "relationship": "inversely_related_to",
+        "outcome": "Anxiety",
+        "source_paper": "Andreassen_2016_AddictiveSocialMedia.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "reduces",
+        "outcome": "Depression",
+        "source_paper": "Banyai_2017_ProblematicSocialMediaUse.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Banyai_2017_ProblematicSocialMediaUse.grobid.txt"
+    },
+    {
+        "intervention": "Passive Browsing",
+        "relationship": "correlates_with",
+        "outcome": "Loneliness",
+        "source_paper": "Banyai_2017_ProblematicSocialMediaUse.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "improves",
+        "outcome": "Well-being",
+        "source_paper": "Banyai_2017_ProblematicSocialMediaUse.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Banyai_2017_ProblematicSocialMediaUse.grobid.txt"
+    },
+    {
+        "intervention": "Passive Browsing",
+        "relationship": "correlates_with",
+        "outcome": "Anxiety",
+        "source_paper": "Banyai_2017_ProblematicSocialMediaUse.grobid.txt"
+    },
+    {
+        "intervention": "At-risk problematic social media use",
+        "relationship": "associated_with",
+        "outcome": "Low Self-esteem",
+        "source_paper": "Banyai_2017_ProblematicSocialMediaUse.grobid.txt"
+    },
+    {
+        "intervention": "At-risk problematic social media use",
+        "relationship": "associated_with",
+        "outcome": "Depressive Symptoms",
+        "source_paper": "Banyai_2017_ProblematicSocialMediaUse.grobid.txt"
+    },
+    {
+        "intervention": "At-risk problematic social media use",
+        "relationship": "associated_with",
+        "outcome": "Withdrawal Symptoms",
+        "source_paper": "Banyai_2017_ProblematicSocialMediaUse.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Impulsivity",
+        "source_paper": "Billieux_2015_OverpathologizingEverydayLife.grobid.txt"
+    },
+    {
+        "intervention": "Mobile Phone Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Sensation Seeking",
+        "source_paper": "Billieux_2015_OverpathologizingEverydayLife.grobid.txt"
+    },
+    {
+        "intervention": "Tango Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Neuroticism",
+        "source_paper": "Billieux_2015_OverpathologizingEverydayLife.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "reduces",
+        "outcome": "Loneliness",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "reduces",
+        "outcome": "Depressive Symptoms",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "reduces",
+        "outcome": "FoMo",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "reduces",
+        "outcome": "Anxiety",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "improves",
+        "outcome": "Well-being",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "improves",
+        "outcome": "Social Connectedness",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "increases",
+        "outcome": "FoMo",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "increases",
+        "outcome": "Loneliness",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "increases",
+        "outcome": "Depressive Symptoms",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Poor Sleep Quality",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Passive Browsing",
+        "relationship": "increases",
+        "outcome": "FoMo",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Passive Browsing",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Passive Browsing",
+        "relationship": "increases",
+        "outcome": "Loneliness",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Passive Browsing",
+        "relationship": "increases",
+        "outcome": "Depressive Symptoms",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Passive Browsing",
+        "relationship": "correlates_with",
+        "outcome": "Poor Sleep Quality",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Facebook abstinence",
+        "relationship": "increases",
+        "outcome": "Life satisfaction",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Facebook abstinence",
+        "relationship": "increases",
+        "outcome": "Positive emotions",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social media abstinence",
+        "relationship": "decreases",
+        "outcome": "FoMO",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social media abstinence",
+        "relationship": "increases",
+        "outcome": "MWB",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social media abstinence",
+        "relationship": "increases",
+        "outcome": "SC",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Baseline SMU",
+        "relationship": "correlates_with",
+        "outcome": "FoMO",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Baseline SMU",
+        "relationship": "correlates_with",
+        "outcome": "MWB",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Baseline SMU",
+        "relationship": "correlates_with",
+        "outcome": "SC",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social media abstinence",
+        "relationship": "reduces",
+        "outcome": "Compulsion to check site",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "correlates_with",
+        "outcome": "Fear of Missing Out",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "correlates_with",
+        "outcome": "Mental Wellbeing",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "correlates_with",
+        "outcome": "Social Connectedness",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Usage",
+        "relationship": "correlates_with",
+        "outcome": "Fear of Missing Out",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Usage",
+        "relationship": "correlates_with",
+        "outcome": "Mental Wellbeing",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Usage",
+        "relationship": "correlates_with",
+        "outcome": "Social Connectedness",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "increases",
+        "outcome": "Mental Well-Being",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "increases",
+        "outcome": "Social Connectedness",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "reduces",
+        "outcome": "Fear of Missing Out",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Passive Browsing",
+        "relationship": "increases",
+        "outcome": "Fear of Missing Out",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Notification Management",
+        "relationship": "reduces",
+        "outcome": "Fear of Missing Out",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "reduces",
+        "outcome": "FoMO",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "improves",
+        "outcome": "Well-being",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "improves",
+        "outcome": "Social Connectedness",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "increases",
+        "outcome": "FoMO",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "reduces",
+        "outcome": "Well-being",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "reduces",
+        "outcome": "Social Connectedness",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Notifications",
+        "relationship": "increases",
+        "outcome": "FoMO",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Disabling Notifications",
+        "relationship": "reduces",
+        "outcome": "FoMO",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Passive Browsing",
+        "relationship": "increases",
+        "outcome": "Social Comparison",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "SM Abstinence",
+        "relationship": "improves",
+        "outcome": "Well-being",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "SMU",
+        "relationship": "increases",
+        "outcome": "Well-being",
+        "source_paper": "Brown_2020_FearOfMissingOut.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "reduces",
+        "outcome": "Sleep Quality",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Restriction",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Fear of Missing Out",
+        "relationship": "increases",
+        "outcome": "Smartphone Addiction",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Excessive Smartphone Use",
+        "relationship": "correlates_with",
+        "outcome": "Social Media Addiction",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Restriction",
+        "relationship": "increases",
+        "outcome": "Smartphone Withdrawal Symptoms",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Restriction",
+        "relationship": "increases",
+        "outcome": "Fear of Missing Out",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Restriction",
+        "relationship": "increases",
+        "outcome": "Negative Mood",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Restriction",
+        "relationship": "reduces",
+        "outcome": "Positive Mood",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Restriction",
+        "relationship": "increases",
+        "outcome": "Withdrawal Symptoms",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Restriction",
+        "relationship": "increases",
+        "outcome": "Fear of Missing Out",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Restriction",
+        "relationship": "increases",
+        "outcome": "Withdrawal Symptoms",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Restriction",
+        "relationship": "increases",
+        "outcome": "Fear of Missing Out",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Excessive Smartphone Usage",
+        "relationship": "correlates_with",
+        "outcome": "Addiction",
+        "source_paper": "Eide_2018_SmartphoneRestriction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Usage",
+        "relationship": "increases",
+        "outcome": "Attention",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Internet Usage",
+        "relationship": "reduces",
+        "outcome": "Memory",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Internet Usage",
+        "relationship": "reduces",
+        "outcome": "Social cognition",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Media Multitasking",
+        "relationship": "reduces",
+        "outcome": "Task-switching Ability",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Media Multitasking",
+        "relationship": "reduces",
+        "outcome": "Sustained Attention",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Media Multitasking",
+        "relationship": "reduces",
+        "outcome": "Cognitive Performance",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Media Multitasking",
+        "relationship": "reduces",
+        "outcome": "Attentional Scope",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Media Multitasking",
+        "relationship": "increases",
+        "outcome": "Distractibility",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "High Internet Usage",
+        "relationship": "correlates_with",
+        "outcome": "Decreased Grey Matter",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Hyperlinked Online Environments",
+        "relationship": "reduces",
+        "outcome": "Attentional Scope",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Media Multitasking",
+        "relationship": "increases",
+        "outcome": "Attentional Deficits",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Media Multitasking",
+        "relationship": "reduces",
+        "outcome": "Sleep Quality",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Online Information Searching",
+        "relationship": "reduces",
+        "outcome": "Semantic Memory",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Transactive Memory Use",
+        "relationship": "reduces",
+        "outcome": "Memory Recall",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Online Information Searching",
+        "relationship": "reduces",
+        "outcome": "Memory Recall",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Internet Search Training",
+        "relationship": "reduces",
+        "outcome": "Memory Retrieval",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Internet Search Training",
+        "relationship": "increases",
+        "outcome": "Impulsivity",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Online Information Gathering",
+        "relationship": "increases",
+        "outcome": "Dependence",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Digital Cognitive Offloading",
+        "relationship": "improves",
+        "outcome": "Memory",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Internet Use for Factual Memory Storage",
+        "relationship": "improves",
+        "outcome": "Cognitive Function",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Online Searching",
+        "relationship": "increases",
+        "outcome": "Illusion of Self-Knowledge",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Information Retrieval",
+        "relationship": "increases",
+        "outcome": "Illusion of Self-Knowledge",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Amygdala Volume",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Friends Count",
+        "relationship": "correlates_with",
+        "outcome": "Right Entorhinal Cortex Volume",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Friends Count",
+        "relationship": "correlates_with",
+        "outcome": "Middle Temporal Gyrus Volume",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Friends Count",
+        "relationship": "correlates_with",
+        "outcome": "Superior Temporal Sulcus Volume",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Online Rejection",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Online Rejection",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Online Rejection",
+        "relationship": "increases",
+        "outcome": "Social Isolation",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Online Rejection",
+        "relationship": "increases",
+        "outcome": "Social Exclusion",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Cyberbullying",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Cyberbullying",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Relying on Online Feedback for Self-esteem",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Relying on Online Feedback for Self-esteem",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Relying on Online Feedback for Self-esteem",
+        "relationship": "reduces",
+        "outcome": "Social-emotional Well-being",
+        "source_paper": "Firth_2019_OnlineBrain.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "reduces",
+        "outcome": "Depression",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "reduces",
+        "outcome": "Loneliness",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "reduces",
+        "outcome": "Anxiety",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "improves",
+        "outcome": "Self-Esteem",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "improves",
+        "outcome": "Autonomy",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "improves",
+        "outcome": "Self-Acceptance",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Social Media Use",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Social Media Use",
+        "relationship": "increases",
+        "outcome": "Loneliness",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "reduces",
+        "outcome": "Loneliness",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Limitation",
+        "relationship": "reduces",
+        "outcome": "Depression",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Fear of Missing Out",
+        "relationship": "increases",
+        "outcome": "Social Media Use",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Self-Monitoring",
+        "relationship": "reduces",
+        "outcome": "Fear of Missing Out",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Self-Monitoring",
+        "relationship": "reduces",
+        "outcome": "Anxiety",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Estimated Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Perceived Social Support",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Estimated Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Self-Esteem",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Estimated Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Well-being",
+        "source_paper": "Hunt_2018_NoMoreFOMO.grobid.txt"
+    },
+    {
+        "intervention": "Social Searching",
+        "relationship": "activates",
+        "outcome": "Appetitive System",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Browsing",
+        "relationship": "correlates_with",
+        "outcome": "Aversive System",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Network Site Usage",
+        "relationship": "increases",
+        "outcome": "Addiction Risk",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Interdependent Self-Construal",
+        "relationship": "increases",
+        "outcome": "Satisfaction",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Factors Motivation",
+        "relationship": "increases",
+        "outcome": "Social Network Site Usage",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "SNS Addiction",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Online Social Network Size",
+        "relationship": "correlates_with",
+        "outcome": "Life Satisfaction",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Online Social Network Size",
+        "relationship": "correlates_with",
+        "outcome": "Well-being",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "High Self-Disclosure on SNSs",
+        "relationship": "correlates_with",
+        "outcome": "Subjective Well-being",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Negative Feedback on SNSs",
+        "relationship": "reduces",
+        "outcome": "Self-esteem",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Negative Feedback on SNSs",
+        "relationship": "reduces",
+        "outcome": "Well-being",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Low Self-esteem",
+        "relationship": "increases",
+        "outcome": "SNS Addiction",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Narcissistic Personality",
+        "relationship": "increases",
+        "outcome": "SNS Addiction",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Excessive SNS Usage",
+        "relationship": "reduces",
+        "outcome": "Real-life Community Involvement",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Addiction",
+        "relationship": "increases",
+        "outcome": "Jealousy",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Usage",
+        "relationship": "reduces",
+        "outcome": "Academic Performance",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Usage",
+        "relationship": "increases",
+        "outcome": "Relationship Problems",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Dysfunctional Coping",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Usage",
+        "relationship": "increases",
+        "outcome": "Procrastination",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Usage",
+        "relationship": "increases",
+        "outcome": "Distraction",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Usage",
+        "relationship": "worsens",
+        "outcome": "Time Management",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Low Self-Esteem",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Narcissism",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Extraversion",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Low Conscientiousness",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Belongingness Seeking",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Addiction",
+        "relationship": "impairs",
+        "outcome": "Professional Functioning",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Networking Site Addiction",
+        "relationship": "impairs",
+        "outcome": "Private Life Functioning",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "SNS Addiction",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "SNS Addiction",
+        "relationship": "increases",
+        "outcome": "Insomnia",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Loneliness",
+        "relationship": "correlates_with",
+        "outcome": "SNS Game Addiction",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Leisure Boredom",
+        "relationship": "correlates_with",
+        "outcome": "SNS Game Addiction",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Loneliness",
+        "relationship": "correlates_with",
+        "outcome": "SNS Addiction",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Social Activities",
+        "relationship": "predicts",
+        "outcome": "SNS Addiction",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Relationship Building",
+        "relationship": "predicts",
+        "outcome": "SNS Addiction",
+        "source_paper": "Kuss_2011_OnlineSocialNetworking.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Loneliness",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Psychopathology",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Impairment",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Distress",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Psychopharmacotherapy combined with Psychotherapy",
+        "relationship": "improves",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Technology Overuse",
+        "relationship": "correlates_with",
+        "outcome": "Impairment",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Reality Therapy Group Counselling",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Reality Therapy Group Counselling",
+        "relationship": "increases",
+        "outcome": "Self-Esteem",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT and Medication",
+        "relationship": "decreases",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT and Medication",
+        "relationship": "increases",
+        "outcome": "Life Satisfaction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Medication Only",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Mood Disorders",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Multifamily Group Therapy",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Depressive Symptoms",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Dissociative Symptoms",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "decreases",
+        "outcome": "Functioning",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Neuroticism",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "decreases",
+        "outcome": "Extraversion",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "decreases",
+        "outcome": "Conscientiousness",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Gaming Disorder",
+        "relationship": "increases",
+        "outcome": "Neuroticism",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Gaming Disorder",
+        "relationship": "decreases",
+        "outcome": "Conscientiousness",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Gaming Disorder",
+        "relationship": "decreases",
+        "outcome": "Extraversion",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Pharmacotherapy and CBT",
+        "relationship": "reduces",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Pharmacotherapy and CBT",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Attachment Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "decreases",
+        "outcome": "Family Functioning",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Use Duration",
+        "relationship": "predicts",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Regulation of Internet Use Hours",
+        "relationship": "helps",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Anger Expression Psychiatric Treatment",
+        "relationship": "helps",
+        "outcome": "Anger",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction Programme",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Impulsivity",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Dissociation",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Global Functioning Impairment",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Interpersonal Impairment",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Controlled Internet Use Intervention",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Social Contact Expansion Intervention",
+        "relationship": "improves",
+        "outcome": "Social Contacts",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT and MI Therapy",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT and MI Therapy",
+        "relationship": "improves",
+        "outcome": "Behavioral Improvement",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Comorbid Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Comorbid Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Obsessive-Compulsive Symptoms",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Comorbid Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Interpersonal Sensitivity",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction Treatment",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction Treatment",
+        "relationship": "reduces",
+        "outcome": "Psychopathological Symptoms",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Motivational Techniques",
+        "relationship": "reduces",
+        "outcome": "Dysfunctional Internet Use",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Bipolar Spectrum Disorder",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction with BSD",
+        "relationship": "increases",
+        "outcome": "Psychopathological Symptoms",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT for Internet Addiction",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "SSRI and Antipsychotic Combination",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "SSRI and Antipsychotic Combination",
+        "relationship": "improves",
+        "outcome": "Control Over Internet Use",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "OCD Treatment",
+        "relationship": "improves",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Escitalopram",
+        "relationship": "reduces",
+        "outcome": "Internet Use",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Bupropion",
+        "relationship": "reduces",
+        "outcome": "Video Game Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Bupropion",
+        "relationship": "reduces",
+        "outcome": "Craving",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Methylphenidate",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Methylphenidate",
+        "relationship": "reduces",
+        "outcome": "Internet Use",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Methylphenidate",
+        "relationship": "reduces",
+        "outcome": "ADHD Symptoms",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Antidepressant Medication",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT",
+        "relationship": "reduces",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT",
+        "relationship": "improves",
+        "outcome": "Self-Esteem",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Multimodal School-Based Group Therapy",
+        "relationship": "improves",
+        "outcome": "Time Management",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Multimodal School-Based Group Therapy",
+        "relationship": "improves",
+        "outcome": "Emotional Symptoms",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Multimodal School-Based Group Therapy",
+        "relationship": "improves",
+        "outcome": "Conduct Problems",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Multimodal School-Based Group Therapy",
+        "relationship": "improves",
+        "outcome": "Hyperactivity",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Multimodal School-Based Group Therapy",
+        "relationship": "improves",
+        "outcome": "Peer Relationships",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Multimodal School-Based Group Therapy",
+        "relationship": "improves",
+        "outcome": "Prosocial Behaviours",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Multilevel Intervention Model",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction Symptoms",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "R/T Group Counselling",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "R/T Group Counselling",
+        "relationship": "improves",
+        "outcome": "Self-Esteem",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Multifamily Group Therapy",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Multifamily Group Therapy",
+        "relationship": "reduces",
+        "outcome": "Online Time",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Parent-Adolescent Relationship Improvement",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Cognitive Deficit",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Family Therapy",
+        "relationship": "improves",
+        "outcome": "Emotional Control",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Family Therapy",
+        "relationship": "improves",
+        "outcome": "Interpersonal Relationships",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Motivational Enhancement Therapy plus CBT",
+        "relationship": "reduces",
+        "outcome": "Internet Gaming Disorder",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Motivational Enhancement Therapy plus CBT",
+        "relationship": "reduces",
+        "outcome": "Online Gaming",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Psychopharmacotherapy",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Psychopharmacotherapy",
+        "relationship": "reduces",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Motivational Interviewing plus Lifestyle Training",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Motivational Interviewing plus Lifestyle Training",
+        "relationship": "increases",
+        "outcome": "Social Contacts",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Bupropion",
+        "relationship": "reduces",
+        "outcome": "Depression",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Bupropion",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Bupropion",
+        "relationship": "reduces",
+        "outcome": "Online Gaming",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Bupropion",
+        "relationship": "improves",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Bupropion",
+        "relationship": "improves",
+        "outcome": "Life Satisfaction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Clonazepam and Sertraline",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT plus Clonazepam and Sertraline",
+        "relationship": "reduces",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Use",
+        "relationship": "increases",
+        "outcome": "Loneliness",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Use",
+        "relationship": "increases",
+        "outcome": "Stress",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Gaming",
+        "relationship": "increases",
+        "outcome": "Stress",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Gaming",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Social Phobia",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Obsessive-Compulsive Disorder",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Psychopharmacotherapy",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Psychopharmacotherapy",
+        "relationship": "reduces",
+        "outcome": "Depression",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Psychopharmacotherapy",
+        "relationship": "reduces",
+        "outcome": "Anxiety",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Group Therapy",
+        "relationship": "improves",
+        "outcome": "Coping Skills",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Family-Based Therapy",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "CBT",
+        "relationship": "reduces",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Cognitive Behavioral Therapy",
+        "relationship": "reduces",
+        "outcome": "Cognitive Impairment",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Combined Therapies",
+        "relationship": "treats",
+        "outcome": "Internet Use-Related Problems",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Electroacupuncture Therapy",
+        "relationship": "outperforms",
+        "outcome": "Internet Addiction",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Depression",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Impairment",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Internet Addiction",
+        "relationship": "increases",
+        "outcome": "Distress",
+        "source_paper": "Kuss_2014_InternetAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "increases",
+        "outcome": "Sleep Disturbance",
+        "source_paper": "Levenson_2016_SocialMediaAndSleep.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "reduces",
+        "outcome": "Sleep Quality",
+        "source_paper": "Levenson_2016_SocialMediaAndSleep.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "reduces",
+        "outcome": "Sleep Duration",
+        "source_paper": "Levenson_2016_SocialMediaAndSleep.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "increases",
+        "outcome": "Sleep Onset Latency",
+        "source_paper": "Levenson_2016_SocialMediaAndSleep.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use Volume",
+        "relationship": "increases",
+        "outcome": "Sleep Disturbance",
+        "source_paper": "Levenson_2016_SocialMediaAndSleep.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use Frequency",
+        "relationship": "increases",
+        "outcome": "Sleep Disturbance",
+        "source_paper": "Levenson_2016_SocialMediaAndSleep.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Overuse",
+        "relationship": "increases",
+        "outcome": "Time Distortion",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Overuse",
+        "relationship": "correlates_with",
+        "outcome": "Poor Sleep Quality",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Overuse",
+        "relationship": "reduces",
+        "outcome": "Work Engagement",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Overuse",
+        "relationship": "resembles",
+        "outcome": "Addiction",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "WhatsApp Usage",
+        "relationship": "resembles",
+        "outcome": "Addiction",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "Extraversion",
+        "relationship": "increases",
+        "outcome": "WhatsApp Usage",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "Extraversion",
+        "relationship": "increases",
+        "outcome": "Outgoing Calls",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "WhatsApp Usage",
+        "relationship": "increases",
+        "outcome": "Extraversion",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "WhatsApp Usage",
+        "relationship": "increases",
+        "outcome": "Neuroticism",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "WhatsApp Usage",
+        "relationship": "reduces",
+        "outcome": "Conscientiousness",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Usage",
+        "relationship": "reduces",
+        "outcome": "Education",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "WhatsApp Usage",
+        "relationship": "reduces",
+        "outcome": "Age",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "Low Conscientiousness",
+        "relationship": "increases",
+        "outcome": "Internet Addiction",
+        "source_paper": "Montag_2016_SmartphoneUsage21stCentury.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Shyness",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Stress",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Depression",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Self-esteem",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Life Satisfaction",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Loneliness",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Sleep Quality",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Distress Improvement",
+        "relationship": "improves",
+        "outcome": "Mobile Phone Overuse",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Overuse",
+        "relationship": "correlates_with",
+        "outcome": "Anxiety",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Overuse",
+        "relationship": "correlates_with",
+        "outcome": "Depression",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Overuse",
+        "relationship": "correlates_with",
+        "outcome": "Stress",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Overuse",
+        "relationship": "correlates_with",
+        "outcome": "Low Self-Esteem",
+        "source_paper": "Panova_2018_IsSmartphoneAddiction.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "increases",
+        "outcome": "Perceived Social Isolation",
+        "source_paper": "Primack_2017_SocialMediaIsolation.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Primack_2017_SocialMediaIsolation.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use Time",
+        "relationship": "increases",
+        "outcome": "Perceived Social Isolation",
+        "source_paper": "Primack_2017_SocialMediaIsolation.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use Frequency",
+        "relationship": "increases",
+        "outcome": "Perceived Social Isolation",
+        "source_paper": "Primack_2017_SocialMediaIsolation.grobid.txt"
+    },
+    {
+        "intervention": "Watching Films and TV (weekday)",
+        "relationship": "increases_then_decreases",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Playing Games (weekday)",
+        "relationship": "increases_then_decreases",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Using Computer (weekday)",
+        "relationship": "increases_then_decreases",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Using Smartphone (weekday)",
+        "relationship": "increases_then_decreases",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Watching Films and TV (weekend)",
+        "relationship": "increases_then_decreases",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Playing Games (weekend)",
+        "relationship": "increases_then_decreases",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Using Computer (weekend)",
+        "relationship": "increases_then_decreases",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "High Weekday Video-Game Play",
+        "relationship": "reduces",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "High Weekday Smartphone Use",
+        "relationship": "reduces",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "High Weekend Video-Game Play",
+        "relationship": "reduces",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "High Weekend Watching Videos",
+        "relationship": "reduces",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Excessive Screen Time",
+        "relationship": "reduces",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Weekend Smartphone Use",
+        "relationship": "reduces",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Moderate Screen Time",
+        "relationship": "correlates_with",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Addiction",
+        "relationship": "reduces",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Video Game Playing",
+        "relationship": "reduces",
+        "outcome": "Mental Well-being",
+        "source_paper": "Przybylski_2017_GoldilocksHypothesis.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Use",
+        "relationship": "increases",
+        "outcome": "Stress",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "improves",
+        "outcome": "Well-being",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "reduces",
+        "outcome": "Stress",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "improves",
+        "outcome": "Self-Control",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "improves",
+        "outcome": "Health",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "improves",
+        "outcome": "Social Relationships",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "reduces",
+        "outcome": "Duration of Use",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "improves",
+        "outcome": "Performance",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "reduces",
+        "outcome": "Smartphone Use",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "reduces",
+        "outcome": "Social Media Use",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "increases",
+        "outcome": "Self-Regulation",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Cessation",
+        "relationship": "reduces",
+        "outcome": "Procrastination",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "improves",
+        "outcome": "Sleep Quality",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "reduces",
+        "outcome": "Life Satisfaction",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "increases",
+        "outcome": "Time Distortion",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Break",
+        "relationship": "increases",
+        "outcome": "Life Satisfaction",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "increases",
+        "outcome": "Negative Affect",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Break",
+        "relationship": "improves",
+        "outcome": "Affect",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Instagram Break",
+        "relationship": "improves",
+        "outcome": "Affect",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "increases",
+        "outcome": "Mental Well-being",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone-use Reduction",
+        "relationship": "improves",
+        "outcome": "Flourishing",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "increases",
+        "outcome": "Boredom",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone-use Reduction",
+        "relationship": "reduces",
+        "outcome": "Anxiety",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "reduces",
+        "outcome": "Stress",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Break",
+        "relationship": "reduces",
+        "outcome": "Depression",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone-use Reduction",
+        "relationship": "reduces",
+        "outcome": "Depression",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Group Digital Detox",
+        "relationship": "reduces",
+        "outcome": "Smartphone Addiction",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Abstinence",
+        "relationship": "increases",
+        "outcome": "Withdrawal Symptoms",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "increases",
+        "outcome": "Withdrawal Symptoms",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Limitation",
+        "relationship": "increases",
+        "outcome": "Fear Of Missing Out",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "reduces",
+        "outcome": "Fear Of Missing Out",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "increases",
+        "outcome": "Social Connectedness",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Abstinence",
+        "relationship": "reduces",
+        "outcome": "Relatedness",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "reduces",
+        "outcome": "Loneliness",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox",
+        "relationship": "increases",
+        "outcome": "Loneliness",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Abstinence",
+        "relationship": "increases",
+        "outcome": "Social Pressure",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox Intervention",
+        "relationship": "reduces",
+        "outcome": "Depression",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Digital Detox Intervention",
+        "relationship": "reduces",
+        "outcome": "Smartphone Use",
+        "source_paper": "Radtke_2022_DigitalDetox.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Use",
+        "relationship": "increases",
+        "outcome": "Depressive Symptoms",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Use",
+        "relationship": "decreases",
+        "outcome": "Life Satisfaction",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Use",
+        "relationship": "deteriorates",
+        "outcome": "Mood",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Use",
+        "relationship": "declines",
+        "outcome": "Affective Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Active Status Posting",
+        "relationship": "reduces",
+        "outcome": "Loneliness",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Active Facebook Use",
+        "relationship": "deteriorates",
+        "outcome": "Mood",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Passive Facebook Use",
+        "relationship": "decreases",
+        "outcome": "Affective Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Use",
+        "relationship": "reduces",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Quitting Facebook",
+        "relationship": "improves",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Passive Facebook Use",
+        "relationship": "increases",
+        "outcome": "Envy",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Use",
+        "relationship": "increases",
+        "outcome": "Envy",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Abstinence",
+        "relationship": "increases",
+        "outcome": "Life Satisfaction",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Abstinence",
+        "relationship": "improves",
+        "outcome": "Emotional Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Abstinence",
+        "relationship": "increases",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Heavy Facebook Use",
+        "relationship": "reduces",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Light Facebook Use",
+        "relationship": "correlates_with",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Quitting Facebook",
+        "relationship": "increases",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Quitting Facebook",
+        "relationship": "increases",
+        "outcome": "Life Satisfaction",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Quitting Facebook",
+        "relationship": "improves",
+        "outcome": "Emotional Life",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Passive Facebook Use",
+        "relationship": "reduces",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Active Facebook Use",
+        "relationship": "improves",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Envy",
+        "relationship": "reduces",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Heavy Facebook Use",
+        "relationship": "reduces",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Use Reduction",
+        "relationship": "increases",
+        "outcome": "Well-being",
+        "source_paper": "Tromholt_2016_FacebookExperiment.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Amygdala-Striatal System Activation",
+        "source_paper": "Turel_2014_NeuralSystemsFacebook.grobid.txt"
+    },
+    {
+        "intervention": "Facebook Addiction",
+        "relationship": "correlates_with",
+        "outcome": "Implicit Association Retrieval",
+        "source_paper": "Turel_2014_NeuralSystemsFacebook.grobid.txt"
+    },
+    {
+        "intervention": "Cognitive Behavioral Therapy",
+        "relationship": "reduces",
+        "outcome": "Facebook Addiction",
+        "source_paper": "Turel_2014_NeuralSystemsFacebook.grobid.txt"
+    },
+    {
+        "intervention": "Trans-Cranial Magnetic Stimulation",
+        "relationship": "reduces",
+        "outcome": "Facebook Addiction",
+        "source_paper": "Turel_2014_NeuralSystemsFacebook.grobid.txt"
+    },
+    {
+        "intervention": "Screen Time",
+        "relationship": "correlates_with",
+        "outcome": "Low Well-being",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Screen Time",
+        "relationship": "correlates_with",
+        "outcome": "Obesity",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Screen Time",
+        "relationship": "correlates_with",
+        "outcome": "Lack of Exercise",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Screen Time Limitation",
+        "relationship": "recommended_for",
+        "outcome": "Well-being",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Gaming Disorder",
+        "relationship": "correlates_with",
+        "outcome": "Psychological Well-being",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Screen Time",
+        "relationship": "correlates_with",
+        "outcome": "Anxiety",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Screen Time",
+        "relationship": "correlates_with",
+        "outcome": "Depression",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "High Screen Time",
+        "relationship": "reduces",
+        "outcome": "Psychological Well-being",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "High Screen Time",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "High Screen Time",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "High Screen Time",
+        "relationship": "reduces",
+        "outcome": "Self-control",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "High Screen Time",
+        "relationship": "reduces",
+        "outcome": "Emotion Regulation",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "High Screen Time",
+        "relationship": "reduces",
+        "outcome": "Curiosity",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "High Screen Time",
+        "relationship": "reduces",
+        "outcome": "Task Completion",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Moderate Screen Time",
+        "relationship": "reduces",
+        "outcome": "Psychological Well-being",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Moderate Screen Time",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Moderate Screen Time",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Moderate Screen Time",
+        "relationship": "reduces",
+        "outcome": "Self-control",
+        "source_paper": "Twenge_2018_ScreenTimePsychologicalWellbeing.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Presence",
+        "relationship": "reduces",
+        "outcome": "Cognitive Capacity",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Presence",
+        "relationship": "impairs",
+        "outcome": "Cognitive Functioning",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Increased Smartphone Salience",
+        "relationship": "reduces",
+        "outcome": "Cognitive Capacity",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Dependence",
+        "relationship": "increases",
+        "outcome": "Smartphone Presence Effect",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Presence",
+        "relationship": "reduces",
+        "outcome": "Working Memory Capacity",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Presence",
+        "relationship": "reduces",
+        "outcome": "Cognitive Capacity",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Absence",
+        "relationship": "improves",
+        "outcome": "Working Memory Capacity",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Absence",
+        "relationship": "improves",
+        "outcome": "Cognitive Capacity",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Dependence",
+        "relationship": "increases",
+        "outcome": "Cognitive Impairment",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Decreased Smartphone Salience",
+        "relationship": "improves",
+        "outcome": "Task Performance",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Dependence",
+        "relationship": "increases",
+        "outcome": "Cognitive Capacity Depletion",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Presence",
+        "relationship": "reduces",
+        "outcome": "Cognitive Capacity",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Separation",
+        "relationship": "improves",
+        "outcome": "Cognitive Capacity",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Presence",
+        "relationship": "increases",
+        "outcome": "System 1 Processing Reliance",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Presence",
+        "relationship": "reduces",
+        "outcome": "Ad Elaboration",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Presence",
+        "relationship": "impairs",
+        "outcome": "Learning",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Presence",
+        "relationship": "impairs",
+        "outcome": "Test Performance",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Intentional Disconnection",
+        "relationship": "reduces",
+        "outcome": "Digital Distraction",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Intentional Disconnection",
+        "relationship": "increases",
+        "outcome": "Cognitive Capacity",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Smartphone Presence",
+        "relationship": "increases",
+        "outcome": "Cognitive Cost",
+        "source_paper": "Ward_2017_BrainDrain.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Poor Sleep Quality",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Poor Sleep Quality",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "correlates_with",
+        "outcome": "Poor Sleep Quality",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Poor Sleep Quality",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Poor Sleep Quality",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Poor Sleep Quality",
+        "relationship": "increases",
+        "outcome": "Low Self-Esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Overall Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Sleep Quality",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime-Specific Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Sleep Quality",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "correlates_with",
+        "outcome": "Sleep Quality",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Overall Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime-Specific Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "correlates_with",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Overall Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime-Specific Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "correlates_with",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Overall Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Self-Esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime-Specific Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Self-Esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "correlates_with",
+        "outcome": "Self-Esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime Social Media Use",
+        "relationship": "reduces",
+        "outcome": "Sleep Quality",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime Social Media Use",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime Social Media Use",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Poor Sleep Quality",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Poor Sleep Quality",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "reduces",
+        "outcome": "Self-Esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "reduces",
+        "outcome": "Self-Esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Poor Sleep Quality",
+        "relationship": "reduces",
+        "outcome": "Self-Esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "correlates_with",
+        "outcome": "Low Self-Esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "reduces",
+        "outcome": "Self-esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Social Media Use",
+        "relationship": "reduces",
+        "outcome": "Sleep Quality",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime-specific Social Media Use",
+        "relationship": "reduces",
+        "outcome": "Sleep Quality",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime-specific Social Media Use",
+        "relationship": "reduces",
+        "outcome": "Self-esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime-specific Social Media Use",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Nighttime-specific Social Media Use",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "reduces",
+        "outcome": "Sleep Quality",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "reduces",
+        "outcome": "Self-esteem",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "increases",
+        "outcome": "Anxiety",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    },
+    {
+        "intervention": "Emotional Investment in Social Media",
+        "relationship": "increases",
+        "outcome": "Depression",
+        "source_paper": "Woods_2016_Sleepyteens.grobid.txt"
+    }
+]

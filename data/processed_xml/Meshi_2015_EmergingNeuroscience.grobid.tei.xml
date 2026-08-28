@@ -1,0 +1,1772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Emerging Neuroscience of Social Media</title>
+				<funder>
+					<orgName type="full">German Research Foundation (DFG)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2015-12">2015-12</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Dar</forename><surname>Meshi</surname></persName>
+							<email>dar.meshi@fu-berlin.de</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Education and Psychology</orgName>
+								<orgName type="institution">Freie Universität</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Diana</forename><forename type="middle">I</forename><surname>Tamir</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hauke</forename><forename type="middle">R</forename><surname>Heekeren</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Education and Psychology</orgName>
+								<orgName type="institution">Freie Universität</orgName>
+								<address>
+									<settlement>Berlin</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Emerging Neuroscience of Social Media</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Trends in Cognitive Sciences</title>
+						<title level="j" type="abbrev">Trends in Cognitive Sciences</title>
+						<idno type="ISSN">1364-6613</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">19</biblScope>
+							<biblScope unit="issue">12</biblScope>
+							<biblScope unit="page" from="771" to="782"/>
+							<date type="published" when="2015-12" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">80EA386B8E83F120857A6CB7747ACC1A</idno>
+					<idno type="DOI">10.1016/j.tics.2015.09.004</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Social media use is a global phenomenon, with almost two billion people worldwide regularly using these websites. As Internet access around the world increases, so will the number of social media users. Neuroscientists can capitalize on the ubiquity of social media use to gain novel insights about social cognitive processes and the neural systems that support them. This review outlines social motives that drive people to use social media, proposes neural systems supporting social media use, and describes approaches neuroscientists can use to conduct research with social media. We close by noting important directions and ethical considerations of future research with social media.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Rise of Social Media Research</head><p>Social media permeate our society. Facebook, the world's most popular social networking site, currently has 1.5 billion regular users, or roughly one out of every five humans on the planet i . In the United States, 74% of online adults use social networking sites, such as Facebook, Twitter, LinkedIn, Pinterest, and Instagram ii,iii . This ubiquitous use of social media generates a massive amount of data. Each day, people send one billion posts to Facebook, tweet 400 million messages through Twitter, upload 12 years' worth of videos to YouTube, and make 300 000 edits to Wikipedia (Box 1).</p><p>Given the pervasiveness of social media use and this abundance of social media data, it is unsurprising that social media have spurred an onslaught of scientific inquiry in the past few years. Since 1997, the year the term 'social media' was coined <ref type="bibr" target="#b0">[1]</ref>, over 10 000 published journal articles have used the term. Researchers across fields such as psychology, economics, marketing, communications, and sociology have begun using social media in their investigations <ref type="bibr" target="#b1">[2]</ref>. Across all fields of inquiry, however, researchers have only just scratched the surface of harnessing social media for insights into human social cognitive processes. The field of neuroscience seems to be particularly behind the times, accounting for only seven of the articles published on this topic <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref>. This is particularly surprising because social media may be uniquely suited to support existing social neuroscience endeavors, and to facilitate new ones.</p><p>To encourage research in this domain, here we propose a framework for using social media to study social cognitive processes and the neural systems that support them. First, we review the social motives that drive humans to use social media, and propose neural systems associated with social media use. We then describe how researchers can procure and employ social media data in research. Finally, we conclude by discussing important avenues of future research, as well as privacy and ethical considerations in conducting research with social media data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Why People Use Social Media</head><p>People use social media for two primary reasons: (i) to connect with others; and (ii) to manage the impression they make on others <ref type="bibr" target="#b9">[10]</ref>. These motives arose long before Facebook allowed us to Trends Social media use is a global phenomenon. Neuroscientists are beginning to capitalize on the ubiquity of social media use to gain novel insights about social cognitive processes.</p><p>Social media provide platforms for users to satisfy fundamental social drives, such as connecting with others and managing one's reputation with others.</p><p>Neural systems that support various types of social cognition have been established by research with offline behaviors. These neural systems should be involved in online social media use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Neuroscientists</head><p>can take two approaches when using social media in research. They can take advantage of similarities between on-and offline social behaviors, using measures from social media as a proxy for offline behaviors. Alternately, they can capitalize on differences between the on-and offline world, investigating behaviors unique to the online environment.</p><p>'friend' co-workers or Instagram allowed us to 'like' their posts. Social media merely capitalize on pre-existing social drives <ref type="bibr" target="#b10">[11]</ref>.</p><p>People are driven to connect with others and manage their reputation, and likely derive significant adaptive advantages from doing so. Indeed, finding ways to fulfill our need to belong to a social group may be as important to our survival as fulfilling our basic biological needs, such as obtaining food and sex <ref type="bibr" target="#b11">[12]</ref>. Living as part of an interconnected group enhances reproductive success by providing access to potential mates, and enhances physical survival by providing increased safety from potential predators, as well as providing access to the fruits of communal agriculture and cooperative hunting efforts <ref type="bibr" target="#b12">[13]</ref>. Managing one's reputation within a group enhances survival rates by helping to sustain successful social connections <ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref>. Groups increase the potential to not only survive, but also thrive <ref type="bibr" target="#b17">[18]</ref>; strong social bonds enhance psychological wellbeing and protect individuals from feelings of loneliness and depression <ref type="bibr" target="#b18">[19]</ref>.</p><p>Social media provide a platform for people to satisfy these fundamental social drives. Specifically, social media allow us to connect with others and groom our reputation via at least five key behaviors (Figure <ref type="figure" target="#fig_0">1</ref>): (i) users broadcast information (e.g., text, pictures, links, videos, etc.). Users can share information that is personal (e.g., vacation photos) <ref type="bibr" target="#b19">[20]</ref>, or they can propagate information that is not self-referential in nature (e.g., posting an article about top vacation spots); and (ii) users receive feedback on broadcasted information. For example, a user might have pictures of a vacation that she would like to share with others. The user uploads pictures to social media and then other users provide feedback by commenting on the pictures and/or providing a signal of approval (e.g., a 'like' or 'favorite', depending on the social media platform). This reciprocity works in the opposite direction as well: (iii) users observe information broadcast by others; and (iv) users provide feedback on others' posts. For example, a user might see a picture of a friend's vacation, 'like' the picture on Facebook, and then comment on how much fun the vacation looked. Feedback is usually visible to the user's network or, in some cases, the public. In either case, (v) users engage in social comparison, by contrasting their own broadcasts and feedback to others' <ref type="bibr" target="#b20">[21]</ref>, such as the number of likes received. This social comparison is not limited to posts and feedback; descriptive information in a user's profile may also be used for social comparison, such as online social network size, relationship status, and age, for example. Social media come in many forms. Broadly defined, they allow for the formation of online communities by enabling people to share information, ideas or opinions, messages, and videos <ref type="bibr" target="#b85">[85]</ref>.</p><p>The prototypical form of social media is the social network. As of 2015, there were over 200 different social networks functioning worldwide vi . Social network platforms are web-based services that allow individuals to: (i) construct a public or semipublic profile; (ii) build a list of other users with whom they share a connection; and (iii) view their list of connections and those made by others within the system <ref type="bibr" target="#b86">[86]</ref>. Information included on a profile varies by social network, but usually includes a picture of the user and a user name, as well as information about demographics and personality, such as gender, dates of birth, education, employment, and interests. Facebook is currently the most widely used online social network, with 1.5 billion regular users i,ii . Other social networks focus on specific uses, such as LinkedIn with a career focus, Twitter with a microblogging focus, and Instagram with a photo-sharing focus.</p><p>Other major categories of social media include media sharing, social news, and collaborative content. Media sharing platforms, such as YouTube and Flickr, provide people with an arena to share media such as videos or pictures. This category often overlaps with social networks, because media-sharing platforms sometimes allow for profiles, comments, or feedback on posted content. For example, Instagram has been categorized as both a social network focused on photo sharing, as well as a media-sharing platform. Social news platforms, such as Reddit and Digg, provide people with an arena to share and discuss news. Typically, news that receives many positive votes is featured more prominently on these sites. Finally, collaborative content platforms, such as Wikipedia, provide people with an arena to collectively contribute to content on a public website. Users can generate, edit, and delete content, but often do not interact as socially as in other platforms.</p><p>With these key behaviors in mind, we can now propose several neural systems involved in social media use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Neural Systems Supporting Social Media Use</head><p>Social media provide a platform where the modern human can attempt to satisfy basic social needs via five key behaviors. These behaviors rely primarily on three domains: social cognition (i.e., mentalizing), self-referential cognition, and social reward processing. The neural systems supporting these social cognitive processes have been studied extensively in the offline world. Here, we review each of the neural systems underlying these cognitive processes in turn (Figure <ref type="figure">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mentalizing Network</head><p>Using social media requires us to think about the mental states and motivations of other users: to mentalize <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b21">22]</ref>. For example, before and after a social media user broadcasts information, she may think about how her audience will respond. When providing feedback on another user's posts, a user may think about how this specific user may react upon receiving this feedback. Finally, when viewing information and feedback broadcast by others, a user may think about the other user's motivations for posting this information.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Broadcast</head><p>Neuroimaging studies of offline social behaviors have demonstrated that thinking about others' thoughts, feelings, and intentions reliably recruits a network of brain regions, including the dorsomedial prefrontal cortex (DMPFC), bilateral temporoparietal junction (TPJ), anterior temporal lobes (ATL), inferior frontal gyri (IFG), and posterior cingulate cortex/precuneus (PCC) <ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref>. Recent studies have directly linked activity in these regions to sharing information <ref type="bibr" target="#b25">[26,</ref><ref type="bibr" target="#b26">27]</ref> and receiving other's shared information <ref type="bibr" target="#b27">[28]</ref>. These regions, implicated in offline information sharing and receipt, as well as in mentalizing more broadly, likely also help us to process the social thoughts and behaviors elicited by social media.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Self-Referential Cognition Network</head><p>People use social media to post information about themselves: they share their own current subjective experience, recent past, or opinions <ref type="bibr" target="#b28">[29]</ref>. As such, social media use involves a great deal of self-referential thought: thinking about oneself may prompt a user to broadcast those thoughts, and broadcasting one's thoughts may provoke further self-referential thought. Receiving feedback may induce reflected self-appraisals, and social comparison likewise requires users to think about their own behavior in relation to other users.</p><p>Neuroimaging studies have demonstrated that self-referential thought involves a network of midline cortical regions, specifically the medial prefrontal cortex (MPFC) and PCC <ref type="bibr" target="#b29">[30]</ref>. Recent studies have also linked activity in the MPFC to the self-referential component of sharing information about the self (i.e., self-disclosure) <ref type="bibr" target="#b30">[31]</ref>. Online social media use that involves self-referential thought should likewise recruit this network of brain regions involved in thinking about the self.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reward Network</head><p>Social media provide users with a consistent supply of social rewards, with each and every suggestion of social connection or reputation enhancement. For example, Facebook users can receive positive feedback in the form of a 'like,' or social connections in the form of a 'friend' request. Even minimalistic cues of social success such as these may activate our brain's reward system, and keep us coming back to Facebook for more.</p><p>Social rewards activate a network of brain regions including the ventromedial prefrontal cortex (VMPFC), ventral striatum, and ventral tegmental area <ref type="bibr" target="#b31">[32,</ref><ref type="bibr" target="#b32">33]</ref>. Neuroimaging research of offline social behaviors has already implicated this network in each of the five key behaviors outlined above. For example, sharing of information with others activates the VMPFC and ventral striatum <ref type="bibr" target="#b30">[31]</ref>, as does receiving positive social feedback (e.g., getting cues that others understand you <ref type="bibr" target="#b33">[34]</ref>, agree with you <ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref>, like you <ref type="bibr" target="#b37">[38]</ref>, or think highly of you <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b38">39,</ref><ref type="bibr" target="#b39">40]</ref>). Providing others with these same social rewards (e.g., giving a 'like' on Facebook), may be akin to other types of prosocial behavior, which also activate the reward system (e.g., donating to charity) <ref type="bibr" target="#b40">[41,</ref><ref type="bibr" target="#b41">42]</ref>. Reading others' posts may likewise elicit reward activity, because receiving information elicits curiosity <ref type="bibr" target="#b42">[43]</ref>, a feeling associated with activity in the ventral striatum <ref type="bibr" target="#b43">[44]</ref>. Finally, the ventral striatum may underlie social comparison, with research showing that activity in this region reflects the comparison between one's own obtained reward and another person's, rather than the absolute level of one's own reward <ref type="bibr" target="#b44">[45,</ref><ref type="bibr" target="#b45">46]</ref>. These regions, implicated in offline information sharing and receipt, giving and receiving feedback, and reward processing more broadly, likely also process the rewards endowed by social media.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Other Networks</head><p>In using social media, one must attend to stimuli, make decisions, and execute motor movements, amongst countless other behaviors. These implicate other brain systems in social media use, such as the frontoparietal attention network <ref type="bibr" target="#b46">[47]</ref>, the executive function network <ref type="bibr" target="#b47">[48]</ref>, and the motor system <ref type="bibr" target="#b48">[49]</ref>, respectively. Nevertheless, here we focus specifically on the cognitive processes that make social media unique as a platform for human social interaction.</p><p>Research into the neural underpinnings of social cognitive processes provides scaffolding for our understanding of processes involved in social media use. Future neuroscientific research with social media should shed light on the actual neurocognitive processes involved. To the extent that online social behaviors mirror those in the offline social world, we can harness this knowledge to expand extant social cognitive research in the context of new media.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Using Social Media Data in Social Neuroscience Research</head><p>Similarities between On-and Offline Behavior The online social media world often mimics the offline social world. People establish a network of friends and acquaintances in the real world, and social media users can mirror this network online. As we have already seen with the five key behaviors, interactions within this online social network parallel offline social interactions. Neuroscientists can capitalize upon these similarities by using measures from online social media use as a proxy for real-world social behaviors.</p><p>Why should researchers endeavor to use these types of online behavior as a proxy for similar offline behaviors? Social media metrics provide important advantages over other types of social behavior metrics. First and foremost, social media data provide externally valid measures of people's real-world behavior, while they are actually interacting with others. These data are not collected during experimental sessions, and are thus less susceptible to demand characteristics <ref type="bibr" target="#b49">[50]</ref>. Social media data can bypass self-report, which is notably susceptible to errors in recall or self-presentation biases. These data are not completely immune to biases; however, they still reflect actions people have actually taken in the world and, thus, provide meaningful insight into people's real, rather than hypothetical, social behaviors <ref type="bibr" target="#b50">[51,</ref><ref type="bibr" target="#b51">52]</ref>. As such, these data provide researchers with a tool to assess the real-world implications for any targeted social cognitive process under investigation. Second, these data can be simpler to procure than offline social behaviors (Box 2). Real-time, continuous measures of social behavior used to be available only</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Box 2. How to Obtain Behavioral Measures from Social Media</head><p>There are several ways to obtain metrics of social media behaviors. First, researchers can simply ask participants to selfreport their behavior, answering questions such as, 'In the past week, on average, how many minutes per day have you spent on social media', from the Facebook Intensity Scale [89]. These self-report measures are easy to execute, but do not always accurately assess actual behavior <ref type="bibr" target="#b90">[90]</ref>, possibly due to memory limitations and social desirability bias.</p><p>Researchers can more directly assess participants' online behavior by accessing their social media profiles as another user would and cataloguing visible behaviors. If participants' behavior is private or restricted to their social network, researchers can ask participants to add researcher profiles to their network. This approach is more accurate than selfreport. Because it is time consuming, however, this may render it unfeasible for large-scale studies. Furthermore, many behaviors may not be visible to researchers simply observing the profile of the study participants.</p><p>Researchers can obtain a wider range of participants' accurate social media data by downloading them directly from the social media platform. This can be accomplished with API. For example, through Facebook's Graph API vii , researchers can access user data, such as 'likes,' posts, and profile information <ref type="bibr" target="#b82">[82]</ref>. On the Facebook platform, study participants need to give researchers permission to access their data by entering their email address and Facebook password. An API is also available for the Twitter platform viii , through which researchers can access data such as tweets from specific users, tweets from all users on a specific topic, connections between users, and so on. Twitter API users have limited access to historical tweets, and can only access a subset of ongoing tweet activity. Some companies offer broader access to Twitter (e.g., Topsy). Overall, after an initial time investment to establish data access through the API, researchers can use direct download methods to obtain a high volume of specific, time-stamped, quantifiable data created on social media.</p><p>with labor-intensive experience sampling and diary recording; social media data can be procured with a few calls to an application programming interface (API). Third, these data are typically amassed over an extended period of time and, as a result, may be more stable than data collected in a single laboratory session, which can be highly variable <ref type="bibr" target="#b52">[53]</ref>. Thus, these data likely reflect behavioral traits, rather than the state of the participant during the laboratory session. Fourth, social media data can be more easily quantifiable than offline social behaviors (e.g., number of likes, size or shape of social network). Finally, social media behaviors can be used in conjunction with parallel real-world behaviors and, thus, serve as an independent source of convergent data for a behavior of interest.</p><p>Social media data open new doors for researchers interested in linking externally valid social behaviors to brain structure and function. Researchers can draw from content generated in the world of social media; for example, there are many online behaviors that neuroscientists can employ as a proxy for offline social behaviors, or personally relevant variables that can be extracted, including the following: (i) broadcasts: social media users broadcast their life and receive broadcasts about real-world events through social media. This behavior, assessed as the quantity and content of a user's posts or profile information, can be used as a proxy measure of the content of an individual's offline thoughts or disclosures. For example, one can assess an individual's tendency to self-disclose as the frequency of 'I' statements in posts, or as the ratio of self-referential to non-self-referential, or informational posts <ref type="bibr" target="#b28">[29]</ref>. Further, a user's broadcasts can also be analyzed to measure that individual's emotional states <ref type="bibr" target="#b53">[54]</ref>. Comparing user broadcasts can be used to measure social conformity, by examining attitude changes in broadcasts after exposure to friends' broadcasts. Finally, studies can employ these text and image broadcasts as subject-specific, personally relevant stimuli; (ii) providing positive feedback: this behavior, measured with likes or positive comments, can be used as a surrogate for offline prosocial behavior; (iii) curiosity: this motivational construct, assessed via the amount of scrolling through news feeds, clicks on content, or time spent on social media, can be used as a representation of offline curiosity; (iv) personality traits: these psychological constructs, which can be predicted from a user's digital footprint on social media <ref type="bibr" target="#b54">[55,</ref><ref type="bibr" target="#b56">56]</ref>, can be used as a surrogate for survey assessment of personality. Currently, one's digital footprint has been used to predict only the 'big five' traits, but with time, neuroscientists will have opportunities to assess more and varied personality traits <ref type="bibr" target="#b57">[57]</ref>; (v) social network shape: the location of an individual within their social network (e.g., central hub or isolated outsider) can be ascertained by analyzing their online social group <ref type="bibr" target="#b58">[58]</ref>, and this measure can be used as a proxy for their offline social interactions <ref type="bibr" target="#b59">[59]</ref>. The type of connections between two individuals (e.g., close friends versus distant acquaintances) can be quantified with social network metrics, and employed as subject-specific social manipulations.</p><p>Neuroscientists have only just begun to leverage this approach to gain a deeper understanding of human social cognition and neural functioning. For example, two studies examined the relation between online social network size and gray matter density <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b6">7]</ref>. Replicating previous research with real-world social networks <ref type="bibr" target="#b60">[60]</ref>, the authors found that individuals with larger online social networks had larger amygdalae than individuals with smaller social networks. Another recent study capitalized on the fact that reputation management drives social media use <ref type="bibr" target="#b9">[10]</ref> by examining the relationship between intensity of online social media use and neural processing of offline gains in reputation <ref type="bibr" target="#b4">[5]</ref>. Results showed that the response of the nucleus accumbens to reputation enhancement predicted participants' intensity of social media use. These findings corroborate the importance of these structures to the maintenance of social networks and extend our knowledge of the factors that motivate social behaviors, respectively. More importantly, they establish the viability of using metrics generated by social media use for the study of social neurocognitive processes.</p><p>Despite their advantages, social media data are not without their limitations. First, not all people use social media; only participants who are self-selected users of social media can provide this type of data. Second, people are highly aware of how they present themselves to the online world. As such, these data may be subject to self-presentation biases, similar to those found in typical laboratory experiments or self-report measures <ref type="bibr" target="#b49">[50]</ref>. Finally, although we have thus far seen that online behaviors mirror those seen offline, this assumption does not always hold true <ref type="bibr" target="#b61">[61]</ref>. Even if we see parallels between on-and offline behavior and the neurocognitive processes that support that behavior, researchers should be wary that the parallel is not endless.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Differences between On-and Offline Social Environments</head><p>Social media provide researchers with more accurate, larger-scale, and convergent measures to parallel offline social measures and ongoing social neuroscience studies. These social media measures bolster our ability to reliably and efficiently answer existing questions. Can we also use social media to answer new questions about our social minds as well? In short, yes. Despite the parallels outlined above, and the wishes of some users, social media is not the real world. Social media place users in an environment that differs in important ways from the natural world <ref type="bibr" target="#b61">[61]</ref>; each social media platform provides another unique environment within which to interact (Box 3). Novel social environments can elicit different social behaviors from users, providing researchers with numerous unique opportunities to tap into these ongoing, naturalistic 'experiments' on human social behavior. Therefore, researchers should be aware of the novelty of the social media environment to both be wary of and take advantage of this type of data. Here, we describe several of these on-and offline environmental differences.</p><p>To begin with, when people communicate face to face, they must abide by social norms <ref type="bibr" target="#b62">[62]</ref>. For example, people take turns in normal conversations, allowing everyone a chance to speak in similar doses and waiting one's turn to reciprocate. By contrast, contact on social media is often unidirectional, rather than reciprocal. That is, online users have limitless opportunities for one-sided conversation, taking turn after turn for themselves.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Box 3. Social Media Environments</head><p>Social media sites vary in the type of environment they afford users <ref type="bibr" target="#b61">[61]</ref>. Small differences in environment across websites can cause large differences in how users interact with those sites and, as a consequence, other users. When using social media in research, it is important to be aware of features specific to the environment. We propose six features that may impact the ways users interact: (i) User Identity (known, semi-anonymous, anonymous): Known users must reveal their real world identity on social media; semi-anonymous users can be traced back to a known identity, but accounts are not required to contain personally identifiable information; anonymous users cannot be identified from their account.</p><p>(ii) Information format (text, image): information can be shared linguistically, with text, or visually, with images, such as pictures and/or videos.</p><p>(iii) Text length (long-form, short-form): long-form text is not limited in length; short-form text must be shared within a limited space or format. (iv) Network connections (personal versus public): social networks can connect individuals who know each other in real life or they can connect anonymous members of the public. When users broadcast information, it may remain within just their personal network, or it may appear to a wider audience, respectively. Some social media provide options for restricting broadcasts within a user's network even further. (v) Spatial distance (local versus global): most social networking sites give a global reach to users; some social networking sites keep communication within a more limited, local spatial scale.</p><p>(vi) Temporal scale (momentary versus permanent):some social media sites retain the momentary nature of our social interactions, but most social media sites allow us to store interactions in more enduring format, which we can refer back to over time. Some social media platforms allow users to delete content, though this data is still retained offline.</p><p>In real-world, face-to-face communication, people generally know the person they are speaking to, or can visually identify the person. People communicate verbally, to friends or members of the public, with no restrictions on length of discussion. This communication is restricted to a local environment and is usually not recorded. Online social behaviors vary widely with regard to these environmental features (Table <ref type="table" target="#tab_0">I</ref>). Researchers can use these features to assess both how representative social media data might be of offline social behavior and how environmental factors constrain or enable human social behaviors.</p><p>Social media also enable people to interact with others separated by immense spatial, temporal, and social distance <ref type="bibr" target="#b61">[61,</ref><ref type="bibr" target="#b63">63]</ref>. More so than with telegraphs, telephones, and same-day mail services, we are becoming less and less constrained by spatial or social proximity; people can talk with a close friend or neighbor next door just as easily as they can have anonymous conversations with strangers on the other side of the world. Online contact is also more likely to be socially transient: in the real world, we may only minimally interact with a store clerk, but the likelihood that we will see that person again is high. By contrast, on social media, we may interact with someone only once and not know if or when we will interact with that person again. Online interactions are often also temporally intransient, recorded in databases in perpetuity, whereas face-to-face interactions often go unrecorded. Finally, online social interactions are often temporally extended, allowing for breaks in communication. Online, a person does not have to respond to anything right away; they can wait a minute, an hour, a day, or much longer, and still be in line with online social norms. Face-to-face communication does not afford this luxury; during face-to-face conversation, a person who waits in silence for even one minute would be considered socially awkward.</p><p>No longer constrained by spatial, social, and temporal distance, social media allows people to interact with audiences that are essentially limitless in size. We can just as easily share information with hundreds of Facebook friends, or Twitter followers, from the comfort of our own smartphone, as we can chat face-to-face with our nearest friends, one or two at a time. At the same time, because of the distance and current limitations of technology, people are likely to miss out on a rich array of social cues that define close interactions: seeing microexpressions, feeling physical contact, hearing subtleties of intonations <ref type="bibr" target="#b63">[63,</ref><ref type="bibr" target="#b64">64]</ref>. Social media may allow for communication that can be more far-reaching and impactful than ever before, but it also This table contains several social media platforms and the environmental features that determine how users interact on the sites. We list only primary functions for ease of description and to highlight potential avenues for researchers. N/A, not applicable.</p><p>deprives us of the rich, multimodal social information that we are used to with face-to-face contact.</p><p>Given these differences, social media can elicit behaviors that significantly diverge from those elicited in face-to-face interactions. For example, by releasing us from the norm of reciprocity, social media may allow our desire to self-disclose to run wild. During face-to-face discourse, people spend approximately 30% of conversations sharing information about themselves <ref type="bibr" target="#b65">[65]</ref>; online, where people have limitless opportunities to share information, self-disclosure skyrockets to comprise 80% of our online posts <ref type="bibr" target="#b28">[29]</ref>. Further, politeness norms dictate that we should behave cordially to one another in face-to-face interactions. By contrast, the social distance provided by certain social media platforms, such as YouTube and Twitter, can result in the repeated violation of these norms <ref type="bibr" target="#b66">[66,</ref><ref type="bibr" target="#b67">67]</ref>. By releasing people from some of the environmental constraints that usually shape their behavior, social media provide a wellspring of opportunity to understand the roots of our social behaviors, and the extent to which they will be influenced by different environmental factors. Neuroscientists can capitalize on these natural variations in online environments by collecting behavioral data and relating them to brain structure or function to ask new questions about the roots of our social brain and how it adapts in new environments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concluding Remarks</head><p>Neuroscience research with social media is still in its infancy, and there is great potential for future scientific discovery (see Outstanding Questions). One important domain for prospective research will be to investigate the effects of regular social media use on our neural and behavioral functioning. The sheer number of people using social media is enormous, and continues to increase, with some people spending several hours on social media each day <ref type="bibr" target="#b68">[68]</ref> i . How does this routine affect us? This question is especially relevant for children and adolescents, who make up a significant portion of social media consumers, and may be particularly susceptible to environmental influences during their development [69] iv,v . As time spent on social media eats more and more into the time we used to spend face to face with real people <ref type="bibr" target="#b70">[70]</ref>, it will be important to know what changes, if any, social media induces in users' functioning. Although social media can elicit positive consequences <ref type="bibr" target="#b71">[71]</ref><ref type="bibr" target="#b72">[72]</ref><ref type="bibr" target="#b73">[73]</ref>, exploring the effects of social media on the brain is especially relevant considering that social media use can develop into a behavioral addiction <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b74">74,</ref><ref type="bibr" target="#b75">75]</ref>, and can contribute to poor academic performance <ref type="bibr" target="#b76">[76,</ref><ref type="bibr" target="#b77">77]</ref>, job loss <ref type="bibr" target="#b78">[78]</ref>, and declines in wellbeing <ref type="bibr" target="#b79">[79,</ref><ref type="bibr" target="#b80">80]</ref>. Understanding the global effects of social media use, both over development and into adulthood, will be an important avenue for future research.</p><p>Before undertaking research with social media, however, researchers should take note of potential privacy and ethical concerns regarding these data <ref type="bibr" target="#b81">[81,</ref><ref type="bibr" target="#b82">82]</ref>. For example, obtaining consent from one participant may allow researchers to download data created by other users who have not provided consent to their data (see discussion of the API in Box 2). If a consenting participant posts a picture on Facebook and a friend comments on it, researchers may be able to download the identity of the friend and the content of the comment, potentially breaching the friend's privacy. A good rule of thumb in this circumstance is to adhere to the privacy and ethical guidelines developed for offline psychological research with human subjects when proceeding with social media data collection <ref type="bibr" target="#b81">[81]</ref>. For a full review of these issues, see <ref type="bibr" target="#b81">[81,</ref><ref type="bibr" target="#b82">82]</ref>.</p><p>Neuroscience research has only just begun to employ social media for garnering insights about humanity's social prowess and the neural systems that support it. These abundant new social media data allow researchers to ask new questions about human sociality, and to get new answers to old questions (see Outstanding Questions). If the same key neural systems engaged by the offline social world are also engaged by the online social world, the online social world provides a promising environment within which to study social behaviors. Occasions where the online social world diverges from the real world also hold immense promise. To capture the</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Outstanding Questions</head><p>Which real-world social behaviors and cognitive factors have parallels in social media? Neuroscience researchers have already capitalized on two: social network and reputation management <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b8">9]</ref>. Which others can be used to ask questions about the brain and behavior?</p><p>Which social behaviors are unique to social media? When online behaviors deviate from offline behaviors, what does that tell us about the roots of our social cognitive processes or their susceptibility to environmental influence?</p><p>What are the consequences of social media use? How does both moderate and excessive use of social media impact wellbeing or social connections? How are these changes mediated by brain structure and function?</p><p>Are there ways to harness social media to investigate or treat psychiatric disorders? Do social media provide an accessible communication platform for individuals in remote areas where access to medical practitioners is limited <ref type="bibr" target="#b83">[83]</ref>? Does social media help connect individuals with disorders characterized by impairments in social functioning, such as autism spectrum disorder <ref type="bibr" target="#b84">[84]</ref> and social anxiety, or does social media only further isolate these individuals from potential realworld social communities?</p><p>When individuals act differently on-and offline, which actions better reflect their 'true' self? As social media use takes up more and more of people's time, will the actions elicited by online environments become the norm? Do interactions on social media provide individuals with a meaningful source of social connection, or do they merely provide surface cues of social connection without the same long-term, substantive benefits we derive from faceto-face interaction? Is social media use adaptive or maladaptive? causal relations between the balanced elements that underlie human social cognition, it is informative to see how perturbations in individual elements perturb the functioning of the larger system. Which perturbations in our social environment take the breaks off our social drives? Which perturbations impede our ability to treat others with respect, or impede our ability to benefit from interactions with others? What can these perturbations in downstream behavior tell us about the neural systems supporting our social interactions?</p><p>Social media provide researchers with a powerful new tool. We hope to encourage researchers to harness these social media data for insight into our sociality, as well as the neural processes supporting our social motives and behaviors, and build on the small handful of current endeavors in this domain.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Box 1 .</head><label>1</label><figDesc>What are Social Media?</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .Figure 2 .</head><label>12</label><figDesc>Figure 1. Five Key Social Media Behaviors. Social media users can: (1) broadcast information; (2) receive feedback on this information; (3) observe the broadcasts of others; (4) provide feedback on the broadcasts of others; and (5) compare themselves with others.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table I .</head><label>I</label><figDesc>Features of Social Media Environments a</figDesc><table><row><cell>Environment</cell><cell>User Identity</cell><cell>Information</cell><cell>Text</cell><cell>Network</cell><cell>Spatial</cell><cell>Temporal</cell></row><row><cell></cell><cell></cell><cell>Format</cell><cell>Length</cell><cell>Connections</cell><cell>Distance</cell><cell>Scale</cell></row><row><cell>Real world</cell><cell>Known</cell><cell>Verbal</cell><cell>Long</cell><cell>Personal, public</cell><cell>Local</cell><cell>Momentary</cell></row><row><cell>(face to face)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Facebook</cell><cell>Known</cell><cell>Text, images</cell><cell>Long</cell><cell>Personal</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>Google+</cell><cell>Known</cell><cell>Text, images</cell><cell>Long</cell><cell>Personal</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>Instagram</cell><cell>Semi-anonymous</cell><cell>Images</cell><cell>N/A</cell><cell>Personal, public</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>Twitter</cell><cell>Semi-anonymous</cell><cell>Text</cell><cell>Short</cell><cell>Personal, public</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>Vine</cell><cell>Semi-anonymous</cell><cell>Images</cell><cell>N/A</cell><cell>Personal, public</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>YouTube</cell><cell>Semi-anonymous</cell><cell>Images</cell><cell>N/A</cell><cell>Public</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>Quora</cell><cell>Anonymous</cell><cell>Text</cell><cell>Long</cell><cell>Public</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>Reddit</cell><cell>Anonymous</cell><cell>Text, images</cell><cell>Long</cell><cell>Public</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>Snapchat</cell><cell>Known</cell><cell>Images</cell><cell>N/A</cell><cell>Personal</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>Tumblr</cell><cell>Anonymous</cell><cell>Images</cell><cell>N/A</cell><cell>Personal, public</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>Yik Yak</cell><cell>Anonymous</cell><cell>Text</cell><cell>Short</cell><cell>Public</cell><cell>Local</cell><cell>Enduring</cell></row><row><cell>Ripple</cell><cell>Semi-anonymous</cell><cell>Text, images</cell><cell>Short</cell><cell>Public</cell><cell>Local, global</cell><cell>Enduring</cell></row><row><cell>Blogs</cell><cell>Semi-anonymous</cell><cell>Text, images</cell><cell>Long</cell><cell>Public</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>LinkedIn</cell><cell>Known</cell><cell>Text, images</cell><cell>Short</cell><cell>Public</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>Wikipedia</cell><cell>Anonymous</cell><cell>Text, images</cell><cell>Long</cell><cell>Public</cell><cell>Global</cell><cell>Enduring</cell></row><row><cell>a</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Trends in Cognitive Sciences, December 2015, Vol. 19, No. 12 773</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Trends in Cognitive Sciences, December 2015, Vol. 19, No. 12 775</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Trends in Cognitive Sciences, December 2015, Vol. 19, No. 12 777</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>Trends in Cognitive Sciences, December 2015, Vol. 19, No. 12 779</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We would like to thank <rs type="person">Brent Hughes</rs>, <rs type="person">Emma Templeton</rs>, and <rs type="person">Adrian Ward</rs> for comments on previous versions of this manuscript. Funding was provided by the <rs type="funder">German Research Foundation (DFG)</rs> to H.R.H.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Resources i http://newsroom.fb.com/company-info/ ii www.pewinternet.org/2015/01/09/social-media-update-2014/ iii www.pewinternet.org/fact-sheets/social-networking-fact-sheet/ iv www.pewinternet.org/fact-sheets/teens-fact-sheet/ v www.pewinternet.org/2015/04/09/teens-social-media-technology-2015/ vi https://en.wikipedia.org/wiki/List_of_social_networking_websites vii https://developers.facebook.com/docs/graph-api viii https://dev.twitter.com/rest/public</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Who coined &apos;social media&apos;? Web pioneers compete for credit</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bercovici</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forbes</title>
+		<imprint>
+			<date type="published" when="2009">2010. Dec 9</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A review of Facebook research in the social sciences</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Wilson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Perspect. Psychol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="203" to="220" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Why is Facebook so successful? Psychophysiological measures describe a core flow state while using Facebook</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mauri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol. Behav. Soc. Netw</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="723" to="731" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Online social network size is reflected in human brain structure</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kanai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Biol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">279</biblScope>
+			<biblScope unit="page" from="1327" to="1334" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Nucleus accumbens response to gains in reputation for the self relative to gains for others predicts social media use</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Meshi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Hum. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">439</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Examination of neural systems sub-serving Facebook &apos;addiction</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Turel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Rep</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="675" to="695" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The social network-network: size is predicted by brain structure and function in the amygdala and paralimbic regions</title>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Der</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heide</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Cogn. Affect. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1962" to="1972" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Neural affective mechanisms predict market-level microlending</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Genevsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Knutson</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0956797615588467</idno>
+		<ptr target="http://dx.doi.org/10.1177/0956797615588467" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Sci</title>
+		<imprint>
+			<date type="published" when="2015-07-17">2015. July 17, 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Linking Facebook network structure to neural responses during social exclusion</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bayer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">101st Annual Conference for the National Communication Association</title>
+		<meeting><address><addrLine>Las Vegas, NV</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Why do people use Facebook?</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nadkarni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Hofmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pers. Individ. Dif</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="243" to="249" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Old desires, new media</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Tamir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Ward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Psychology of Desire</title>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Hofmann</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Nordgren</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Guilford Press</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="432" to="455" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The need to belong: desire for interpersonal attachments as a fundamental human motivation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Baumeister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Leary</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Bull</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="497" to="529" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Why are diurnal primates living in groups?</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Van Schaik</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behaviour</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="120" to="144" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Evolution of indirect reciprocity by image scoring</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Nowak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sigmund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">393</biblScope>
+			<biblScope unit="page" from="573" to="577" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Cooperation through image scoring in humans</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wedekind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Milinski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">288</biblScope>
+			<biblScope unit="page" from="850" to="852" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Reputation helps solve the &apos;tragedy of the commons</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Milinski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">415</biblScope>
+			<biblScope unit="page" from="424" to="426" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">The Biology of Moral Systems</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Alexander</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Aldine de Gruyter</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Social relationships and mortality risk: a meta-analytic review</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Holt-Lunstad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1000316</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The social context of wellbeing</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Helliwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Putnam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos. Trans. R. Soc. Lond. B: Biol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="1435" to="1446" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Online disclosure</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Bazarova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The International Encyclopedia of Interpersonal Communication</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Berger</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Roloff</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Wiley-Blackwell</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Social comparison 2.0: examining the effects of online profiles on social-networking sites</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Haferkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Krämer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol. Behav. Soc. Netw</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="309" to="314" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Social cognition on the Internet: testing constraints on social network size</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I M</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos. Trans. R. Soc. Lond. B: Biol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">367</biblScope>
+			<biblScope unit="page" from="2192" to="2201" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Fractionating theory of mind: a metaanalysis of functional brain imaging studies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schurz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neurosci. Biobehav. Rev</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="9" to="34" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">People thinking about thinking people: the role of the temporo-parietal junction in &apos;theory of mind</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Saxe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kanwisher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroimage</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1835" to="1842" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Neural correlates of social cognition in naturalistic settings: a model-free analysis approach</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Wolf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroimage</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="894" to="904" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Getting the word out: neural correlates of enthusiastic message propagation</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Falk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Hum. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">313</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Creating buzz: the neural correlates of effective message propagation</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Falk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1234" to="1242" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Neural correlates of susceptibility to group opinions in online word-of-mouth recommendations</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Cascio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Mark. Res</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="559" to="575" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Is it really about me? Message content in social awareness streams</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Naaman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2010 ACM Conference on Computer Supported Cooperative Work</title>
+		<meeting>the 2010 ACM Conference on Computer Supported Cooperative Work</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="189" to="192" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Self-referential processing in our brain: a metaanalysis of imaging studies on the self</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Northoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroimage</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="440" to="457" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Disclosing information about the self is intrinsically rewarding</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Tamir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Mitchell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="8038" to="8043" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Social rewards and social networks in the human brain</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Fareri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Delgado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroscientist</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="387" to="402" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The neurobiology of rewards and values in social decision making</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Ruff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fehr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="549" to="562" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The neural bases of feeling understood and not understood</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Morelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Cogn. Affect. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Reinforcement learning signal predicts social conformity</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Klucharev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuron</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="140" to="151" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">How the opinion of others affects our valuation of objects</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Campbell-Meiklejohn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Biol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1165" to="1170" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">How expert advice influences decision making</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Meshi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">49748</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Being liked activates primary reward and midline self-related brain regions</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Davey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum. Brain Mapp</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="660" to="668" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Processing of social and monetary rewards in the human striatum</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Izuma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuron</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="284" to="294" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Positively biased processing of self-relevant social feedback</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Korn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="16832" to="16844" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Neural responses to taxation and voluntary giving reveal motives for charitable donations</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Harbaugh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">316</biblScope>
+			<biblScope unit="page" from="1622" to="1625" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Activity in the nucleus accumbens and amygdala underlies individual differences in prosocial and individualistic economic choices</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haruno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Cogn. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1861" to="1870" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Curiosity, interest and engagement in technology-pervasive learning environments: A new research agenda</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Arnone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educ. Technol. Res. Dev</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="181" to="198" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">States of curiosity modulate hippocampus-dependent learning via the dopaminergic circuit</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Gruber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuron</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="486" to="496" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Social comparison affects rewardrelated brain activity in the human ventral striatum</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fliessbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">318</biblScope>
+			<biblScope unit="page" from="1305" to="1308" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Common and distinct neural correlates of personal and vicarious reward: a quantitative meta-analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Morelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroimage</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="244" to="253" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The frontoparietal attention network of the human brain: action, saliency, and a priority map of the environment</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ptak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroscientist</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="502" to="515" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Executive function and the frontal lobes: a meta-analytic review</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Alvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Emory</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuropsychol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="17" to="42" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">The cortical motor system</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rizzolatti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Luppino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuron</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="889" to="901" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">A new scale of social desirability independent of psychopathology</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Crowne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Marlowe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Consult. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="349" to="354" />
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Beyond brain mapping: using neural measures to predict real-world outcomes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Berkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Falk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Dir. Psychol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="45" to="50" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Big data under the microscope: using brains, networks and language to link individual and population level data</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>O'donnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Falk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Am. Acad. Pol. Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">659</biblScope>
+			<biblScope unit="page" from="274" to="289" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The importance of being valid: reliability and the process of construct validation</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>John</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Soto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Research Methods in Personality Psychology</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Robins</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Guilford Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="461" to="494" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Experimental evidence of massivescale emotional contagion through social networks</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D I</forename><surname>Kramer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page" from="8788" to="8790" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Private traits and attributes are predictable from digital records of human behavior</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kosinski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="5802" to="5805" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Computer-based personality judgments are more accurate than those made by humans</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Youyou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="1036" to="1040" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Neurobiological substrates of personality: a critical overview</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yarkoni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">APA Handbook of Personality and Social Psychology</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Mikulincer</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>American Psychological Association</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="61" to="83" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Network analysis in the social sciences</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Borgatti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">323</biblScope>
+			<biblScope unit="page" from="892" to="896" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">The structure of online social networks mirrors those in the offline world</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I M</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Netw</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="39" to="47" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Amygdala volume and social network size in humans</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Bickart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="163" to="164" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Social media: a contextual framework to guide research and practice</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Mcfarland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Ployhart</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0039244</idno>
+		<ptr target="http://dx.doi.org/10.1037/a0039244" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Psychol</title>
+		<imprint>
+			<date type="published" when="2015-06-08">2015. June 8, 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Social influence: social norms, conformity and compliance</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cialdini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Trost</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Handbook of Social Psychology</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Gilbert</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="151" to="192" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Social psychological aspects of computermediated communication</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kiesler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1123" to="1134" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Effects of duration and laughter on subjective happiness within different modes of communication</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Vlahovic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Commun</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="436" to="450" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Human conversational behavior</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I M</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum. Nat</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="231" to="246" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Social media as a catalyst for online deliberation? Exploring the affordances of Facebook and YouTube for political expression</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Halpern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gibbs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1159" to="1168" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Swearing methodologically: the (im)politeness of expletives in anonymous commentaries on youtube</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dynel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Engl. Stud</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="25" to="50" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Looking at&apos; &apos;looking up&apos; or &apos;keeping up with&apos; people? Motives and uses of Facebook</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Joinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</title>
+		<meeting>the SIGCHI Conference on Human Factors in Computing Systems</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="1027" to="1036" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">The impact of social media on children, adolescents, and families</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>O'keeffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Clarke-Pearson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="800" to="804" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">What are we not doing when we&apos;re online</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wallsten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natl. Bur. Econ. Res. Work. Pap. Ser. No. w</title>
+		<imprint>
+			<biblScope unit="page">19549</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Does posting Facebook status updates increase or decrease loneliness? An online social networking experiment</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Große Deters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Mehl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Psychol. Personal. Sci</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="579" to="586" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">The function of self-disclosure on social network sites: not only intimate, but also positive and entertaining selfdisclosures increase the feeling of connection</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Utz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Friend networking sites and their relationship to adolescents&apos; well-being and social self-esteem</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="584" to="590" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Online social networking and addiction: a review of the psychological literature</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="3528" to="3552" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Social network site addiction -an overview</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Andreassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pallesen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Pharm. Des</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="4053" to="4061" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Too much face and not enough books: the relationship between multiple indices of Facebook use and academic performance</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Junco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="187" to="198" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">The relationship between frequency of Facebook use, participation in Facebook activities, and student engagement</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Junco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Educ</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="162" to="171" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Social network addiction: a new clinical disorder?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Karaiskos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">855</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Facebook use predicts declines in subjective well-being in young adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">69841</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Passive Facebook usage undermines affective well-being: experimental and longitudinal evidence</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Exp. Psychol. Gen</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="480" to="488" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Practical advice for conducting ethical online experiments and questionnaires for United States psychologists</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Barchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behav. Res. Methods</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1111" to="1128" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Facebook as a research tool for the social sciences: opportunities, challenges, ethical considerations, and practical guidelines</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kosinski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="543" to="556" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Web-based psychotherapy for posttraumatic stress disorder in war-traumatized Arab patients: randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Knaevelsrud</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Internet Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">71</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">The social motivation theory of autism</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chevallier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Cogn. Sci</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="231" to="238" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<monogr>
+		<title level="m" type="main">Merriam-Webster&apos;s Dictionary</title>
+		<author>
+			<persName><surname>Merriam-Webster</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Merriam-Webster</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Social network sites: definition, history, and scholarship</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Boyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Commun</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="210" to="230" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<title level="m" type="main">The Human Central Nervous System</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nieuwenhuys</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Springer</publisher>
+		</imprint>
+	</monogr>
+	<note>4th edn</note>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Atlas of the Human Brain in Section</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roberts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lea &amp; Febiger</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">The benefits of Facebook &apos;friends:&apos; social capital and college students&apos; use of online social network sites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Commun</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1143" to="1168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Comparing actual and self-reported measures of Facebook use</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Junco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="626" to="631" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

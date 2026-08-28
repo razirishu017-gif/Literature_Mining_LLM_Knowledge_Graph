@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Social Media Use and Perceived Social Isolation Among Young Adults in the U.S.</title>
+				<funder ref="#_R6EqbtQ">
+					<orgName type="full">National Cancer Institute at NIH</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2018-07-01">2018 July 01.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><roleName>MD, PhD</roleName><forename type="first">Brian</forename><forename type="middle">A</forename><surname>Primack</surname></persName>
+							<email>bprimack@pitt.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="department" key="dep3">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of Adolescent Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics</orgName>
+								<orgName type="department" key="dep3">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MA</roleName><forename type="first">Ariel</forename><surname>Shensa</surname></persName>
+							<idno type="ORCID">0000-0002-6620-217X</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="department" key="dep3">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD, MPH</roleName><forename type="first">Jaime</forename><forename type="middle">E</forename><surname>Sidani</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="department" key="dep3">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>BS</roleName><forename type="first">Erin</forename><forename type="middle">O</forename><surname>Whaite</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD</roleName><forename type="first">Liu</forename><forename type="middle">Yi</forename><surname>Lin</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">UPMC McKeesport Family Medicine and Psychiatry Residency Program</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Daniel</forename><surname>Rosen</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">School of Social Work</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MEd</roleName><forename type="first">Jason</forename><forename type="middle">B</forename><surname>Colditz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Medicine</orgName>
+								<orgName type="department" key="dep3">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, MSc</roleName><forename type="first">Ana</forename><forename type="middle">M</forename><surname>Radovic</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of Adolescent Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics</orgName>
+								<orgName type="department" key="dep3">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MD, PhD</roleName><forename type="first">Elizabeth</forename><surname>Miller</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of Adolescent Medicine</orgName>
+								<orgName type="department" key="dep2">Department of Pediatrics</orgName>
+								<orgName type="department" key="dep3">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>Pennsylvania</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<address>
+									<addrLine>230 McKee Place, Suite 600</addrLine>
+									<postCode>15213</postCode>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Social Media Use and Perceived Social Isolation Among Young Adults in the U.S.</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">American Journal of Preventive Medicine</title>
+						<title level="j" type="abbrev">American Journal of Preventive Medicine</title>
+						<idno type="ISSN">0749-3797</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">53</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="1" to="8"/>
+							<date type="published" when="2018-07-01">2018 July 01.</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A7818C723A6A99C69710768ACCAFD944</idno>
+					<idno type="DOI">10.1016/j.amepre.2017.01.010</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Introduction-Perceived social isolation (PSI) is associated with substantial morbidity and mortality. Social media platforms, commonly used by young adults, may offer an opportunity to ameliorate social isolation. This study assessed associations between social media use (SMU) and PSI among U.S. young adults.</p><p>Methods-Participants were a nationally representative sample of 1787 U.S. adults aged 19-32 years. They were recruited in October-November 2014 for a cross-sectional survey using a sampling frame that represented 97% of the U.S. population. SMU was assessed using both time and frequency of using 11 social media platforms, including Facebook, Twitter, Google+, YouTube, LinkedIn, Instagram, Pinterest, Tumblr, Vine, Snapchat, and Reddit. PSI was measured using the Patient-Reported Outcomes Measurement Information System scale. In 2015, ordered logistic regression was used to assess associations between SMU and SI while controlling for eight covariates.</p><p>Results-In fully adjusted multivariable models that included survey weights, compared with those in the lowest quartile for SMU time, participants in the highest quartile had twice the odds of having greater PSI (AOR=2.0, 95% CI=1.4, 2.8). Similarly, compared with those in the lowest quartile, those in the highest quartile of SMU frequency had more than three times the odds of</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Social isolation, a state in which an individual lacks a sense of social belonging, true engagement with others, and fulfilling relationships, <ref type="bibr" target="#b0">1</ref> is associated with increased morbidity and mortality. <ref type="bibr" target="#b1">2</ref> For example, social isolation has been compared to obesity in terms of potential association with negative health effects. <ref type="bibr" target="#b2">3</ref> Social isolation also is known to be associated with unnatural increases in cortisol patterns, and these aberrant patterns can disrupt sleep, immune function, and cognition. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b3">4</ref> Social isolation also affects gene expression, negatively impacting vascular and mental health. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> In view of these underlying mechanisms, it is not surprising that social isolation can substantially increase the risk for all-cause mortality. <ref type="bibr" target="#b6">7</ref> The construct of social isolation includes both objective social isolation-the actual lack of social ties-and subjective social isolation-the feeling of a lack of engagement with others. <ref type="bibr" target="#b2">3</ref> These facets of social isolation are related but not the same: One may be objectively isolated but not feel a sense of loneliness, and one may be objectively connected to others but still feel lonely. <ref type="bibr" target="#b2">3</ref> This study focused on subjective social isolation, or perceived social isolation (PSI). This is because the perception of being socially isolated and lonely-and not merely the objective lack of social connection-has been particularly linked to both mental and physical conditions. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> The perception of loneliness seems to be linked to poor health outcomes based on both genetic predisposition and epigenetic factors. <ref type="bibr" target="#b9">10</ref> Recent increases in social media use (SMU) via platforms such as Facebook may provide opportunities for alleviation of PSI. For example, if people feel isolated because of their physical environment, they may be able to access supportive networks online. Similarly, SMU may facilitate forming connections among people by increasing social support. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12</ref> For example, they may help individuals with rare or stigmatizing conditions form support systems otherwise be difficult to establish. SMU has increased in particular among young adults, who are navigating critical stages of social identity formation. <ref type="bibr" target="#b12">13</ref> As many as 90% of young adults in the U.S. use social media, and the majority of users visit these sites at least once a day. <ref type="bibr" target="#b13">14</ref> However, it may be that SMU in this population may counterintuitively increase PSI. For example, frequent users may substitute SMU for face-to-face social interactions. Similarly, frequent exposure to highly distilled, unrealistic portrayals on social media may give people the impression that others are living happier, more connected lives, and this may make users feel more socially isolated in comparison. <ref type="bibr" target="#b14">15</ref> In empirical studies, SMU has been associated with constructs such as depression. <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> To the authors' knowledge, however, the association between SMU and PSI has not been assessed in a large-scale study.</p><p>Therefore, the aim of this study was to assess associations between SMU and PSI in a nationally representative sample of U.S. young adults. The focus on young adults was appropriate because of the particular increase in SMU in this population. <ref type="bibr" target="#b13">14</ref> Additionally, PSI often begins during emerging adulthood, when people leave structured environments such as school or home of origin. <ref type="bibr" target="#b19">20</ref> Because of the seeming strength of SMU to provide social support, the hypothesis was that increased SMU would be associated with lower PSI.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study Sample</head><p>A nationally representative sample of U.S. adults aged 19-32 years was surveyed regarding SMU and PSI. The sample was drawn from a research panel maintained by Growth from Knowledge (GfK), which recruited participants via random-digit dialing and address-based sampling. <ref type="bibr" target="#b20">21</ref> Using this process, they maintained a sampling frame including &gt;97% of the U.S. population. <ref type="bibr" target="#b20">21</ref> GfK's sampling strategy has been shown to be a statistically valid method for assessing a nationally representative sample. <ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b22">23</ref> From October 2014 to November 2014, the web-based survey was sent via e-mail to a random sample of 3,048 non-institutionalized adults aged 19-32 years who had consented to participate in a previous study wave that held no criteria except that participants had to be aged 18-30 years at baseline. The current data were collected during the 18-month followup of the prior study; only the 18-month follow-up data were used because the social media items were not asked at baseline. Responses were received from 1,787 participants (59%). This represented a strong response rate, because many of the baseline respondents were likely no longer in the GfK panel, which turns over participants every 2 years to prevent cohorts from becoming fatigued by surveys. Additionally, survey weights accounted for nonresponse and there were no demographic differences between responders and nonresponders, both of which attest to external generalizability of the results.</p><p>Multiple strategies were instituted by GfK to improve data quality, such as minimizing survey length, reducing the need for scrolling, and avoiding the use of long grids. If individuals did not answer a question, they were prompted once to answer with the statement "your answer is important to us. Please put your best guess." However, participants were not forced to answer any items.</p><p>The median time for survey completion was 20 minutes and participants received $15 for their participation. This study was approved by the University of Pittsburgh IRB and was granted a Certificate of Confidentiality from NIH.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Participants completed online survey items including measures of PSI (dependent variable), SMU (independent variable), and covariates. PSI was assessed using a four-item scale developed by the Patient-Reported Outcomes Measurement Information System (PROMIS). PROMIS is an NIH Roadmap initiative that aims to provide precise, valid, reliable, and standardized questionnaires measuring patient-reported outcomes across the domains of physical, mental, and social health. <ref type="bibr" target="#b23">24</ref> The PROMIS social isolation scale was developed using item response theory to promote precision and decrease respondent burden. <ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref> Additionally, the PROMIS social isolation scale has been correlated with and validated against other commonly used social isolation measures. <ref type="bibr" target="#b27">28,</ref><ref type="bibr" target="#b28">29</ref> The social isolation scale assesses perceptions of being avoided, excluded, detached, disconnected from, or unknown by others. The specific items ask participants how frequently in the past 7 days they had felt: I feel left out; I feel that people barely know me; I feel isolated from others; and I feel that people are around me but not with me. These items were scored on a 5-point Likert scale ranging from 1 to 5, corresponding to responses of never, rarely, sometimes, often, and always. Thus, with four items, each scored from 1 to 5, raw scores for PSI ranged from 4 to 20. Though PROMIS refers to the scale as assessing overall social isolation, it is clear from the structure of the items and their openings I feel … that the primary construct assessed by the scale is perceived (i.e., not objective) social isolation.</p><p>The continuous PSI data were non-normal and not amenable to transformation into normally distributed data. Therefore, raw scores were collapsed into tertiles of "low," "medium," and "high" for analysis. This was appropriate because one of the specific aims of the PROMIS social isolation scale is to grade its severity instead of merely providing a dichotomous cut off. Similarly, because there is no established clinical cut off for social isolation, groups were divided into approximate tertiles using the appropriate function in Stata, version 13.1 rather than basing the categories on specific numbers. Thus, all participants were categorized as having low, medium, or high social isolation, which represented 39%, 31%, and 30% of the sample, respectively. Low, medium, and high social isolation corresponded to raw scores of 4-6, 7-10, and ≥11, respectively. The scale exhibited excellent internal consistency reliability (Cronbach's α, 0.92).</p><p>Participants' SMU was assessed in two complementary ways: time and frequency of use. First, participants were asked to estimate time spent on social media for personal use. This item specifically instructed participants not to count any time spent on social media for work. Participants provided estimates in numerical fields for hours and minutes on an average day. Second, participants were asked to report frequency of their use of each of 11 widely used social media platforms, including Facebook, Twitter, Google+, YouTube, LinkedIn, Instagram, Pinterest, Tumblr, Vine, Snapchat, and Reddit. <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b29">30</ref> Seven response choices ranged from I do not use this platform to I use this platform 5 or more times a day. These items were based on the measures used by Pew Internet Research. <ref type="bibr" target="#b13">14</ref> Using weighted averages based on the frequency responses, social media site visits per week were computed. To improve interpretability of results, all independent variables were collapsed into quartiles for primary analyses. To ensure robustness of results, all analyses were also conducted with independent variables as continuous.</p><p>For analysis, the sample was divided into three age groups based on the distribution of data. Race/ethnicity were grouped into five mutually exclusive categories. Other environmental and personal factors that may affect SMU and PSI were also assessed; these factors included relationship status, living situation, household income, and education level. <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b30">31</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical Analysis</head><p>All participants who had complete data on the PROMIS social isolation scale and the social media items were included. Because only about 1% of participants had missing data for these variables, this did not affect results. Percentages were computed for the dependent variable, the two independent variables (time and frequency of SMU), and the seven covariates. Next, chi-square tests were used to determine bivariable associations between each of the independent variables and covariates and PSI.</p><p>After confirming that the proportional odds assumption was met, ordered logistic regression was used to examine associations between each social media variable and PSI. All covariates were included in primary multivariable models. To take advantage of the nationally representative data, all primary analyses were conducted using survey weights that took into account sex, age, race/ethnicity, education, household income, Census region, metropolitan area, and Internet access. Similar regression analyses examined whether there was an overall linear trend between each ordered categorical independent variable and the dependent variable.</p><p>Three sets of sensitivity analyses were also conducted to examine the robustness of results. First, all analyses were repeated with independent variables as continuous instead of ordered categorical. Second, all analyses were conducted using only covariates that had a bivariable association of p&lt;0.15 with the outcome. Third, all analyses were conducted without survey weights. Results from all sensitivity analyses showed similar levels of significance and magnitude to the primary analyses described here.</p><p>Statistical analyses were performed in 2015 with Stata, version 13.1, and two-tailed p-values &lt;0.05 were considered significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>A total of 1,787 participants completed the questionnaire. The weighted sample was 50.3% female, 57.5% white, 13.0% African American, 20.6% Hispanic, and 8.9% biracial/ multiracial or other. Of these, slightly more than half (55.6%) were in a committed relationship and approximately a third (35.6%) reported living with a significant other. In terms of household income, 22.9% were in the "low" category (&lt;$30,000) and 38.7% were in the "high" category (≥$75,000). About one third (36.0%) of participants had not attended any college, whereas a quarter (25.7%) had a BA or higher (Table <ref type="table" target="#tab_0">1</ref>). There were no differences between responders and non-responders in terms of age (p=0.12), sex (p=0.07), or race (p=0.21).</p><p>Accounting for survey weights, PSI was classified as low, medium, and high among 42%, 31%, and 27% of participants, respectively. Median total time on social media was 61 minutes per day (interquartile range, 30-135). Median social media site visits per week across all platforms was 30 (interquartile range, 9-57). Only 58 individuals (3.2%) reported zero site visits per week.</p><p>There were significant bivariable associations between PSI and each of the primary SMU variables. Compared with those who used social media &lt;30 minutes per day, those who used social media ≥121 minutes per day had about double the odds for increased PSI (OR=2.0, 95% CI=1.4, 2.8) (Table <ref type="table" target="#tab_2">2</ref>). Similarly, compared with those who visited social media platforms fewer than nine times per week, those who visited ≥58 times per week had about triple the odds of increased PSI (OR=3.4, 95% CI=2.3, 5.0) (Table <ref type="table" target="#tab_4">3</ref>).</p><p>Bivariable analyses also showed significant associations between PSI and two covariates: relationship status and yearly household income (Tables <ref type="table" target="#tab_0">1</ref> and<ref type="table" target="#tab_2">2</ref>). Compared with single individuals, married individuals had lower odds of having higher PSI (Table <ref type="table" target="#tab_2">2</ref>). Similarly, compared with those who earned &lt;$30,000 per year, those earning &gt;$75,000 had lower odds of increased PSI (Table <ref type="table" target="#tab_2">2</ref>).</p><p>In a fully adjusted model, compared with those in the lowest quartile, participants in the highest quartile of time of SMU had significantly greater odds of increased PSI (AOR=2.0, 95% CI=1.4, 2.8) (Table <ref type="table" target="#tab_2">2</ref>). This association showed a strong linear effect (p&lt;0.001) (Table <ref type="table" target="#tab_2">2</ref>). The only other variables significantly associated with PSI in the multivariable model were relationship status and yearly household income (Table <ref type="table" target="#tab_2">2</ref>).</p><p>In a second fully adjusted model, compared with those in the lowest quartile, participants in the highest quartile of frequency of SMU had significantly greater odds of increased PSI (AOR=3.4, 95% CI=2.3, 5.1) (Table <ref type="table" target="#tab_4">3</ref>). This association also showed a strong linear effect (p&lt;0.001) (Table <ref type="table" target="#tab_4">3</ref>). Again, the only other variables significantly associated with PSI were relationship status and yearly household income (Table <ref type="table" target="#tab_4">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Among a nationally representative cohort of individuals aged 19-32 years, there were robust linear associations between increased SMU and increased PSI, even after adjusting for a comprehensive set of covariates.</p><p>Because the data were cross-sectional, the directionality of this association cannot be determined based on these data alone. It may be that individuals who are already feeling socially isolated tend to subsequently use more social media; those with fewer "in-person" social outlets may turn to online networks as a substitute. For example, individuals with mental illnesses report using social media to reach out to others. <ref type="bibr" target="#b31">32</ref> Indeed, ecological systems theory emphasizes the fluid nature of relationship formation based on current environmental constraints. <ref type="bibr" target="#b32">33</ref> Another possibility is that those who use increased amounts of social media subsequently develop increased social isolation. Though in some ways this may seem counterintuitive, there are possible mechanisms. First, increased time spent on social media may displace more-authentic social experiences that might truly decrease social isolation. Second, certain characteristics of the online milieu may facilitate feelings of being excluded. For example, an individual may discover pictures or other evidence of events to which they were not invited. Finally, instead of accurately representing reality, social media feeds are in fact highly curated by their owners. <ref type="bibr" target="#b33">34</ref> Exposure to such highly idealized representations of peers' lives may elicit feelings of envy and the distorted belief that others lead happier and more successful lives, which may increase PSI. <ref type="bibr" target="#b34">35</ref> Although this study focused on PSI, an important direction for future research will be to examine inter-relationships among SMU and both subjective and objective social isolation. For example, it would be interesting to distinguish whether increased SMU-though being associated with the perception of increased isolation-may actually provide increased social opportunities that are not optimized. For example, researchers have found that many people feel they are not able to translate online interaction into "real" social relationships. <ref type="bibr" target="#b35">36</ref> Thus, a potential avenue for public health intervention would be to help individuals leverage online interactions into more-meaningful and potentially protective relationships.</p><p>This study focused on self-reported overall time and frequency of SMU. However, it should be emphasized that not all SMU is the same, and future research should examine morespecific social media exposures. For example, some users tend to passively consume social media content whereas others engage in more active communication. It may be that those who are more active feel more engaged and derive more social capital from social media interactions. <ref type="bibr" target="#b36">37</ref> However, it may also be that active users are more prone to having negative experiences such as arguments or being "unfriended," both of which ultimately can feel isolating.</p><p>Although overall results suggest associations between increased SMU and increased PSI on a population level, certain individuals or groups may derive social benefit from SMU. For example, individuals with certain health conditions may find it useful to connect over social media, especially if they are geographically isolated. Prior studies have demonstrated value for these types of networks. <ref type="bibr" target="#b37">38,</ref><ref type="bibr" target="#b38">39</ref> Similarly, individuals with certain personality types (e.g., extroverted versus introverted) might derive more or less benefit. Because many socially isolated people use social media, this may be a good medium for intervention. Though this study raises potential concerns, there also may be useful ways of leveraging social media to identify socially isolated individuals and helping them connect to in-person networks. Understanding the relationship between SMU and social isolation will help to ensure that these interventions are appropriately designed and provide the support necessary.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>Given the large sample size, it was not feasible to use "gold standard" measures of social media exposure such as ecological momentary assessment or data downloaded directly from social media sites. It would be valuable for future work to use more-intensive measures of SMU, because self-reported SMU is subject to recall and social desirability biases. This might account for the fact that the estimates of SMU noted here were somewhat lower than have been reported elsewhere. <ref type="bibr" target="#b39">40</ref> Related to this, it should be emphasized that these measures of SMU were composite measures including time and frequency of use of 11 different platforms. It would be useful for future work to parse out each platform individually to help hone understanding of these associations. Finally, it should be reiterated that this study focused on young adults aged 19-32 years; therefore, these results cannot be generalized to other populations, such as older adults.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>Despite these limitations, it is noteworthy that increased SMU was strongly and independently associated with increased PSI in a nationally representative sample of young adults. As social media platforms continue to evolve, it will be valuable for future assessments use more fine-grained measurements in order for recommendations about SMU and PSI to be appropriately targeted.   c Significance level determined by post-estimate tests for an overall linear trend of an ordered categorical independent variable. Therefore, these values are not applicable in the case of a non-ordered categorical variable such as race or living situation.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Social Media Use and Sociodemographic Characteristics According to Perceived Social Isolation: 2014 U.S. Survey</figDesc><table><row><cell>Independent</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>variables Whole sample column % a</head><label></label><figDesc>Values may not total 100 due to rounding. Column percentages are based upon survey weighted data, therefore may not be congruent with the cell frequency proportion of total N.</figDesc><table><row><cell></cell><cell cols="3">Primack et al.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Page 12</cell></row><row><cell>Independent variables Whole sample column % a Low PSI (n=699) Medium PSI (n=549) High PSI (n=537) p-value b</cell><cell>column % a column % a column % a</cell><cell>Low PSI Medium PSI High PSI p-value b (n=699) (n=549) (n=537) Living situation 0.003 Parent/Guardian 34.0 34.5 33.5 33.8</cell><cell>column % a column % a column % a Significant other 35.6 41.4 27.9 35.4</cell><cell>Social media use Other f 30.4 24.1 38.5 30.9</cell><cell>Time, min per day 0.002 Yearly household income, $ 0.003</cell><cell>Quartile 1 (0-30) 29.8 35.4 28.2 22.3 &lt;30,000 22.9 18.8 20.5 32.7</cell><cell>Quartile 2 (31-60) 20.8 21.8 23.2 16.3 30,000-74,999 38.4 40.8 41.2 31.2</cell><cell>Quartile 3 (61-120) 24.0 22.8 21.0 29.6 ≥75,000 38.7 40.5 38.3 36.1</cell><cell>Quartile 4 (121 and above) 25.5 20.1 27.6 31.9 Education level 0.95</cell><cell>Frequency, visits per week c,d &lt;0.001 High school or less 36.0 36.7 34.6 36.3</cell><cell>Quartile 1 (0-8) 28.3 37.7 23.8 18.2 Some college 38.3 37.0 39.8 38.8</cell><cell>Quartile 2 (9-30) 25.1 23.6 30.1 21.3 Bachelor's degree or higher 25.7 26.3 25.6 25.0</cell><cell>Quartile 3 (31-57) 24.1 22.3 26.5 24.1</cell><cell>Quartile 4 (58 and above) 22.5 16.4 19.6 36.4 Note. The sample size was n=1,785.</cell><cell>Sociodemographic a</cell><cell>Age, years 0.09 b p-value derived using chi-square analyses comparing proportion of users in each category.</cell><cell>19-23 33.7 32.9 33.7 34.8 c Includes Facebook, Twitter, Google+, YouTube, LinkedIn, Instagram, Pinterest, Tumblr, Vine, Snapchat, and Reddit. 24-26 24.8 21.6 30.5 23.1</cell><cell>27-32 41.6 45.5 35.9 42.1 d Based on weighted averages using a 7-point Likert-type response scale ranging from "I don't use this platform" to "5 or more times a day."</cell><cell>Sex 0.07 e Includes multiracial.</cell><cell>Female 50.3 45.7 55.0 52.2 f Defined as not living with a parent/guardian or significant other. Male 49.7 54.3 45.0 47.8</cell><cell>Race 0.06 PSI, perceived social isolation</cell><cell>White, non-Hispanic 57.5 58.1 56.7 57.3</cell><cell>Black, non-Hispanic 13.0 15.3 9.9 12.9</cell><cell>Hispanic 20.6 21.4 20.4 19.6</cell><cell>Other e 8.9 5.2 13.0 10.2</cell><cell>Relationship status &lt;0.001</cell><cell>Single/Widowed/Divorced 44.5 36.1 50.6 51.0</cell><cell>Married/Committed relationship 55.6 63.9 49.4 49.0</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Associations Between Time of Social Media Use and Perceived Social Isolation: 2014 U.S. Survey</figDesc><table><row><cell>Social media use</cell><cell>PSI a</cell><cell>p-value c PSI a</cell><cell>p-value c</cell></row><row><cell></cell><cell>OR (95% CI)</cell><cell>AOR b (95% CI)</cell><cell></cell></row><row><cell>Time, min per day</cell><cell></cell><cell>&lt;0.001</cell><cell>&lt;0.001</cell></row><row><cell>Quartile 1 (0-30)</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>Quartile 2 (31-60)</cell><cell>1.2 (0.8, 1.7)</cell><cell>1.2 (0.9, 1.7)</cell><cell></cell></row><row><cell>Quartile 3 (61-120)</cell><cell>1.7 (1.2, 2.5)</cell><cell>1.6 (1.1, 2.4)</cell><cell></cell></row><row><cell>Quartile 4 (121 and above)</cell><cell>2.0 (1.4, 2.8)</cell><cell>2.0 (1.4, 2.8)</cell><cell></cell></row><row><cell>Age, y</cell><cell></cell><cell>0.37</cell><cell>0.83</cell></row><row><cell>19-23</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>24-26</cell><cell>1.1 (0.8, 1.4)</cell><cell>1.1 (0.8, 1.6)</cell><cell></cell></row><row><cell>27-32</cell><cell>0.9 (0.6, 1.2)</cell><cell>1.0 (0.7, 1.4)</cell><cell></cell></row><row><cell>Sex</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Female</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>Male</cell><cell>0.8 (0.6, 1.02)</cell><cell>0.9 (0.7, 1.1)</cell><cell></cell></row><row><cell>Race</cell><cell></cell><cell></cell><cell></cell></row><row><cell>White, non-Hispanic</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>Black, non-Hispanic</cell><cell>0.8 (0.5, 1.3)</cell><cell>0.6 (0.4, 1.1)</cell><cell></cell></row><row><cell>Hispanic</cell><cell>1.0 (0.7, 1.4)</cell><cell>0.8 (0.5, 1.2)</cell><cell></cell></row><row><cell>Other e</cell><cell>1.6 (1.1, 2.4)</cell><cell>1.4 (0.9, 2.1)</cell><cell></cell></row><row><cell>Relationship status</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Single/Widowed/Divorced</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell cols="2">Married/Committed relationship 0.6 (0.5, 0.8)</cell><cell>0.6 (0.4, 0.8)</cell><cell></cell></row><row><cell>Living situation</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Parent/Guardian</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>Significant other</cell><cell>0.8 (0.6, 1.2)</cell><cell>1.3 (0.8, 2.0)</cell><cell></cell></row><row><cell>Other f</cell><cell>1.3 (0.9, 1.7)</cell><cell>1.2 (0.8, 1.6)</cell><cell></cell></row><row><cell>Yearly household income, $</cell><cell></cell><cell>0.01</cell><cell>0.01</cell></row><row><cell>&lt;30,000</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>30,000-74,999</cell><cell>0.6</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>(0.4, 0.8) 0.6 (0.4, 0.8)</head><label></label><figDesc></figDesc><table><row><cell>≥ 75,000</cell><cell>0.6 (0.4, 0.9)</cell><cell>0.6 (0.4, 0.8)</cell></row><row><cell>Education level</cell><cell>0.95</cell><cell>0.55</cell></row><row><cell>High school or less</cell><cell>ref</cell><cell>ref</cell></row><row><cell>Some college</cell><cell>1.1 (0.8, 1.5)</cell><cell>1.1 (0.8, 1.6)</cell></row><row><cell>Bachelor's degree or higher</cell><cell>1.0 (0.7, 1.4)</cell><cell>1.1 (0.8, 1.6)</cell></row><row><cell cols="2">Note: Boldface indicates statistical significance (p&lt;0.05).</cell><cell></cell></row><row><cell cols="3">a Perceived social isolation is divided into low, medium, and high tertiles.</cell></row><row><cell cols="3">b Adjusted for age, sex, race, relationship status, living situation, household income, and education level.</cell></row></table><note><p>c Significance level determined by post-estimate tests for an overall linear trend of an ordered categorical independent variable. Therefore, these values are not applicable in the case of a non-ordered categorical variable such as race or living situation.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3</head><label>3</label><figDesc>Associations Between Frequency of Social Media Use and Perceived Social Isolation: 2014 U.S. Survey</figDesc><table><row><cell>Social media use</cell><cell>PSI a</cell><cell>p-value c PSI a</cell><cell>p-value c</cell></row><row><cell></cell><cell>OR (95% CI)</cell><cell>AOR b (95% CI)</cell><cell></cell></row><row><cell>Frequency, visits per week d,e</cell><cell></cell><cell>&lt;0.001</cell><cell>&lt;0.001</cell></row><row><cell>Quartile 1 (less than 9)</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>Quartile 2 (9-30)</cell><cell>1.8 (1.3, 2.5)</cell><cell>1.8 (1.3, 2.6)</cell><cell></cell></row><row><cell>Quartile 3 (31-57)</cell><cell>1.9 (1.3, 2.8)</cell><cell>1.9 (1.3, 2.8)</cell><cell></cell></row><row><cell>Quartile 4 (58 and above)</cell><cell>3.4 (2.3, 5.0)</cell><cell>3.4 (2.3, 5.1)</cell><cell></cell></row><row><cell>Age, years</cell><cell></cell><cell>0.37</cell><cell>0.63</cell></row><row><cell>19-23</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>24-26</cell><cell>1.1 (0.8, 1.4)</cell><cell>1.2 (0.9, 1.7)</cell><cell></cell></row><row><cell>27-32</cell><cell>0.9 (0.6, 1.2)</cell><cell>1.1 (0.8, 1.6)</cell><cell></cell></row><row><cell>Sex</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Female</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>Male</cell><cell>0.8 (0.6, 1.02)</cell><cell>0.8 (0.7, 1.1)</cell><cell></cell></row><row><cell>Race</cell><cell></cell><cell></cell><cell></cell></row><row><cell>White, non-Hispanic</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>Black, non-Hispanic</cell><cell>0.8 (0.5, 1.3)</cell><cell>0.7 (0.4, 1.2)</cell><cell></cell></row><row><cell>Hispanic</cell><cell>1.0 (0.7, 1.4)</cell><cell>0.8 (0.6, 1.2)</cell><cell></cell></row><row><cell>Other f</cell><cell>1.6 (1.1, 2.4)</cell><cell>1.4 (0.9, 2.1)</cell><cell></cell></row><row><cell>Relationship status</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Single/Widowed/Divorced</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell cols="2">Married/Committed relationship 0.6 (0.5, 0.8)</cell><cell>0.6 (0.4, 0.8)</cell><cell></cell></row><row><cell>Living situation</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Parent/Guardian</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>Significant other</cell><cell>0.8 (0.6, 1.2)</cell><cell>1.2 (0.8, 1.9)</cell><cell></cell></row><row><cell>Other g</cell><cell>1.3 (0.9, 1.7)</cell><cell>1.1 (0.8, 1.6)</cell><cell></cell></row><row><cell>Yearly household income, $</cell><cell></cell><cell>0.01</cell><cell>0.007</cell></row><row><cell>&lt;30,000</cell><cell>ref</cell><cell>ref</cell><cell></cell></row><row><cell>30,000-74,999</cell><cell>0.6</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>(0.4, 0.8) 0.6 (0.4, 0.8)</head><label></label><figDesc>Perceived social isolation is divided into low, medium, and high tertiles.b Adjusted for age, sex, race, relationship status, living situation, household income, and education level.</figDesc><table><row><cell>≥75,000</cell><cell>0.6 (0.4, 0.9)</cell><cell>0.6 (0.4, 0.8)</cell></row><row><cell>Education level</cell><cell>0.95</cell><cell>0.97</cell></row><row><cell>High school or less</cell><cell>ref</cell><cell>ref</cell></row><row><cell>Some college</cell><cell>1.1 (0.8, 1.5)</cell><cell>1.1 (0.8, 1.5)</cell></row><row><cell>Bachelor's degree or higher</cell><cell>1.0 (0.7, 1.4)</cell><cell>1.0 (0.7, 1.4)</cell></row><row><cell cols="2">Note: Boldface indicates statistical significance (p&lt;0.05).</cell><cell></cell></row></table><note><p>a</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Am J Prev Med. Author manuscript; available in PMC 2018 July 01.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>d Includes Facebook, Twitter, Google+, YouTube, LinkedIn, Instagram, Pinterest, Tumblr, Vine, Snapchat, and Reddit. e Includes multiracial. f Defined as not living with a parent/guardian or significant other. PSI, perceived social isolation. Am J Prev Med. Author manuscript; available in PMC 2018 July 01.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>d Includes Facebook, Twitter, Google+, YouTube, LinkedIn, Instagram, Pinterest, Tumblr, Vine, Snapchat, and Reddit.e Based on a 7-point Likert-type response scale ranging from "I don't use this platform" to "5 or more times a day." f Includes multiracial. g Defined as not living with a parent/guardian or significant other. PSI, perceived social isolation Am J Prev Med. Author manuscript; available in PMC 2018 July 01.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>This research was funded by the <rs type="funder">National Cancer Institute at NIH</rs> (<rs type="grantNumber">R01-CA140150</rs>), awarded to <rs type="person">Dr. Primack</rs>. The funding source had no role in the study design; collection, analysis, interpretation of data; writing of the manuscript; or the decision to submit this manuscript for publication.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_R6EqbtQ">
+					<idno type="grant-number">R01-CA140150</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Manuscript</head><p>Primack et al.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Manuscript</head><p>Primack et al.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A review of social isolation: An important but underassessed condition in older adults</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nicholson</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10935-012-0271-2</idno>
+		<idno type="PMID">22766606</idno>
+		<ptr target="https://doi.org/10.1007/s10935-012-0271-2" />
+	</analytic>
+	<monogr>
+		<title level="j">J Prim Prev</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">2-3</biblScope>
+			<biblScope unit="page" from="137" to="152" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Social isolation: a predictor of mortality comparable to traditional clinical risk factors</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pantell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rehkopf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jutte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Syme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Balmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Adler</surname></persName>
+		</author>
+		<idno type="DOI">10.2105/AJPH.2013.301261</idno>
+		<idno type="PMID">24028260</idno>
+		<ptr target="https://doi.org/10.2105/AJPH.2013.301261" />
+	</analytic>
+	<monogr>
+		<title level="j">Am J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="2056" to="2062" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Loneliness and social isolation as risk factors for mortality a meta-analytic review</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Holt-Lunstad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stephenson</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1745691614568352</idno>
+		<idno type="PMID">25910392</idno>
+		<ptr target="https://doi.org/10.1177/1745691614568352" />
+	</analytic>
+	<monogr>
+		<title level="j">Perspect Psychol Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="227" to="237" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Perceived social isolation and cognition</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Cacioppo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Hawkley</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tics.2009.06.005</idno>
+		<idno type="PMID">19726219</idno>
+		<ptr target="https://doi.org/10.1016/j.tics.2009.06.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Trends Cogn Sci</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="447" to="454" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Stress and social isolation increase vulnerability to stroke</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Stuller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jarrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Devries</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.expneurol.2011.01.016</idno>
+		<idno type="PMID">21281636</idno>
+		<ptr target="https://doi.org/10.1016/j.expneurol.2011.01.016" />
+	</analytic>
+	<monogr>
+		<title level="j">Exp Neurol</title>
+		<imprint>
+			<biblScope unit="volume">233</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="33" to="39" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">HINT1 is involved in the behavioral abnormalities induced by social isolation rearing</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Dang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ma</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.neulet.2015.08.026</idno>
+		<idno type="PMID">26300541</idno>
+		<ptr target="https://doi.org/10.1016/j.neulet.2015.08.026" />
+	</analytic>
+	<monogr>
+		<title level="j">Neurosci Lett</title>
+		<imprint>
+			<biblScope unit="volume">607</biblScope>
+			<biblScope unit="page" from="40" to="45" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Social isolation, loneliness, and all-cause mortality in older men and women</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Steptoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shankar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Demakakos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wardle</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1219686110</idno>
+		<idno type="PMID">23530191</idno>
+		<ptr target="https://doi.org/10.1073/pnas.1219686110" />
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="5797" to="5801" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Increased risk of mortality associated with social isolation in older men: only when feeling lonely? Results from the Amsterdam Study of the Elderly (AMSTEL)</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Holwerda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Atf</forename><surname>Beekman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Djh</forename><surname>Deeg</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0033291711001772</idno>
+		<idno type="PMID">21896239</idno>
+		<ptr target="https://doi.org/10.1017/S0033291711001772" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychol Med</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="843" to="853" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Feelings of loneliness, but not social isolation, predict dementia onset: results from the Amsterdam Study of the Elderly (AMSTEL)</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Holwerda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Djh</forename><surname>Deeg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Atf</forename><surname>Beekman</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/jnnp-2012-302755</idno>
+		<idno type="PMID">23232034</idno>
+		<ptr target="https://doi.org/10.1136/jnnp-2012-302755" />
+	</analytic>
+	<monogr>
+		<title level="j">J Neurol Neurosurg Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="135" to="142" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Social isolation, loneliness and depression in young adulthood: a behavioural genetic analysis</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Danese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wertz</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00127-016-1178-7</idno>
+		<idno type="PMID">26843197</idno>
+		<ptr target="https://doi.org/10.1007/s00127-016-1178-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Soc Psychiatry Psychiatr Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="339" to="348" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Social capital, self-esteem, and use of online social network sites: A longitudinal analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.appdev.2008.07.002</idno>
+		<ptr target="https://doi.org/10.1016/j.appdev.2008.07.002" />
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Dev Psychol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="434" to="445" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The benefits of facebook &quot;friends:&quot; Social capital and college students&apos; use of online social network sites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2007.00367.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1083-6101.2007.00367.x" />
+	</analytic>
+	<monogr>
+		<title level="j">J Comput Commun</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1143" to="1168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Salient and emerging developmental tasks in the transition to adulthood</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Roisman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Masten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Coatsworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tellegen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8624.2004.00658.x</idno>
+		<idno type="PMID">15015679</idno>
+		<ptr target="https://doi.org/10.1111/j.1467-8624.2004.00658.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Child Dev</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="123" to="133" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Social media update 2015</title>
+		<ptr target="www.webcitation.org/6ajEhvS11" />
+		<imprint>
+			<date type="published" when="2015-06-08">2015. June 8, 2016</date>
+		</imprint>
+		<respStmt>
+			<orgName>Pew Research Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Social media use and perceived emotional support among U.S. young adults</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shensa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Sidani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bowman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Primack</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10900-015-0128-8</idno>
+		<idno type="PMID">26613936</idno>
+		<ptr target="https://doi.org/10.1007/s10900-015-0128-8" />
+	</analytic>
+	<monogr>
+		<title level="j">J Community Health</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="541" to="549" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Facebook use predicts declines in subjective well-being in young adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Demiralp</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0069841</idno>
+		<idno type="PMID">23967061</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0069841" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">69841</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">They are happier and having better lives than I am&quot;: The impact of using Facebook on perceptions of others&apos; lives</title>
+		<author>
+			<persName><forename type="first">Htg</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Edge</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2011.0324</idno>
+		<idno type="PMID">22165917</idno>
+		<ptr target="https://doi.org/10.1089/cyber.2011.0324" />
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol Behav Soc Netw</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="117" to="121" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Facebook&apos;s emotional consequences: Why Facebook causes a decrease in mood and why people still use it</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sagioglou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Greitemeyer</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.03.003</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2014.03.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Comput Human Behav</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="359" to="363" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Association between social media use and depression among U.S. young adults</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Sidani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shensa</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/da.22466</idno>
+		<idno type="PMID">26783723</idno>
+		<ptr target="https://doi.org/10.1002/da.22466" />
+	</analytic>
+	<monogr>
+		<title level="j">Depress Anxiety</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="323" to="331" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The new life stage of emerging adulthood at ages 18-29 years: Implications for mental health</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Arnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zukauskiene</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sugimura</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S2215-0366(14)00080-7</idno>
+		<idno type="PMID">26361316</idno>
+		<ptr target="https://doi.org/10.1016/S2215-0366(14)00080-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="569" to="576" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">KnowledgePanel Design Summary</title>
+		<author>
+			<persName><forename type="first">Gfk</forename><surname>Knowledgepanel®</surname></persName>
+		</author>
+		<ptr target="www.webcitation.org/6ajEWO5mb" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Research Synthesis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Blumberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Brick</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/poq/nfq048</idno>
+		<ptr target="https://doi.org/10.1093/poq/nfq048" />
+	</analytic>
+	<monogr>
+		<title level="j">Public Opin Q</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="711" to="781" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Use of the Internet for health information by the chronically ill</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Bundorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prev Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">13</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The Patient-Reported Outcomes Measurement Information System (PROMIS) developed and tested its first wave of adult self-reported health outcome item banks: 2005-2008</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Riley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stone</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jclinepi.2010.04.011</idno>
+		<idno type="PMID">20685078</idno>
+		<ptr target="https://doi.org/10.1016/j.jclinepi.2010.04.011" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1179" to="1194" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The future of outcomes measurement: item banking, tailored short-forms, and computerized adaptive assessment</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gershon</forename><forename type="middle">R</forename><surname>Lai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-S</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/s11136-007-9204-6</idno>
+		<idno type="PMID">17401637</idno>
+		<ptr target="https://doi.org/10.1007/s11136-007-9204-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Qual Life Res</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">Suppl 1</biblScope>
+			<biblScope unit="page" from="133" to="141" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">New English and Spanish social health measures will facilitate evaluating health determinants</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Dewalt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Bode</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/hea0000055</idno>
+		<ptr target="https://doi.org/10.1037/hea0000055" />
+	</analytic>
+	<monogr>
+		<title level="j">Heal Psychol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="490" to="499" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Confirmatory factor analysis of the patient reported outcomes measurement information system (PROMIS) adult domain framework using item response theory scores</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Carle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Riley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Hays</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cella</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/MLR.0000000000000413</idno>
+		<idno type="PMID">26366521</idno>
+		<ptr target="https://doi.org/10.1097/MLR.0000000000000413" />
+	</analytic>
+	<monogr>
+		<title level="j">Med Care</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="894" to="900" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Rural Latinos&apos; mental wellbeing: A mixed-methods pilot study of family, environment and social isolation factors</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Stacciarini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Garvan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wiens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Cottler</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10597-014-9774-z</idno>
+		<idno type="PMID">25185562</idno>
+		<ptr target="https://doi.org/10.1007/s10597-014-9774-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Community Ment Health J</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="404" to="413" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Evaluating PROMIS® instruments and methods for patient-centered outcomes research: Patient and provider voices in a substance use treatment setting</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Dodds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Daley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Pilkonis</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11136-015-1131-3</idno>
+		<idno type="PMID">26353907</idno>
+		<ptr target="https://doi.org/10.1007/s11136-015-1131-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Qual Life Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="615" to="624" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">State of the media: The social media report 2012</title>
+		<author>
+			<persName><surname>Nielsen</surname></persName>
+		</author>
+		<ptr target="www.webcitation.org/6bXTvRwTJ" />
+		<imprint>
+			<date type="published" when="2012-06-08">2012. June 8, 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Prevalence, severity, and comorbidity of 12-month DSM-IV disorders in the National Comorbidity Survey Replication</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Kessler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Demler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Merikangas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Walters</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/archpsyc.62.6.617</idno>
+		<idno type="PMID">15939839</idno>
+		<ptr target="https://doi.org/10.1001/archpsyc.62.6.617" />
+	</analytic>
+	<monogr>
+		<title level="j">Arch Gen Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="617" to="627" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Young adults with mental health conditions and social networking websites: Seeking tools to build community</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Deschaine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gruttadara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Markey</surname></persName>
+		</author>
+		<idno type="DOI">10.2975/35.3.2012.245.250</idno>
+		<idno type="PMID">22246123</idno>
+		<ptr target="https://doi.org/10.2975/35.3.2012.245.250" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatr Rehabil J</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="245" to="250" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">U</forename><surname>Bronfenbrenner</surname></persName>
+		</author>
+		<title level="m">The Ecology of Human Development: Experiments by Nature and Design</title>
+		<meeting><address><addrLine>Cambridge, MA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Madden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lenhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cortesi</surname></persName>
+		</author>
+		<ptr target="www.pewinternet.org/files/2013/05/PIP_TeensSocialMediaandPrivacy_PDF.pdf" />
+		<title level="m">Teens, social media, and privacy</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Facebook use, envy, and depression among college students: Is facebooking depressing?</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Tandoc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ferrucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duffy</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.10.053</idno>
+		<ptr target="https://doi.org/10.1016/j.chb.2014.10.053" />
+	</analytic>
+	<monogr>
+		<title level="j">Comput Human Behav</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="139" to="146" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Are we all equally at home socializing online? Cyberasociality and evidence for an unequal distribution of disdain for digitally-mediated sociality</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Tufekci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Brashears</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2014.891634</idno>
+		<ptr target="https://doi.org/10.1080/1369118X.2014.891634" />
+	</analytic>
+	<monogr>
+		<title level="j">Information Commun Soc</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="486" to="502" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The benefits of Facebook &quot;friends:&quot; Social capital and college students&apos; use of online social network sites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2007.00367.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1083-6101.2007.00367.x" />
+	</analytic>
+	<monogr>
+		<title level="j">J Comput Commun</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1143" to="1168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Facing the times: A young onset dementia support group: Facebook TM style</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Strivens</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/ajag.12264</idno>
+		<idno type="PMID">27010874</idno>
+		<ptr target="https://doi.org/10.1111/ajag.12264" />
+	</analytic>
+	<monogr>
+		<title level="j">Australas J Ageing</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="48" to="53" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Benefiting from social capital in online support groups: An empirical study of cancer patients</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Beaudoin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Tao</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cpb.2007.9986</idno>
+		<ptr target="https://doi.org/10.1089/cpb.2007.9986" />
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychology Behav</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="587" to="590" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Mobile messaging and social media 2015</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duggan</surname></persName>
+		</author>
+		<ptr target="http://www.webcitation.org/6hzf7nGFm" />
+	</analytic>
+	<monogr>
+		<title level="j">Pew Res Center&apos;s Internet Sci Tech</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>Pew Research Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

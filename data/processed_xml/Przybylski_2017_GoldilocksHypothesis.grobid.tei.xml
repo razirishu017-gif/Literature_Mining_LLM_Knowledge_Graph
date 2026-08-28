@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A Large-Scale Test of the Goldilocks Hypothesis: Quantifying the Relations Between Digital-Screen Use and the Mental Well-Being of Adolescents</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Andrew</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+							<email>andy.przybylski@oii.ox.ac.uk</email>
+							<affiliation key="aff1">
+								<orgName type="department">Oxford Internet Institute</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Experimental Psychology</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Netta</forename><surname>Weinstein</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Psychology</orgName>
+								<orgName type="institution">Cardiff University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Oxford Internet Institute</orgName>
+								<orgName type="department" key="dep2">Department of Experimental Psychology</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<postCode>OX1 3JS</postCode>
+									<settlement>Oxford</settlement>
+									<country key="GB">United Kingdom</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A Large-Scale Test of the Goldilocks Hypothesis: Quantifying the Relations Between Digital-Screen Use and the Mental Well-Being of Adolescents</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9ECDDEBEAD8F27ADA6246591261D0F08</idno>
+					<idno type="DOI">10.1177/0956797616678438www.psychologicalscience.org/</idno>
+					<note type="submission">Received 6/29/16; Revision accepted 10/19/16</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>screen time</term>
+					<term>digital technology</term>
+					<term>adolescents</term>
+					<term>mental well-being</term>
+					<term>open data</term>
+					<term>open materials</term>
+					<term>preregistered</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Although the time adolescents spend with digital technologies has sparked widespread concerns that their use might be negatively associated with mental well-being, these potential deleterious influences have not been rigorously studied. Using a preregistered plan for analyzing data collected from a representative sample of English adolescents (n = 120,115), we obtained evidence that the links between digital-screen time and mental well-being are described by quadratic functions. Further, our results showed that these links vary as a function of when digital technologies are used (i.e., weekday vs. weekend), suggesting that a full understanding of the impact of these recreational activities will require examining their functionality among other daily pursuits. Overall, the evidence indicated that moderate use of digital technology is not intrinsically harmful and may be advantageous in a connected world. The findings inform recommendations for limiting adolescents' technology use and provide a template for conducting rigorous investigations into the relations between digital technology and children's and adolescents' health.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Research Article</head><p>The proliferation of digital devices has fundamentally changed how humans work, play, and socialize. Rapid technological developments in high-speed Internet, flatpanel displays, and mobile computing power have led to devices that now define and shape modern childhood <ref type="bibr" target="#b20">(Lenhart, Smith, Anderson, Duggan, &amp; Perrin, 2015)</ref>. For example, the amount of time adolescents spend online has more than doubled from an average of 8 hr per week in 2005 to 18.9 hr per week today <ref type="bibr">(Ofcom, 2015)</ref>, and the time spent with these technologies, especially during childhood and adolescence, has sparked concerns that their use might be negatively associated with mental and social well-being (for a review of this controversy, see <ref type="bibr" target="#b1">Bell, Bishop, &amp; Przybylski, 2015)</ref>. Indeed, the American Academy of Pediatrics has recommended that restrictions be placed on children's screen time <ref type="bibr">(Council on Communications and Media, 2013)</ref>, indicating that there are incremental costs of screen time for children's wellness, though the value of this limitation-focused approach has been questioned by developmental <ref type="bibr" target="#b21">(Linebarger &amp; Vaala, 2010)</ref> and clinical <ref type="bibr" target="#b10">(Ferguson &amp; Donnellan, 2014)</ref> researchers.</p><p>The goal of the present research was to evaluate different ways of understanding how screen time is linked to mental well-being, and to empirically quantify and define moderate engagement in digital activities. To date, one view of the effects of screen time predominates the literature: the displacement hypothesis <ref type="bibr" target="#b25">(Neuman, 1988)</ref>, which posits that the harms of technology are directly proportional to exposure. Effects are claimed to be negative because digital activities supplant alternate activities such as socializing with peers and family, reading books, or exercising. We tested an alternate theory, implicit in the literature but not explicitly studied, which we label the digital Goldilocks hypothesis. According to this hypothesis, tech use at moderate levels is not intrinsically harmful <ref type="bibr" target="#b8">(Etchells, Gage, Rutherford, &amp; Munafò, 2016;</ref><ref type="bibr" target="#b28">Parkes, Sweeting, Wight, &amp; Henderson, 2013;</ref><ref type="bibr" target="#b29">Przybylski, 2014)</ref> and may be advantageous in a connected world, whereas "overuse" may indeed displace alternate activities, for example, interfering with school or with extracurricular or other social activities <ref type="bibr" target="#b38">(Valkenburg &amp; Peter, 2009)</ref>. In the fairy tale, Goldilocks identifies moderation (in porridge and beds) as "just right." Similarly, it might be that "too little" tech use deprives young people of important social information and peer pursuits, whereas "too much" may displace other meaningful activities. Our Goldilocks hypothesis postulates that there are empirically derivable balance points, moderate levels, that are "just right" for optimally connected young people.</p><p>To the extent that digital activities either enrich adolescents or displace more rewarding activities, they should have, respectively, positive or negative effects on adolescents' mental well-being, which we define as flourishing characterized by positive emotions, effective functioning (including psychosocial functioning), and a sense of life satisfaction <ref type="bibr" target="#b32">(Ryan &amp; Deci, 2000;</ref><ref type="bibr" target="#b37">Tennant et al., 2007)</ref>. According to the displacement hypothesis, the relationship between screen time and well-being is negative and monotonic, as each "dose" of screen time takes the place of alternative pursuits that might be more satisfying. However, recent research suggests that this account may not accurately describe the role of digital technology in everyday life. Indeed, adolescents must develop their identity and build life and social skills, and doing so fosters well-being <ref type="bibr" target="#b22">(Luyckx, Soenens, Goossens, Beckx, &amp; Wouters, 2008;</ref><ref type="bibr" target="#b39">Yarcheski, Mahon, &amp; Yarcheski, 2001)</ref>. It may be that technology provides opportunities to pursue these developmental challenges in a satisfying way. For example, although many people may think of gaming as a socially isolating activity, research indicates that online gaming handles are one of the first pieces of information that 38% of adolescent boys share when they meet someone with whom they would like to be friends <ref type="bibr" target="#b20">(Lenhart et al., 2015)</ref>. Similarly, 83% of adolescents say that social media makes them feel more connected to their friends, and 68% say that they have received social support using digital technologies in tough or challenging times <ref type="bibr" target="#b20">(Lenhart et al., 2015)</ref>. Thus, there is good reason to think that digital engagement, in moderation, may not be disruptive, and that it may even support development.</p><p>Much of what is known regarding the possible influence of screen time comes from the study of sedentary and nonsedentary activity in young people. Guided by the displacement hypothesis, existing research has compared activities by looking at physical health correlates such as body mass index <ref type="bibr" target="#b0">(Anderson, Economos, &amp; Must, 2008;</ref><ref type="bibr" target="#b2">Boone, Gordon-Larsen, Adair, &amp; Popkin, 2007)</ref>, amount of rigorous exercise <ref type="bibr" target="#b0">(Anderson et al., 2008;</ref><ref type="bibr" target="#b34">Sisson, Broyles, Baker, &amp; Katzmarzyk, 2010)</ref>, or energy expenditure <ref type="bibr" target="#b19">(Lanningham-Foster et al., 2006)</ref>. Definitions and operationalizations of what constitutes engagement in an activity vary, but most studies have tested how doses of activities of interest relate to physical and psychological outcomes. Nearly all have found statistically significant differences between sedentary and nonsedentary activities, identifying the former as deleterious, but patterns evident in the literature hint at a richer dynamic than the displacement account suggests.</p><p>First, these studies have documented only weak links between screen time and health, which suggests the possibility of a stronger alternative theoretical account <ref type="bibr" target="#b0">(Anderson et al., 2008;</ref><ref type="bibr" target="#b2">Boone et al., 2007;</ref><ref type="bibr" target="#b16">Iannotti, Kogan, Janssen, &amp; Boyce, 2009)</ref>. Second, research indicates that any detrimental effects of screen time on physical health depend on the type of digital activity, and that some screen activities actually promote physical activity <ref type="bibr" target="#b19">(Lanningham-Foster et al., 2006)</ref>. Third, studies examining physical outcomes <ref type="bibr" target="#b0">(Anderson et al., 2008;</ref><ref type="bibr" target="#b2">Boone et al., 2007;</ref><ref type="bibr" target="#b34">Sisson et al., 2010)</ref>, and preliminary work examining psychological ones, have shown inconsistent linear relations <ref type="bibr" target="#b18">(Kremer et al., 2014)</ref>, or used post hoc bucketed predictors, and estimated effects for comparable types of digital technologies vary widely <ref type="bibr" target="#b4">(Cao et al., 2011;</ref><ref type="bibr" target="#b13">Hamer, Stamatakis, &amp; Mishra, 2009</ref><ref type="bibr">, 2010)</ref>. A handful of recent large-scale studies indicate that low to moderate levels (i.e., &lt; 2-3 hr per day) of playing video games <ref type="bibr" target="#b8">(Etchells et al., 2016;</ref><ref type="bibr" target="#b29">Przybylski, 2014)</ref> and watching films <ref type="bibr" target="#b28">(Parkes et al., 2013)</ref> have little or no relation to emotional and social functioning, and that such activities may have negative effects for young people only at higher levels of engagement.</p><p>The research reported here was the first to systematically test for curvilinear relations between well-being and screen time measured continuously, separately for different digital activities and days of the week. As predicted by the Goldilocks hypothesis, we expected to find curvilinear associations, with no costs to mental well-being for moderate levels of screen time and some detriments at high levels. For the first time in this area of research, we defined low and high levels of screen time empirically by testing for local maxima, the inflection points, operationalized as the points at which the slopes relating screen time to well-being approached zero before reversing in sign. Thus, we identified the point at which each type of media use shifted from having a null or positive relation with mental well-being to having a negative relation indicating a detrimental effect.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Participants were identified using the United Kingdom's Department for Education National Pupil Database. Fieldwork covered a total of 150 local authorities across England, with the aim of making sufficient observations of English 15-year-olds to attain a ±0.3% margin of error at a 95% confidence interval. A notification letter sent to parents or caregivers of potential participants gave them the opportunity to opt their child out of the survey, and written consent was collected directly from all participants. The original sampling frame for the study included 298,080 15-year-olds. Of these, 2,835 were lost because the surveys were undeliverable or adolescent participants opted out of the study prior to data collection. A total of 120,115 participants provided usable data by responding to paper (n = 100,850) or online (n = 19,265) questionnaires.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical review</head><p>A comprehensive ethical review regarding the data collection was conducted by the United Kingdom's National Children's Bureau, and an ethics review regarding the data analysis was conducted by the research ethics committee at the University of Oxford.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Criterion variable: mental well-being. The Warwick-Edinburgh Mental Well-Being Scale <ref type="bibr" target="#b37">(Tennant et al., 2007)</ref>, a 14-item self-report instrument validated for use in general population samples of individuals ages 13 years and above, was used to measure the happiness, life satisfaction, psychological functioning, and social functioning of participants. As found in past research using this instrument with young people <ref type="bibr" target="#b35">(Stewart-Brown et al., 2009)</ref>, the scale showed high internal consistency (Cronbach's α = .90). Scores ranged from 14 to 70 (M = 47.52, SD = 9.55).</p><p>Explanatory variables: digital-screen time. Participants were asked four questions regarding their engagement in different kinds of digital activities during their free time. Specifically, they were asked about watching films and other media (e.g., TV programs), playing games (e.g., on computers and consoles), using computers (e.g., Internet, e-mail), and using smartphones (e.g., social networking, chatting online).</p><p>Control and confounding variables. Past research has linked both the explanatory and the criterion variables to gender and ethnicity <ref type="bibr" target="#b5">(Clarke et al., 2011)</ref> and economic factors <ref type="bibr" target="#b9">(Eynon &amp; Helsper, 2015;</ref><ref type="bibr" target="#b37">Tennant et al., 2007)</ref>. These were treated as control variables for the purposes of statistical modeling. Self-reported gender on the survey was coded 1 for male and 0 otherwise. Aggregate information derived from postal-code data was used to identify if participants lived in a relatively deprived local-authority district (Department for <ref type="bibr">Communities and Local Government, 2015)</ref>. Residence in an area in the upper two quintiles of the multiple deprivation index (i.e., an area with high scores on unemployment, crime, poor public services, and barriers to housing) was coded 1; residence in an area in the lower two quintiles was coded 0. Minority status was assessed on the survey by asking participants about their ethnic background; they were instructed that ethnic identification can be based on many things, such as skin color, culture, language, or family ancestry. Following the approach taken by the United Kingdom Office for National Statistics (2012), we assigned 0 as the code for participants who self-identified as White and 1 as the code for those who reported being of other ethnicities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analytic strategy</head><p>The preregistered analytic strategy is available at the Open Science Framework (osf.io/b4cgq). There were three deviations from that plan. First, two control variables we intended to include in the statistical models were not available: (a) whether participants' parents were married and (b) whether participants were born in the United Kingdom. Second, it was clear from the plotted data (see Fig. <ref type="figure" target="#fig_0">1</ref>) that there were no negative monotonic relationships between digital-screen time and mental well-being. A negative linear trend could technically be fit onto the data, but its suitability would be poor, as outcome values increased across levels of the explanatory variables before decreasing. Therefore, our regression models considered trends with both linear and quadratic components. Finally, when we examined the distributions of total digital-screen time, the sums of the estimates, it was clear that many participants had reported simultaneous screen use; approximately 20% of the sample reported a sum of more than 12 hr of engagement on weekdays, and 35% of the sample reported a total of more than 12 hr on weekend days. Given that these values were consistent with earlier research demonstrating that digital media are often used in parallel <ref type="bibr" target="#b9">(Eynon &amp; Helsper, 2015)</ref>, it did not make theoretical or practical sense to follow the original plan to test these summed screen-time estimates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Exploratory analyses</head><p>Engagement in digital activities was quite popular in our sample, as more than 99.9% of the participants reported allocating some time to at least one form of digital technology on a daily basis. Exploratory t tests comparing boys' and girls' responses indicated that the girls reported spending more time using smartphones, using computers, and watching videos, and the boys devoted more time to playing computer and console games (all ps &lt; .001; Fig. <ref type="figure" target="#fig_1">2</ref>). Across the four types of activities, screen time was between 25 min and 1 hr 5 min longer on weekend days than on weekdays, and paired-samples t tests showed that these differences were significant, all ps &lt; .001. Repeated measures analyses of variance using within-subjects contrasts indicated that more time was spent using smartphones than engaging in the other three categories of screen-based activities, all ps &lt; .001 (Fig. <ref type="figure" target="#fig_1">2</ref>). Note that boys devoted far more time to gaming on both weekdays and weekend days compared with girls.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Confirmatory analyses</head><p>A series of regression models tested how weekday and weekend engagement with digital screens was related to mental well-being, assessed with the Warwick-Edinburgh Mental Well-Being Scale. These analyses, which included both linear and nonlinear components, indicated that the quadratic trends evident in Figure <ref type="figure" target="#fig_0">1</ref> were statistically significant for all four types of digital activities. Concavedown quadratic functions were evident for watching films and TV on weekdays and weekends, for playing games on weekdays and weekends, for using a computer on weekdays and weekends, and for using a smartphone on weekdays (see Table <ref type="table" target="#tab_0">1</ref> for the results of the regression models). Consistency across both weekdays and weekends and across four different types of digital activities provided support for the Goldilocks hypothesis. In sum, a direct comparison of the relation between screen time and mental well-being at low versus high levels of screen time-a comparison that, to our knowledge, has not been made in previous work-revealed that this relation does in fact vary with the level of screen time. When we treated gender, economic factors and technology access, and ethnicity as control variables in the models, half of the observed effect sizes were noticeably reduced, but the direction and significance of the effects were unchanged (Table <ref type="table" target="#tab_1">2</ref>).</p><p>Empirically derived inflection points. To further define the quadratic patterns present in the data, we calculated local extrema for the models statistically controlling for variance linked to potential confounds. If indeed the relations between mental well-being and digitalscreen time are nonlinear, systematically quantifying the point at which engagement shifts from benign to harmful is important <ref type="bibr" target="#b24">(Nelson &amp; Simonsohn, 2014)</ref>. Results from these analyses revealed clear inflection points relating screen time to well-being (Table <ref type="table" target="#tab_2">3</ref>, Fig. <ref type="figure" target="#fig_2">3</ref>). Local extrema were at 1 hr 40 min for weekday video-game play and 1 hr 57 min for weekday smartphone use. In contrast, watching videos and using computers for recreational purposes appeared to be less potentially disruptive at these levels, as the local extrema for these activities on weekdays were 3 hr 41 min and 4 hr 17 min, respectively. Indeed, some digital activities might be better suited than others to weekdays. For example, it is relatively easy to switch between different tasks using a computer, whereas an activity such as playing a video game requires more dedicated attention. For weekends, the derived inflection points ranged from 3 hr 35 min for playing video games to 4 hr 50 m for watching videos. Thus, the pivot points between moderate and potentially harmful screen time were notably higher and less variable for weekend days than for weekdays, which suggests that the nature and amount of engagement matter for understanding the relations between digital-screen time and mental well-being.</p><p>Below these thresholds, the relations between screen time and mental well-being were either positive (p ≤ .001) or flat (ps &gt; .183), except for a negative link in the case of weekend smartphone use (Fig. <ref type="figure" target="#fig_2">3</ref>, Table <ref type="table" target="#tab_2">3</ref>). Above these thresholds, the consistent negative monotonic relationships for all forms of digital-screen time (bs ≤ -0.53, ps &lt; .001, |d|s = 0.14-0.20) indicated a detrimental relation between screen time and mental well-being. These findings further support the Goldilocks hypothesis. It appears that with the exception of using smartphones during weekends, moderate digital activity as defined by the reported inflection points does not displace other, more enriching activities essential for adolescents to experience mental well-being. Devoting time to smartphone screens during weekends may be an exception because socializing through virtual means when time is otherwise unstructured may be particularly susceptible to dysregulation or may indeed displace other beneficial weekend social activities <ref type="bibr" target="#b31">(Ryan, Bernstein, &amp; Brown, 2010)</ref>.</p><p>Observed effect sizes. Although it is not typical for publications on effects of digital activities to qualify statistically significant differences by reporting the amount of variability that is accounted for by these recreational activities, doing so is crucial for understanding the scope of the potential influence of screen time. In this study, we found that the average effect size (Cohen's d) for engagement in excess of the inflection points was -0.18. In other words, these negative slopes accounted for 1.0% or less of the observed variability in the mental well-being of the young people in the sample. Exploratory analyses examining links between individual difference measures in the data set and well-being provide some context to interpret these modest relationships. These analyses indicated that the possible negative effects of excessive screen time were less than a third of the size of the positive associations between well-being and eating breakfast regularly (d = 0.54) or getting regular sleep (d = 0.58). Although the coefficients we have reported are statistically significant, it is noteworthy that the size of both the linear and the quadratic relations between screen time and wellbeing were noticeably diminished in half the cases once control factors were accounted for, and that incremental increases in screen time above moderate levels accounted for very little of the variability we observed in mental well-being.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this study, we found that the relationships between digital-screen time and mental well-being are nonlinear and that moderate engagement in digital activities is not harmful. The consistently observed concave-down quadratic relations and empirically derived inflection points provide evidence supporting our Goldilocks hypothesis, indicating that post hoc screen-time groupings featured in past research oversimplify the nature of the relations between digital-screen time and adolescents' well-being. We quantified moderate screen engagement and found that the categories of digital activity we examined are unlikely to present a material risk to mental well-being at these moderate levels, although high levels of engagement may have a measurable, albeit small, negative influence. These findings are all firsts, perhaps because previous studies used omnibus measures that did not differentiate between the diverse types of digital-screen use <ref type="bibr" target="#b34">(Sisson et al., 2010)</ref> and measured doses of screen time on the basis of arbitrary cutoffs <ref type="bibr" target="#b13">(Hamer et al., 2009)</ref>. Such approaches are limited because they discard informative variance and therefore pool nonharmful and potentially harmful amounts of engagement when effects are estimated. This study informs the field in a number of ways. We discuss two here. First, this study points to the value of considering the wider social and developmental contexts surrounding digital-screen use. The relation between screen time and well-being depended, in part, on whether the activities occurred on weekdays or weekends. The adolescents could engage in digital activities between 22 min and 2 hr 13 min longer on weekend days than on weekdays before we found evidence of negative effects. Second, we found evidence that not all digital activities are "created equal." Those that were pervasive (i.e., using smartphones) or required effortful task switching (i.e., playing video games) had noticeably lower inflection points on weekdays compared with other digital activities. It is possible that some tech activities do interfere with other structured activities during weekdays. For example, it is likely that adolescents are less likely to engage in academic pursuits if they are overusing certain forms of media on weekdays <ref type="bibr" target="#b17">( Junco, 2012)</ref>, and it may also be the case that these adolescents are less engaged in structured after-school activities that support intrapersonal and social development, and as a result promote well-being <ref type="bibr" target="#b11">(Fletcher, Nickerson, &amp; Wright, 2003)</ref>. Despite The predictors for engagement levels below the extrema included engagement at the extrema. Quadratic relations were tested while controlling for linear relations. CI = confidence interval.</p><p>these possibilities, our statistical models suggested that the possible harmful influence of screen time on young people is fairly small, even if one assumes that our correlational data indicate direct causal relations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Avenues for future work</head><p>If indeed moderate engagement in digital activities has little detrimental effect on, and even some positive correlates with, well-being, it is possible that digital technologies, when used in moderation, afford measurable advantages to adolescents. These benefits may include avenues for communication, creativity, and development <ref type="bibr" target="#b12">(Granic, Lobel, &amp; Engels, 2014)</ref>. In future work, researchers should look more closely at how specific affordances intrinsic to digital technologies relate to benefits at various levels of engagement, while systematically analyzing what is being displaced or amplified. For example, many popular games, such as Minecraft, provide a context for socializing and creativity, and smartphone-based activities like geocaching provide motivation for physical activity and discovery <ref type="bibr" target="#b27">(O'Hara, 2008)</ref>. Engaging in these games and activities may not displace anything meaningful for development, whereas channel surfing and solitary reading might. Research building on these findings might examine nonlinear effects over time, and could consider effects on people both younger and older than the adolescents we sampled. Finally, future studies should use convergent data sources from caregivers, peers, and teachers to evaluate the linear and nonlinear relations between screen time and well-being. This approach would minimize the negative influence of extreme "mischievous responding" (Robinson-Cimpian, 2014), which might have exaggerated the links we observed between screen time and well-being, particularly among our respondents who reported unrealistically high levels of technology use. More important, use of other data sources would provide a further robust test of the Goldilocks hypothesis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Closing remarks</head><p>These findings highlight the need to revisit broad-stroke recommendations grounded in the displacement hypothesis <ref type="bibr" target="#b3">(Brown, Shifrin, &amp; Hill, 2015)</ref> and offer a new way to understand the existing research that legitimates those recommendations. Our results indicated that the possible deleterious relation between media use and well-being may not be as practically significant as some researchers have argued <ref type="bibr" target="#b36">(Strasburger, Donnerstein, &amp; Bushman, 2014)</ref>, and they highlight the continued need to critically reevaluate research claims that go beyond the available evidence (for more on this, see <ref type="bibr" target="#b10">Ferguson &amp; Donnellan, 2014)</ref>. Our findings also suggest the need for a careful cost-benefit analysis of existing professional advicewhich at present supports allocating valuable pediatrician consultation time to discussing media use with caregivers. Future research and recommendations building on the Goldilocks hypothesis would be sensitive to the various types and contexts of media use and would be based on peaks and drops in well-being as well as other meaningful outcomes identified systematically. Paired with open-science practices, such as preregistration of statistical analyses, which limits researcher degrees of freedom <ref type="bibr" target="#b33">(Simmons, Nelson, &amp; Simonsohn, 2011)</ref>, our analytic approach can form the basis for new robust studies in this area <ref type="bibr" target="#b23">(Morey et al., 2016)</ref>. There is good reason to think that caregivers find it extremely difficult to enforce existing guidelines regarding digital-screen time <ref type="bibr" target="#b15">(Houghton et al., 2015)</ref>, and that other factors, such as whether caregivers actively join in with their children during tech activities, may be far more important for mental well-being.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Action Editor</head><p>Brent W. Roberts served as action editor for this article.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Mental well-being as a function of daily digital-screen time on weekdays and weekends. Results are shown separately for time spent (a) watching TV and movies, (b) playing video games, (c) using computers, and (d) using smartphones. Error bars denote the 95% confidence intervals for the observed means.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Daily digital-screen time on (a) weekdays and (b) weekend days, separately for male and female participants. Error bars denote the 95% confidence intervals for the observed means.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Linear trends in the relation between daily digital-screen time and mental well-being for values of screen time falling below the local maxima and for values of screen time falling above the local maxima. Results are shown separately for time spent (a) watching TV and movies, (b) playing video games, (c) using computers, and (d) using smartphones on weekdays and on weekends. Error bars denote the 95% confidence intervals for the observed slopes. Asterisks indicate slopes significantly different from zero (*p = .001, **p &lt; .001).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Results of Models Linking Mental Well-Being to Daily Digital-Screen Engagement Without Adjustments for the Control Variables</figDesc><table><row><cell>Time of week</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>and type of effect</cell><cell>b</cell><cell>SE</cell><cell>95% CI</cell><cell>p</cell><cell>|d|</cell></row><row><cell></cell><cell cols="3">Watching films, TV programs, etc.</cell><cell></cell><cell></cell></row><row><cell>Weekday</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>0.98</cell><cell>0.10</cell><cell>[0.79, 1.17]</cell><cell>&lt; .001</cell><cell>0.06</cell></row><row><cell>Quadratic</cell><cell>-0.14</cell><cell>0.01</cell><cell>[-0.16, -0.12]</cell><cell>&lt; .001</cell><cell>0.09</cell></row><row><cell>Weekend</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>1.53</cell><cell>0.09</cell><cell>[1.36, 1.71]</cell><cell>&lt; .001</cell><cell>0.10</cell></row><row><cell>Quadratic</cell><cell>-0.17</cell><cell>0.01</cell><cell>[-0.18, -0.15]</cell><cell>&lt; .001</cell><cell>0.13</cell></row><row><cell></cell><cell></cell><cell cols="2">Playing games</cell><cell></cell><cell></cell></row><row><cell>Weekday</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>3.56</cell><cell>0.11</cell><cell>[3.34, 3.77]</cell><cell>&lt; .001</cell><cell>0.19</cell></row><row><cell>Quadratic</cell><cell>-0.33</cell><cell>0.01</cell><cell>[-0.35, -0.31]</cell><cell>&lt; .001</cell><cell>0.17</cell></row><row><cell>Weekend</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>3.16</cell><cell>0.08</cell><cell>[3.00, 3.32]</cell><cell>&lt; .001</cell><cell>0.22</cell></row><row><cell>Quadratic</cell><cell>-0.26</cell><cell>0.01</cell><cell>[-0.28, -0.25]</cell><cell>&lt; .001</cell><cell>0.20</cell></row><row><cell></cell><cell cols="3">Using computers for Internet, e-mail, etc.</cell><cell></cell><cell></cell></row><row><cell>Weekday</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>1.32</cell><cell>0.09</cell><cell>[1.13, 1.50]</cell><cell>&lt; .001</cell><cell>0.08</cell></row><row><cell>Quadratic</cell><cell>-0.17</cell><cell>0.01</cell><cell>[-0.18, -0.15]</cell><cell>&lt; .001</cell><cell>0.11</cell></row><row><cell>Weekend</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>1.61</cell><cell>0.08</cell><cell>[1.45, 1.78]</cell><cell>&lt; .001</cell><cell>0.11</cell></row><row><cell>Quadratic</cell><cell>-0.18</cell><cell>0.01</cell><cell>[-0.19, -0.16]</cell><cell>&lt; .001</cell><cell>0.14</cell></row><row><cell cols="5">Using smartphones for social networking, chatting, etc.</cell><cell></cell></row><row><cell>Weekday</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>-0.50</cell><cell>0.08</cell><cell>[-0.65, -0.35]</cell><cell>&lt; .001</cell><cell>0.04</cell></row><row><cell>Quadratic</cell><cell>-0.02</cell><cell>0.01</cell><cell>[-0.03, -0.01]</cell><cell>.019</cell><cell>0.01</cell></row><row><cell>Weekend</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>0.50</cell><cell>0.08</cell><cell>[0.35, 0.65]</cell><cell>&lt; .001</cell><cell>0.04</cell></row><row><cell>Quadratic</cell><cell>-0.10</cell><cell>0.01</cell><cell>[-0.11, -0.09]</cell><cell>&lt; .001</cell><cell>0.09</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Results of Models Linking Mental Well-Being to Daily Digital-Screen Engagement With Adjustments for the Control Variables</figDesc><table><row><cell>Time of week</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>and type of effect</cell><cell>b</cell><cell>SE</cell><cell>95% CI</cell><cell>p</cell><cell>|d|</cell></row><row><cell></cell><cell cols="3">Watching films, TV programs, etc.</cell><cell></cell><cell></cell></row><row><cell>Weekday</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>0.95</cell><cell>0.09</cell><cell>[0.77, 1.13]</cell><cell>&lt; .001</cell><cell>0.06</cell></row><row><cell>Quadratic</cell><cell>-0.13</cell><cell>0.01</cell><cell>[-0.15, -0.11]</cell><cell>&lt; .001</cell><cell>0.09</cell></row><row><cell>Weekend</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>1.65</cell><cell>0.09</cell><cell>[1.48, 1.82]</cell><cell>&lt; .001</cell><cell>0.11</cell></row><row><cell>Quadratic</cell><cell>-0.17</cell><cell>0.01</cell><cell>[-0.19, -0.16]</cell><cell>&lt; .001</cell><cell>0.13</cell></row><row><cell></cell><cell></cell><cell cols="2">Playing games</cell><cell></cell><cell></cell></row><row><cell>Weekday</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>0.21</cell><cell>0.11</cell><cell>[-0.01, 0.43]</cell><cell>.059</cell><cell>-</cell></row><row><cell>Quadratic</cell><cell>-0.06</cell><cell>0.01</cell><cell>[-0.09, -0.04]</cell><cell>&lt; .001</cell><cell>0.03</cell></row><row><cell>Weekend</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>0.57</cell><cell>0.09</cell><cell>[0.41, 0.74]</cell><cell>&lt; .001</cell><cell>0.04</cell></row><row><cell>Quadratic</cell><cell>-0.08</cell><cell>0.01</cell><cell>[-0.10, -0.07]</cell><cell>&lt; .001</cell><cell>0.06</cell></row><row><cell></cell><cell cols="3">Using computers for Internet, e-mail, etc.</cell><cell></cell><cell></cell></row><row><cell>Weekday</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>1.43</cell><cell>0.09</cell><cell>[1.25, 1.61]</cell><cell>&lt; .001</cell><cell>0.09</cell></row><row><cell>Quadratic</cell><cell>-0.17</cell><cell>0.01</cell><cell>[-0.18, -0.15]</cell><cell>&lt; .001</cell><cell>0.11</cell></row><row><cell>Weekend</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>1.64</cell><cell>0.08</cell><cell>[1.48, 1.79]</cell><cell>&lt; .001</cell><cell>0.09</cell></row><row><cell>Quadratic</cell><cell>-0.18</cell><cell>0.01</cell><cell>[-0.19, -0.16]</cell><cell>&lt; .001</cell><cell>0.11</cell></row><row><cell cols="5">Using smartphones for social networking, chatting, etc.</cell><cell></cell></row><row><cell>Weekday</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>0.23</cell><cell>0.08</cell><cell>[0.08, 0.38]</cell><cell>.003</cell><cell>0.02</cell></row><row><cell>Quadratic</cell><cell>-0.06</cell><cell>0.01</cell><cell>[-0.07, -0.05]</cell><cell>&lt; .001</cell><cell>0.05</cell></row><row><cell>Weekend</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Linear</cell><cell>0.98</cell><cell>0.08</cell><cell>[0.83, 1.12]</cell><cell>&lt; .001</cell><cell>0.07</cell></row><row><cell>Quadratic</cell><cell>-0.12</cell><cell>0.01</cell><cell>[-0.13, -0.10]</cell><cell>&lt; .001</cell><cell>0.10</cell></row></table><note><p>Note: Quadratic relations were tested while controlling for linear relations. CI = confidence interval.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Trends in Mental Well-Being for Engagement Levels Below and Above the Observed Extrema</figDesc><table><row><cell>Time of week and</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>engagement level</cell><cell>Extremum</cell><cell>b</cell><cell>SE</cell><cell>95% CI</cell><cell>p</cell><cell>|d|</cell></row><row><cell></cell><cell cols="4">Watching films, TV programs, etc.</cell><cell></cell><cell></cell></row><row><cell>Weekday</cell><cell>3 hr 41 min</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Below extremum</cell><cell></cell><cell>-0.04</cell><cell>0.03</cell><cell>[-0.11, 0.02]</cell><cell>.183</cell><cell>-</cell></row><row><cell>Above extremum</cell><cell></cell><cell>-0.90</cell><cell>0.05</cell><cell>[-1.00, -0.80]</cell><cell>&lt; .001</cell><cell>0.20</cell></row><row><cell>Weekend</cell><cell>4 hr 50 min</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Below extremum</cell><cell></cell><cell>0.09</cell><cell>0.03</cell><cell>[0.04, 0.15]</cell><cell>.001</cell><cell>0.02</cell></row><row><cell>Above extremum</cell><cell></cell><cell>-1.09</cell><cell>0.06</cell><cell>[-1.20, -0.98]</cell><cell>&lt; .001</cell><cell>0.20</cell></row><row><cell></cell><cell></cell><cell cols="2">Playing games</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Weekday</cell><cell>1 hr 40 min</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Below extremum</cell><cell></cell><cell>0.00</cell><cell>0.09</cell><cell>[-0.18, 0.18]</cell><cell>.984</cell><cell>-</cell></row><row><cell>Above extremum</cell><cell></cell><cell>-0.60</cell><cell>0.04</cell><cell>[-0.67, -0.53]</cell><cell>&lt; .001</cell><cell>0.19</cell></row><row><cell>Weekend</cell><cell>3 hr 35 min</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Below extremum</cell><cell></cell><cell>-0.02</cell><cell>0.03</cell><cell>[-0.09, -0.05]</cell><cell>.519</cell><cell>-</cell></row><row><cell>Above extremum</cell><cell></cell><cell>-0.63</cell><cell>0.05</cell><cell>[-0.72, -0.53]</cell><cell>&lt; .001</cell><cell>0.17</cell></row><row><cell></cell><cell cols="4">Using computers for Internet, e-mail, etc.</cell><cell></cell><cell></cell></row><row><cell>Weekday</cell><cell>4 hr 17 min</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Below extremum</cell><cell></cell><cell>0.01</cell><cell>0.02</cell><cell>[-0.04, 0.06]</cell><cell>.665</cell><cell>-</cell></row><row><cell>Above extremum</cell><cell></cell><cell>-0.89</cell><cell>0.11</cell><cell>[-1.11, -0.67]</cell><cell>&lt; .001</cell><cell>0.15</cell></row><row><cell>Weekend</cell><cell>4 hr 39 min</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Below extremum</cell><cell></cell><cell>0.15</cell><cell>0.02</cell><cell>[0.10, 0.19]</cell><cell>&lt; .001</cell><cell>0.04</cell></row><row><cell>Above extremum</cell><cell></cell><cell>-0.93</cell><cell>0.08</cell><cell>[-1.09, -0.77]</cell><cell>&lt; .001</cell><cell>0.16</cell></row><row><cell cols="5">Using smartphones for social networking, chatting, etc.</cell><cell></cell><cell></cell></row><row><cell>Weekday</cell><cell>1 hr 57 min</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Below extremum</cell><cell></cell><cell>0.80</cell><cell>0.11</cell><cell>[0.58, 1.01]</cell><cell>&lt; .001</cell><cell>0.07</cell></row><row><cell>Above extremum</cell><cell></cell><cell>-0.53</cell><cell>0.02</cell><cell>[-0.56, -0.49]</cell><cell>&lt; .001</cell><cell>0.20</cell></row><row><cell>Weekend</cell><cell>4 hr 10 min</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Below extremum</cell><cell></cell><cell>-0.10</cell><cell>0.02</cell><cell>[-0.15, -0.05]</cell><cell>&lt; .001</cell><cell>0.03</cell></row><row><cell>Above extremum</cell><cell></cell><cell>-0.83</cell><cell>0.06</cell><cell>[-0.94, -0.74]</cell><cell>&lt; .001</cell><cell>0.14</cell></row></table><note><p>Note:</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Note: Quadratic relations were tested while controlling for linear relations. CI = confidence interval.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank <rs type="person">R. D. Morey</rs> and <rs type="person">C. D. Chambers</rs> for critical feedback regarding the analysis plan. We also thank <rs type="person">P. Glossop</rs>, <rs type="person">P. Niblett</rs>, and members of the surveys team at <rs type="institution">NHS Digital</rs> for their support.</p></div>
+			</div>
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>All data and materials have been made publicly available via the Open Science Framework. The data can be accessed at osf .io/49rmq/, and the materials can be accessed at osf.io/4dv6p/. The design and analysis plans were preregistered at the Open Science Framework and can be accessed at osf.io/b4cgq.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>A. K. Przybylski developed the study concept and participated in consultations with NHS Digital regarding the data collection. Both A. K. Przybylski and N. Weinstein were responsible for the study design, data analysis, and interpretation. Both authors drafted and revised the manuscript and approved the final version for submission.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of Conflicting Interests</head><p>The authors declared that they had no conflicts of interest with respect to their authorship or the publication of this article.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Active play and screen time in US children aged 4 to 11 years in relation to sociodemographic and weight status characteristics: A nationally representative cross-sectional analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Economos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Must</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2458-8-366</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">366</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The debate over digital technology and young people</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V M</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.h3064</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Medical Journal</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page">3064</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Screen time and physical activity during adolescence: Longitudinal effects on obesity in young adulthood</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Boone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gordon-Larsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Adair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Popkin</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1479-5868-4-26</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Behavioral Nutrition and Physical Activity</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">26</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Beyond &quot;turn it off&quot;: How to advise families on media use</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Shifrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Hill</surname></persName>
+		</author>
+		<idno type="DOI">10.1542/aapnews.20153610-54</idno>
+	</analytic>
+	<monogr>
+		<title level="j">AAP News</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">54</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Screen time, physical activity and mental health among urban adolescents in China</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Weng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tao</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ypmed.2011.09.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Preventive Medicine</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="316" to="320" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Warwick-Edinburgh Mental Well-Being Scale (WEMWBS): Validated for teenage school students in England and Scotland. A mixed methods assessment</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Friede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Putz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ashdown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Stewart-Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2458-11-487</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">487</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Children, adolescents, and the media</title>
+		<author>
+			<orgName type="collaboration">Council on Communications and Media</orgName>
+		</author>
+		<idno type="DOI">10.1542/peds.2013-2656</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="958" to="961" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">The English indices of deprivation 2015</title>
+		<ptr target="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/465791/English_Indices_of_Deprivation_2015_-_Statistical_Release.pdf" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Department for Communities and Local Government</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Prospective investigation of video game use in children and subsequent conduct disorder and depression using data from the Avon Longitudinal Study of Parents and Children</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Etchells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Gage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Rutherford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Munafò</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0147732</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">147732</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Family dynamics and Internet use in Britain: What role do children play in adults&apos; engagement with the Internet? Information</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Eynon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Helsper</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/1369118X.2014.942344</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Communication &amp; Society</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="156" to="171" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Is the association between children&apos;s baby video viewing and poor language development robust? A reanalysis of Zimmerman</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Ferguson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Donnellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Meltzoff</forename><surname>Christakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0033628</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="129" to="137" />
+			<date type="published" when="2007">2014. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Structured leisure activities in middle childhood: Links to wellbeing</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Fletcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nickerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Wright</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jcop.10075</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Community Psychology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="641" to="659" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The benefits of playing video games</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Granic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lobel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C M E</forename><surname>Engels</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/a0034857</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="66" to="78" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Psychological distress, television viewing, and physical activity in children aged 4 to 12 years</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hamer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stamatakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mishra</surname></persName>
+		</author>
+		<idno type="DOI">10.1542/peds.2008-1523</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="1263" to="1268" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Televisionand screen-based activity and mental well-being in adults</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hamer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stamatakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Mishra</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.amepre.2009.12.030</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Preventive Medicine</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="375" to="380" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Virtually impossible: Limiting Australian children and adolescents daily screen based media use</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Houghton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zadow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Shilton</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2458-15-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Patterns of adolescent physical activity, screen-based media use, and positive and negative health indicators in the U.S. and Canada</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Iannotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Kogan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Janssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Boyce</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2008.10.142</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="493" to="499" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The relationship between frequency of Facebook use, participation in Facebook activities, and student engagement</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Junco</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.compedu.2011.08.004</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Computers &amp; Education</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="162" to="171" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Physical activity, leisure-time screen use and depression among children and young adolescents</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kremer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Elshaug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Leslie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Toumbourou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Patton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Williams</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jsams.2013.03.012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Science and Medicine in Sport</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="183" to="187" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Energy expenditure of sedentary screen time compared with active screen time for children</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lanningham-Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Redmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Walker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Heinz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Levine</surname></persName>
+		</author>
+		<idno type="DOI">10.1542/peds.2006-1087</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="1831" to="e1835" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lenhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duggan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perrin</surname></persName>
+		</author>
+		<ptr target="http://www.pewinternet.org/2015/08/06/teens-technology-and-friendships/" />
+		<title level="m">Teens, technology and friendships</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Screen media and language development in infants and toddlers: An ecological perspective</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Linebarger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Vaala</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.dr.2010.03.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Review</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="176" to="202" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Identity exploration and commitment in late adolescence: Correlates of perfectionism and mediating mechanisms on the pathway to well-being</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Luyckx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Soenens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Goossens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Beckx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wouters</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/jscp.2008.27.4.336</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social &amp; Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="336" to="361" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The Peer Reviewers&apos; Openness Initiative: Incentivizing open research practices through peer review</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Morey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Chambers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Etchells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lakens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Zwaan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1098/rsos.150547</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Royal Society Open Science</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">150547</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Simonsohn</surname></persName>
+		</author>
+		<ptr target="http://datacolada.org/27" />
+		<title level="m">Thirtysomethings are shrinking and other U-shaped challenges</title>
+		<imprint>
+			<date type="published" when="2014-09-17">2014, September 17</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The displacement effect: Assessing the relation between television viewing and reading performance</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Neuman</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/747641</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Reading Research Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="414" to="440" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<ptr target="http://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/ethnicityandnationalidentityinenglandandwales/2012-12-11/pdf" />
+		<title level="m">Children and parents: Media use and attitudes report</title>
+		<imprint>
+			<publisher>Office for National Statistics</publisher>
+			<date type="published" when="2011">2015. 2015. 2012. 2011</date>
+		</imprint>
+	</monogr>
+	<note>Ethnicity and national identity in England and Wales</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Understanding geocaching practices and motivations</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>O'hara</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/1357054.1357239</idno>
+	</analytic>
+	<monogr>
+		<title level="m">CHI &apos;08: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</title>
+		<meeting><address><addrLine>New York, NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>ACM Press</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="1177" to="1186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Do television and electronic games predict children&apos;s psychosocial adjustment? Longitudinal research using the UK Millennium Cohort Study</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Parkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sweeting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Henderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/archdischild-2011-301508</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Disease in Childhood</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="341" to="348" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Electronic gaming and psychosocial adjustment</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+		</author>
+		<idno type="DOI">10.1542/peds.2013-4021</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="716" to="e722" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Inaccurate estimation of disparities due to mischievous responders: Several suggestions to assess conclusions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Robinson-Cimpian</surname></persName>
+		</author>
+		<idno type="DOI">10.3102/0013189X14534297</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Educational Researcher</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="171" to="185" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Weekends, work, and well-being: Psychological need satisfactions and day of the week effects on mood, vitality, and physical symptoms</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Bernstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/jscp.2010.29.1.95</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social &amp; Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="95" to="122" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Deci</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0003-066X.55.1.68</idno>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="68" to="78" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Simonsohn</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0956797611417632</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1359" to="1366" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Screen time, physical activity, and overweight in U.S. youth: National Survey of Children&apos;s Health</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Sisson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Broyles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Katzmarzyk</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jadohealth.2010.02.016</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="309" to="311" />
+			<date type="published" when="2003">2010. 2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Internal construct validity of the Warwick-Edinburgh Mental Well-Being Scale (WEMWBS): A Rasch analysis using data from the Scottish Health Education Population Survey</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stewart-Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tennant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tennant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Platt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Parkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weich</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1477-7525-7-15</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Health and Quality of Life Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">15</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Why is it so hard to believe that media influence children and adolescents</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Strasburger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Donnerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Bushman</surname></persName>
+		</author>
+		<idno type="DOI">10.1542/peds.2013-2334</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="571" to="573" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The Warwick-Edinburgh Mental Well-Being Scale (WEMWBS): Development and UK validation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tennant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fishwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Platt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Joseph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">.</forename><forename type="middle">.</forename><surname>Stewart-Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<idno type="DOI">10.1186/1477-7525-5-63</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Health and Quality of Life Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">63</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Social consequences of the Internet for adolescents: A decade of research</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8721.2009.01595.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Current Directions in Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Social support and well-being in early adolescents: The role of mediating variables</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yarcheski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Mahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Yarcheski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Nursing Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="163" to="181" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

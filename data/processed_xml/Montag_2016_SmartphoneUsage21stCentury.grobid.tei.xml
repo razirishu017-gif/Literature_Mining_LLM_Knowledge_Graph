@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Smartphone usage in the 21st century: who is active on WhatsApp?</title>
+				<funder ref="#_qTqkQRp">
+					<orgName type="full">German Research Foundation (DFG)</orgName>
+				</funder>
+				<funder ref="#_BaYA37K">
+					<orgName type="full">DFG</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability status="unknown"><p>Copyright Springer Science and Business Media LLC</p>
+				</availability>
+				<date type="published" when="2015-08-04">2015-08-04</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Christian</forename><surname>Montag</surname></persName>
+							<email>christian.montag@uni-ulm.de</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Molecular Psychology</orgName>
+								<orgName type="department" key="dep2">Zentrum für Biomedizinische Forschung</orgName>
+								<orgName type="institution">Ulm University</orgName>
+								<address>
+									<addrLine>Helmholtzstr. 8/1</addrLine>
+									<postCode>89081</postCode>
+									<settlement>Ulm</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Konrad</forename><surname>Błaszkiewicz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Molecular Psychology</orgName>
+								<orgName type="department" key="dep2">Zentrum für Biomedizinische Forschung</orgName>
+								<orgName type="institution">Ulm University</orgName>
+								<address>
+									<addrLine>Helmholtzstr. 8/1</addrLine>
+									<postCode>89081</postCode>
+									<settlement>Ulm</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rayna</forename><surname>Sariyska</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Molecular Psychology</orgName>
+								<orgName type="department" key="dep2">Zentrum für Biomedizinische Forschung</orgName>
+								<orgName type="institution">Ulm University</orgName>
+								<address>
+									<addrLine>Helmholtzstr. 8/1</addrLine>
+									<postCode>89081</postCode>
+									<settlement>Ulm</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Bernd</forename><surname>Lachmann</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Molecular Psychology</orgName>
+								<orgName type="department" key="dep2">Zentrum für Biomedizinische Forschung</orgName>
+								<orgName type="institution">Ulm University</orgName>
+								<address>
+									<addrLine>Helmholtzstr. 8/1</addrLine>
+									<postCode>89081</postCode>
+									<settlement>Ulm</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ionut</forename><surname>Andone</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Molecular Psychology</orgName>
+								<orgName type="department" key="dep2">Zentrum für Biomedizinische Forschung</orgName>
+								<orgName type="institution">Ulm University</orgName>
+								<address>
+									<addrLine>Helmholtzstr. 8/1</addrLine>
+									<postCode>89081</postCode>
+									<settlement>Ulm</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Boris</forename><surname>Trendafilov</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Molecular Psychology</orgName>
+								<orgName type="department" key="dep2">Zentrum für Biomedizinische Forschung</orgName>
+								<orgName type="institution">Ulm University</orgName>
+								<address>
+									<addrLine>Helmholtzstr. 8/1</addrLine>
+									<postCode>89081</postCode>
+									<settlement>Ulm</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mark</forename><surname>Eibes</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Molecular Psychology</orgName>
+								<orgName type="department" key="dep2">Zentrum für Biomedizinische Forschung</orgName>
+								<orgName type="institution">Ulm University</orgName>
+								<address>
+									<addrLine>Helmholtzstr. 8/1</addrLine>
+									<postCode>89081</postCode>
+									<settlement>Ulm</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alexander</forename><surname>Markowetz</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Molecular Psychology</orgName>
+								<orgName type="department" key="dep2">Zentrum für Biomedizinische Forschung</orgName>
+								<orgName type="institution">Ulm University</orgName>
+								<address>
+									<addrLine>Helmholtzstr. 8/1</addrLine>
+									<postCode>89081</postCode>
+									<settlement>Ulm</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Smartphone usage in the 21st century: who is active on WhatsApp?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">BMC Research Notes</title>
+						<title level="j" type="abbrev">BMC Res Notes</title>
+						<idno type="eISSN">1756-0500</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">8</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2015-08-04" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">DA6409A2CB72045DA8B13CA01EBEFE77</idno>
+					<idno type="DOI">10.1186/s13104-015-1280-z</idno>
+					<note type="submission">Received: 26 November 2014 Accepted: 15 July 2015</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Whatsapp</term>
+					<term>Personality</term>
+					<term>Extraversion</term>
+					<term>Conscientiousness</term>
+					<term>Age</term>
+					<term>Gender</term>
+					<term>Education</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Mounting evidence shows that smartphone usage heavily disrupts our work life and social activities. Moreover, it is possible that overuse could resemble addictive tendencies. A key contributing factor to smartphone overuse seems to be usage of the messaging application WhatsApp. Although WhatsApp is one of the most commonly used communication applications on smartphones, research in this area is scarce. Given the huge societal debate on the impact of smartphone usage on our daily lives, the present study undertook a large-scale investigation in order to provide numbers on smartphone usage generally-and use of WhatsApp in particular, with the aim of providing a basis for a scientific debate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods:</head><p>In a large sample of N = 2,418 users, we recorded WhatsApp behaviour over a 4 week period.</p><p>Results: Our data show that use of WhatsApp accounted for 19.83% (= 32.11 min) of all smartphone behaviour (compare: Facebook only 9.38% = 15.19 min). The mean of general daily smartphone usage was 161.95 min. Females used WhatsApp for significantly longer periods of time than males and younger age was associated with longer duration of WhatsApp use. While the personality trait Extraversion was positively associated with daily WhatsApp use, Conscientiousness showed an inverse correlation with the length of daily WhatsApp use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions:</head><p>The numbers on smartphone usage in the present study show that the smartphone dominates our daily life. In particular WhatsApp is a driving force, here. Given the length of daily smartphone and WhatsApp usage, more studies need to be conducted to better understand smartphone usage.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Smartphones represent an important part of modern life, because they enable us to communicate from nearly everywhere (as long a phone signal is available), access the Internet, check e-mails and social networks. In Germany alone, 40% of the population use a smartphone <ref type="bibr" target="#b0">[1]</ref> and overuse is heavily discussed in terms of a potential negative impact on mental health. It has been suggested that overuse of smartphones may resemble an addiction <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref> and overuse is also linked to time distortion, with the result that the smartphone is used for longer than originally intended or perceived <ref type="bibr" target="#b3">[4]</ref>. Moreover, smartphone overuse (in particular evening usage) seems to be associated with poor sleep quality <ref type="bibr" target="#b4">[5]</ref> and reduced work engagement <ref type="bibr" target="#b5">[6]</ref>, which is not surprising, as new numbers show that about 36-40% of smartphone owners use their smartphone in the last 5 min before going to sleep and/ or in the first 5 min after waking up <ref type="bibr" target="#b6">[7]</ref>. Thus, this technical device is omnipresent in everyday life. Most studies in this field rely on questionnaires into assess smartphone consumption. This is problematic, because a recent study showed that usage is poorly assessed via self-report questionnaires <ref type="bibr" target="#b3">[4]</ref>. The aim of the present study is to provide numbers on smartphone usage and one major smartphone utility-WhatsApp-in order to provide an empirical basis for scientific discussion. Usage is further investigated in the context of personality.</p><p>WhatsApp is a communication app facilitating the exchange of instant messages, pictures, videos and voice calls via an Internet connection, which has been installed on smartphones over half a billion times all round the world <ref type="bibr" target="#b7">[8]</ref>. a It represents one of the most important features of a smartphone, as it enables easy communication via text or voice messages between two or more persons. Basically it helps people to stay connected. WhatsApp is particularly attractive as, after installing the app, the sending and receipt of messages is cost free (in contrast to the original text message function on mobile phones). The latter feature (cost free) clearly explains the success of WhatsApp. In addition, its function across different smartphone types (Apple, Android, etc.) and its international functionality are also important contributors to this popularity.</p><p>Scientific studies on WhatsApp usage remain scarce. Recent studies yielded the first evidence that What-sApp usage might have an addictive character <ref type="bibr" target="#b8">[9]</ref> and of course WhatsApp represents an important communication alternative to classic short message services, which often incur costs (SMS; <ref type="bibr" target="#b9">[10]</ref>). In contrast to the small body of literature on WhatsApp, the past few years reflect a focus on social network usage, such as Facebook, when investigating smartphone behaviour or Internet usage (e.g. <ref type="bibr" target="#b10">[11]</ref>). Moreover, it is noteworthy that most previous studies have relied solely on selfreport data to measure human-machine interaction <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. The well-known shortcomings of self-report data, such as social desirability in answering questionnaires, can in part be overcome through a new research avenue called Psychoinformatics. Psychoinformatics adapts methods from computer science to the study of human behaviour, such as the interaction of a person with his/her smartphone <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15]</ref>. Crucially, behaviour is recorded directly. In this context, a study by our own group demonstrated that extraverted humans reach out to their social network more via voice calls. In particular, the number of outgoing calls was positively associated with Extraversion <ref type="bibr" target="#b15">[16]</ref>. Extraverts can be described as socially outgoing and attaching easily to other persons. Our pilot study underlined the importance of earlier findings by Chittaranjan et al. <ref type="bibr" target="#b16">[17]</ref>, who, to our knowledge, published one of the first studies on the link between personality and actual recorded smartphone behaviour. As the pilot study focused on call and SMS variables in a rather small sample, the purpose of the present investigation is to contribute to a better understanding of WhatsApp usage in a large number of users, tracked over a period of 4 weeks.</p><p>Specifically, the present study aims to answer three questions. First, we are interested to learn what percentage of all smartphone usage is specific to What-sApp (although daily general usage is also of interest in this investigation). Second, we investigate how the sociodemographic variables age, gender and education influence WhatsApp usage. Finally, we are interested in linking personality to WhatsApp usage. In light of earlier findings on personality and smartphone usage, we hypothesize that extraverts are more active on WhatsApp, because, in general, they are likely to place more value on being connected with people. Of note, the aforementioned study <ref type="bibr" target="#b8">[9]</ref> has demonstrated that extraverts have more positive attitudes towards WhatsApp. Although this study did not include directly recorded behaviour, this earlier finding lends support to our hypothesis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design</head><p>N = 2,418 participants (1,468 male) were recruited to the present study. b Mean age of participants was 24.64 years (SD = 10.44). In the following also numbers on education in percentages are presented: no education = 148 (6.1%), Volks-/Hauptschulabschluss (streamed secondary school for lesser able students) = 215 (8.9%), secondary school leaving certificate (Mittlere Reife) = 501 (20.7%), vocational baccalaureate diploma (Fachabitur) = 302 (12.5%), A-level (Abitur) = 636 (26.3%), university of applied sciences degree (Fachhochschulabschluss) = 158 (6.5%), and university degree (Hochschulabschluss) = 458 (18.9%). As mass media from Germany reported about our application (see below), by far most of the users of the sample very likely were from Germany. Unfortunately, we did not ask for citizenship.</p><p>All participants downloaded our custom developed application called Menthal, which tracked participants' smartphone use. All participants provided the research team with their anonymized smartphone data profile. For reasons of anonymity, we only collected meta-data of the smartphone. Before downloading the application, all participants provided digital consent to be a participant of our study in exchange for a free service as described in the next section. Ethical approval for the study (including the following described procedure) was obtained from the local ethic committee at the University of Bonn, Germany.</p><p>In exchange for providing their data to our research team, participants received insights into their smartphone usage via the custom app. Here, they could see how much time they spent on the smartphone and which applications have been used most often (not only a focus on WhatsApp). This feedback facilitated the recruitment of such a large sample. For convenience, information on personality was completed via a questionnaire integrated into the app. Upon provision of this information, the app provided participants with a short description of their personality profile in the form of graphs.</p><p>All participants completed items on age, gender, education and personality. Personality was assessed with a short questionnaire reflecting the Five Factor Model of Personality (Big Five Inventory, BFI, <ref type="bibr" target="#b17">[18]</ref>). This questionnaire comprises ten items measuring Extraversion, Neuroticism, Openness to Experience, Agreeableness and Conscientiousness. Each dimension is measured with two items. Thus, each dimension has a score between 2 and 10 for each participant. Items were completed via a five point Likert scale ranging from "disagree strongly" <ref type="bibr" target="#b0">[1]</ref> to "agree strongly" <ref type="bibr" target="#b4">[5]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tracking the interaction with the smartphone</head><p>User interaction was recorded directly on the phone, and the resulting data was forwarded to our servers on a daily basis. We observed around thirty different types of interaction events, e.g. indicating that the phone was unlocked, the user switched from one app to another, or the phone went to "sleep mode". Some of these events are rather cryptic, c making it difficult to infer the precise nature of the interaction between the user and their smartphone.</p><p>We will now introduce the concepts of 'phone sessions' and 'app sessions' . The former indicate a period of uninterrupted interaction with the phone, the latter refers to continuous interaction with an app, e.g. using the WhatsApp messaging service. Regardless of the exact underlying events, app sessions can be represented in a convenient to read format as [user-ID, app-name, starttime, end-time]. It is worth noting that we have only considered visual interaction with the phone. Thus, listening to MP3 music or even talking on the phone while the screen is turned off, does not contribute significantly to either phone or app sessions. Here, we need to add a detail: if you are calling someone the first seconds of calling contributed to phone sessions, but only until the screen went dark.</p><p>In order to ensure sufficient data per user, only participants for whom a minimum of 4 weeks' worth of data were collected were considered in the analysis. In order to reduce any effect of feeling "observed", we discarded the first week's data. Due to unforeseeable faults or accidents, data can become faulty or lost, necessitating modest data cleaning processes. For example, if a user engages with WhatsApp and the subsequent "phone off " event is lost, it may appear as if s/he used the messenger for an incredible 8 h (i.e. until the next time s/he uses the phone). We thus excluded data from days for which the user failed to transmit any data, or for which it appeared that phone use exceeded 10 h.</p><p>The former comprise less than 16.8% of all days under consideration, the latter less than 1.2%. Similarly, we removed all app sessions longer than 6 h. In total, we studied 2,418 participants, of which 2,281 actively used WhatsApp.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Age, gender, education and duration of daily general smartphone and WhatsApp Usage</head><p>The mean of typical daily smartphone usage was 161.95 min (SD = 83.36). The mean of typical daily WhatsApp usage was 32.11 min (SD = 35.36). Thus, WhatsApp alone accounted for about 20% (19.83%) of typical daily smartphone use in the present sample. Gender strongly influenced WhatsApp usage (F (1,2416) = 82.35, p &lt; .001), but not general smartphone usage (F (1,2416) = 2.56, p = .11). Of note, non-parametric testing revealed comparable results (U = 514038,00, p &lt; .001) for WhatsApp usage (a non normally distributed variable, as depicted in Fig. <ref type="figure" target="#fig_0">1</ref>). Females used What-sApp for 40.08 min (SD = 36.88) each day. In contrast, males used WhatsApp only for 26.94 min (SD = 33.34) per day. Education was negatively associated with daily smartphone usage (rho = -.20, p &lt; .001), but not significantly associated with WhatsApp usage (rho = -.03, p = .22). Age was not associated with general daily smartphone usage (r = -.01, p = .56), but was inversely linked to daily WhatsApp usage (r = -.33, p &lt; .001; compared with rho = -.41, p &lt; .001). Figure <ref type="figure" target="#fig_0">1</ref> reveals that in contrast to "daily smartphone usage" the variable "daily WhatsApp usage" has a skewed distribution. Thus, we also report statistical results from non-parametric testing for this variable. Some further notes: In n = 137 participants (5.67%) no WhatsApp activity could be recorded, which can be interpreted to mean that these users have either never installed WhatsApp or that they have installed it, but did not use it. Although the group of WhatsApp nonusers was very small (thus emphasising the importance of WhatsApp to typical smartphone users), we compared users (mean-daily usage &gt;0) and non-users of WhatsApp on socio-demographic variables and personality. This contrast revealed that WhatsApp users are younger (U = 99604.50, p &lt; .001), more often female (Chi 2 = 18.41, df = 1, p &lt; .001), more extraverted (U = 121912.00, p &lt; .001) and less conscientious (U = 140396.50, p = .04). Education just fell short of significance between the samples (U = 141425.00, p = .057, compare with Chi 2 = 7.72, p = .26), with WhatsApp nonusers being slightly more educated. All relevant descriptive statistics are reported in Table <ref type="table">1</ref> (the results from this comparison need to be viewed carefully, because the group of non-WhatsApp users was very small).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Personality and WhatsApp usage</head><p>The duration of daily WhatsApp use is positively associated with Extraversion (rho = .18, p &lt; .001), Neuroticism (rho = .07, p &lt; .001) and inversely associated with Conscientiousness (rho = -.13, p &lt; .001). The remaining correlations with Openness to Experience and Agreeableness showed no significant associations. Given the gender effects in the context of WhatsApp usage, we also provide correlations with males and females separately (see Table <ref type="table">2</ref>). The association between Extraversion and WhatsApp usage was double the size in males compared to females (compare rho = .19 vs. rho = .10). The opposite pattern could be observed for Conscientiousness, with higher correlations in females compared to males (compare rho = -.18 vs. rho = -.12). The remaining correlation would not hold for multiple testing correction procedures. Of note: The results do not change much when investigating the sample including participants &gt; 0 minutes of WhatsApp use only.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The present study provides strong evidence that What-sApp accounts for a large proportion of typical daily smartphone usage. About 20% of the smartphone behaviour observed in the current study can be accounted for by WhatsApp usage. Females use WhatsApp for longer time periods than males; our data revealed that females use WhatsApp about 13 min longer than males on a daily basis. In addition to gender, age also contributed to WhatsApp usage. Younger participants tend to have  longer daily WhatsApp usage. In general, the present data are in line with the literature dealing with the use of social networks. This literature suggests that females also use Facebook more and that younger people tend to be especially active on Facebook <ref type="bibr" target="#b18">[19]</ref>. It is worth noting that WhatsApp may not be directly comparable to social network services such as Facebook, as WhatsApp is primarily a communication service. Nevertheless, humans can communicate via both Facebook and WhatsApp, thus some similarities can be observed. In the present study, we focused on WhatsApp, because it accounts for a greater proportion of phone usage compared to the Facebook app (post hoc analyses revealed that Facebook usage showed a mean day level of 15.19 ± 17.98 min (9.38%); far less than that of WhatsApp). See additional information in the Additional file 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 1 Descriptive statistics on mean-scores of personality, age, education and gender distribution in participants without WhatsApp activity and with WhatsApp activity &gt;0.00 min each day</head><p>From a perspective of a personality psychologist, we observed that Extraversion is of high importance in understanding WhatsApp usage. In keeping with earlier smartphone studies on Extraversion and call behaviour (e.g. <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b19">20]</ref>), extraverts also use WhatsApp for longer durations compared with introverts. This was hypothesized, because extraverts usually reach out more often to their social networks than introverted individuals. Moreover, Sultan <ref type="bibr" target="#b8">[9]</ref> suggested that extraverts have more positive attitudes towards WhatsApp compared to introverts. As the positive correlation between WhatsApp use and Neuroticism was very small in the present study, we will not discuss it further. However, a recent study <ref type="bibr" target="#b20">[21]</ref> suggested that high neurotics tend to use Facebook more as it facilitates communication without face-to-face interaction; a hypothesis that may warrant further investigation. Finally, Conscientiousness was inversely correlated with WhatsApp usage. This finding fits with other studies showing that conscientious humans handle their digital consumption better and are less prone to Internet addiction (e.g. <ref type="bibr" target="#b21">[22]</ref>). Conscientious humans can be described as punctual, and diligently follow their daily routines. No other clear patterns emerged from the present dataset. We acknowledge that the present study represents a descriptive approach to smartphone behaviour. The aim of the study was to provide a record of smartphone demographics for research in psychiatry/psychology and related fields from a large-scale investigation to provide an empirical account of smartphone usage not only relying on self-report.</p><p>Some further notes: Compared to our earlier study on personality and phone call behaviour, the present correlations are smaller, which probably is due to the more unreliable questionnaire BFI (we used the NEO-FFI in our earlier study, which has better psychometric properties than the short questionnaire used in the present study). This can be also observed when comparing our results on mobile phone behaviour and personality <ref type="bibr" target="#b15">[16]</ref> with those from Chittaranjan et al. <ref type="bibr" target="#b16">[17]</ref>. We believe that use of the BFI is acceptable due to the large sample size in the present study. Longer personality inventories would likely have resulted in a significantly smaller number of participants. Moreover, the authors of the BFI suggest that "the BFI-10 possesses acceptable psychometric properties" (p. 210, <ref type="bibr" target="#b17">[18]</ref>), although the shorter version is accompanied by "substantial losses in comparison to the full-scale BFI".</p><p>A further limitation should be noted: The present study focused on the variable "duration of daily WhatsApp usage in minutes". For ethical reasons we refrained from the direct analyses of word content in WhatsApp messages. Furthermore, future studies might be interested in considering the number of incoming and outgoing messages, which, from our point of view, could yield interesting additional variables. Although these variables are clearly interesting, we are of the opinion that the variable "duration of daily WhatsApp usage in minutes" investigated in the present study gives the most important overview on WhatsApp usage. Most importantly, the above mentioned associations between socio-demographic variables, personality and WhatsApp usage could not only be observed when investigating all participants, but also in a contrast between participants using WhatsApp and those who are not using WhatsApp.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The present study is, to our knowledge, one of the first to investigate WhatsApp behaviour. Given the large number of WhatsApp users worldwide and the high daily duration of use (as presented in this paper), it is of great  Initially, N = 3,272 participants were tracked, but only N = 2,418 are included in the present study as the remaining participants did not complete the information on socio-demographic variables/personality or they filled in questionnaires twice. Users became aware of the app service via mass media coverage. As with many studies in the field, our sample is not representative, but it has the clear advantages of sufficient sample size and directly recorded behaviour. c Many of these make no sense to readers unfamiliar with Android internals. In addition, the same task can usually be represented by a range of different events. Consider the simple task of switching off the phone, which can be conducted by: (a) powering it down, (b) locking the screen, (c) the phone autolocking itself, or (d) the phone slipping in daydream mode. Each of these methods will be represented by a different type of event. In total, this renders log-files of a phone rather unreadable to humans.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 2 Correlations between personality and daily WhatsApp usage in minutes for the complete sample and the subsamples consisting of only males and females (all two sided tests)</head><note type="other">Extraversion</note></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Distribution of participants with respect to WhatsApp usage (left) in minutes and daily smartphone usage (right) in minutes.</figDesc><graphic coords="4,63.25,97.58,470.52,243.84" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>.04 (SD = 13.17) M = 24.20 (SD = 10.09) Gender 107 males/30 females 1,361 males/920 females Education M = 4.67 (SD = 1.90) M = 4.38 (SD = 1.78) Extraversion M = 5.97 (SD = 1.99) M = 6.74 (SD = 1.96) Neuroticism M = 5.57 (SD = 1.98) M = 5.81 (SD = 1.99) Conscientiousness M = 6.64 (SD = 1.80) M = 6.30 (SD = 1.73) Agreeableness M = 6.24 (SD = 1.73) M = 6.05 (SD = 1.61) Openness to Experience M = 7.07 (SD = 1.85) M = 7.01 (SD = 1.88)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>usage rho = .18, p &lt; .001 rho = .07, p &lt; .001 rho = -.13, p &lt; .001 rho = .001, p = .96 rho = -.01, p = .54 Males n = 1,468 WhatsApp usage rho = .19, p &lt; .001 rho = .002, p = .94 rho = -.12, p &lt; .001 rho = -.01, p = .77 rho = -.04, p = .09 Females n = 950 WhatsApp usage rho = .10, p = .002 rho = .04, p = .26 rho = -.18, p &lt; .001 rho = .03, p = .37 rho = -.07, p = .046 importance to better understand this communication channel. The present study represents a starting point in this endeavour.Endnotes aIt should be noted that this communication application is not well-known in every country. But similar applications with different names are used around the globe.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>b</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>CM is funded by a <rs type="grantName">Heisenberg grant</rs> (<rs type="grantNumber">MO 2363/3-1</rs>) awarded to him by the <rs type="funder">German Research Foundation (DFG)</rs>. Moreover, the present study is funded by a research grant awarded to CM by the <rs type="funder">DFG</rs> (<rs type="grantNumber">MO 2363/2-1</rs>). The authors thank all participants and <rs type="institution">Hetzner Online</rs> for donating the necessary servers to process the data of the present study. Finally, we thank <rs type="person">Éilish Duke</rs> for language assistance.</p></div>
+<div><head>Compliance with ethical guidelines</head></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_qTqkQRp">
+					<idno type="grant-number">MO 2363/3-1</idno>
+					<orgName type="grant-name">Heisenberg grant</orgName>
+				</org>
+				<org type="funding" xml:id="_BaYA37K">
+					<idno type="grant-number">MO 2363/2-1</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authors' contributions</head><p>CM and AM designed the current study. CM drafted the manuscript and conducted the statistical analyses. KB extracted the data from the smartphones. RS, BL and CM designed the psychological parts of the Menthal app. KB, AI, BT, ME and AM designed the rest of the Menthal app. All authors read and approved the final manuscript.</p><p>Author details 1 Institute of Psychology and Education, Ulm University, Ulm, Germany. 2 Department of Informatics, University of Bonn, Bonn, Germany. 3 Molecular Psychology, Zentrum für Biomedizinische Forschung, Ulm University, Helmholtzstr. 8/1, 89081 Ulm, Germany.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare that they have no competing interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<ptr target="http://think.withgoogle.com/mobileplanet/de/graph/?country=de&amp;category=DETAILS&amp;topic=Q00&amp;stat=Q00_1&amp;wave=2013&amp;age=all&amp;gender=all&amp;chart_type=&amp;active=stat" />
+		<title level="m">Think with Google</title>
+		<imprint>
+			<date type="published" when="2013-07-21">2013. 21 July 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Development and validation of a smartphone addiction scale (SAS)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Won</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Min</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hahn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">56936</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The smartphone addiction scale: development and validation of a short version for adolescents</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">83558</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Time distortion associated with smartphone addiction: Identifying smartphone addiction via a mobile application (App)</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Chang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Psychiatr Res</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="139" to="145" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Short Communication Mobile usage and sleep patterns among medical students</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yogesh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Abha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Priyanka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J Physiol Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="100" to="103" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Beginning the workday yet already depleted? Consequences of late-night smartphone use and sleep</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lanaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Barnes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organ Behav Hum Decis Process</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page" from="11" to="23" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The importance of analogue zeitgebers to reduce digital addictive tendencies in the 21st century</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Montag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kannen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lachmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sariyska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">É</forename><surname>Duke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reuter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Addict Behav Rep</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="23" to="27" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<ptr target="http://blog.whatsapp.com/" />
+		<title level="m">WhatsApp-Website</title>
+		<imprint>
+			<date type="published" when="2014-08-28">28 Aug 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Addiction to mobile text messaging applications is nothing to &quot;lol&quot; about</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Sultan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc Sci J</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="57" to="69" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">What&apos;s up with WhatsApp?: comparing mobile instant messaging behaviors with traditional SMS</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Church</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 15th international conference on Human-computer interaction with mobile devices and services</title>
+		<meeting>the 15th international conference on Human-computer interaction with mobile devices and services</meeting>
+		<imprint>
+			<publisher>ACM</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="352" to="361" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Facebook use predicts declines in subjective well-being in young adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Demiralp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">69841</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Who uses Facebook? An investigation into the relationship between the Big Five, shyness, narcissism, loneliness, and Facebook usage</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Xenos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Hum Behav</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1658" to="1664" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The influence of personality on Facebook usage, wall postings, and regret</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mcelroy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Human Behav</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="267" to="274" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Psycho-Informatics: big data shaping modern psychometrics</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Markowetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Błaszkiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Montag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Switala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Schlaepfer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Hypotheses</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="405" to="411" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Psychoinformatics new horizons at the interface of the psychological and computing sciences</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yarkoni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Dir Psychol Sci</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="391" to="397" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Correlating personality and actual phone usage: evidence from psychoinformatics</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Montag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Błaszkiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lachmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Andone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sariyska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Trendafilov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reuter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Markowetz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Individ Differ</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="158" to="165" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Mining large-scale smartphone data for personality studies</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Chittaranjan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Blom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gatica-Perez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pers Ubiquitous Comput</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="433" to="450" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Measuring personality in one minute or less: a 10-item short version of the Big Five Inventory in English and German</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rammstedt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">John</forename><surname>Op</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Res Pers</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="203" to="212" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Who does what on Facebook? Age, sex, and relationship status as predictors of Facebook use</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Mcandrew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Jeong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Hum Behav</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2359" to="2365" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Personality and self reported mobile phone use</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Butt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Phillips</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Hum Behav</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="346" to="360" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Who interacts on the Web?: the intersection of users&apos; personality and social media use</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hinsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>De Zúñiga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Hum Behav</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="247" to="253" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Internet addiction and personality in first-person-shooter video gamers</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Montag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Flierl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Markett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Walter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jurkiewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reuter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Media Psychol Theor Methods Appl</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="163" to="173" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

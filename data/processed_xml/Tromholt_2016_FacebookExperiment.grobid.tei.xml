@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Facebook Experiment: Quitting Facebook Leads to Higher Levels of Well-Being</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability status="unknown"><p>Copyright SAGE Publications</p>
+				</availability>
+				<date type="published" when="2016-11">2016-11</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MSc</roleName><forename type="first">Morten</forename><surname>Tromholt</surname></persName>
+						</author>
+						<title level="a" type="main">The Facebook Experiment: Quitting Facebook Leads to Higher Levels of Well-Being</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Cyberpsychology, Behavior, and Social Networking</title>
+						<title level="j" type="abbrev">Cyberpsychology, Behavior, and Social Networking</title>
+						<idno type="ISSN">2152-2715</idno>
+						<idno type="eISSN">2152-2723</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">19</biblScope>
+							<biblScope unit="issue">11</biblScope>
+							<biblScope unit="page" from="661" to="666"/>
+							<date type="published" when="2016-11" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">72788B1D40406985D4ECB95730A5954E</idno>
+					<idno type="DOI">10.1089/cyber.2016.0259</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:42+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Facebook</term>
+					<term>experiment</term>
+					<term>well-being</term>
+					<term>life satisfaction</term>
+					<term>emotions</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Most people use Facebook on a daily basis; few are aware of the consequences. Based on a 1-week experiment with 1,095 participants in late 2015 in Denmark, this study provides causal evidence that Facebook use affects our well-being negatively. By comparing the treatment group (participants who took a break from Facebook) with the control group (participants who kept using Facebook), it was demonstrated that taking a break from Facebook has positive effects on the two dimensions of well-being: our life satisfaction increases and our emotions become more positive. Furthermore, it was demonstrated that these effects were significantly greater for heavy Facebook users, passive Facebook users, and users who tend to envy others on Facebook.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>T he total number of Facebook users grows each day.</p><p>According to Facebook's own data, the social network had 1.59 billion active users in December 2015 <ref type="bibr" target="#b0">1</ref> and according to Statistics Denmark, two out of three 3 Danish Internet users had an account on Facebook in 2015. <ref type="bibr" target="#b1">2</ref> In other words, Facebook is the most widespread social network of our time. The users of Facebook report using the social network to keep in touch with friends, share good things, and to gain information about others. <ref type="bibr" target="#b2">3</ref> Thinking of all the social and practical functions that Facebook supports, one is likely to believe that our daily use of Facebook affects our lives in one way or another. Facebook has grown to be an integrated part of everyday life, which was painfully true for a female participant of the current experiment who explains to The Guardian: ''When I woke up, even before getting out of bed, I'd open Facebook on my phone just to check if something exciting or important had happened during the night.'' <ref type="bibr" target="#b3">4</ref> Well-being studies still lack causal evidence regarding the effects of social networks used in nonlaboratorial contexts. Facebook, being the most widespread social network of our time, is an obvious place to start investigating the consequences of social network use.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Previous studies</head><p>Previous studies have found correlational evidence that Facebook use has several negative effects on people's well-being in terms of depressive symptoms <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> and decreased life satisfaction. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b6">7</ref> In addition, there is experimental evidence confirming that Facebook has negative effects on well-being: Facebook use leads to deterioration of mood <ref type="bibr" target="#b7">8</ref> and declines in the affective dimension of well-being. <ref type="bibr" target="#b8">9</ref> The explanations of these negative effects are often identified as being the by-product of unrealistic social comparison on Facebook (which induces feelings of envy), and to be due to the perception of Facebook as being a meaningless activity. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b7">8</ref> However, a handful of studies find no links between Facebook use and well-being <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11</ref> and some studies even find that Facebook use actually is able to cause positive effects on the users' well-being. <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Theory</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Well-being and Facebook use</head><p>The concept of well-being is gaining more and more interest these years. Two significant reasons for the interest are the increasing reporting of well-being in the press and the emphasis of well-being in public policy. In addition, OECD and UNDP official guidelines on the measurement of well-being have played a key role. <ref type="bibr" target="#b13">14</ref> Keeping this in mind, the ongoing search for causal drivers of well-being seems obvious and necessary. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> Improving people's well-being is both of interest for the people involved and society at large since well-being is said to be positively associated with other important aspects of people's life, such as health and longevity. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b16">17</ref> Department of Sociology, University of Copenhagen, Copenhagen K, Denmark. The article builds on research from my master thesis. The preliminary results of this study were presented in a publication facilitated by The Happiness Research Institute: www.happinessresearchinstitute.com/publications/4579836749.</p><p>Well-being has been studied in relation to Facebook use for nearly a decade now, but the experimental research design has barely been used. To gain knowledge about the causal drivers of well-being, the experimental design is mandatory. Well-designed experiments provide basis for causal interpretations of data in contrast to studies of correlational inference. <ref type="bibr" target="#b17">18</ref> To my knowledge, until now, only three studies on Facebook effects have been made using experimental designs.</p><p>First, Deters and Mehl <ref type="bibr" target="#b18">19</ref> found that posting more status updates on Facebook for 1 week (treatment) was causally affecting the users to feel less lonely compared to normal Facebook usage (control). Despite this effect, the researchers found no causal link between the active Facebook behavior and the participants' subjective happiness, or their levels of depression.</p><p>Second, Sagioglou and Greitemeyer 8 found that 20 minutes of active Facebook use (treatment) led to immediate deterioration of the users' mood compared to 20 minutes of Internet browsing and 20 minutes offline activity (control). According to the authors, the deterioration of mood was mediated by a feeling of not having done anything meaningful. In addition, the study has an interesting explanation as to why people keep using Facebook despite the network's negative influence on us. The users make affective forecasting errors when logging in to Facebook expecting the network to bring them positive feelings when, in fact, the opposite happens.</p><p>Third, Verduyn et al. <ref type="bibr" target="#b8">9</ref> found that 10 minutes of passive Facebook use (treatment) in comparison to 10 minutes of active Facebook use (control) led to a decrease in affective well-being over time. The effect of using Facebook passively was not evident at the postmanipulation questionnaire; it first appeared in the end-of-day questionnaire. According to the authors, no effects were seen on the life satisfaction item.</p><p>Reading the above studies, the most obvious question remains unanswered. Is Facebook causally affecting people's well-being? Hence, this is the research question of the present study.</p><p>Because of the inconsistency of the results in the above studies, a more clear and robust design is needed. In the present study, well-being encompasses a cognitive and an affective dimension as these are standards in evaluating people's well-being and quality of life. <ref type="bibr" target="#b19">20</ref> Thus, the following hypotheses are tested: H1: Facebook use affects life satisfaction negatively. H2: Facebook use affects emotions negatively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Well-being in relation to user behavior on Facebook</head><p>Previous studies have found that the effects of using Facebook are dependent on how the social network is used. First of all, using Facebook leads to declines in wellbeing because it evokes feelings of envy. <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> Furthermore, Facebook's effects are dependent on how intensely the social network is used <ref type="bibr" target="#b20">21</ref> and the experience of negative effects especially hold true for Facebook people using Facebook passively. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> Therefore, to examine these propositions in light of causality, the following hypotheses were tested:</p><p>H3: The effect of quitting Facebook on well-being is greater for heavy Facebook users than for light Facebook users. H4: The effect of quitting Facebook on well-being is greater for Facebook users who feel Facebook envy than for users not feeling Facebook envy. H5: The effect of quitting Facebook on well-being is greater for people using Facebook passively compared to people using Facebook actively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>One thousand three hundred Danish people were recruited on Facebook to participate in the experiment. One week before the experiment started, they signed up for the experiment through a link posted by the researcher conducting the experiment. The sample (n = 1,095) consisted of 86 percent women, geographically residing throughout the country, with an average age of 34 years (SD = 8.74), having an average of 350 Facebook friends and spending a bit over an hour on Facebook daily.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design</head><p>To ensure ecological validity, the study was designed and conducted as a 1-week experiment. On the first day of the experiment, the participants (n = 1,095) answered the pretest (15-minute online questionnaire-questions were asked in Danish). They were then immediately assigned randomly to one of the following conditions: Do not use Facebook in the following week (treatment group)</p><p>Keep using Facebook as usual in the following week (control group)</p><p>On the last day of the experiment, the posttest was conducted (15-minute online questionnaire-more or less identical with the pretest questionnaire), which 888 participants completed (81 percent completion rate). The participants did not receive any compensation for taking part in the experiment. Instead, they were encouraged to follow their assigned treatment or control condition by reminding them that their participation was of significant value for the study.</p><p>The pretest showed that the random assignment had successfully balanced the participants' characteristics across the treatment group and the control group. After the experiment, a comparison of pretest and posttest data showed that the participant dropout in both groups did not differ from the remaining participants on any parameters. This fact supports a belief that the participant dropout did not impact the findings in the subsequent analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Compliance</head><p>Perfect protocol compliance is more or less impossible to ensure in social experiments conducted in the field. In the present study, participants were encouraged to follow their assigned treatment or control condition. In addition, participants in the treatment group (users taking a break from Facebook) were recommended to delete their Facebook application on smartphones and tablets to minimize their chance of habitual Facebook visits. Within both groups noncompliance occurred. First, in the treatment group, some 13 percent reported to have used Facebook during the experiment. The majority of these noncompliers stated that they only visited Facebook once during the experimentprimarily because of an urgent need to check out a date for an event or by habitual accident. They then left Facebook without taking the usual ''roundtrip'' on the network. Second, in the control group, the participants' Facebook use declined during the experiment from a level of 1 hour daily use before the experiment to a level of 45 minutes of daily Facebook use during the week of the experiment.</p><p>To maintain the integrity of the random assignment, the noncompliers were kept in the sample for the analyses. The estimates are therefore considered to be ''Intention To Treat'' (ITT) estimates, which allow us to interpret the results as conservative a estimates of the true effects. <ref type="bibr" target="#b21">22,</ref><ref type="bibr" target="#b22">23</ref> By doing so, we do not need to make any statistical corrections in data to compensate for the lack of compliance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dependent variables</head><p>Life satisfaction. Life satisfaction refers to the cognitive dimension of well-being and is considered to be a core measure of people's well-being. <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b23">24</ref> To examine potential changes in the participants' cognitive well-being, the following question was asked as the very first question in all questionnaires: ''In general, how satisfied are you with your life today?'' (1 [very dissatisfied] to 10 [very satisfied]) (the wording was borrowed from Eurofound <ref type="bibr" target="#b24">25</ref> ). b</p><p>Emotions. Participants' affective well-being (emotions) was measured on a total of nine items. To minimize participant burden, participants were asked to evaluate their emotions on a subset of five items from the Center for Epidemiologic Studies Depression (CES-D) Scale <ref type="bibr" target="#b25">26</ref> and a subset of four items from the Positive Affect Negative Affect Scale (PANAS). <ref type="bibr" target="#b26">27</ref> The chosen items were the ones that showed the strongest factorial loadings on negative/depressed affect and positive affect, according to the authors. On a 5-point Likert scale, the participants were asked to report to which degree they were experiencing enthusiasm, happiness, loneliness, enjoyment of life, depressiveness, sadness, decisiveness, anger, and worry (1 [not at all] to 5 [to a great extent]). A subsequent analysis found the scale to be reliable, Cronbach's a = 0.87.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Independent variables</head><p>Intensity of Facebook use. Clearly, Facebook users use Facebook in various ways-and with different intensity. To examine the intensity of the participants' Facebook use, the Facebook Intensity Scale 21 was used. This measure consists of six items, which, among others, include the number of Facebook friends, time spent on Facebook daily, and to which degree various statements fit on the respondent (on a scale from 1 [not at all] to 5 [to a great extent]), such as ''Facebook has become part of my daily routine'' and ''I would be sorry if Facebook shut down.'' To achieve an acceptable level of reliability for the scale, the number of friends item was dropped, Cronbach's a = 0.71.</p><p>Facebook envy. According to previous studies, Facebookrelated envy is a widespread feeling among Facebook users because they are presented with loads of social information that invites social comparison. <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b27">28</ref> A five-item scale was used to examine the participants' level of Facebook envy, asking the participants to assess to which degree a group of statements fit them (on a scale from 1 [not at all] to 5 [to a great extent]). For example, ''When on Facebook, I sometimes envy: how much of the world others have already seen/how successful others are/how happy others are.'' A subsequent analysis found the scale to be reliable, Cronbach's a = 0.92.</p><p>Active and passive Facebook use. Facebook users have different behavior on Facebook and they use the social network by different motivations. In previous studies, two general tendencies are identified: active and passive Facebook use. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> The measure for active Facebook use consisted of three items, such as ''On Facebook, how often do you: post a picture/write a status update on/comment on others' posts'' (Cronbach's a = 0.78). The measure for passive Facebook use consisted of five items, such as ''On Facebook, how often do you: browse the newsfeed/view friends' photos/browse a friend's timeline'' (Cronbach's a = 0.73). The participants were asked to answer both measures on a 5-point scale, from ''never'' (1) to ''very frequently.'' ( <ref type="formula">5</ref>)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Causal analysis</head><p>The aim of this study was to identify if the use of Facebook is causally affecting the users' cognitive and affective well-being. By comparing the posttest answers from the treatment group with the posttest answers from the control group, the causal effects of not using Facebook for 1 week were identified. As the noncompliers were kept in the samples, the results should be considered as conservative estimates of the true treatment effects.</p><p>Well-being. H1 predicted that Facebook users would report lower levels of cognitive well-being (life satisfaction) than Facebook users not using Facebook for 1 week. H2 predicted that Facebook users would report lower levels of affective well-being (emotions) than Facebook users not using Facebook for 1 week. Table <ref type="table" target="#tab_0">1</ref> sums up means and standard deviations for the control group (Facebook users) and the treatment group (Facebook users not using Facebook for 1 week). On the life satisfaction item, the treatment group reported a significantly higher level than the control group, THE FACEBOOK EXPERIMENT t(888) = 4.03, p &lt; 0.001. This confirms H1; people's life satisfaction increases significantly when they quit Facebook for 1 week. On the emotion items, the treatment group also reported significantly higher levels than the control group, t(888) = 5.01, p &lt; 0.001. This provides evidence to confirm H2; people's emotional life improves significantly when they quit Facebook for 1 week.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Partial causal analysis</head><p>Intensity of Facebook use. H3, H4, and H5 were tested by comparing the causal effects on relevant subgroups in each area. H3 predicted that the effect of quitting Facebook was greater for heavy Facebook users compared to light users. Three levels of Facebook usage intensity were identified and the participants were divided according to their answers on the Facebook Intensity Scale. <ref type="bibr" target="#b20">21</ref> The analyses were conducted on the combined, standardized wellbeing measure. Light Facebook users had no effect of quitting Facebook, t(152) = 0.74, p = 0.46. In contrast, medium users had some effect, t(462) = 3.18, p = 0.002. Heavy users experienced the greatest effect by quitting Facebook, t(265) = 4.54, p &lt; 0.001. H3 is therefore supported, proving the effect of quitting Facebook to be greatest for heavy users and to be nonexistent for light Facebook users. The statistics is shown in Table <ref type="table" target="#tab_1">2</ref>.</p><p>Facebook envy. H4 predicted that the well-being effect of quitting Facebook varied across feelings of Facebook envy. Three levels of Facebook envy were identified and the participants were divided according to their reported level of Facebook envy. Again, the analyses were conducted on the combined, standardized, well-being measure. Participants feeling low Facebook envy had no effect, t(280) = -1.53, p = 0.13, while participants feeling medium Facebook envy had a considerable effect, t(419) = 4.21, p &lt; 0.001. Participants who reported to feel high Facebook envy had a significant effect, t(189) = 6.31, p &lt; 0.001. Therefore, H3 is supported. The effect of quitting Facebook is greatest for users feeling high levels of Facebook envy. The statistics is shown in Table <ref type="table" target="#tab_2">3</ref>.</p><p>Active and passive Facebook use. H5 predicted that people using Facebook passively would have a greater wellbeing effect of quitting Facebook than people using Facebook actively. An important distinction should be mentioned here. Passive and active Facebook use refers to two kinds of behavior that are not mutually exclusive. A given Facebook user may use Facebook actively and passively. Hence, the present results should be examined as follows. Passive Facebook use refers to users who report using Facebook passively (and potentially also actively) and active Facebook use refers to users who report using Facebook actively (and potentially also passively). A t-test showed that the effect of quitting Facebook was significantly greater for people using Facebook passively compared to their reference group (users who do not use Facebook passively). This result is in line with previous studies that find correlational evidence that passive Facebook use affects users' affective and cognitive well-being negatively. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> In general, people who report using Facebook actively did experience a positive effect compared to their reference group (users who do not use Facebook actively), but the difference was marginal, indicating that people using Facebook actively have more or less the same effect of quitting Facebook as their reference group. The statistics is shown in Table <ref type="table" target="#tab_3">4</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Millions of hours are spent on Facebook each day. We are surely better connected now than ever before, but is this new connectedness doing any good to our well-being? According to the present study, the answer is no. In fact, the predominant uses of Facebook-that is, as a means to communicate,   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="664">TROMHOLT</head><p>gain information about others, and as habitual pastime-are affecting our well-being negatively on several dimensions. First, the present study provides causal evidence that quitting Facebook leads to higher levels of both cognitive and affective well-being. The participants who took a 1-week break from Facebook reported significantly higher levels of life satisfaction and a significantly improved emotional life. Note that these findings describe average effects. Human beings are complex and therefore we are almost never able to identify deterministic causality within the social sciences. Instead, we claim to identify connections of probabilistic causality where people-on average-are affected by a given treatment. <ref type="bibr" target="#b28">29</ref> Second, the study showed that the (causal) gain of wellbeing varied in relation to how people use Facebook. The gain proved to be greatest for heavy Facebook users, users who passively use Facebook, and users who tend to envy others on Facebook. These findings indicate that it might not be necessary to quit Facebook for good to increase one's well-being-instead an adjustment of one's behavior Facebook could potentially cause a change. To make things clear, if one is a heavy Facebook user, one should use Facebook less to increase one's well-being. And if one tends to feel envy when on Facebook, one should avoid browsing the sections (or specific friends) on Facebook causing this envy. And if one uses Facebook passively, one should reduce this kind of behavior. Due to habits, practicalities, and potential ''forecasting errors,'' 8 it may be difficult to change one's way of using Facebook. If this is the case, one should consider quitting Facebook for good.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Limitations</head><p>Despite the clear and robust research design of the present study, some limitations should be considered. First of all, the participants of the present study voluntarily signed up for the experiment. This practice was used due to ethical and practical reasons. Unfortunately, this causes selection bias in the sample, which, for example, is reflected by the large proportion of women participating in the experiment.</p><p>The selection bias limits the findings of the study to encompass only the participants of the experiment. However, one may analytically be able to extend the findings to broader populations.</p><p>The second limitation relates to experiment effects. What proportion of the causal effects is, in reality, caused by the treatment condition (taking a break from Facebook) and what proportion is, artificially, caused by the experimental setup. The critical point here is whether the participants have formulated their own hypotheses about the effects of quitting Facebook and that these hypotheses, on average, are pointing in the same direction. On the one hand, the individual formulation of hypotheses may have been facilitated by the pretest and the selection bias of the sample. On the other hand, the participants' hypotheses may not be pointing in the same direction due to the fact that the direction of the effects found in the present study is not self-evident. Hence, there may be limited experiment effects at stake. If experiment effects did affect the findings of the present study, they might even turn in the opposite direction because people, in general, perceive Facebook as a source to positive feelings. <ref type="bibr" target="#b7">8</ref> In addition, one may ask why so many people are using Facebook in the first place if the social network was hypothesized to affect people's well-being negatively? In other words, experiment effects may be at stake in the present study but these are considered to be small and perhaps mutually offsetting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Future studies</head><p>The effects presented in this article were generated after just 1 week of absence from a single social network. Future studies should investigate the effects of quitting Facebook for longer periods of time to test if the effects are permanent. In addition to Facebook, other social networks such as Instagram, Snapchat, and Twitter should be included under the experimental conditions to test how people's well-being is affected by a total discontinuation of social networks. Notes a. The term ''conservative'' is used because the estimated effects are, in fact, underestimated. The noncompliance in both the treatment and control group is causing downward bias and is thereby reducing the estimated effects compared to ''the real'' effects.</p><p>b. It is an ongoing question in well-being literature how life satisfaction should be measured. OECD and UNDP <ref type="bibr" target="#b13">14</ref> encourage researchers to ask a summary question (such as the question asked in the present study or Cantril ladder), while others encourage to use a multiple item scale, for example, Satisfaction With Life Scale. <ref type="bibr" target="#b29">30</ref> Taking into account that these different measures do not reflect the same underlying factor, <ref type="bibr" target="#b19">20</ref> researchers should consider which life satisfaction measure they want to use. In the present study, OECD and UNDP recommendation is followed and the question asked is identical to the question asked by Eurofound. <ref type="bibr" target="#b24">25</ref> To minimize any doubt about the reliability of the participants' life satisfaction, a supplemental question was asked: ''Taking all things together on a scale of 1 to 10, how happy would you say you are?'' (1 [very unhappy] to 10 [very happy]). The participants' answers to the two questions were found to be highly correlated, Cronbach's a = 0.90. This correlation underlines that there is consistency in the participants' answers regarding their cognitive well-being.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Means and Standard Deviations for Life Satisfaction and Emotions</figDesc><table><row><cell></cell><cell>Treatment</cell><cell>Control</cell><cell>ITT</cell></row><row><cell></cell><cell>(n = 516)</cell><cell>(n = 372)</cell><cell>effect</cell></row><row><cell>Life satisfaction</cell><cell>8.11 (1.23)</cell><cell cols="2">7.74 (1.43) 0.37***</cell></row><row><cell>(range: 1-10)</cell><cell></cell><cell></cell></row><row><cell>Emotions</cell><cell cols="3">36.21 (6.09) 33.99 (6.81) 1.22***</cell></row><row><cell>(range: 9-45)</cell><cell></cell><cell></cell></row></table><note><p>Standard deviations in parentheses. ***p &lt; 0.001. ITT, Intention To Treat.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Means and Standard Deviations for the Standardized Well-Being Measure Across Intensity of Facebook Use</figDesc><table><row><cell></cell><cell>Treatment</cell><cell>Control</cell><cell>ITT</cell></row><row><cell></cell><cell>(n = 516)</cell><cell>(n = 372)</cell><cell>effect</cell></row><row><cell>Light Facebook</cell><cell cols="3">0.77 (0.15) 0.75 (0.16) 0.02</cell></row><row><cell>users (n = 152)</cell><cell></cell><cell></cell></row><row><cell>Medium Facebook</cell><cell cols="3">0.77 (0.14) 0.73 (0.16) 0.04**</cell></row><row><cell>users (n = 462)</cell><cell></cell><cell></cell></row><row><cell>Heavy Facebook</cell><cell cols="3">0.77 (0.14) 0.69 (0.16) 0.08***</cell></row><row><cell>users (n = 274)</cell><cell></cell><cell></cell></row></table><note><p>**p &lt; 0.01. ***p &lt; 0.001.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Means and Standard Deviations for the Standardized Well-Being Measure Across Levels of Facebook Envy</figDesc><table><row><cell></cell><cell>Treatment</cell><cell>Control</cell><cell>ITT</cell></row><row><cell></cell><cell>(n = 516)</cell><cell>(n = 372)</cell><cell>effect</cell></row><row><cell>Low Facebook</cell><cell cols="3">0.78 (0.13) 0.80 (0.13) -0.02</cell></row><row><cell>envy (n = 280)</cell><cell></cell><cell></cell></row><row><cell>Medium Facebook</cell><cell cols="2">0.78 (0.15) 0.71 (0.15)</cell><cell>0.07***</cell></row><row><cell>envy (n = 419)</cell><cell></cell><cell></cell></row><row><cell>High Facebook</cell><cell cols="2">0.76 (0.14) 0.62 (0.17)</cell><cell>0.14***</cell></row><row><cell>envy (n = 189)</cell><cell></cell><cell></cell></row><row><cell>***p &lt; 0.001.</cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>Means and Standard Deviations for the Standardized Well-Being Measure Across Active and Passive Facebook Use</figDesc><table><row><cell></cell><cell>Treatment</cell><cell>Control</cell><cell>ITT</cell></row><row><cell></cell><cell>(n = 516)</cell><cell>(n = 372)</cell><cell>effect</cell></row><row><cell>Passive Facebook</cell><cell>0.78 (0.13)</cell><cell>0.70 (0.16)</cell><cell>0.08***</cell></row><row><cell>use (n = 426)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Reference group</cell><cell>0.76 (0.15)</cell><cell>0.74 (0.15)</cell><cell>0.02</cell></row><row><cell>Active Facebook</cell><cell>0.78 (0.13)</cell><cell>0.72 (0.16)</cell><cell>0.06***</cell></row><row><cell>use (n = 443)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Reference group</cell><cell>0.77 (0.15)</cell><cell>0.72 (0.16)</cell><cell>0.05**</cell></row></table><note><p>**p &lt; 0.01. ***p &lt; 0.001.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgment</head><p>I thank <rs type="person">Meik Wiking</rs> for his assistance in designing the questionnaire and his valuable advice during the study.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Disclosure Statement</head><p>No competing financial interests exist.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><surname>Facebook</surname></persName>
+		</author>
+		<ptr target="http://newsroom.fb.com/company-info/" />
+		<title level="m">Stats</title>
+		<imprint>
+			<date type="published" when="2016-03-15">2016. March 15 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wijas-Jensen</surname></persName>
+		</author>
+		<ptr target="www.slideshare.net/DanmarksStatistik/danmarks-statistik-om-danskernes-brug-af-sociale-medier" />
+		<title level="m">Danmarks Statistik om danskernes brug af sociale medier [Statistics Denmark about the Danes&apos; use of social media</title>
+		<imprint>
+			<date type="published" when="2015-03-15">2015. March 15 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Facebook use predicts declines in subjective well-being in young adults</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Demiralp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">A week off from Facebook? Participants in Danish experiment like this</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Russell</surname></persName>
+		</author>
+		<ptr target="www.theguardian.com/media/2015/nov/10/week-off-facebook-denmark-likes-this-happiness-friends" />
+		<imprint>
+			<date type="published" when="2016-03-15">March 15 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Seeing everyone else&apos;s highlight reels: How Facebook usage is linked to depressive symptoms</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Steers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Wickham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Acitelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Social and Clinical Psychology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="701" to="731" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Facebook use, envy, and depression among college students: is facebooking depressing?</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Tandoc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ferucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duffy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="139" to="146" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Envy on Facebook: A hidden threat to users&apos; life satisfaction? Wirtschaftsinformatik proceedings</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krasnova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wenninger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Widjaja</surname></persName>
+		</author>
+		<ptr target="http://aisel.aisnet.org/wi2013/92" />
+		<imprint>
+			<date type="published" when="2013-03-15">2013. March 15, 2016</date>
+		</imprint>
+	</monogr>
+	<note>Paper 92</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Facebook&apos;s emotional consequences: Why Facebook causes a decrease in mood and why people still use it</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sagioglou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Greitemeyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computers in Human Behavior</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="359" to="363" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Passive Facebook usage undermines affective well-being: experimental and longitudinal evidence</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: General</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="480" to="488" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Is there social capital in a social network site?: Facebook use and college students&apos; life satisfaction, trust and participation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valenzuela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Kee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="875" to="901" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Facebook Depression?&apos;&apos; Social networking site use and depression in older adolescents</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Jelenchick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Eickhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Moreno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Adolescent Health</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="128" to="130" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Mirror, mirror on my Facebook wall: effects on exposure to Facebook and self-esteem. Cyberpsychology</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Gonzales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hancock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="79" to="83" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">It&apos;s all about networking! Empirical investigation of social capital formation on social network sites</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Koroleva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Krasnova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Veltri</surname></persName>
+		</author>
+		<ptr target="http://aisel.aisnet.org/icis2011/proceedings/onlinecommunity/24" />
+	</analytic>
+	<monogr>
+		<title level="m">ICIS 2011 Proceedings</title>
+		<imprint>
+			<date type="published" when="2016-03-15">March 15, 2016</date>
+			<biblScope unit="volume">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Setting the stage</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Helliwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Layard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sachs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">World Happiness Report 2015</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Helliwell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Layard</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Sachs</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sustainable Development Solutions Network</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="2" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m">OECD Guidelines on Measuring Subjective Well-being</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Future directions in measuring well-being</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Assessing Well-Being-The Collected Works of Ed Diener</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="267" to="274" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Happy people live longer: subjective well-being contributes to health and longevity</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Chan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Psychology: Health and Well-Being</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="43" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Causation, statistics, and sociology</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Goldthorpe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Sociological Review</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Does posting Facebook status updates increase or decrease loneliness? An online social networking experiment</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Deters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Mehl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Psychological and Personality Science</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="579" to="586" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Subjective well-being-the science of happiness and a proposal for a national index</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="34" to="43" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The benefits of Facebook &apos;&apos;Friends&apos;&apos;: Social capital and college students&apos; use of online social network sites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computer-Mediated Communication</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1143" to="1168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The Neyman-Rubin Model of Causal Inference and Estimation via Matching Methods</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sekhon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Forthcoming in: The Oxford Handbook of Political Methodology</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="1" to="45" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Design and analysis of randomized clinical trials</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wittes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Design and Analysis of Experiments: Special Designs and Applications</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Hinkelmann</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Jersey</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="165" to="211" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The OECD approach to measuring subjective well-being</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Durand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">World Happiness Report 2015</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Helliwell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Layard</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Sachs</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Sustainable Development Solutions Network</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="112" to="137" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">European Quality of Life Survey</title>
+		<ptr target="www.eurofound.europa.eu/surveys/european-quality-of-life-surveys/european-quality-of-life-survey-2012" />
+		<imprint>
+			<date type="published" when="2012-03-15">2015. 2012. March 15 2016</date>
+			<publisher>Eurofound</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The CES-D scale: a self-report depression scale for research in general population</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Radloff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Psychological Measurement</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="385" to="401" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Development and validation of brief measures of positive and negative affect: The PANAS scales</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tellegen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality and Social Psychology</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="1063" to="1070" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">They Are Happier and Having Better Lives than I Am&apos;&apos;: the impact of using Facebook on perceptions of others&apos; lives</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Chou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Edge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology, Behavior, and Social Networking</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="117" to="121" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Research Design in Social Research</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Vaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>SAGE Publications Ltd</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The satisfaction with life scale</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Emmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Larsen</surname></persName>
+		</author>
+		<idno>16 DK-1014</idno>
+		<ptr target="gmail.com666" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Personality Assessment</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="71" to="75" />
+			<date type="published" when="1985">1985</date>
+			<pubPlace>Copenhagen K Denmark E</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>TROMHOLT</orgName>
+		</respStmt>
+	</monogr>
+	<note>Address correspondence to: Morten Tromholt Department of Sociology University of Copenhagen Øster Farimagsgade 5. mortentromholt@</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

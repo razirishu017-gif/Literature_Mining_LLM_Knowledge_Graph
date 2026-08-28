@@ -1,0 +1,2308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Fear of Missing Out, Mental Wellbeing, and Social Connectedness: A Seven-Day Social Media Abstinence Trial</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>MDPI AG</publisher>
+				<availability status="unknown"><p>Copyright MDPI AG</p>
+				</availability>
+				<date type="published" when="2020-06-24">24 June 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Lorna</forename><surname>Brown</surname></persName>
+							<idno type="ORCID">0000-0001-8074-1340</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Psychology Department</orgName>
+								<orgName type="laboratory">International Gaming Research Unit and Cyberpsychology Research Group</orgName>
+								<orgName type="institution">Nottingham Trent University</orgName>
+								<address>
+									<addrLine>50 Shakespeare Street</addrLine>
+									<postCode>NG1 4FQ</postCode>
+									<settlement>Nottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Daria</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+							<email>daria.kuss@ntu.ac.uk</email>
+							<idno type="ORCID">0000-0001-8917-782X</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Psychology Department</orgName>
+								<orgName type="laboratory">International Gaming Research Unit and Cyberpsychology Research Group</orgName>
+								<orgName type="institution">Nottingham Trent University</orgName>
+								<address>
+									<addrLine>50 Shakespeare Street</addrLine>
+									<postCode>NG1 4FQ</postCode>
+									<settlement>Nottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Fear of Missing Out, Mental Wellbeing, and Social Connectedness: A Seven-Day Social Media Abstinence Trial</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of Environmental Research and Public Health</title>
+						<title level="j" type="abbrev">IJERPH</title>
+						<idno type="eISSN">1660-4601</idno>
+						<imprint>
+							<publisher>MDPI AG</publisher>
+							<biblScope unit="volume">17</biblScope>
+							<biblScope unit="issue">12</biblScope>
+							<biblScope unit="page">4566</biblScope>
+							<date type="published" when="2020-06-24">24 June 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D4796EC3FB8DE63C6035804BF5912FAE</idno>
+					<idno type="DOI">10.3390/ijerph17124566</idno>
+					<note type="submission">Received: 29 May 2020; Accepted: 23 June 2020;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>social media use</term>
+					<term>social media abstinence</term>
+					<term>smartphone use</term>
+					<term>fear of missing out</term>
+					<term>mental wellbeing</term>
+					<term>social connectedness</term>
+					<term>social media addiction</term>
+					<term>social networking</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Smartphones aid the constant accessibility of social media (SM) applications, and these devices and platforms have become a key part of our everyday lives and needs. Previous research has focused on the psychological impact of social media use (SMU) and SM abstinence has only received limited attention. Therefore, employing a combination of an experimental within-subjects mixed methodology using surveys to obtain both quantitative and qualitative data, this study aimed to compare psychosocial factors of fear of missing out (FoMO), mental wellbeing (MWB), and social connectedness (SC) before and after seven days of SM abstinence. Results revealed that participants (N = 61) experienced a significant increase in MWB and SC, and a significant decrease in FoMO and smartphone use following SM abstinence. There was a significant positive relationship between MWB and SC change scores and a significant negative relationship between SC and FoMO change scores. There were no significant differences in levels of SMU before abstinence or across genders in FoMO, MWB, and SC change scores. Thematic analysis revealed coping, habit, and boredom as motivations for SMU, and notification distractions presenting a challenge for successful abstinence from SM. Participants indicated that abstinence resulted in the perceived need to fill their time with non-SM applications. Finally, thematic analysis revealed mixed experiences of perceived connectivity in the absence of SMU. Findings present implications for the importance of unplugging from SM for temporary periods because scrolling through SM to fill time is a key motivator of SMU, and notifications encourage SMU and trigger FoMO.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The present day and age is described as the 'smartphone era', with smartphones ubiquitously integrated into our everyday lives <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. These digital devices are now used in place of desktop computers to perform everyday tasks, such as sending and receiving emails <ref type="bibr" target="#b2">[3]</ref>, providing permanent accessibility to any application and opportunity to communicate at our fingertips <ref type="bibr" target="#b3">[4]</ref>. Smartphones also provide access to health applications to encourage users to participate in various health and wellbeing programmes <ref type="bibr" target="#b4">[5]</ref>. However, recent statistics report that the most used smartphone applications are social media (SM) <ref type="bibr" target="#b5">[6]</ref>, and their use has dramatically increased over the last decade <ref type="bibr" target="#b6">[7]</ref>. Social media is defined as the "interactive web and mobile platforms through which individuals and communities share, co-create, or exchange information, ideas, photos, or videos within a virtual network" <ref type="bibr" target="#b7">[8]</ref> (p. 2). Research highlights a difference between SM and messaging-only applications, such as WhatsApp, which function as text messaging tools and thus constitute a separate domain from SM <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10]</ref>.</p><p>Described as the 'extension of man' <ref type="bibr" target="#b10">[11]</ref>, SM has become almost inescapable, and it has now become the norm for individuals to own accounts on multiple SM platforms <ref type="bibr" target="#b11">[12]</ref>. Although constant access to these platforms has made communication more efficient, health-related concerns of social media use (SMU) are at the forefront of research on technology use due to the wide availability and use of smartphone SM applications and constant receipt of regular notifications and updates <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref>.</p><p>Defined as a "pervasive apprehension that others might be having rewarding experiences from which one is absent" <ref type="bibr" target="#b14">[15]</ref> (p. 1), fear of missing out (FoMO) is classified by the desire to be constantly connected with what other people are doing. FoMO is a strong motivator for SMU <ref type="bibr" target="#b15">[16]</ref>, and may impact wellbeing. The concept of wellbeing, how people feel and function <ref type="bibr" target="#b16">[17]</ref>, is of interest to researchers in the domain of technology use <ref type="bibr" target="#b17">[18]</ref>. Positive mental wellbeing (MWB) is the state in which "the individual realises his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community" <ref type="bibr" target="#b19">[19]</ref> (p. <ref type="bibr" target="#b50">49</ref>). Furthermore, one's sense of social connectedness (SC) is highly valued because of the importance of authentic connections <ref type="bibr" target="#b20">[20]</ref>. SC is described as an individual's emotional connectedness with themselves, others, and society, with the need to maintain a sense of belongingness and positive social relationships <ref type="bibr" target="#b21">[21,</ref><ref type="bibr" target="#b22">22]</ref>. The continued search for causal drivers of FoMO, MWB, and SC seems paramount since they impact an health, life satisfaction, and wider society <ref type="bibr" target="#b23">[23,</ref><ref type="bibr" target="#b24">24]</ref>.</p><p>Most previous research has focused on the associations between SMU and perceived FoMO, MWB, and SC, rather than cause and effect <ref type="bibr" target="#b25">[25]</ref>. Although some researchers claim individuals who score higher in perceived FoMO are driven to use SM, these studies are usually characterised by samples with high anxiety who depend on SM to compensate for lack of offline relationships and to maintain a sense of belongingness <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b26">26]</ref>.</p><p>Przybylski et al. <ref type="bibr" target="#b14">[15]</ref> and Oberst et al. <ref type="bibr" target="#b27">[27]</ref> indicate that SMU and FoMO have a reciprocal relationship, where perceived FoMO drives SMU to fulfil psychological needs of belongingness, reinforcing SMU. This is supported by self-determination and uses and gratifications theory, where reinforcements and rewards, in the form of SM notifications and validation through 'likes', explain the continual and habitual nature of SMU <ref type="bibr" target="#b28">[28]</ref>. In a culture constantly attached to smartphones, these SM rewards and reinforcements are limitless in both access and receipt, and users are constantly subject to new information and updates. Researchers state that SMU exacerbates an individual's perceived FoMO <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b29">29]</ref>, suggesting stronger evidence for a cause and effect relationship whereby SMU increases FoMO. Moreover, the perceived obligation to maintain connections and stay updated on SM has been described as "technostress", and can negatively affect one's wellbeing <ref type="bibr" target="#b30">[30,</ref><ref type="bibr" target="#b31">31]</ref>.</p><p>Hunt et al. <ref type="bibr" target="#b32">[32]</ref> found causal evidence that limiting SMU to ten minutes per platform per day for three weeks significantly decreased loneliness and depressive symptoms, FoMo and anxiety. However, their experiment included a control group where some subjects abstained and others did not, making it difficult to compare use and abstinence in the same individual. Primack et al. <ref type="bibr" target="#b33">[33]</ref> found that participants with higher SMU felt more socially isolated than participants with lower SMU, demonstrating a positive relationship between SM engagement and feelings of isolation. Further, research shows that face-to-face interactions act as a buffer to prevent negative MWB in comparison to online interactions <ref type="bibr" target="#b34">[34]</ref>, suggesting that offline relationships promote a more positive sense of wellbeing than online. However, Grieve et al. <ref type="bibr" target="#b35">[35]</ref> argue that the benefits of face-to-face SC can translate online, with Facebook SC positively relating to perceived MWB, although this research makes no comparisons between SMU and SM non-use; thus, a clear causal relationship cannot be determined <ref type="bibr" target="#b36">[36]</ref>. Longitudinal research comparing SM use with SM non-use found that SM users are more likely to report higher levels of loneliness than SM non-users, thereby negatively affecting perceived MWB and SC <ref type="bibr" target="#b37">[37]</ref>.</p><p>SMU is appealing due to the sense of being connected that it provides <ref type="bibr" target="#b30">[30,</ref><ref type="bibr" target="#b35">35]</ref>. Scholars question whether this sense of socialisation is an illusion, with face-to-face interactions creating more meaning and providing authenticity compared with online interactions. A study exploring why regular Twitter users take breaks from the site found that most individuals' motivations for abstinence periods are due to concerns over the disconnect between online and offline <ref type="bibr" target="#b38">[38]</ref>, demonstrating that individuals perceive offline interactions as more important than online interactions.</p><p>With SMU now entwined with our daily routines via smartphones <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>, SM abstinence allows exploring the tangible effects of SM on people's lives <ref type="bibr" target="#b39">[39]</ref> as little is known about SM abstinence and the potential challenges associated with it <ref type="bibr" target="#b38">[38]</ref>. SM abstinence may increase participants' MWB and SC, and decrease FoMO, where higher SM users who abstain will notice these changes more than lower SM users.</p><p>There have been very few studies on SM abstinence and fewer employing an experimental design to determine cause and effect <ref type="bibr" target="#b24">[24,</ref><ref type="bibr" target="#b36">36]</ref>. Roberts and Koliska's <ref type="bibr" target="#b39">[39]</ref> study investigated students going media-free for 24 h and found distress was the most common experience, including high FoMO and feeling isolated. These negative responses may be due to abstaining from all media including messaging, considered an essential communication tool vital for many young people's sense of safety <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b40">40]</ref>. Furthermore, heightened distress and feelings of isolation may be a result of the exceptionally short abstinence period. Consistent with addiction and dependency literature, anxiety and distress are usually heightened at the beginning of abstinence where initial withdrawal is common with reduced reinforcements, but it often decreases over time with adaption when individuals learn to satisfy their psychological needs elsewhere <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b41">41]</ref>. Research also revealed that some participants failed to fully abstain due to inadvertent use, demonstrating the habitual nature of media use, warranting further exploration.</p><p>A seven-day Facebook abstinence study revealed a significant reduction in perceived stress following abstinence in comparison with a non-abstaining control group, where reduced stress was greater in more excessive SM users <ref type="bibr" target="#b42">[42]</ref> because the positive effects of abstinence were due to the seven-day period being long enough for positive adaption to the change, and short enough to be feasible for participants to maintain abstinence <ref type="bibr" target="#b43">[43]</ref>. Consistent with a study exploring 99 days of Facebook abstinence, participants found their compulsion to check the site was stronger in the initial stages of abstinence and this reduced over time for those who fully complied <ref type="bibr" target="#b44">[44]</ref>. Another seven-day Facebook abstinence study provided causal evidence that a Facebook abstinence period increased life satisfaction and elicited more positive emotions in comparison to a control group of participants who continued using the site, and positive effects in the abstinence group were significantly greater for more excessive users <ref type="bibr" target="#b24">[24]</ref>.</p><p>Research on SM abstinence is scarce and the aforementioned studies focused on Facebook use rather than multiple SM platforms <ref type="bibr" target="#b45">[45]</ref> and used self-reports to measure SMU <ref type="bibr" target="#b25">[25]</ref>. As multiple SM platforms are now primarily accessed through portable smartphones <ref type="bibr" target="#b11">[12]</ref> and SMU self-report measures tend to be subjective and biased <ref type="bibr" target="#b46">[46]</ref><ref type="bibr" target="#b47">[47]</ref><ref type="bibr" target="#b49">[48]</ref>, multiple SM platform use needs to be studied with more objective measures over time. The aforementioned studies on SM abstinence employed a between-subjects experimental design, but a within-subjects experimental design is more beneficial in reducing errors associated with individual differences <ref type="bibr" target="#b25">[25,</ref><ref type="bibr" target="#b50">[49]</ref><ref type="bibr" target="#b52">[50]</ref><ref type="bibr" target="#b53">[51]</ref>. Furthermore, as little is known about regular SM users taking on abstinence periods and the associated challenges, a mixed-methods approach may provide insight into individual abstinence experiences and theoretical implications <ref type="bibr" target="#b38">[38]</ref>.</p><p>This research aims to bridge the gap in SM abstinence research by using a novel combination of mixed methods, employing a within-subjects experiment to compare behavioural effects of a seven-day SM abstinence period across multiple SM platforms, measuring SMU with smartphone applications objectively. The following hypotheses were formulated: Hypothesis 1 (H1). Participants' baseline SMU will be significantly positively correlated with changes in FoMO, MWB, and SC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 2 (H2).</head><p>There will be a significant decrease in participants' perceived FoMO.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 3 (H3).</head><p>There will be a significant increase in participants' perceived MWB.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 4 (H4).</head><p>There will be a significant increase in participants' perceived SC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hypothesis 5 (H5).</head><p>There will be a significant decrease in participants' mean hours per day spent on their smartphone.</p><p>Moreover, the qualitative part of this study aims to uncover challenges and experiences of a seven-day abstinence period from SMU.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Participants</head><p>G*Power analysis <ref type="bibr" target="#b54">[52]</ref> was performed, calculating a required sample of at least 45 participants to test the hypotheses at a significance level of 0.05 and power of 0.8, using a Bonferroni-adjusted alpha level because of multiple testing. An opportunity sample (N = 78) was recruited over a two-month period via SM to take part in the seven-day abstinence trial. Criteria required participants to be ≥18 years of age, own a smartphone, regularly use SM (i.e., most days in a given week), have or download a working application to their smartphone as a measure of phone use and SMU (see Section 2.3), and be willing to abstain from SM for seven days. During data cleaning, one participant was removed who did not agree to consent clarifications and a further three were removed who did not meet participant criteria. An additional 13 were removed who did not fully abstain from SM. The final analyses included a total of 61 participants.</p><p>Of the final participants (N = 61), 67.21% (N = 41) were female, and 32.79% (N = 20) were male. The age range was 20 to 49 years (M = 24.4, SD = 4.95). The sample included a wide range of SM users, with a SMU range between 0.5 and 55.5 weekly hours (M = 10.5, SD = 11.01 weekly hours), measured by participants' total number of hours spent on SM altogether during seven days of SMU before abstinence. Hours spent on SM before abstinence were considered weekly rather than daily to gain an overall insight into participants' SMU throughout a seven-day period of "normal" use. In addition, one of the main features of the applications used to measure SMU displays a visual order of most used to least used SMU platforms (see Table <ref type="table" target="#tab_0">1</ref>) to better represent participants' usage over a seven-day period as opposed to day-to-day usage. Furthermore, the sample was representative of the wider population in the type of SM users included, with Facebook, YouTube, and Instagram being the most used platforms by participants, and smartphones being the most used device to access SM <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b55">53]</ref>, as shown in Table <ref type="table" target="#tab_0">1</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Design and Procedure</head><p>This within-subjects design used a mixed-methods approach, gathering both quantitative and qualitative data. After ethical approval from the Research Ethics Committee at a UK University, two online surveys using Qualtrics survey software (Qualtrics, Provo, UT) were designed for participants-the first after seven days of using SM as normal (before abstinence), and the second after the seven-day SM abstinence trial (after abstinence).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.1.">Pre-Abstinence</head><p>Informed consent was obtained, and research information including guaranteed data anonymity and participant criteria was given. Participants were asked to create a unique identifier which they would remember and use again for the second questionnaire for pre-and-post-abstinence data to be matched for each participant. This survey consisted of questions about participants' smartphone and SMU, and perceived FoMO, MWB, and SC. Open questions at the end of the survey asked participants about how they felt, and their anticipated challenges about abstaining from SM for seven days.</p><p>Upon completion of the pre-abstinence survey, participants were required to contact the researcher and begin the seven-day SM abstinence period upon completion of which they were sent a link to the post-abstinence survey.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.2.">Post-Abstinence</head><p>At the end of the seventh day, participants were contacted with the link to the post-abstinence survey, which consisted of questions about participants' smartphone use and SMU, and perceived FoMO, MWB, and SC. Open questions at the end of this survey asked participants how they felt during the seven-day period of SM abstinence and what they found difficult.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.3.">Qualitative Data</head><p>Thematic analysis, as the most suitable method for written data <ref type="bibr" target="#b56">[54]</ref>, was performed on participants' responses (N = 61) to the open questions in both surveys to conceptualise their thoughts and feelings, including their anticipated challenges and retrospective experiences of the SM abstinence trial. To explore participants' anticipated challenges associated with the seven-day SM abstinence trial, open questions in the pre-abstinence survey included "How are you feeling about the fast?" and "How do you feel it will challenge you?" To explore participants' retrospective experiences of the seven-day SM abstinence trial, open questions in the post-abstinence survey included "Did you manage to abstain? How did you feel? What made this difficult?" In the recruitment process, the study was advertised as including an "abstinence period" as well as a "fast from social media".</p><p>Based on the work of Braun and Clarke <ref type="bibr" target="#b57">[55]</ref>, participants' written responses were read over multiple times for familiarisation before semantic codes were captured by looking for consistent patterns in the data. Codes were reviewed by rereading the data to ensure that they were accurate and consistent. The uncovered patterns and their significance were theorised, and broader meanings explored.</p><p>As a novel research focus on SM abstinence, an inductive approach allowed for openness and new theory to emerge, and semantic coding was used where no meaning or idea was assumed beyond what participants explicitly stated, involving explicit and surface meaning to uncover common patterns <ref type="bibr" target="#b57">[55]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Measures</head><p>Social media was defined based on current statistics which revealed that the most used SM platforms in the UK to produce, share, co-create, and exchange information <ref type="bibr" target="#b7">[8]</ref> are (in descending order): Facebook, YouTube, LinkedIn, Instagram, Snapchat, Twitter, Pinterest, Tumblr, and Reddit <ref type="bibr" target="#b55">[53]</ref>. However, LinkedIn was not considered SM for this study, as its primary function serves professionalism and the site is considered a necessity for applying for jobs <ref type="bibr" target="#b58">[56]</ref>, and thus abstaining from LinkedIn use was considered not feasible. Messaging-only applications such as Facebook Messenger and WhatsApp were also not included in the definition of SM as they are considered social networking, distinct from SM <ref type="bibr" target="#b6">[7]</ref>. Further, these applications are now treated as vital communication tools, often used in place of traditional text messaging <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>, and thus would not be practical for abstinence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.1.">Smartphone Social Media Use and Smartphone Use</head><p>Smartphone SMU was measured using the Screen Time application (for iPhone users) and the ActionDash or Tracky application (for Android phone users). These applications also measured participants' mean hours spent on their smartphone per day. Participants input data from these applications into the surveys, avoiding self-report measures of smartphone SMU which tend to be unreliable and subject to cognitive bias <ref type="bibr" target="#b46">[46,</ref><ref type="bibr" target="#b49">48]</ref>.</p><p>Screen Time, the new application included in the iOS 12 update, provides a report detailing mean daily hours spent on smartphones, and time spent on each SM application in the last day and in the last seven days. ActionDash and Tracky are versions of the Digital Wellbeing and Screen Time helper for Android. These applications provide a daily and weekly breakdown of how long users spend on applications per week, and mean daily hours spent on their smartphone.</p><p>Participants were asked to provide their average number of daily hours on their smartphone in the last seven days, and the total number of hours spent on each SM application in the last seven days to the nearest quarter of an hour to take into account momentary inadvertent access to SM applications <ref type="bibr" target="#b39">[39]</ref>. For example, if the application calculated the total number of hours spent on Instagram in the last seven days as one hour and 40 min, participants would input this as 1.75. If participants did not currently have one of the applications, they were asked to download it and only begin the experiment and respond to the first survey once it had collected seven days' worth of data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.2.">Other Device Social Media Use</head><p>SM accessed on any other digital device (e.g., desktop or tablet) was measured using self-report, where participants were asked to input their estimated total number of hours on each SM site in the last seven days for both surveys. Although this was measured through participant self-report, SM accessed through other digital devices is likely to be more intentional and less than smartphone SMU, and is therefore more accurately remembered <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b47">47]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.3.">Fear of Missing Out</head><p>Fear of missing out was measured using the 10-item Fear of Missing Out Scale (FoMOS) <ref type="bibr" target="#b14">[15]</ref>. Participants respond to statements measuring the extent to which they fear missing out on various events or experiences. Items are all positively worded and rated on a five-point Likert scale (1 = Not at all true of me, 2 = Slightly true of me, 3 = Moderately true of me, 4 = Very true of me, 5 = Extremely true of me). A higher FoMO score indicates a higher perceived fear of missing out. The scale forms a reliable measure (Cronbach's alpha = 0.87 to 0.90) <ref type="bibr" target="#b14">[15]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.4.">Mental Wellbeing</head><p>Mental wellbeing was measured using the 14-item Warwick-Edinburgh Mental Well-Being Scale (WEMWBS) <ref type="bibr" target="#b59">[57]</ref>. Participants respond to statements that measure subjective wellbeing and psychological functioning. Items are all positively worded and rated on a five-point Likert scale (1 = None of the time, 2 = Rarely, 3 = Some of the time, 4 = Often, 5 = All of the time). A higher WEMWBS score indicates higher perceived mental wellbeing. Studies have confirmed validity, internal consistency, and test-retest reliability in general populations (Cronbach's alpha = 0.89) <ref type="bibr" target="#b60">[58]</ref><ref type="bibr" target="#b61">[59]</ref><ref type="bibr" target="#b62">[60]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.5.">Social Connectedness</head><p>Social connectedness was measured using the 20-item Social Connectedness Scale-Revised version (SCS-R) <ref type="bibr" target="#b21">[21,</ref><ref type="bibr" target="#b63">61]</ref>. Participants respond to statements that measure the ways they feel connected to others in their environment on a six-point Likert scale. For this current research, a mid-way scale point of 'Neither Agree nor Disagree' was added, making this a seven-point scale (1 = Strongly Disagree, 2 = Disagree, 3 = Mildly Disagree, 4 = Neither Agree nor Disagree, 5 = Mildly Agree, 6 = Agree, and 7 = Strongly Agree) to be consistent with the WEMWBS and FoMO scales to consider respondents who may hold a neutral stance on an item <ref type="bibr" target="#b64">[62]</ref> and to maximise reliability and internal validity with additional Likert scale options <ref type="bibr" target="#b65">[63]</ref>. Recent research has shown good internal consistency in the general population (Cronbach's alpha = 0.94) <ref type="bibr" target="#b66">[64]</ref>. A higher SCS-R score indicates a higher perceived sense of social connectedness.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Statistical Methods and Software</head><p>Participants' SMU and perceived FoMO, MWB, and SC were measured before and after a seven-day abstinence period. We analysed the data through SPSS, version 26. Alpha values of 0.05 were considered statistically significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.1.">Pearson's Correlations</head><p>Assumptions were met for correlational analysis. Participant change scores were computed in SPSS to detect significant relationships between total SMU before abstinence (baseline SMU; M = 10.5, SD = 11.01) and changes in the dependent variables FoMO, MWB, and SC before and after abstinence (change scores). Change scores were calculated for each participant using post-abstinence minus pre-abstinence scores, where higher change scores denoted a higher increase in the dependent variable from pre-to post-abstinence, and negative change scores conveyed a decrease in the dependent variable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.2.">Paired Samples t-Tests</head><p>To test whether the data met the assumptions of a paired samples t-test, histograms and skewness and kurtosis statistics run on SPSS demonstrated approximate normal distribution for each dependent variable in the two related groups (pre-abstinence and post-abstinence), and no significant outliers <ref type="bibr" target="#b67">[65]</ref>. During the data cleaning process in Microsoft Excel, scale totals for FoMO, MWB, and SC were computed for each participant at pre-and post-abstinence and these totals were used in data analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.3.">Kruskal-Wallis H Tests</head><p>Non-parametric tests were performed in SPSS due to data violations of multivariate normality. Participants' data were re-organised in Microsoft Excel in ascending order by their total SMU throughout the seven-day period before abstinence and from there, participants' data were divided into quartiles before being exported into SPSS (Level 1: N = 15, M = 1.67 weekly hours, female = 66.67%, male = 33.33%. Level 2: N = 15, M = 4.85 weekly hours, female = 80%, male = 20%. Level 3: N = 16, M = 9.75 weekly hours, female = 62.5%, male = 37.5%. Level 4: N = 15, M = 25.73 weekly hours, female = 60%, male = 40%). Due to the total of participants being a prime number (N = 61), categories were not able to be split into exact quartiles. However, the decision for category 3 to include the extra participant was based upon the intent to try to ensure the female to male ratio was as even as possible in each SMU category. Change scores were used for dependent variables FoMO, MWB, and SC and three separate Kruskal-Wallis H tests were run for each dependent variable. Distributions of FoMO, MWB, and SC change scores were not similar for all groups, as assessed by visual inspection of a boxplot and therefore comparisons of distributions were made as opposed to comparisons of means.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.4.">Mann-Whitney U Test</head><p>A non-parametric test was performed in SPSS due to data violations of multivariate normality. Gender was categorised into 1 = male (N = 20; 32.79%), and 2 = female (N = 41; 67.21%). Change scores were used for dependent variables FoMO, MWB, and SC. The two groups of the independent variable, males and females, had differently shaped distributions of the dependent variables as assessed by visual inspection and therefore inferences about differences in distributions were made between the two groups as opposed to differences in medians.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.5.">Wilcoxon Signed Ranks Test</head><p>A non-parametric test was performed in SPSS due to data violations of normality and symmetry. As tied ranks occurred, continuity correction was applied. For each participant, their mean times spent on their smartphone per day for the seven-day period before and after abstinence were compared.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Thematic Analysis</head><p>Thematic analysis was used to analyse the qualitative written data collected in the online questionnaires at both T1 and T2. The data were re-read multiple times for familiarity and preliminary codes were assigned to describe the content. Patterns were then detected to produce themes and these were reviewed multiple times to ensure consistency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>There was a significant large-sized positive correlation (r = 0.550, p &lt; 0.01) <ref type="bibr" target="#b68">[66]</ref> between SC change scores and MWB change scores: participants' increase in perceived SC following abstinence was positively related with their increase in perceived MWB following abstinence.</p><p>There was a significant medium-sized negative correlation (r = -0.340, p &lt; 0.01) <ref type="bibr" target="#b68">[66]</ref> between FoMO change scores and SC change scores: participants' decrease in perceived FoMO following abstinence was negatively related with their increase in perceived SC following abstinence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Abstinence Effects</head><p>To compare participants' perceived FoMO, MWB, and SC before and after SM abstinence, three paired samples t-tests were conducted with a Bonferroni-adjusted alpha level of 0.017 (adj. α = 0.05/3). Table <ref type="table" target="#tab_1">2</ref> shows participants' mean scores and standard deviations for FoMO, MWB, and SC before and after abstinence. MWB and SC mean values increased after abstaining from SM for seven days in comparison with before abstinence. The mean value for FoMO decreased after abstaining from SM for seven days. There was a significant decrease in participants' perceived FoMO scores before and after abstinence; t(60) = 4.84, p &lt; 0.001, with a medium-sized effect (d = 0.55) <ref type="bibr" target="#b69">[67]</ref>.</p><p>There was a significant increase in participants' perceived MWB scores between before and after abstinence; t(60) = -5.19, p &lt; 0.001. This difference represented a medium-sized effect (d = 0.47) <ref type="bibr" target="#b69">[67]</ref>.</p><p>There was a significant increase in participants' perceived SC scores before and after abstinence, t(60) = -4.13, p &lt; 0.001. This difference represented a small-sized effect (d = 0.28) <ref type="bibr" target="#b69">[67]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Differences between FoMO, MWB, and SC Change Scores in Level of SMU and Across Genders</head><p>Three Kruskal-Wallis H tests were run for each dependent variable to determine any differences in FoMO, MWB, and SC change scores between groups that differed in their level of SMU before abstinence: 1 (lowest), 2, 3, and 4 (highest) SMU level groups. There were no significant differences in participants' level of SMU before abstinence in FoMO, MWB, and SC change scores.</p><p>A Mann-Whitney U test was run to determine whether there were differences in FoMO, MWB, and SC change scores between males and females in the dataset. There were no significant differences in males and females in FoMO, MWB, and SC change scores.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Mean Hours per Day Spent on Smartphone before and after Abstinence</head><p>A Wilcoxon Signed Ranks Test with continuity correction was conducted. Table <ref type="table" target="#tab_2">3</ref> demonstrates the median decrease in participants' mean hours spent on their smartphone per day before and after abstinence. This was statistically significant, with a median of 3.5 h per day spent on smartphones during seven days of SMU, compared with a median of 2.5 h per day spent on smartphones during seven days of SM abstinence; z = -4.885, p &lt; 0.001. Using the effect size calculator for non-parametric tests, the effect size was found to be small (eta 2 = 0.39) <ref type="bibr" target="#b70">[68]</ref>. Participants spent less time on their smartphones when they were not using SM. Altogether, the results show that there was an increase in perceived MWB and SC and decrease in perceived FoMO and hours spent on smartphones after SM abstinence. MWB and SC change scores were positively related and FoMO and SC change scores were negatively related.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Thematic Analysis</head><p>Figure <ref type="figure" target="#fig_0">1</ref> displays the final codes, distinguishing between before and after abstinence codes, where before abstinence codes depict participants' anticipated challenges of SM abstinence, and after abstinence codes depict participants' retrospective experiences of SM abstinence. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.1.">Coping</head><p>This theme captures participants' main motivations for accessing SM. One of the anticipated challenges of the seven-day abstinence was that SM could not be accessed when wanting to avoid a situation. For example, P36 stated: "[Social media abstinence] will challenge me in terms of bringing to light how much I rely on using my phone and scrolling through social media as an escape from situations that I find tricky or simply from having to think about what is happening around me in that moment." SM was used as coping mechanism to escape thoughts and avoid difficult environments. Participants' concerns about the challenges the seven-day abstinence centred around being unable to access SM as a way of coping with daily stresses, revealing their reliance on the distractions that SM platforms provide. Further, participants used SM to cope and to find an escape from any difficult situations in their offline world.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.2.">Habit</head><p>Many participants were concerned that they may fail to fully abstain for seven days due to their SM access being a habitual tendency: P27: "I think it will be challenging in the sense that it has become such a habit of mine to passively browse on social media . . . "</p><p>Participants anticipated that abstaining from SM successfully would be one of the main challenges of the experiment due to instinctive use. The nature of automatically reaching for SM describes participants' habitual cycle to seek constant stimulation. Further, this participant's acknowledgement that their habitual behaviour is "passive" suggests the presence of compulsive actions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.3.">Boredom</head><p>This theme emerged as another anticipated challenge of the trial. Participants were concerned about being bored as SM was used to fill their time or entertain themselves: P13: " . . . I think social media is a quick and easy (and potentially lazy) way of saving yourself from boredom because there's content available to you to keep your mind engaged when there's nothing else around . . . "</p><p>Here, P13 provided insight as to why they turned to SM in times of boredom, describing it as a quick and easy way for their mind to be engaged with readily available content when there was no other entertainment available at that time.</p><p>Participants described boredom as an anticipated concern of abstaining from SM for seven days, revealing how much time they spend on SM as well as their reliance on the platforms in vacant times. This may pose questions regarding how individuals process the world around them if they seem unable to embrace boredom and instead have to constantly strive for entertainment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.4.">Notification Distractions</head><p>It seems participants' anticipations about the challenges of their habitual SM use were correct. This code encapsulates the outcome of the habitual challenge of SM notifications. P34 referred to how turning off notifications helped them to complete the seven days abstinence: " . . . I turned off notifications from these apps and also logged out which I think also helped abstain . . . "</p><p>This participant also indicated that notifications caused them to experience more FoMO: "[I] may turn off notifications as they make me feel more like I'm missing out when this is likely to not be true".</p><p>It appears that participants' retrospective reflections of the seven-day abstinence trial were that notifications interfered with their abilities to abstain, causing them to automatically open SM, and even instilling a fear of missing out. The experiment caused participants to understand the distracting nature of notifications, with some participants wanting to permanently switch off their notifications. This suggests that the receipt of notifications may trigger habitual SM access due to their distracting and stimulating nature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.5.">Substitution Behaviours</head><p>During the trial, participants found that the absence of SM in times of boredom was challenging. Participants found themselves needing to fill this time with other digital applications: P5: " . . . I feel it was more challenging in the beginning as it was the first thing I would do in the morning or something I would do in my free time when I had a moment to spare. I managed to change that behaviour with something else (i.e., games, iBooks, etc.) . . . " P31: " . . . It was weird not having social media when I was bored/waiting for things. Usually I'd go on social media in these times just for something to do. So I had to find other things to do instead... Ended up on Google a lot more instead though. Oops!" Participants revealed that during boredom and vacant times throughout SM abstinence, they tended to substitute SM with another application, suggesting that other applications may equally satisfy their boredom. Therefore, technology gratification may have less to do with SM-specific platforms and more with having an online entertainment platform.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.6.">Perceived Connectivity</head><p>Post-abstinence findings show there were mixed feelings on participants' perceived connectivity. Some participants felt more connected to their offline friends: P9: " . . . I am more interested in updates from friends, which I didn't see much of anyway before the fast . . . I know too much of it [social media] can have a negative effect, and you miss too much of what's going on in the real world around you . . . "</p><p>Other participants, including P5, felt less connected to their online friends and were concerned of the impact of abstaining from SM: " . . . I feel a bit less connected to my online friends . . . " " . . . I am not sure what impact this week has had on our online relationship . . . "</p><p>Participants' responses here suggest that perceived connectivity for some is linked with their offline world, whereas for others it is linked with their online friends. This theme appears to consist of differing perspectives of what one's perceived connectivity is. There appears to be a distinction between "online social connectedness" and "offline social connectedness".</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>This study sought to compare participants' perceived FoMO, MWB, and SC, and smartphone use after seven days of normal SMU (before abstinence) and after seven days of SM abstinence (after abstinence). Results revealed no significant relationship between baseline SMU and FoMO, MWB, and SC change scores. However, a significant positive relationship was found between MWB change scores and SC change scores, and a significant negative relationship was found between FoMO change scores and SC change scores. A significant decrease in FoMO and a significant increase in MWB and SC were revealed after SM abstinence. The results showed that participants' mean hours per day spent on their smartphone significantly decreased during SM abstinence. Furthermore, thematic analysis results provided insight into the motivations for SMU being coping, habit, and boredom, posing anticipated challenges for participants in the absence of SM. Retrospective experiences of SM abstinence revealed that SM notifications posed a challenge in abstaining due to their distracting nature, causing participants to absent-mindedly access SM as a habitual response. Moreover, it was discovered that to relieve boredom, some participants engaged in substitution behaviours through accessing non-SM applications. Finally, thematic analysis revealed mixed views on perceived connectivity in the absence of SM, with some participants feeling less connected to online peers, and others finding themselves more interested in offline connections during abstinence. Additional analyses revealed no significant differences between different levels of SMU and no significant differences between males and females in FoMO, MWB, and SC change scores.</p><p>As a medium-sized effect <ref type="bibr" target="#b69">[67]</ref>, decreased FoMO following SM abstinence is strongly supported by previous research, suggesting that SMU exacerbates FoMO, specifically with the receipt of SM notifications <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b29">29]</ref>. This is also supported by thematic analysis findings, where participants indicated that the receipt of notifications was distracting, causing them to habitually access SM, and the very receipt of these updates triggered FoMO. Participants in this study also described their habitual SM scrolling as motivation to strive for constant stimulation. In his recent work, Griffiths <ref type="bibr" target="#b71">[69]</ref> confirms that as intermittent and unlimited rewards, receiving SM notifications can lead to habitual SMU to avoid missing out on the potential for a psychologically stimulating reward. These results demonstrate the reciprocal process of SMU and FoMO <ref type="bibr" target="#b14">[15,</ref><ref type="bibr" target="#b27">27,</ref><ref type="bibr" target="#b30">30]</ref> and can be broken with a period of SM abstinence and disabling notifications. This confirms that SMU drives FoMO more so than FoMO drives SMU <ref type="bibr" target="#b26">[26]</ref>, but more specifically, SM notification rewards drive FoMO. The saying 'out of sight, out of mind' may explain why abstinence reduced FoMO, aided by turning off or muting notifications which assisted in relieving the challenge of abstaining, where reduced cognitive load may have allowed participants to focus on other activities <ref type="bibr" target="#b72">[70]</ref>. These findings support literature on the distracting nature of notifications and the negative effects on task performance <ref type="bibr" target="#b73">[71]</ref>. Furthermore, the positive experience of removing notifications appears to have had a lasting impact on participants, where many stated they may continue to keep their SM notifications muted, indicating this led to a tangible positive change in their wellbeing.</p><p>Increased MWB after abstinence compared with use had a medium-sized effect <ref type="bibr" target="#b69">[67]</ref>, supported by previous literature suggesting that face-to-face interactions benefit MWB over online interactions <ref type="bibr" target="#b33">[33,</ref><ref type="bibr" target="#b34">34,</ref><ref type="bibr" target="#b42">42]</ref> and further supporting research demonstrating associations between SMU and lower MWB <ref type="bibr" target="#b25">[25,</ref><ref type="bibr" target="#b52">50,</ref><ref type="bibr" target="#b53">51]</ref>. Research linking SMU to increased social comparisons may explain increased MWB following an abstinence period, where participants are less exposed to information about others' lives which negatively affect self-contagion <ref type="bibr" target="#b25">[25]</ref>. Although offline social comparisons in the offline environment are inevitable as a natural tendency <ref type="bibr" target="#b74">[72]</ref>, <ref type="bibr">Walther et al.'s [73]</ref> model of computer-mediated communication supports components of SM contribute to a sense of identity, serving components such as self-representation. This suggests that SM environments are more likely to elicit negative comparisons than offline environments. Furthermore, thematic analysis findings suggested that SM was used passively and characterised by habitual scrolling, increasing exposure to content where negative social comparisons can be made <ref type="bibr" target="#b25">[25]</ref>. Thematic analysis revealed participants used SM to cope, escaping from stressful real-life situations. In the absence of SM during their abstinence period, participants may have been provided with a healthy avenue to process their offline experiences rather than using SM as an easy escape <ref type="bibr" target="#b77">[74]</ref>.</p><p>Although a small-sized effect <ref type="bibr" target="#b69">[67]</ref>, there was a significant increase in SC as a result of SM abstinence, in line with prior research suggesting that individuals feel more socially connected in the absence of SM <ref type="bibr" target="#b38">[38]</ref>. Thematic analysis findings may contribute to building a theory behind why the effect was only small sized as it revealed mixed feelings regarding perceived connectivity, where some participants felt more socially connected offline, while others expressed concerns over the loss of online SC to peers during abstinence, demonstrating individual differences in perceived SC. Perhaps those who experienced lower SC without SM used these platforms to overcompensate for perceived lack of offline connectedness, which may explain the mixed feelings in perceived connectivity as a result of abstinence <ref type="bibr" target="#b78">[75,</ref><ref type="bibr" target="#b79">76]</ref>. Although individuals find the connectivity aspect of SM appealing <ref type="bibr" target="#b30">[30,</ref><ref type="bibr" target="#b35">35]</ref>, prior research suggests that people perceive offline connections as more important than online connections <ref type="bibr" target="#b38">[38]</ref>. Moreover, the large-sized <ref type="bibr" target="#b68">[66]</ref> positive relationship between SC and MWB change scores is supported by literature indicating the strong relationship between wellbeing and a sense of connectedness <ref type="bibr" target="#b80">[77]</ref>. The medium-sized <ref type="bibr" target="#b68">[66]</ref> negative relationship between SC and FoMO change scores suggests that participants' increase in SC was related to their decrease in FoMO following abstinence. Likewise, participants' decrease in SC was related to their increase in FoMO. This may contribute to the explanation of mixed feelings on perceived connectivity after abstinence, where FoMO could be linked with the online world for some participants, and the offline world for others. The area of perceived connectedness in relation to SMU and SM abstinence warrants further research.</p><p>Non-significant differences in participants' levels of SMU before abstinence and across genders in MWB, FoMO, and SC change scores suggest that significant improvements in MWB and FoMO occurred regardless of whether participants were considered as 'higher-level' or 'lower-level' SM users and regardless of whether they were male or female. This may be surprising as differences across genders in both substance and behavioural addictive patterns are known <ref type="bibr" target="#b81">[78]</ref>, with females more likely to develop addictive SM behaviours for social interaction purposes and males more likely to develop compulsive use of more asocial and solitary activities <ref type="bibr" target="#b82">[79]</ref><ref type="bibr" target="#b83">[80]</ref><ref type="bibr" target="#b84">[81]</ref>. This suggests that reasons behind overall improved wellbeing in this study following abstinence may have differed between genders due to the differences in genders in motivations for SMU. Moreover, the results present implications that periods of SM abstinence are beneficial regardless of whether individuals use these platforms in moderation or more frequently. Furthermore, correlational results showed no relationship between baseline SMU before abstinence and changes in FoMO, MWB, and SC. This is contrary to previous literature indicating that individuals who use SM more will experience greater positive outcomes than lower users of SM <ref type="bibr" target="#b24">[24,</ref><ref type="bibr" target="#b33">33,</ref><ref type="bibr" target="#b42">42]</ref>.</p><p>Following abstinence, there was a significant decrease in participants' mean hours per day spent on their smartphones, as predicted, supporting prior research on the prevalent use of smartphone devices to access SM <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b85">82]</ref>, where SM abstinence may have instigated less frequent smartphone use, suggesting the influence of smartphone use on desire for constant connectivity <ref type="bibr" target="#b86">[83]</ref>. However, this effect was small sized <ref type="bibr" target="#b70">[68]</ref>. Substitution behaviours revealed in thematic analysis may provide an explanation, where during abstinence, participants found they substituted their need to fill time with scrolling on other non-SM smartphone applications. Chambers <ref type="bibr" target="#b87">[84]</ref> makes the distinction between content gratification and process gratification, where process gratification has less to do with SM content, but the process of accessing SM for entertainment or escapism, suggesting that habitual behaviours derive not from SM content, but the process of scrolling with the finger to occupy the mind <ref type="bibr" target="#b44">[44]</ref>. Although participants substituted behaviours, FoMO, MWB, and SC changes were significant, suggesting that habitual SM scrolling behaviours may have a more negative impact on wellbeing than scrolling on non-SM applications, supported in Wilcoxon et al.'s <ref type="bibr" target="#b88">[85]</ref> study of smartphone abstinence where participants' mood and anxiety remained unchanged. This suggests that negative outcomes of SMU may be related to negative exposure to SM content <ref type="bibr" target="#b25">[25,</ref><ref type="bibr" target="#b74">72]</ref>. However, Turgeman et al. <ref type="bibr" target="#b89">[86]</ref> found that social anxiety and excessive smartphone use were positively correlated, explaining some participants' needs to substitute SM with other smartphone applications. Furthermore, the positive changes in FoMO, MWB, and SC may have been moderated by the decrease in smartphone use during SM abstinence, warranting further research.</p><p>However, these positive changes may be explained by social cognitive theory of mass communication, suggesting that people's views of SM are influenced by news reports, which mostly contain negativity surrounding SM <ref type="bibr" target="#b90">[87]</ref>. Further, the 'digital cleanse' is becoming a more popular phenomenon particularly amongst celebrities taking abstinence breaks from technology <ref type="bibr" target="#b20">[20]</ref> and self-optimisation theorises that participants may have felt morally better in successfully abstaining. Nonetheless, thematic analysis revealed that the voluntary sample still found abstaining challenging, regardless of underlying motivations for taking part in the experiment, demonstrating strong evidence that SM abstinence can induce positive changes in psychosocial behaviours compared with SMU. Furthermore, positive significant changes in FoMO, MWB, and SC were not related to initial degree of SMU, adding more weight to the results.</p><p>In a smartphone SM pervasive society <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>, this study has important implications for demonstrating the importance of unplugging from SM at times, supporting the benefit and feasibility of an abstinence period of seven days <ref type="bibr" target="#b43">[43]</ref>. With little known about social media abstinence <ref type="bibr" target="#b38">[38]</ref>, the present mixed-methods research compelling comparisons between the effects of SMU and SM abstinence on psychosocial behaviours. Moreover, using digital applications to measure multiple platform SMU increased the accuracy of results and the thematic analysis offered theoretical explanations for behavioural changes elicited by the abstinence period. The present results have wider implications for individuals and society in supporting the benefits of a short SM abstinence period as an intervention to manage the potential negative effects of SM and improve wellbeing <ref type="bibr" target="#b25">[25,</ref><ref type="bibr" target="#b30">30]</ref>. The results also offer useful suggestions for parents in managing their children's screen time, further contributing to educational and health research <ref type="bibr" target="#b92">[88]</ref>.</p><p>Some limitations are worth noting. First, the participants' age range between 20 and 49 years suggests that both students and individuals in employment have been included, and this may have an important influence on both SMU and coping with abstinence where younger age groups are more likely to use SM more frequently and for social interaction purposes as well as self-disclosure, and acquire a larger network than older age groups. However, the sample mostly consisted of a younger population (M age = 24.44); an abstinence period for an older age group may yield different results due to the different uses of SM across generations <ref type="bibr" target="#b85">[82]</ref>. Second, the findings present a further question of whether the significant reduction in smartphone use during abstinence moderated the positive changes in FoMO and MWB. Finally, the thematic analysis findings of participants' mixed feelings on perceived connectivity during abstinence coupled with an increase in SC after abstinence warrants further exploration as to whether there were other differences between those who felt more socially connected after abstinence and those who felt less connected. Future research should focus on investigating motivations for SMU across generations and genders, and explore individual differences in perceived online social connectivity and offline social connectivity. The extent to which reduction in smartphone use during SM abstinence moderates positive changes in wellbeing needs exploring, and psychosocial behavioural effects should be measured across a longer abstinence period, which may be useful in determining whether results are lasting or are due to initial positivity derived from self-optimisation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>This study's findings demonstrate that a seven-day SM abstinence period significantly increased perceived MWB and SC, and significantly decreased perceived FoMO in comparison to a seven-day period of SMU. However, SM abstinence elicited only a small-sized increase in perceived SC, with some participants experiencing higher perceived SC through the online world and others experienced higher perceived SC through the offline world. Furthermore, there were no differences between males and females and higher-and lower-level SMU on FoMO, MWB, and SC change scores, suggesting that the overall improvement in wellbeing after abstinence occurred regardless of gender and SMU level. This research also provides insight into the motivations for SMU, suggesting that the process of scrolling as a time filler is a key motivator. The findings also support research on the distracting nature of notifications, suggesting that SM notifications trigger FoMO. Findings further provide evidence of the importance of unplugging at least for temporary periods and are useful for education and health research in promoting balanced SMU and SM abstinence.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Themes before and after abstinence.</figDesc><graphic coords="9,140.32,512.80,314.64,174.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Social media weekly use hours before abstinence across smartphones and other digital devices (i.e., desktop, tablet, and television; N = 61).</figDesc><table><row><cell>Social Media Platform</cell><cell>Smartphone</cell><cell>Other</cell><cell>Total</cell></row><row><cell>Facebook</cell><cell>148.75</cell><cell>88.75</cell><cell>237.5</cell></row><row><cell>YouTube</cell><cell>84</cell><cell>93</cell><cell>177</cell></row><row><cell>Instagram</cell><cell>127.25</cell><cell>6.25</cell><cell>133.5</cell></row><row><cell>Snapchat</cell><cell>23.5</cell><cell>4</cell><cell>27.5</cell></row><row><cell>Reddit</cell><cell>15</cell><cell>12</cell><cell>27</cell></row><row><cell>Twitter</cell><cell>19.75</cell><cell>2.75</cell><cell>22.5</cell></row><row><cell>Pinterest</cell><cell>3.25</cell><cell>4.5</cell><cell>7.75</cell></row><row><cell>Tumblr</cell><cell>2</cell><cell>5</cell><cell>7</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Means and standard deviations for each dependent variable before abstinence and after abstinence, including their change score and Cronbach's alpha values.</figDesc><table><row><cell></cell><cell cols="2">Mean ± SD Pre Post</cell><cell>Mean Change ± SD</cell><cell cols="2">Cronbach's Alpha T1 T2</cell></row><row><cell>Fear of Missing Out</cell><cell>24.9 ± 6.25</cell><cell>21.6 ± 5.48</cell><cell>-3.2 ± 5.22</cell><cell>0.78</cell><cell>0.77</cell></row><row><cell>Mental Wellbeing</cell><cell>46.1 ± 8.58</cell><cell>50.1 ± 8.18</cell><cell>4 ± 5.97</cell><cell>0.90</cell><cell>0.92</cell></row><row><cell>Social Connectedness</cell><cell>81.3 ± 8.2</cell><cell>80.9 ± 6.57</cell><cell>-0.1 ± 6.26</cell><cell>0.93</cell><cell>0.95</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Median and ranks for participants' change in mean daily smartphone hours before and after abstinence.</figDesc><table><row><cell cols="2">Median</cell><cell>Ranks</cell><cell></cell></row><row><cell>Pre</cell><cell>Post</cell><cell>N</cell><cell>Mean</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p>This research received no external funding.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The changing nature of parent-teacher communication: Mode selection in the smartphone era</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Mazer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Flood Grady</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/03634523.2015.1014382</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Commun. Educ</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="187" to="207" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Beginning of the new smartphone era</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Terry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marriott Stud. Rev</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">10</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Smartphones usage among university students: Najran University case</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Alfawareh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jusoh</surname></persName>
+		</author>
+		<idno type="DOI">10.7813/2075-4124.2014/6-2/B.48</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Acad. Res</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="321" to="326" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Online-specific fear of missing out and Internet-use expectancies contribute to symptoms of Internet-communication disorder</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wegmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Oberst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stodt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brand</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.abrep.2017.04.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addict. Behav. Rep</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="33" to="42" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Receptiveness and preferences of health-related smartphone applications among Vietnamese youth and young adults</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T T</forename><surname>Do</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Van Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">X</forename><surname>Tran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Le</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Ho</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12889-018-5641-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">764</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Mobile App Usage Statistics</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Panko</surname></persName>
+		</author>
+		<ptr target="https://themanifest.com/app-development/mobile-app-usage-statistics-2018" />
+		<imprint>
+			<date type="published" when="2018-02-03">2018. 3 February 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Social Networking Sites and Addiction: Ten lessons learned</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph14030311</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">311</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The future of mental health care: Peer-to-peer support and social media</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Naslund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Aschbrenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Marsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Bartels</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S2045796015001067</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiol. Psychiatr. Sci</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="113" to="122" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Prevalence of the use of mobile instant messaging applications: The need to assess their usage in human factors investigations</title>
+		<author>
+			<persName><forename type="first">Jacinto</forename><surname>Figueroa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Arndt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<idno type="DOI">10.1177/1541931218621093</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Hum. Factors Ergon. Soc. Annu. Meet</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="406" to="410" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Social messaging for global health: Lessons from Haiti</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Rouhani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Marsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rimpel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Edmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Julmisse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Checkett</surname></persName>
+		</author>
+		<idno type="DOI">10.7189/jogh.09.010308</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Glob. Health</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">10308</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Mobile technology and social media: The &quot;extensions of man&quot; in the 21st Century</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<idno type="DOI">10.1159/000479842</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Hum. Dev</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="141" to="143" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Social Media and the Fear of Missing Out: Scale development and assessment</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Abel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Buff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Burr</surname></persName>
+		</author>
+		<idno type="DOI">10.19030/jber.v14i1.9554</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Bus. Econ. Res</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="33" to="44" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Is the smartphone a smart choice? The effect of smartphone separation on executive functions</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hartanto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2016.07.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="329" to="336" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Problematic smartphone use: Investigating contemporary experiences using a convergent design</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Harkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kanjo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph15010142</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">142</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">emotional, and behavioral correlates of fear of missing out</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Murayama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Dehaan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gladwell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2013.02.014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1841" to="1848" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Social media use, fear of missing out and sleep outcomes in adolescence</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Woods</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.adolescence.2018.07.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Adolesc</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="61" to="65" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Warwick-Edinburgh Mental Well-being Scale (WEMWBS): Development and UK validation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tennant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Fishwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Platt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Joseph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Parkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Secker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stewart-Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1477-7525-5-63</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Health Qual. Life Outcomes</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">63</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The geography of world happiness</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Helliwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">World Happiness Report</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Helliwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Layard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sachs</surname></persName>
+		</author>
+		<title level="m">United Nations-Sustainable Development Solutions Network</title>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="12" to="41" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m">Mental Health: Facing the Challenges, Building Solutions: Report from the WHO European Ministerial Conference</title>
+		<meeting><address><addrLine>Geneva, Switzerland</addrLine></address></meeting>
+		<imprint>
+			<publisher>WHO Regional Office Europe</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Digital detox: Media resistance and the promise of authenticity</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Syvertsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Enli</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/1354856519847325</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Convergence</title>
+		<imprint>
+			<biblScope unit="volume">2019</biblScope>
+			<biblScope unit="page">1354856519847325</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Measuring belongingness: The Social Connectedness and the Social Assurance scales</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Robbins</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-0167.42.2.232</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Couns. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="232" to="241" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Social connectedness, mental health and the adolescent brain</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lamblin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Murawski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Whittle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fornito</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.neubiorev.2017.05.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neurosci. Biobehav. Rev</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="57" to="68" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Happy people live longer: Subjective well-being contributes to health and longevity</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Diener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename><surname>Chan</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1758-0854.2010.01045.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Psychol. Health Well Being</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="43" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The Facebook experiment: Quitting Facebook leads to higher levels of well-being</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tromholt</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2016.0259</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychologybehavior Soc. Netw</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="661" to="666" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Association between social media use and depression among US young adults</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Sidani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shensa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Radovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Colditz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Giles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Primack</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/da.22466</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Depress. Anxiety</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="323" to="331" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">neuroticism, attachment style and fear of missing out as predictors of social media use and addiction</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Leaman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tramposch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Liss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Extraversion</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.paid.2017.04.039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Personal. Individ. Differ</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="69" to="72" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Negative consequences from heavy social networking in adolescents: The mediating role of fear of missing out</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Oberst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Wegmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Stodt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chamarro</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.adolescence.2016.12.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Adolesc</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="51" to="60" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Social media engagement behaviour: A uses and gratifications perspective</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Conduit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fahy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Goodman</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/0965254X.2015.1095222</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Strateg. Mark</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="261" to="277" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Mobile devices and investment apps: The effects of push notification, information release, and the Fear of Missing Out</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Clor-Proell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Guggenmos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Rennekamp</surname></persName>
+		</author>
+		<idno type="DOI">10.2139/ssrn.2991262</idno>
+	</analytic>
+	<monogr>
+		<title level="j">SSRN Electron. J</title>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Does personal social media usage affect efficiency and well-being?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brooks</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.12.053</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="26" to="37" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The dark side of social networking sites: An exploration of the relational and psychological stressors associated with Facebook use and affordances</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Moreland</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.11.083</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="168" to="176" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">No more FOMO: Limiting social media decreases loneliness and depression</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Marx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lipson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Young</surname></persName>
+		</author>
+		<idno type="DOI">10.1521/jscp.2018.37.10.751</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Soc. Clin. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="751" to="768" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Social media use and perceived social isolation among young adults in the U</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Primack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shensa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Sidani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">O</forename><surname>Whaite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Colditz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Radovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Miller</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.amepre.2017.01.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">S. Am. J. Prev. Med</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1" to="8" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Association of Facebook use with compromised well-being: A longitudinal study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Shakya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Christakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/aje/kww189</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">185</biblScope>
+			<biblScope unit="page" from="203" to="211" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Face-to-face or Facebook: Can social connectedness be derived online?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grieve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Indian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Witteveen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Anne Tolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marrington</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2012.11.017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="604" to="609" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Causation, statistics, and sociology</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Goldthorpe</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/esr/17.1.1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Sociol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1" to="20" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Social Networking Sites: Their users and social implications-A longitudinal study</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Brandtzaeg</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1083-6101.2012.01580.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Mediat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="467" to="488" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Giving up Twitter for lent: How and why we take breaks from social media</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Schoenebeck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</title>
+		<meeting>the SIGCHI Conference on Human Factors in Computing Systems<address><addrLine>Toronto, ON, Canada; New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Association for Computing Machinery</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="773" to="782" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The effects of ambient media: What unplugging reveals about being plugged in</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koliska</surname></persName>
+		</author>
+		<idno type="DOI">10.5210/fm.v19i8.5220</idno>
+	</analytic>
+	<monogr>
+		<title level="j">First Monday</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Mobile symbiosis: A precursor to public risk-taking behavior? In Mobile Communication: Bringing Us Together and Tearing Us Apart</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Cumiskey</surname></persName>
+		</author>
+		<editor>Ling, R., Campbell, S.W.</editor>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Transaction Publishers</publisher>
+			<biblScope unit="page" from="17" to="36" />
+			<pubPlace>Piscataway, NJ, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Quitting the use of a habituated hedonic information system: A theoretical model and empirical examination of Facebook users</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Turel</surname></persName>
+		</author>
+		<idno type="DOI">10.1057/ejis.2014.19</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. J. Inf. Syst</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="431" to="446" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Short abstinence from online social networking sites reduces perceived stress, especially in excessive users</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Turel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Cavagnaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Meshi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.psychres.2018.11.017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Res</title>
+		<imprint>
+			<biblScope unit="volume">270</biblScope>
+			<biblScope unit="page" from="947" to="953" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Emotion regulation&apos;s relationships with depression, anxiety and stress due to imagined smartphone and social media loss</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Elhai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Erwin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.psychres.2017.12.045</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Res</title>
+		<imprint>
+			<biblScope unit="volume">261</biblScope>
+			<biblScope unit="page" from="28" to="34" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Missing photos, suffering withdrawal, or finding freedom? How experiences of social media non-use influence the likelihood of reversion</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P S</forename><surname>Baumer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Quan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mimno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Gay</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2056305115614851</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Soc. Media Soc</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">2056305115614851</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The burden of online friends: The effects of giving up Facebook on stress and well-being</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Vanman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Tobin</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00224545.2018.1453467</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Soc. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="496" to="508" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Comparing the self-report and measured smartphone usage of college students: A pilot study</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Nguyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-W</forename><surname>Choi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="DOI">10.4306/pi.2017.14.2.198</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Investig</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="198" to="204" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Understanding and measuring mobile Facebook use: Who, why, and how?</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Kuru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pasek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mob. Media Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="102" to="120" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1177/2050157916678269</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">A novel approach to evaluating mobile smartphone screen time for iPhones: Feasibility and preliminary findings</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Gower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Moreno</surname></persName>
+		</author>
+		<idno type="DOI">10.2196/11012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">JMIR mHealth uHealth</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">11012</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Between-or within-subjects design: A methodological dilemma</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Keren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Handbook for Data Analysis in the Behavioral Sciences: Methodological Issues</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Keren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lewis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>Lawrence Erlbaum Associates</publisher>
+			<pubPlace>Avenue Mahwah, NJ, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Online communication, social media and adolescent wellbeing: A systematic narrative review</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Best</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Manktelow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.childyouth.2014.03.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Child. Youth Serv. Rev</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="27" to="36" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Social media use and mental health among young adults</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Berryman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Ferguson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Negy</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11126-017-9535-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatr. Q</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="307" to="314" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Faul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Erdfelder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A.-G</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buchner</surname></persName>
+		</author>
+		<idno type="DOI">10.3758/BF03193146</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Behav. Res. Methods</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="175" to="191" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<ptr target="/most-popular-social-media/" />
+		<title level="m">Revive Digital Most Popular Social Media Networks (Updated for 2019)</title>
+		<imprint>
+			<date type="published" when="2020-02-03">3 February 2020</date>
+		</imprint>
+	</monogr>
+	<note>Available online: digital/blog</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Qualitative Research Methods in Mental Health and Psychotherapy: A Guide for Students and Practitioners</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Joffe</surname></persName>
+		</author>
+		<editor>Harper, D., Thompson, A.</editor>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Wiley-Blackwell</publisher>
+			<biblScope unit="page" from="209" to="223" />
+			<pubPlace>Chichester, UK</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Thematic analysis</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Using thematic analysis in psychology</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Braun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Clarke</surname></persName>
+		</author>
+		<idno type="DOI">10.1191/1478088706qp063oa</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Qual. Res. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="77" to="101" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">LinkedIn and recruitment: How profiles differ across occupations</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zide</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Elman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shahani-Denning</surname></persName>
+		</author>
+		<idno type="DOI">10.1108/ER-07-2013-0086</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Empl. Relat</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="583" to="604" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stewart-Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Janmohamed</surname></persName>
+		</author>
+		<title level="m">Warwick-Edinburgh Mental Well-Being Scale. User Guide, version 1</title>
+		<meeting><address><addrLine>Warwick, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Warwick</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Validation of Warwick-Edinburgh Mental Well-being Scale (WEMWBS) in a population of people using Secondary Care Mental Health Services</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dawkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Muncer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vigurs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bostock</surname></persName>
+		</author>
+		<idno type="DOI">10.3109/09638237.2015.1124401</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Ment. Health</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="323" to="329" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">The effects of improving sleep on mental health (OASIS): A randomised controlled trial with mediation analysis</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Freeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sheaves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Goodwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nickless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Emsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Luik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Wadekar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S2215-0366(17)30328-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="749" to="758" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Validation of the Warwick-Edinburgh Mental Well-Being Scale (WEMWBS) in French psychiatric and general populations</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Trousselard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Steiler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Dutheil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Claverie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Canini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fenouillet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Naughton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Stewart-Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Franck</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.psychres.2016.08.050</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Res</title>
+		<imprint>
+			<biblScope unit="volume">245</biblScope>
+			<biblScope unit="page" from="282" to="290" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Social connectedness, dysfunctional interpersonal behaviors and psychological distress: Testing a mediator model</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Draper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0022-0167.48.3.310</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Couns. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">310</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Does the number of response options matter? Psychometric perspectives using personality questionnaire data</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Simms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Zelazny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bernstein</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/pas0000648</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Assess</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="557" to="566" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Another look at Likert scales</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">K</forename><surname>Willits</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Theodori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Luloff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Rural Soc. Sci</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">126</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Social anxiety mediates the relationship between social connectedness and test anxiety: An exploratory investigation</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Kavanagh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mesagno</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jts5.14</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Theor. Soc. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="60" to="69" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pallant</surname></persName>
+		</author>
+		<title level="m">SPSS Survival Manual</title>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Comparing effect sizes in follow-up studies: ROC Area, Cohen&apos;s d, and r</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Rice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Harris</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10979-005-6832-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Law Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="615" to="620" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">A power primer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/0033-2909.112.1.155</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Bull</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="155" to="159" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Lenhard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lenhard</surname></persName>
+		</author>
+		<ptr target="https://www.psychometrica.de/effect_size.html" />
+		<title level="m">Calculation of Effect Sizes</title>
+		<imprint>
+			<date type="published" when="2020-02-03">3 February 2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Adolescent social networking: How do social media operators facilitate habitual use?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educ. Health</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="66" to="69" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Silence your phones&quot;: Smartphone notifications increase inattention and hyperactivity symptoms</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kushlev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Proulx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Dunn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems</title>
+		<meeting>the 2016 CHI Conference on Human Factors in Computing Systems<address><addrLine>San Jose, CA, USA; New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Association for Computing Machinery</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="1011" to="1020" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">anxious, lonely: 24 hours without push notifications</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pielot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rello</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Productive</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services</title>
+		<meeting>the 19th International Conference on Human-Computer Interaction with Mobile Devices and Services<address><addrLine>Vienna, Austria; New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Association for Computing Machinery</publisher>
+			<date type="published" when="2017-07-05">5 July 2017. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">A theory of social comparison processes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Festinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum. Relat</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="117" to="140" />
+			<date type="published" when="1954">1954</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.1177/001872675400700202</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">The effect of feedback on identity shift in computer-mediated communication</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Walther</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>De Andrea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Tong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Spottswood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Amichai-Hamburger</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/15213269.2010.547832</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Media Psychol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1" to="26" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">The moderating role of psychosocial well-being on the relationship between escapism and excessive online gaming</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kardefelt-Winther</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.05.020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="68" to="74" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Social media use as urban acupuncture for empowering socially challenged communities</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Messeter</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10630732.2015.1040291</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Urban Technol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="79" to="96" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Socially interactive and passive technologies enhance friendship quality: An investigation of the mediating roles of online and offline self-disclosure</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Desjarlais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Joseph</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/cyber.2016.0363</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology Behav. Soc. Netw</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="286" to="291" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Age differences in privacy attitudes, literacy and privacy management on Facebook</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kezer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sevi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Cemalcilar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baruh</surname></persName>
+		</author>
+		<idno type="DOI">10.5817/CP2016-1-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychology J. Psychosoc. Res. Cyberspace</title>
+		<imprint>
+			<biblScope unit="page">10</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Sex differences, gender and addiction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Becker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Mcclellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Reed</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jnr.23963</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Neurosci. Res</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="136" to="147" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">The relationship between addictive use of social media, narcissism, and self-esteem: Findings from a large national survey</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Andreassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pallesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.addbeh.2016.03.006</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addict. Behav</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="287" to="293" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Internet addiction: A systematic review of epidemiological research for the last decade</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Karila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Billieux</surname></persName>
+		</author>
+		<idno type="DOI">10.2174/13816128113199990617</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Curr. Pharm. Des</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="4026" to="4052" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Modeling habitual and addictive smartphone behavior: The role of smartphone usage types, emotional intelligence, social stress, self-regulation, age, and gender</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Van Deursen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Bolle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hegner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Kommers</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2014.12.039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="411" to="420" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Problematic mobile phone use and addiction across generations: The roles of psychopathological symptoms and smartphone use</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kanjo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Crook-Rumsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kibowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sumich</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s41347-017-0041-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Technol. Behav. Sci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="141" to="149" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">The flipside of ubiquitous connectivity enabled by smartphone-based social networking service: Social presence and privacy concern</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Choi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.chb.2016.08.039</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="325" to="333" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chambers</surname></persName>
+		</author>
+		<title level="m">The Effect of Social Media Addiction on Consumer Behavior: A Cultural Comparison of Spain and the United States</title>
+		<meeting><address><addrLine>Oxford, MS, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Mississippi</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Digital detox: The effect of smartphone abstinence on mood, anxiety, and craving</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Wilcoxon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Ellis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.addbeh.2019.06.002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Addict. Behav</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page">106013</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Studies on the relationship between social anxiety and excessive smartphone use and on the effects of abstinence and sensation seeking on excessive smartphone use</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Turgeman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hefner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bazon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Yehoshua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Weinstein</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph17041262</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">1262</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Social cognitive theory of mass communication</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bandura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">LEA&apos;s Communication Series. Media Effects: Advances in Theory and Research</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Z D</forename><surname>Bryant</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Lawrence Erlbaum Associates Publishers</publisher>
+			<biblScope unit="page" from="121" to="153" />
+			<pubPlace>Avenue Mahwah, NJ, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Screen time tantrums: How families manage screen media experiences for toddlers and preschoolers</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hiniker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Suh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Kientz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems</title>
+		<meeting>the 2016 CHI Conference on Human Factors in Computing Systems<address><addrLine>San Jose, CA, USA; New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Association for Computing Machinery</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="648" to="660" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

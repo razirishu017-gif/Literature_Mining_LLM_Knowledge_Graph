@@ -1,0 +1,2687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Online Social Networking and Addiction—A Review of the Psychological Literature</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>MDPI AG</publisher>
+				<availability status="unknown"><p>Copyright MDPI AG</p>
+				</availability>
+				<date type="published" when="2011-08-29">29 August 2011</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Daria</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+							<email>daria.kuss@ntu.ac.uk</email>
+							<idno type="ORCID">0000-0001-8917-782X</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">International Gaming Research Unit</orgName>
+								<orgName type="department" key="dep2">Psychology Division</orgName>
+								<orgName type="institution">Nottingham Trent University</orgName>
+								<address>
+									<postCode>NG1 4BU</postCode>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mark</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+							<email>mark.griffiths@ntu.ac.uk</email>
+							<idno type="ORCID">0000-0001-8880-6524</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">International Gaming Research Unit</orgName>
+								<orgName type="department" key="dep2">Psychology Division</orgName>
+								<orgName type="institution">Nottingham Trent University</orgName>
+								<address>
+									<postCode>NG1 4BU</postCode>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Online Social Networking and Addiction—A Review of the Psychological Literature</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of Environmental Research and Public Health</title>
+						<title level="j" type="abbrev">IJERPH</title>
+						<idno type="ISSN">1660-4601</idno>
+						<imprint>
+							<publisher>MDPI AG</publisher>
+							<biblScope unit="volume">8</biblScope>
+							<biblScope unit="issue">9</biblScope>
+							<biblScope unit="page" from="3528" to="3552"/>
+							<date type="published" when="2011-08-29">29 August 2011</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">12179016752C3FB764341E01D0D48BB6</idno>
+					<idno type="DOI">10.3390/ijerph8093528</idno>
+					<note type="submission">Received: 9 March 2011; in revised form: 12 August 2011 / Accepted: 22 August 2011 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>social network addiction</term>
+					<term>social networking sites</term>
+					<term>literature review</term>
+					<term>motivations</term>
+					<term>personality</term>
+					<term>negative consequences</term>
+					<term>comorbidity</term>
+					<term>specificity</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Social Networking Sites (SNSs) are virtual communities where users can create individual public profiles, interact with real-life friends, and meet other people based on shared interests. They are seen as a 'global consumer phenomenon' with an exponential rise in usage within the last few years. Anecdotal case study evidence suggests that 'addiction' to social networks on the Internet may be a potential mental health problem for some users. However, the contemporary scientific literature addressing the addictive qualities of social networks on the Internet is scarce. Therefore, this literature review is intended to provide empirical and conceptual insight into the emerging phenomenon of addiction to SNSs by: (1) outlining SNS usage patterns, (2) examining motivations for SNS usage, (3) examining personalities of SNS users, (4) examining negative consequences of SNS usage, (5) exploring potential SNS addiction, and (6) exploring SNS addiction specificity and comorbidity. The findings indicate that SNSs are predominantly used for social purposes, mostly related to the maintenance of established offline networks. Moreover, extraverts appear to use social networking sites for social enhancement, whereas introverts use it for social compensation, each of which appears to be related to greater usage, as does low conscientiousness and high narcissism. Negative correlates of SNS usage include the decrease in real life social community participation and academic achievement, as well as relationship problems, each of which may be indicative of potential addiction.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>"I'm an addict. I just get lost in Facebook" replies a young mother when asked why she does not see herself able to help her daughter with her homework. Instead of supporting her child, she spends her time chatting and browsing the social networking site <ref type="bibr" target="#b0">[1]</ref>. This case, while extreme, is suggestive of a potential new mental health problem that emerges as Internet social networks proliferate. Newspaper stories have also reported similar cases, suggesting that the popular press was early to discern the potentially addictive qualities of social networking sites (SNS; i.e., <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>). Such media coverage has alleged that women are at greater risk than men for developing addictions to SNSs <ref type="bibr" target="#b3">[4]</ref>.</p><p>The mass appeal of social networks on the Internet could potentially be a cause for concern, particularly when attending to the gradually increasing amounts of time people spend online <ref type="bibr" target="#b4">[5]</ref>. On the Internet, people engage in a variety of activities some of which may be potentially to be addictive. Rather than becoming addicted to the medium per se, some users may develop an addiction to specific activities they carry out online <ref type="bibr" target="#b5">[6]</ref>. Specifically, Young <ref type="bibr" target="#b6">[7]</ref> argues that there are five different types of internet addiction, namely computer addiction (i.e., computer game addiction), information overload (i.e., web surfing addiction), net compulsions (i.e., online gambling or online shopping addiction), cybersexual addiction (i.e., online pornography or online sex addiction), and cyber-relationship addiction (i.e., an addiction to online relationships). SNS addiction appears to fall in the last category since the purpose and main motivation to use SNSs is to establish and maintain both on-and offline relationships (for a more detailed discussion of this please refer to the section on motivations for SNS usage). From a clinical psychologist's perspective, it may be plausible to speak specifically of 'Facebook Addiction Disorder' (or more generally 'SNS Addiction Disorder') because addiction criteria, such as neglect of personal life, mental preoccupation, escapism, mood modifying experiences, tolerance, and concealing the addictive behavior, appear to be present in some people who use SNSs excessively <ref type="bibr" target="#b7">[8]</ref>.</p><p>Social Networking Sites are virtual communities where users can create individual public profiles, interact with real-life friends, and meet other people based on shared interests. SNSs are "web-based services that allow individuals to: (1) construct a public or semi-public profile within a bounded system, (2) articulate a list of other users with whom they share a connection, and (3) view and traverse their list of connections and those made by others within the system" <ref type="bibr" target="#b8">[9]</ref>. The focus is placed on established networks, rather than on networking, which implies the construction of new networks. SNSs offer individuals the possibilities of networking and sharing media content, therefore embracing the main Web 2.0 attributes <ref type="bibr" target="#b9">[10]</ref>, against the framework of their respective structural characteristics.</p><p>In terms of SNS history, the first social networking site (SixDegrees) was launched in 1997, based on the idea that everybody is linked with everybody else via six degrees of separation <ref type="bibr" target="#b8">[9]</ref>, and initially referred to as the "small world problem" <ref type="bibr" target="#b10">[11]</ref>. In 2004, the most successful current SNS, Facebook, was established as a closed virtual community for Harvard students. The site expanded very quickly and Facebook currently has more than 500 million users, of whom fifty percent log on to it every day. Furthermore, the overall time spent on Facebook increased by 566% from 2007 to 2008 <ref type="bibr" target="#b11">[12]</ref>. This statistic alone indicates the exponential appeal of SNSs and also suggests a reason for a rise in potential SNS addiction. Hypothetically, the appeal of SNSs may be traced back to its reflection of today's individualist culture. Unlike traditional virtual communities that emerged during the 1990s based on shared interests of their members <ref type="bibr" target="#b12">[13]</ref>, social networking sites are egocentric sites. It is the individual rather than the community that is the focus of attention <ref type="bibr" target="#b8">[9]</ref>.</p><p>Egocentrism has been linked to Internet addiction <ref type="bibr" target="#b13">[14]</ref>. Supposedly, the egocentric construction of SNSs may facilitate the engagement in addictive behaviors and may thus serve as a factor that attracts people to using it in a potentially excessive way. This hypothesis is in line with the PACE Framework for the etiology of addiction specificity <ref type="bibr" target="#b14">[15]</ref>. Attraction is one of the four key components that may predispose individuals to becoming addicted to specific behaviors or substances rather than specific others. Accordingly, due to their egocentric construction, SNSs allow individuals to present themselves positively that may "raise their spirits" (i.e., enhance their mood state) because it is experienced as pleasurable. This may lead to positive experiences that can potentially cultivate and facilitate learning experiences that drive the development of SNS addiction.</p><p>A behavioral addiction such as SNS addiction may thus be seen from a biopsychosocial perspective <ref type="bibr" target="#b15">[16]</ref>. Just like substance-related addictions, SNS addiction incorporates the experience of the 'classic' addiction symptoms, namely mood modification (i.e., engagement in SNSs leads to a favourable change in emotional states), salience (i.e., behavioral, cognitive, and emotional preoccupation with the SNS usage), tolerance (i.e., ever increasing use of SNSs over time), withdrawal symptoms (i.e., experiencing unpleasant physical and emotional symptoms when SNS use is restricted or stopped), conflict (i.e., interpersonal and intrapsychic problems ensue because of SNS usage), and relapse (i.e., addicts quickly revert back in their excessive SNS usage after an abstinence period).</p><p>Moreover, scholars have suggested that a combination of biological, psychological and social factors contributes to the etiology of addictions <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>, that may also hold true for SNS addiction. From this it follows that SNS addiction shares a common underlying etiological framework with other substance-related and behavioral addictions. However, due to the fact that the engagement in SNSs is different in terms of the actual expression of (Internet) addiction (i.e., pathological use of social networking sites rather than other Internet applications), the phenomenon appears worthy of individual consideration, particularly when considering the potentially detrimental effects of both substance-related and behavioral addictions on individuals who experience a variety of negative consequences because of their addiction <ref type="bibr" target="#b17">[18]</ref>.</p><p>To date, the scientific literature addressing the addictive qualities of social networks on the Internet is scarce. Therefore, with this literature review, it is intended to provide empirical insight into the emerging phenomenon of Internet social network usage and potential addiction by <ref type="bibr" target="#b0">(1)</ref> outlining SNS usage patterns, (2) examining motivations for SNS usage, (3) examining personalities of SNS users, (4) examining negative consequences of SNSs, (5) exploring potential SNS addiction, and (6) exploring SNS addiction specificity and comorbidity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Method</head><p>An extensive literature search was conducted using the academic database Web of Knowledge as well as Google Scholar. The following search terms as well as their derivatives were entered: social network, online network, addiction, compulsive, excessive, use, abuse, motivation, personality, and comorbidity. Studies were included if they: (i) included empirical data, (ii) made reference to usage patterns, (iii) motivations for usage, (iv) personality traits of users, (v) negative consequences of use, (vi) addiction, (vii) and/or comorbidity and specificity. A total of 43 empirical studies were identified from the literature, five of which specifically assessed SNS addiction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Usage</head><p>Social networking sites are seen as a 'global consumer phenomenon' and, as already noted, have experienced an exponential rise in usage within the last few years <ref type="bibr" target="#b11">[12]</ref>. Of all Internet users, approximately one-third participate in SNSs and ten percent of the total time spent online is spent on SNSs <ref type="bibr" target="#b11">[12]</ref>. In terms of usage, the results of the Parents and Teens 2006 Survey with a random sample of 935 participants in America revealed that 55% of youths used SNSs in that year <ref type="bibr" target="#b18">[19]</ref>. The main reasons reported for this usage were staying in touch with friends (endorsed by 91%), and using them to make new friends (49%). This was more common among boys than girls. Girls preferred to use these sites in order to maintain contacts with actual friends rather than making new ones. Furthermore, half of the teenagers in this sample visited their SNS at least once a day which is indicative of the fact that in order to keep an attractive profile, frequent visits are necessary and this is a factor that facilitates potential excessive use <ref type="bibr" target="#b18">[19]</ref>. Moreover, based on the results of consumer research, the overall usage of SNSs increased by two hours per month to 5.5 hours and active participation increased by 30% from 2009 to 2010 <ref type="bibr" target="#b4">[5]</ref>.</p><p>The findings of an online survey of 131 psychology students in the US <ref type="bibr" target="#b19">[20]</ref> indicated that 78% used SNSs, and that 82% of males and 75% of females had SNS profiles. Of those, 57% used their SNS on a daily basis. The activities most often engaged in on SNSs were reading/responding to comments on their SNS page and/or posts to one's wall (endorsed by 60%; the "wall" is a special profile feature in Facebook, where people can post comments, pictures, and links, that can be responded to), sending/responding to messages/invites (14%), and browsing friends' profiles/walls/pages (13%; <ref type="bibr" target="#b19">[20]</ref>). These results correspond with findings from a different study including another university student sample <ref type="bibr" target="#b20">[21]</ref>.</p><p>Empirical research has also suggested gender differences in SNS usage patterns. Some studies claim that men tend to have more friends on SNSs than women <ref type="bibr" target="#b21">[22]</ref>, whereas others have found the opposite <ref type="bibr" target="#b22">[23]</ref>. In addition, men were found to take more risks with regards to disclosure of personal information <ref type="bibr" target="#b23">[24,</ref><ref type="bibr" target="#b24">25]</ref>. Furthermore, one study reported that slightly more females used MySpace specifically (i.e., 55% compared to 45% of males) <ref type="bibr" target="#b25">[26]</ref>.</p><p>Usage of SNSs has also been found to differ with regards to age group. A study comparing 50 teenagers (13-19 years) and the same number of older MySpace users (60 years and above) revealed that teenagers' friends' networks were larger and that their friends were more similar to themselves with regards to age <ref type="bibr" target="#b22">[23]</ref>. Furthermore, older users' networks were smaller and more dispersed age-wise. Additionally, teenagers made more use of MySpace web 2.0 features (i.e., sharing video and music, and blogging) relative to older people <ref type="bibr" target="#b22">[23]</ref>.</p><p>With regards to how people react to using SNSs, a recent study <ref type="bibr" target="#b26">[27]</ref> using psychophysiological measures (skin conductance and facial electromyography) found that social searching (i.e., extracting information from friends' profiles), was more pleasurable than social browsing (i.e., passively reading newsfeeds) <ref type="bibr" target="#b26">[27]</ref>. This finding indicates that the goal-directed activity of social searching may activate the appetitive system, which is related to pleasurable experience, relative to the aversive system <ref type="bibr" target="#b27">[28]</ref>. On a neuroanatomical level, the appetitive system has been found to be activated in Internet game overusers and addicts <ref type="bibr" target="#b29">[29,</ref><ref type="bibr" target="#b30">30]</ref>, which may be linked back to a genetic deficiency in the addicts' neurochemical reward system <ref type="bibr" target="#b31">[31]</ref>. Therefore, the activation of the appetitive system in social network users who engage in social searching concurs with the activation of that system in people found to suffer from behavioral addictions. In order to establish this link for SNS specifically, further neurobiological research is required.</p><p>In reviewing SNS usage patterns, the findings of both consumer research and empirical research indicate that overall, regular SNS use has increased substantially over the last few years. This supports the availability hypothesis that where there is increased access and opportunity to engage in an activity (in this case SNSs), there is an increase in the numbers of people who engage in the activity <ref type="bibr" target="#b32">[32]</ref>. Moreover, it indicates that individuals become progressively aware of this available supply and become more sophisticated with regards to their usage skills. These factors are associated with the pragmatics factor of addiction specificity etiology <ref type="bibr" target="#b14">[15]</ref>. Pragmatics is one of the four key components of the addiction specificity model and it emphasizes access and habituation variables in the development of specific addictions. Therefore, the pragmatics of SNS usage appears to be a factor related to potential SNS addiction.</p><p>In addition to this, the findings of the presented studies indicate that compared to the general population, teenagers and students make most use of SNSs by utilizing the inherent Web 2.0 features. Additionally, there appear to be gender differences in usage, the specifics of which are only vaguely defined and thus require further empirical investigation. In addition, SNSs tend to be used mostly for social purposes of which extracting further information from friends' pages appears particularly pleasurable. This, in turn, may be linked to the activation of the appetitive system, which indicates that engaging in this particular activity may stimulate the neurological pathways known to be related to addiction experience.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Motivations</head><p>Studies suggest that SNS usage in general, and Facebook in particular, differs as a function of motivation (i.e., <ref type="bibr" target="#b33">[33]</ref>). Drawing on uses and gratification theory, media are used in a goal-directed way for the purpose of gratification and need satisfaction <ref type="bibr" target="#b34">[34]</ref> which have similarities with addiction. Therefore, it is essential to understand the motivations that underlie SNS usage. Persons with higher social identity (i.e., solidarity to and conformity with their own social group), higher altruism (related to both, kin and reciprocal altruism) and higher telepresence (i.e., feeling present in the virtual environment) tend to use SNSs because they perceive encouragement for participation from the social network <ref type="bibr" target="#b35">[35]</ref>. Similarly, the results of a survey comprising 170 US university students indicated that social factors were more important motivations for SNS usage than individual factors <ref type="bibr" target="#b36">[36]</ref>. More specifically, these participants' interdependent self-construal (i.e., the endorsement of collectivist cultural values), led to SNS usage that in turn resulted in higher levels of satisfaction, relative to independent self-construal, which refers to the adoption of individualist values. The latter were not related to motivations for using SNSs <ref type="bibr" target="#b36">[36]</ref>.</p><p>Another study by <ref type="bibr">Barker [37]</ref> presented similar results, and found that collective self-esteem and group identification positively correlated with peer group communication via SNSs. Cheung, Chiu and Lee <ref type="bibr" target="#b38">[38]</ref> assessed social presence (i.e., the recognition that other persons share the same virtual realm, the endorsement of group norms, maintaining interpersonal interconnectivity and social enhancement with regards to SNS usage motivations). More specifically, they investigated the We-intention to use Facebook (i.e., the decision to continue using a SNS together in the future). The results of their study indicated that We-intention positively correlated with the other variables <ref type="bibr" target="#b38">[38]</ref>.</p><p>Similarly, social reasons appeared as the most important motives for using SNSs in another study <ref type="bibr" target="#b19">[20]</ref>. The following motivations were endorsed by the participating university student sample: keeping in touch with friends they do not see often (81%), using them because all their friends had accounts (61%), keeping in touch with relatives and family (48%), and making plans with friends they see often (35%). A further study found that a large majority of students used SNSs for the maintenance of offline relationships, whereas some preferred to use this type of Internet application for communication rather than face-to-face interaction <ref type="bibr" target="#b39">[39]</ref>.</p><p>The particular forms of virtual communication in SNSs include both asynchronous (i.e., personal messages sent within the SNS) and synchronous modes (i.e., embedded chat functions within the SNS) <ref type="bibr" target="#b40">[40]</ref>. On behalf of the users, these communication modes require learning differential vocabularies, namely Internet language <ref type="bibr" target="#b41">[41,</ref><ref type="bibr" target="#b42">42]</ref>. The idiosyncratic form of communication via SNSs is another factor that may fuel potential SNS addiction because communication has been identified as a component of the addiction specificity etiology framework <ref type="bibr" target="#b14">[15]</ref>. Therefore, it can be hypothesized that users who prefer communication via SNSs (as compared to face-to-face communication) are more likely to develop an addiction to using SNSs. However, further empirical research is needed to confirm such a speculation.</p><p>Moreover, research suggests that SNSs are used for the formation and maintenance of different forms of social capital <ref type="bibr" target="#b43">[43]</ref>. Social capital is broadly defined as "the sum of the resources, actual or virtual, that accrue to an individual or a group by virtue of possessing a durable network of more or less institutionalized relationships of mutual acquaintance and recognition" <ref type="bibr" target="#b44">[44]</ref>. Putnam <ref type="bibr" target="#b45">[45]</ref> differentiates bridging and bonding social capital from one another. Bridging social capital refers to weak connections between people that are based on information-sharing rather than emotional support. These ties are beneficial in that they offer a wide range of opportunities and access to broad knowledge because of the heterogeneity of the respective network's members <ref type="bibr" target="#b46">[46]</ref>. Alternatively, bonding social capital indicates strong ties usually between family members and close friends <ref type="bibr" target="#b45">[45]</ref>.</p><p>SNSs are thought to increase the size of potential networks because of the large number of possible weak social ties among members, which is enabled via the structural characteristics of digital technology <ref type="bibr" target="#b47">[47]</ref>. Therefore, SNSs do not function as communities in the traditional sense. They do not include membership, shared influence, and an equal power allocation. Instead, they can be conceptualized as networked individualism, allowing the establishment of numerous self-perpetuating connections that appear advantageous for users <ref type="bibr" target="#b48">[48]</ref>. This is supported by research that was carried out on a sample of undergraduate students <ref type="bibr" target="#b43">[43]</ref>. More specifically, this study found that maintaining bridging social capital via participation in SNSs appeared to be beneficial for students with regards to potential employment opportunities in addition to sustaining ties with old friends. Overall, the benefits of bridging social capital formed via participation in SNSs appeared to be particularly advantageous for individuals with low-self esteem <ref type="bibr" target="#b49">[49]</ref>. However, the ease of establishing and maintaining bridging social capital may become one of the reasons why people with low self-esteem are drawn to using SNSs in a potentially excessive manner. Lower self-esteem, in turn, has been linked to Internet addiction <ref type="bibr" target="#b50">[50,</ref><ref type="bibr" target="#b51">51]</ref>.</p><p>Furthermore, SNS usage has been found to differ between people and cultures. A recent study <ref type="bibr" target="#b52">[52]</ref> including samples from the US, Korea and China demonstrated that the usage of different Facebook functions was associated with the creation and maintenance of either bridging or bonding social capital. People in the US used the 'Communication' function (i.e., conversation and opinion sharing) in order to bond with their peers. However, Koreans and Chinese used 'Expert Search' (i.e., searching for associated professionals online) and 'Connection' (i.e., maintaining offline relationships) for the formation and sustaining of both bonding and bridging social capital <ref type="bibr" target="#b52">[52]</ref>. These findings indicate that due to cultural differences in SNS usage patterns, it appears necessary to investigate and contrast SNS addiction in different cultures in order to discern both similarities and differences.</p><p>Additionally, the results of an online survey with a student convenience sample of 387 participants <ref type="bibr" target="#b53">[53]</ref> indicated that several factors significantly predicted the intention to use SNSs as well as their actual usage. The identified predictive factors were (i) playfulness (i.e., enjoyment and pleasure), (ii) the critical mass of the users who endorsed the technology, (iii) trust in the site, (iv) perceived ease of use, and (v) perceived usefulness. Moreover, normative pressure (i.e., the expectations of other people with regards to one's behavior) had a negative relationship with SNS usage. These results suggest that it is particularly the enjoyment associated with SNS use in a hedonic context (which has some similarities to addictions), as well as the recognition that a critical mass uses SNSs that motivates people to make use of those SNSs themselves <ref type="bibr" target="#b53">[53]</ref>.</p><p>Another study <ref type="bibr" target="#b54">[54]</ref> used a qualitative methodology to investigate why teenagers use SNSs. Interviews were conducted with 16 adolescents aged 13 to 16 years. The results indicated that the sample used SNSs in order to express and actualize their identities either via self-display of personal information (which was true for the younger sample) or via connections (which was true for the older participants). Each of these motivations was found to necessitate a trade-off between potential opportunities for self-expression and risks with regards to compromising privacy on behalf of the teenagers <ref type="bibr" target="#b54">[54]</ref>.</p><p>A study by <ref type="bibr">Barker [37]</ref> also suggested there may be differences in motivations for SNS use between men and women. Females used SNSs for communication with peer group members, entertainment and passing time, whereas men used it in an instrumental way for social compensation, learning, and social identity gratifications (i.e., the possibility to identify with group members who share similar characteristics). Seeking friends, social support, information, and entertainment were found to be the most significant motivations for SNS usage in a sample of 589 undergraduate students <ref type="bibr" target="#b55">[55]</ref>. In addition to this, endorsement of these motivations was found to differ across cultures. Kim et al. <ref type="bibr" target="#b55">[55]</ref> found that Korean college students sought social support from already established relationships via SNSs, whereas American college students looked for entertainment. Similarly, Americans had significantly more online friends than Koreans, suggesting that the development and maintenance of social relationships on SNSs was influenced by cultural artefacts <ref type="bibr" target="#b55">[55]</ref>. Furthermore, technology-relevant motivations were related to SNS use. The competence in using computer-mediated communication (i.e., the motivation to, knowledge of, and efficacy in using electronic forms of communication) was found to be significantly associated with spending more time on Facebook and checking one's wall significantly more often <ref type="bibr" target="#b33">[33]</ref>.</p><p>Overall, the results of these studies indicate that SNSs are predominantly used for social purposes, mostly related to the maintenance of established offline networks, relative to individual ones. In line with this, people may feel compelled to maintaining their social networks on the Internet which may lead to using SNSs excessively. The maintenance of already established offline networks itself can therefore be seen as an attraction factor, which according to Sussman et al. <ref type="bibr" target="#b14">[15]</ref> is related to the etiology of specific addictions. Furthermore, viewed from a cultural perspective, it appears that motivations for usage differ between members of Asian and Western countries as well as between genders and age groups. However, in general, the results of the reported studies suggest that the manifold ties pursued online are indicative, for the most part, of bridging rather than bonding social capital. This appears to show that SNSs are primarily used as a tool for staying connected.</p><p>Staying connected is beneficial to such individuals because it offers them a variety of potential academic and professional opportunities, as well as access to a large knowledge base. As the users' expectations of connectivity are met through their SNS usage, the potential for developing SNS addiction may increase as a consequence. This is in accordance with the expectation factor that drives the etiology of addiction to a specific behavior <ref type="bibr" target="#b14">[15]</ref>. Accordingly, the supposed expectations and benefits of SNS use may go awry particularly for people with low self-esteem. They may feel encouraged to spend excessive amounts of time on SNSs because they perceive it as advantageous. This, in turn, may potentially develop into an addiction to using SNSs. Clearly, future research is necessary in order to establish this link empirically.</p><p>Moreover, there appear certain limitations to the studies presented. Many studies included small convenience samples, teenagers or university students as participants, therefore severely limiting the generalizability of findings. Thus, researchers are advised to take this into consideration and amend their sampling frameworks by using more representative samples and thus improve the external validity of the research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Personality</head><p>A number of personality traits appear to be associated with the extent of SNS use. The findings of some studies (e.g., <ref type="bibr" target="#b33">[33,</ref><ref type="bibr" target="#b56">56]</ref>) indicate that people with large offline social networks, who are more extroverted, and who have higher self-esteem, use Facebook for social enhancement, supporting the principle of 'the rich get richer'. Correspondingly, the size of people's online social networks correlates positively with life satisfaction and well-being <ref type="bibr" target="#b57">[57]</ref>, but does neither have an effect on the size of the offline network nor on emotional closeness to people in real life networks <ref type="bibr" target="#b58">[58]</ref>.</p><p>However, people with only a few offline contacts compensate for their introversion, low-self esteem, and low life-satisfaction by using Facebook for online popularity, thus corroborating the principle of 'the poor get richer' (i.e., the social compensation hypothesis) <ref type="bibr" target="#b37">[37,</ref><ref type="bibr" target="#b43">43,</ref><ref type="bibr" target="#b56">56,</ref><ref type="bibr" target="#b59">59]</ref>. Likewise, people higher in narcissistic personality traits tend to be more active on Facebook and other SNSs in order to present themselves favourably online because the virtual environment empowers them to construct their ideal selves <ref type="bibr" target="#b59">[59]</ref><ref type="bibr" target="#b60">[60]</ref><ref type="bibr" target="#b61">[61]</ref><ref type="bibr" target="#b62">[62]</ref>. The relationship between narcissism and Facebook activity may be related to the fact that narcissists have an imbalanced sense of self, fluctuating between grandiosity with regards to explicit agency and low self-esteem concerning implicit communion and vulnerability <ref type="bibr" target="#b63">[63,</ref><ref type="bibr" target="#b64">64]</ref>. Narcissistic personality, in turn, has been found to be associated with addiction <ref type="bibr" target="#b65">[65]</ref>. This finding will be discussed in more detail in the section on addiction.</p><p>Moreover, it appears that people with different personality traits differ in their usage of SNSs <ref type="bibr" target="#b66">[66]</ref> and prefer to use distinct functions of Facebook <ref type="bibr" target="#b33">[33]</ref>. People high in extraversion and openness to experience use SNSs more frequently, with the former being true for mature and the latter for young people <ref type="bibr" target="#b66">[66]</ref>. Furthermore, extraverts and people open to experiences are members of significantly more groups on Facebook, use socializing functions more <ref type="bibr" target="#b33">[33]</ref>, and have more Facebook friends than introverts <ref type="bibr" target="#b67">[67]</ref>, which delineates the former's higher sociability in general <ref type="bibr" target="#b68">[68]</ref>. Introverts, on the other hand, disclose more personal information on their pages <ref type="bibr" target="#b67">[67]</ref>. Additionally, it appears that particularly shy people spend large amounts of time on Facebook and have large amounts of friends on this SNS <ref type="bibr" target="#b69">[69]</ref>. Therefore, SNSs may appear beneficial for those whose real-life networks are limited because of the possibility of easy access to peers without the demands of real-life proximity and intimacy. This ease of access entails a higher time commitment for this group, which may possibly result in excessive and/or potentially addictive use.</p><p>Likewise, men with neurotic traits use SNSs more frequently than women with neurotic traits <ref type="bibr" target="#b66">[66]</ref>. Furthermore, neurotics (in general) tend to use Facebook's wall function, where they can receive and post comments, whereas people with low neuroticism scores prefer posting photos <ref type="bibr" target="#b33">[33]</ref>. This may be due to the neurotic individual's greater control over emotional content with regards to text-based posts rather than visual displays <ref type="bibr" target="#b33">[33]</ref>. However, another study <ref type="bibr" target="#b67">[67]</ref> found the opposite, namely that people scoring high on neuroticism were more inclined to post their photographs on their page. In general, the findings for neuroticism imply that those scoring high on this trait disclose information because they seek self-assurance online, whereas those scoring low are emotionally secure and thus share information in order to express themselves <ref type="bibr" target="#b67">[67]</ref>. High self-disclosure on SNSs, in turn, was found to positively correlate with measures of subjective well-being <ref type="bibr" target="#b57">[57]</ref>. It remains questionable whether this implies that low self-disclosure on SNSs may be related to higher risk for potential addiction. By disclosing more personal information on their pages, users put themselves at risk for negative feedback, which has been linked to lower well-being <ref type="bibr" target="#b70">[70]</ref>. Therefore, the association between self-disclosure on SNSs and addiction needs to be addressed empirically in future studies.</p><p>With regards to agreeableness, it was found that females scoring high on this trait upload significantly more pictures than females scoring low, with the opposite being true for males <ref type="bibr" target="#b67">[67]</ref>. In addition to this, people with high conscientiousness were found to have significantly more friends and to upload significantly less pictures than those scoring low on this personality trait <ref type="bibr" target="#b67">[67]</ref>. An explanation for this finding may be that conscientious people tend to cultivate their online and offline contacts more without the necessity to share too much personal information publicly.</p><p>Overall, the results of these studies suggest that extraverts use SNSs for social enhancement, whereas introverts use it for social compensation, each of which appears to be related to greater SNS usage. With regards to addiction, both groups could potentially develop addictive tendencies for different reasons, namely social enhancement and social compensation. In addition, the dissimilar findings of studies with regards to the number of friends introverts have online deserve closer scrutiny in future research. The same applies for the results with regards to neuroticism. On the one hand, neurotics use SNSs frequently. On the other hand, studies indicate different usage preferences for people who score high on neuroticism, which calls for further investigation. Furthermore, the structural characteristics of these Internet applications, (i.e., their egocentric construction) appear to allow favourable self-disclosure, which draws narcissists to use it. Finally, agreeableness and conscientiousness appear to be related to the extent of SNS usage. Higher usage associated with narcissistic, neurotic, extravert and introvert personality characteristics may implicate that each of these groups is particularly at risk for developing an addiction to using SNSs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Negative Correlates</head><p>Some studies have highlighted a number of potential negative correlates of extensive SNS usage. For instance, the results of an online survey of 184 Internet users indicated that people who use SNS more in terms of time spent on usage were perceived to be less involved with their real life communities <ref type="bibr" target="#b71">[71]</ref>. This is similar to the finding that people who do not feel secure about their real-life connections to peers and thus have a negative social identity tend to use SNSs more in order to compensate for this <ref type="bibr" target="#b37">[37]</ref>. Moreover, it seems that the nature of the feedback from peers that is received on a person's SNS profile determines the effects of SNS usage on wellbeing and self-esteem.</p><p>More specifically, Dutch adolescents aged 10 to 19 years who received predominantly negative feedback had low self-esteem which in turn led to low wellbeing <ref type="bibr" target="#b70">[70]</ref>. Given that people tend to be disinhibited when they are online <ref type="bibr" target="#b72">[72]</ref>, giving and receiving negative feedback may be more common on the Internet than in real life. This may entail negative consequences particularly for people with low self-esteem who tend to use SNSs as compensation for real-life social network paucity because they are dependent upon the feedback they receive via these sites <ref type="bibr" target="#b43">[43]</ref>. Therefore, potentially, people with lower self-esteem are a population at risk for developing an addiction to using SNSs.</p><p>According to a more recent study assessing the relationships between Facebook usage and academic performance in a sample of 219 university students <ref type="bibr" target="#b73">[73]</ref>, Facebook users had lower Grade Point Averages and spent less time studying than students who did not use this SNS. Of the 26% of students reporting an impact of their usage on their lives, three-quarters (74%) claimed that it had a negative impact, namely procrastination, distraction, and poor time-management. A potential explanation for this may be that students who used the Internet to study may have been distracted by simultaneous engagement in SNSs, implying that this form of multitasking is detrimental to academic achievement <ref type="bibr" target="#b73">[73]</ref>.</p><p>In addition to this, it appears that the usage of Facebook may in some circumstances have negative consequences for romantic relationships. The disclosure of rich private information on one's Facebook page including status updates, comments, pictures, and new friends, can result in jealous cyberstalking <ref type="bibr" target="#b74">[74]</ref>, including interpersonal electronic surveillance (IES; <ref type="bibr" target="#b75">[75]</ref>) by one's partner. This was reported to lead to jealousy <ref type="bibr" target="#b76">[76,</ref><ref type="bibr" target="#b77">77]</ref> and, in the most extreme cases, divorce and associated legal action <ref type="bibr" target="#b78">[78]</ref>.</p><p>These few existent studies highlight that in some circumstances, SNS usage can lead to a variety of negative consequences that imply a potential decrease in involvement in real-life communities and worse academic performance, as well as relationship problems. Reducing and jeopardizing academic, social and recreational activities are considered as criteria for substance dependence <ref type="bibr" target="#b17">[18]</ref> and may thus be considered as valid criteria for behavioral addictions <ref type="bibr" target="#b79">[79]</ref>, such as SNS addiction. In light of this, endorsing these criteria appears to put people at risk for developing addiction and the scientific research base outlined in the preceding paragraphs supports the potentially addictive quality of SNSs.</p><p>Notwithstanding these findings, due to the lack of longitudinal designs used in the presented studies, no causal inferences can be drawn with regards to whether the excessive use of SNSs is the causal factor for the reported negative consequences. Moreover, potential confounders need to be taken into consideration. For instance, the aspect of university students' multi-tasking when studying appears to be an important factor related to poor academic achievement. Moreover, pre-existent relationship difficulties in the case of romantic partners may potentially be exacerbated by SNS use, whereas the latter does not necessarily have to be the primary driving force behind the ensuing problems. Nevertheless, the findings support the idea that SNSs are used by some people in order to cope with negative life events. Coping, in turn, has been found to be associated with both substance dependence and behavioral addictions <ref type="bibr" target="#b80">[80]</ref>. Therefore, it appears valid to claim that there is a link between dysfunctional coping (i.e., escapism and avoidance) and excessive SNS use/addiction. In order to substantiate this conjecture and to more fully investigate the potential negative correlates associated with SNS usage, further research is needed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">Addiction</head><p>Researchers have suggested that the excessive use of new technologies (and especially online social networking) may be particularly addictive to young people <ref type="bibr" target="#b81">[81]</ref>. In accordance with the biopsychosocial framework for the etiology of addictions <ref type="bibr" target="#b15">[16]</ref> and the syndrome model of addiction <ref type="bibr" target="#b16">[17]</ref>, it is claimed that those people addicted to using SNSs experience symptoms similar to those experienced by those who suffer from addictions to substances or other behaviors <ref type="bibr" target="#b81">[81]</ref>. This has significant implications for clinical practice because unlike other addictions, the goal of SNS addiction treatment cannot be total abstinence from using the Internet per se since the latter is an integral element of today's professional and leisure culture. Instead, the ultimate therapy aim is controlled use of the Internet and its respective functions, particularly social networking applications, and relapse prevention using strategies developed within cognitive-behavioral therapies <ref type="bibr" target="#b81">[81]</ref>.</p><p>In addition to this, scholars have hypothesized that young vulnerable people with narcissistic tendencies are particularly prone to engaging with SNSs in an addictive way <ref type="bibr" target="#b65">[65]</ref>. To date, only three empirical studies have been conducted and published in peer-reviewed journals that have specifically assessed the addictive potential of SNSs <ref type="bibr" target="#b82">[82]</ref><ref type="bibr" target="#b83">[83]</ref><ref type="bibr" target="#b84">[84]</ref>. In addition to this, two publicly available Master's theses have analyzed the SNS addiction and will be presented subsequently for the purpose of inclusiveness and the relative lack of data on the topic <ref type="bibr" target="#b85">[85,</ref><ref type="bibr" target="#b86">86]</ref>. In the first study <ref type="bibr" target="#b83">[83]</ref>, 233 undergraduate university students (64% females, mean age = 19 years, SD = 2 years) were surveyed using a prospective design in order to predict high level use intentions and actual high-level usage of SNSs via an extended model of the theory of planned behavior (TPB; <ref type="bibr" target="#b87">[87]</ref>). High-level usage was defined as using SNSs at least four times per day. TPB variables included measures of intention for usage, attitude, subjective norm, and perceived behavioral control (PBC). Furthermore, self-identity (adapted from <ref type="bibr" target="#b88">[88]</ref>), belongingness <ref type="bibr" target="#b89">[89]</ref>, as well as past and potential future usage of SNSs were investigated. Finally, addictive tendencies were assessed using eight questions scored on Likert scales (based on <ref type="bibr" target="#b90">[90]</ref>).</p><p>One week after completion of the first questionnaire, participants were asked to indicate on how many days during the last week they had visited SNSs at least four times a day. The results of this study indicated that past behavior, subjective norm, attitude, and self-identity significantly predicted both behavioral intention as well as actual behavior. Additionally, addictive tendencies with regards to SNS use were significantly predicted by self-identity and belongingness <ref type="bibr" target="#b83">[83]</ref>. Therefore, those who identified themselves as SNS users and those who looked for a sense of belongingness on SNSs appeared to be at risk for developing an addiction to SNSs.</p><p>In the second study <ref type="bibr" target="#b82">[82]</ref>, an Australian university student sample of 201 participants (76% female, mean age = 19, SD = 2) was drawn upon in order to assess personality factors via the short version of the NEO Personality Inventory (NEO-FFI; <ref type="bibr" target="#b91">[91]</ref>), the Self-Esteem Inventory (SEI; <ref type="bibr" target="#b92">[92]</ref>), time spent using SNSs, and an Addictive Tendencies Scale (based on <ref type="bibr" target="#b90">[90,</ref><ref type="bibr" target="#b93">93]</ref>). The Addictive Tendencies Scale included three items measuring salience, loss of control, and withdrawal. The results of a multiple regression analysis indicated that high extraversion and low conscientiousness scores significantly predicted both addictive tendencies and the time spent using an SNS. The researchers suggested that the relationship between extraversion and addictive tendencies could be explained by the fact that using SNSs satisfies the extraverts' need to socialize <ref type="bibr" target="#b82">[82]</ref>. The findings with regards to lack of conscientiousness appear to be in line with previous research on the frequency of general Internet use in that people who score low on conscientiousness tend to use the Internet more frequently than those who score high on this personality trait <ref type="bibr" target="#b95">[94]</ref>.</p><p>In the third study, Karaiskos et al. <ref type="bibr" target="#b84">[84]</ref> report the case of a 24-year old female who used SNS to such an extent that her behavior significantly interfered with her professional and private life. As a consequence, she was referred to a psychiatric clinic. She used Facebook excessively for at least five hours a day and was dismissed from her job because she continuously checked her SNS instead of working. Even during the clinical interview, she used her mobile phone to access Facebook. In addition to excessive use that led to significant impairment in a variety of areas in the woman's life, she developed anxiety symptoms as well as insomnia, which suggestively points to the clinical relevance of SNS addiction. Such extreme cases have led to some researchers to conceptualize SNS addiction as Internet spectrum addiction disorder <ref type="bibr" target="#b84">[84]</ref>. This indicates that first, SNS addiction can be classified within the larger framework of Internet addictions, and second, that it is a specific Internet addiction, alongside other addictive Internet applications such as Internet gaming addiction <ref type="bibr" target="#b96">[95]</ref>, Internet gambling addiction <ref type="bibr" target="#b97">[96]</ref>, and Internet sex addiction <ref type="bibr" target="#b98">[97]</ref>.</p><p>In the fourth study <ref type="bibr" target="#b85">[85]</ref>, SNS game addiction was assessed via the Internet Addiction Test <ref type="bibr" target="#b99">[98]</ref> using 342 Chinese college students aged 18 to 22 years. In this study, SNS game addiction referred specifically to being addicted to the SNS game Happy Farm. Students were defined as addicted to using this SNS game when they endorsed a minimum of five out of eight total items of the IAT. Using this cut-off, 24% of the sample were identified as addicted <ref type="bibr" target="#b85">[85]</ref>.</p><p>Moreover, the author investigated gratifications of SNS game use, loneliness <ref type="bibr" target="#b100">[99]</ref>, leisure boredom [100], and self esteem <ref type="bibr">[101]</ref>. The findings indicated that there was a weak positive correlation between loneliness and SNS game addiction and a moderate positive correlation between leisure boredom and SNS game addiction. Moreover, the gratifications "inclusion" (in a social group) and "achievement" (in game), leisure boredom, and male gender significantly predicted SNS game addiction <ref type="bibr" target="#b85">[85]</ref>.</p><p>In the fifth study <ref type="bibr" target="#b86">[86]</ref>, SNS addiction was assessed in a sample of 335 Chinese college students aged 19 to 28 years using Young's Internet Addiction Test <ref type="bibr" target="#b99">[98]</ref> modified to specifically assess the addiction to a common Chinese SNS, namely Xiaonei.com. Users were classified as addicted when they endorsed five or more of the eight addiction items specified in the IAT. Moreover, the author assessed loneliness <ref type="bibr" target="#b100">[99]</ref>, user gratifications (based on the results of a previous focus group interview), usage attributes and patterns of SNS website use <ref type="bibr" target="#b86">[86]</ref>.</p><p>The results indicated that of the total sample, 34% were classified as addicted. Moreover, loneliness significantly and positively correlated with frequency and session length of using Xiaonei.com as well as SNS addiction. Likewise, social activities and relationship building were found to predict SNS addiction <ref type="bibr" target="#b86">[86]</ref>.</p><p>Unfortunately, when viewed from a critical perspective, the quantitative studies reviewed here suffer from a variety of limitations. Initially, the mere assessment of addiction tendencies does not suffice to demarcate real pathology. In addition, the samples were small, specific, and skewed with regards to female gender. This may have led to the very high addiction prevalence rates (up to 34%) reported <ref type="bibr" target="#b86">[86]</ref>. Clearly, it needs to be ensured that rather than assessing excessive use and/or preoccupation, addiction specifically needs to be assessed.</p><p>Wilson et al.'s study <ref type="bibr" target="#b82">[82]</ref> suffered from endorsing only three potential addiction criteria which is not sufficient for establishing addiction status clinically. Similarly, significant impairment and negative consequences that discriminate addiction from mere abuse <ref type="bibr" target="#b17">[18]</ref> were not assessed in this study at all. Thus, future studies have great potential in addressing the emergent phenomenon of addiction to using social networks on the Internet by means of applying better methodological designs, including more representative samples, and using more reliable and valid addiction scales so that current gaps in empirical knowledge can be filled.</p><p>Furthermore, research must address the presence of specific addiction symptoms beyond negative consequences. These might be adapted from the DSM-IV TR criteria for substance dependence <ref type="bibr" target="#b17">[18]</ref> and the ICD-10 criteria for a dependence syndrome [102], including (i) tolerance, (ii) withdrawal, (iii) increased use, (iv) loss of control, (v) extended recovery periods, (vi) sacrificing social, occupational and recreational activities, and (vii) continued use despite of negative consequences. These have been found to be adequate criteria for diagnosing behavioral addictions <ref type="bibr" target="#b79">[79]</ref> and thus appear sufficient to be applied to SNS addiction. In order to be diagnosed with SNS addiction, at least three (but preferably more) of the above mentioned criteria should be met in the same 12-month period and they must cause significant impairment to the individual <ref type="bibr" target="#b17">[18]</ref>.</p><p>In light of this qualitative case study, it appears that from a clinical perspective, SNS addiction is a mental health problem that may require professional treatment. Unlike the quantitative studies, the case study emphasizes the significant individual impairment that is experienced by individuals that spans a variety of life domains, including their professional life as well as their psychosomatic condition. Future researchers are therefore advised to not only investigate SNS addiction in a quantitative way, but to further our understanding of this new mental health problem by analyzing cases of individuals who suffer from excessive SNS usage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.6.">Specificity and Comorbidity</head><p>It appears essential to pay adequate attention to (i) the specificity of SNS addiction and (ii) potential comorbidity. Hall et al.</p><p>[103] outline three reasons why it is necessary to address comorbidity between mental disorders, such as addictions. First, a large number of mental disorders feature additional (sub)clinical problems/disorders. Second, comorbid conditions must be addressed in clinical practice in order to improve treatment outcomes. Third, specific prevention programs may be developed which incorporate different dimensions and treatment modalities that particularly target associated mental health problems. From this it follows that assessing the specificity and potential comorbidities of SNS addiction is important. However, to date, research addressing this topic is virtually non-existent. There has been almost no research on the co-occurrence of SNS addiction with other types of addictive behavior, mainly because there have been so few studies examining SNS addiction as highlighted in the previous section. However, based on the small empirical base, there are a number of speculative assumptions that can be made about co-addiction co-morbidity in relation to SNS addiction.</p><p>Firstly, for some individuals, their SNS addiction takes up such a large amount of available time that it is highly unlikely that it would co-occur with other behavioral addictions unless the other behavioral addiction(s) can find an outlet via social networking sites (e.g., gambling addiction, gaming addiction). Put simply, there would be little face validity in the same individual being, for example, both a workaholic and a social networking addict, or an exercise addict and a social networking addict, mainly because the amount of daily time available to engage in two behavioral addictions simultaneously would be highly unlikely. Still, it is necessary to pinpoint the respective addictive behaviors because some of these behaviors may in fact co-occur. In one study that included a clinical sample diagnosed with substance dependencies, Malat and colleagues [104] found that 61% pursued at least one and 31% engaged in two or more problematic behaviors, such as overeating, unhealthy relationships and excessive Internet use. Therefore, although a simultaneous addiction to behaviors such as working and using SNS is relatively unlikely, SNS addiction may potentially co-occur with overeating and other excessive sedentary behaviors.</p><p>Thus, secondly, it is theoretically possible for a social networking addict to have an additional drug addiction, as it is perfectly feasible to engage in both a behavioral and chemical addiction simultaneously <ref type="bibr" target="#b15">[16]</ref>. It may also make sense from a motivational perspective. For instance, if one of the primary reasons social network addicts are engaging in the behavior is because of their low self-esteem, it makes intuitive sense that some chemical addictions may serve the same purpose. Accordingly, studies suggest that the engagement in addictive behaviors is relatively common among persons who suffer from substance dependence. In one study, <ref type="bibr">Black et al. [105]</ref> found that 38% of problematic computer users in their sample had a substance use disorder in addition to their behavioral problems/addiction. Apparently, research indicates that some persons who suffer from Internet addiction experience other addictions at the same time.</p><p>Of a patient sample including 1,826 individuals treated for substance addictions (mainly cannabis addiction), 4.1% were found to suffer from Internet addiction <ref type="bibr">[106]</ref>. Moreover, the findings of further research <ref type="bibr">[107]</ref> indicated that Internet addiction and substance use experience in adolescents share common family factors, namely higher parent-adolescent conflict, habitual alcohol use of siblings, perceived parents' positive attitude to adolescent substance use, and lower family functioning. Moreover, <ref type="bibr">Lam et al. [108]</ref> assessed Internet addiction and associated factors in a sample of 1,392 adolescents aged 13-18 years. In terms of potential comorbidity, they found that drinking behavior was a risk factor for being diagnosed with Internet addiction using the Internet Addiction Test <ref type="bibr">[109]</ref>. This implies that potentially, alcohol abuse/dependence can be associated with SNS addiction. Support for this comes from <ref type="bibr">Kuntsche et al. [110]</ref>. They found that in Swiss adolescents, the expectancy of social approval was associated with problem drinking. Since SNSs are inherently social platforms that are used by people for social purposes, it appears reasonable to deduce that there may indeed be people who suffer from comorbid addictions, namely SNS addiction and alcohol dependence.</p><p>Thirdly, it appears that there may be a relationship between SNS addiction specificity and personality traits. <ref type="bibr">Ko et al. [111]</ref> found that Internet addiction (IA) was predicted by high novelty seeking (NS), high harm avoidance (HA), and low reward dependence (RD) in adolescents. Those adolescents who were addicted to the Internet and who had experience of substance use scored significantly higher on NS and lower on HA than the IA group. Therefore, it appears that HA particularly impacts Internet addiction specificity because high HA discriminates Internet addicts from individuals who are not only addicted to the Internet, but who use substances. Therefore, it seems plausible to hypothesize that persons with low harm avoidance are in danger of developing comorbid addictions to SNSs and substances. Accordingly, research needs to address this difference specifically for those who are addicted to using SNSs in order to demarcate this potential disorder from comorbid conditions.</p><p>In addition to this, it seems reasonable to specifically address the respective activities people can engage in on their SNS. There have already been a number of researchers who have begun to examine the possible relationship between social networking and gambling <ref type="bibr">[112]</ref><ref type="bibr">[113]</ref><ref type="bibr">[114]</ref><ref type="bibr">[115]</ref><ref type="bibr">[116]</ref>, and social networking and gaming <ref type="bibr">[113,</ref><ref type="bibr">116,</ref><ref type="bibr">117]</ref>. All of these writings have noted how the social networking medium can be used for gambling and/or gaming. For instance, online poker applications and online poker groups on social networking sites are among the most popular [115], and others have noted the press reports surrounding addiction to social networking games such as Farmville [117]. Although there have been no empirical studies to date examining addiction to gambling or gaming via social networking, there is no reason to suspect that those playing in the social networking medium are any less likely than those playing other online or offline media to become addicted to gambling and/or gaming.</p><p>Synoptically, addressing the specificity of SNS addiction and comorbidities with other addictions is necessary for (i) comprehending this disorder as distinct mental health problem while (ii) paying respect to associated conditions, which will (iii) aid treatment and (iv) prevention efforts. From the reported studies, it appears that the individual's upbringing and psychosocial context are influential factors with regards to potential comorbidity between Internet addiction and substance dependence, which is supported by scientific models of addictions and their etiology <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>. Moreover, alcohol and cannabis dependence were outlined as potential co-occurring problems. Nonetheless, apart from this, the presented studies do not specifically address the discrete relationships between particular substance dependencies and individual addictive behaviors, such as addiction to using SNSs. Therefore, future empirical research is needed in order to shed more light upon SNS addiction specificity and comorbidity.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion and Conclusions</head><p>The aim of this literature review was to present an overview of the emergent empirical research relating to usage of and addiction to social networks on the Internet. Initially, SNSs were defined as virtual communities offering their members the possibility to make use of their inherent Web 2.0 features, namely networking and sharing media content. The history of SNSs dates back to the late 1990s, suggesting that they are not as new as they may appear in the first place. With the emergence of SNSs such as Facebook, overall SNS usage has accelerated in such a way that they are considered a global consumer phenomenon. Today, more than 500 million users are active participants in the Facebook community alone and studies suggest that between 55% and 82% of teenagers and young adults use SNSs on a regular basis. Extracting information from peers' SNS pages is an activity that is experienced as especially enjoyable and it has been linked with the activation of the appetitive system, which in turn is related to addiction experience.</p><p>In terms of sociodemographics, the studies presented indicate that overall, SNS usage patterns differ. Females appear to use SNS in order to communicate with members of their peer group, whereas males appear to use them for the purposes of social compensation, learning, and social identity gratifications <ref type="bibr" target="#b37">[37]</ref>. Furthermore, men tend to disclose more personal information on SNS sites relative to women <ref type="bibr" target="#b24">[25,</ref><ref type="bibr">118]</ref>. Also, more women were found to use MySpace specifically relative to men <ref type="bibr" target="#b25">[26]</ref>. Moreover, usage patterns were found to differ between genders as a function of personality. Unlike women with neurotic traits, men with neurotic traits were found to be more frequent SNS users <ref type="bibr" target="#b66">[66]</ref>. In addition to this, it was found that males were more likely to be addicted to SNS games specifically relative to females <ref type="bibr" target="#b85">[85]</ref>. This is in line with the finding that males in general are a population at risk for developing an addiction to playing online games <ref type="bibr" target="#b96">[95]</ref>.</p><p>The only study that assessed age differences in usage <ref type="bibr" target="#b22">[23]</ref> indicated that the latter in fact varies as a function of age. Specifically, "silver surfers" (i.e., those over the age of 60 years) have a smaller circle of online friends that differs in age relative to younger SNS users. Based on the current empirical knowledge that has predominantly assessed young teenage and student samples, it appears unclear whether older people use SNSs excessively and whether they potentially become addicted to using them. Therefore, future research must aim at filling this gap in knowledge.</p><p>Next, the motivations for using SNSs were reviewed on the basis of needs and gratifications theory. In general, research suggests that SNSs are used for social purposes. Overall, the maintenance of connections to offline network members was emphasized rather than the establishment of new ties. With regards to this, SNS users sustain bridging social capital through a variety of heterogeneous connections to other SNS users. This appeared to be beneficial for them with regards to sharing knowledge and potential future possibilities related to employment and related areas. In effect, the knowledge that is available to individuals via their social network can be thought of as "collective intelligence" <ref type="bibr">[119]</ref>.</p><p>Collective intelligence extends the mere idea of shared knowledge because it is not restricted to knowledge shared by all members of a particular community. Instead, it denotes the aggregation of each individual member's knowledge that can be accessed by other members of the respective community. In this regard, the pursuit of weak ties on SNSs is of great benefit and thus coincides with the satisfaction of the members' needs. At the same time, it is experienced as gratifying. Therefore, rather than seeking emotional support, individuals make use of SNSs in order to communicate and stay in touch not only with family and friends, but also with more distant acquaintances, therefore sustaining weak ties with potentially advantageous environments. The benefits of large online social networks may potentially lead people to excessively engage in using them, which, in turn, may purport addictive behaviors.</p><p>As regards personality psychology, certain personality traits were found to be associated with higher usage frequency that may be associated with potential abuse and/or addiction. Of those, extraversion and introversion stand out because each of these is related to more habitual participation in social networks on the Internet. However, the motivations of extraverts and introverts differ in that extraverts enhance their social networks, whereas introverts compensate for the lack of real life social networks. Presumably, the motivations for higher SNS usage of people who are agreeable and conscientious may be related to those shared by extraverts, indicating a need for staying connected and socializing with their communities. Nevertheless, of those, high extraversion was found to be related to potential addiction to using SNS, in accordance with low conscientiousness <ref type="bibr" target="#b82">[82]</ref>.</p><p>The dissimilar motivations for usage found for members scoring high on the respective personality trait can inform future research into potential addiction to SNSs. Hypothetically, people who compensate for scarce ties with their real life communities may be at greater risk to develop addiction. In effect, in one study, addictive SNS usage was predicted by looking for a sense of belongingness in this community <ref type="bibr" target="#b83">[83]</ref>, which supports this conjecture. Presumably, the same may hold true for people who score high on neuroticism and narcissism, assuming that members of both groups tend to have low self-esteem. This supposition is informed by research indicating that people use the Internet excessively in order to cope with everyday stressors <ref type="bibr">[120,</ref><ref type="bibr">121]</ref>. This may serve as a preliminary explanation for the findings regarding the negative correlates that were found to be associated with more frequent SNS usage.</p><p>Overall, the engagement in particular activities on SNSs, such as social searching, and the personality traits that were found to be associated with greater extents of SNS usage may serve as an anchor point for future studies in terms of defining populations who are at risk for developing addiction to using social networks on the Internet. Furthermore, it is recommended that researchers assess factors that are specific to SNS addiction, including the pragmatics, attraction, communication and expectations of SNS use because these may predict the etiology of SNS addiction as based on the addiction specificity etiology framework <ref type="bibr" target="#b14">[15]</ref>. Due to the scarcity of research in this domain with a specific focus on SNS addiction specificity and comorbidity, further empirical research is necessary. Moreover, researchers are encouraged to pay close attention to the different motivations of introverts and extraverts because each of those appears to be related to higher usage frequency. What is more, investigating the relationship of potential addiction with narcissism seems to be a fruitful area for empirical research. In addition to this, motivations for usage as well as a wider variety of negative correlates related to excessive SNS use need to be addressed.</p><p>In addition to the above mentioned implications and suggestions for future research, specific attention needs to be paid to selecting larger samples which are representative of a broader population in order to increase the respective study's external validity. The generalizability of results is essential in order to demarcate populations at risk for developing addiction to SNSs. Similarly, it appears necessary to conduct further psychophysiological studies in order to assess the phenomenon from a biological perspective. Furthermore, clear-cut and validated addiction criteria need to be assessed. It is insufficient to limit studies into addiction to assessing just a few criteria. The demarcation of pathology from high frequency and problematic usage necessitates adopting frameworks that have been established by the international classification manuals <ref type="bibr" target="#b17">[18,</ref><ref type="bibr">102]</ref>. Moreover, in light of clinical evidence and practice, it appears essential to pay attention to the significant impairment that SNS addicts experience in a variety of life domains as a consequence of their abusive and/or addictive behaviors.</p><p>Similarly, the results of data based on self-reports are not sufficient for diagnosis because research suggests that they may be inaccurate <ref type="bibr">[122]</ref>. Conceivably, self-reports may be supplemented with structured clinical interviews <ref type="bibr">[123]</ref> and further case study evidence as well as supplementary reports from the users' significant others. In conclusion, social networks on the Internet are iridescent Web 2.0 phenomena that offer the potential to become part of, and make use of, collective intelligence. However, the latent mental health consequences of excessive and addictive use are yet to be explored using the most rigorous scientific methods.</p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cohen</surname></persName>
+		</author>
+		<ptr target="http://articles.cnn.com/2009-04-23/health/ep.facebook.addict_1_facebook-page-facebook-world-social-networking?_s=PM" />
+		<title level="m">Five Clues that You Are Addicted to Facebook</title>
+		<meeting><address><addrLine>Atlanta, GA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>CNN Health</publisher>
+			<date type="published" when="2009-08-18">2009. 18 August 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Webley</surname></persName>
+		</author>
+		<ptr target="http://newsfeed.time.com/2010/07/08/its-time-to-confront-your-facebook-addiction/" />
+		<title level="m">It&apos;s Time to Confront Your Facebook Addiction</title>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Time Inc</publisher>
+			<date type="published" when="2011-08-18">2011. 18 August 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">To Deal with Obsession, Some Defriend Facebook</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hafner</surname></persName>
+		</author>
+		<ptr target="http://www.nytimes.com/2009/12/21/technology/internet/21facebook.html" />
+		<imprint>
+			<date type="published" when="2009-08-18">2009. 18 August 2011</date>
+			<publisher>The New York Times Company</publisher>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Revoir</surname></persName>
+		</author>
+		<ptr target="http://www.dailymail.co.uk/sciencetech/article-1079633/Facebook-blame-friendship-addiction-women.html" />
+		<title level="m">Facebook to Blame for &quot;Friendship Addiction</title>
+		<meeting><address><addrLine>London, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Associated Newspapers Ltd</publisher>
+			<date type="published" when="2008-08-18">2008. 18 August 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Global Audience Spends Two Hours More a Month on Social Networks than Last Year</title>
+		<author>
+			<persName><forename type="first">The</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Company</forename></persName>
+		</author>
+		<ptr target="http://blog.nielsen.com/nielsenwire/global/global-audience-spends-two-hours-more-a-month-on-social-networks-than-last-year/" />
+		<imprint>
+			<date type="published" when="2010-08-18">2010. 18 August 2011</date>
+			<publisher>The Nielsen Company</publisher>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Internet addiction-Time to be taken seriously?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Addict. Res</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="413" to="418" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Internet addiction: Evaluation and treatment</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Student Brit. Med. J</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="351" to="352" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Young</surname></persName>
+		</author>
+		<ptr target="http://www.netaddiction.com/index.php?option=com_blog&amp;view=comments&amp;pid=5&amp;Itemid=0" />
+		<title level="m">The Center for Online Addiction</title>
+		<meeting><address><addrLine>Bradford, PA, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009-11-29">2009. 29 November 2010</date>
+		</imprint>
+	</monogr>
+	<note>Facebook Addiction Disorder?</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Social network sites: Definition, history, and scholarship</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Boyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Mediat. Comm</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="210" to="230" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jenkins</surname></persName>
+		</author>
+		<title level="m">Convergence Culture. Where Old and New Media Collide</title>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>New York University Press</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The small world problem</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Milgram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Today</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="60" to="67" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Global Faces and Networked Places</title>
+		<author>
+			<persName><forename type="first">The</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Company</forename></persName>
+		</author>
+		<ptr target="http://blog.nielsen.com/nielsenwire/wp-content/uploads/2009/03/nielsen_globalfaces_mar09.pdf" />
+		<imprint>
+			<date type="published" when="2009-08-18">2009. 18 August 2011</date>
+			<publisher>The Nielsen Company</publisher>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The Virtual Community: Homesteading on the Electronic Frontier</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rheingold</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>MIT; Cambridge, MA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Exploration of adolescents&apos; Internet addiction</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<ptr target="http://en.cnki.com.cn/Article_en/CJFDTOTAL-XLFZ201005019.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Dev. Educ</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<date type="published" when="2010">2010. 16 Feburary 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A framework for specificity of the addictions</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sussman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Leventhal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Bluthenthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Freimuth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Forster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Ames</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Environ. Res. Public Health</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="3399" to="3415" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A &quot;components&quot; model of addiction within a biopsychosocial framework</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Subst. Use</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="191" to="197" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Toward a syndrome model of addiction: Multiple expressions, common etiology</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Shaffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Laplante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Labrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Kidman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Donato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Stanton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Rev. Psychiat</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="367" to="374" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Diagnostic and Statistical Manual of Mental Disorders-Text Revision, Fourth Edition</title>
+	</analytic>
+	<monogr>
+		<title level="m">American Psychiatric Association</title>
+		<meeting><address><addrLine>Washington, DC, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Psychiatric Association</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Social Networking Websites and Teens: An Overview</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lenhart</surname></persName>
+		</author>
+		<ptr target="http://www.pewinternet.org/~/media//Files/Reports/2007/PIP_SNS_Data_Memo_Jan_2007.pdf.pdf" />
+		<imprint>
+			<date type="published" when="2007-11-27">2007. 27 November 2010</date>
+			<pubPlace>Washington, DC, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Pew Research Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Online and offline social networks: Use of social networking sites by emerging adults</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Subrahmanyam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Reich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Waechter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Espinoza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Dev. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="420" to="433" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">College students&apos; social networking experiences on Facebook</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Pempek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">A</forename><surname>Yermolayeva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Calvert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Dev. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="227" to="238" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">MySpace and facebook: Applying the uses and gratifications theory to exploring friend-networking sites</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Raacke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bonds-Raacke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="169" to="174" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Age differences in online social networking-A study of user profiles and the social capital divide among teenagers and older users in MySpace</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Pfeil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Arjan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zaphiris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="643" to="654" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Internet social network communities: Risk taking, trust, and privacy concerns</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nehmad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="153" to="160" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Using positive youth development to predict contribution and risk behaviors in early adolescence: Findings from the first two waves of the 4-H Study of Positve Youth Development</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Jelicic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Bobek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Phelps</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Lerner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Lerner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Behav. Dev</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="263" to="273" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Social network site changes over time: The case of MySpace</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thelwall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Soc. Inf. Sci. Tech</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="2311" to="2323" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Emotional responses during social information seeking on Facebook</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Alhabash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Park</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol. Behav. Soc. Network</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="555" to="562" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Where psychophysiology meets the media: Taking the effects out of mass communication research</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Potter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Bolls</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Media Effects: Advances in Theory and Research</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m">Routledge Taylor and Francis Group</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Bryant</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Oliver</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="185" to="206" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Altered regional cerebral glucose metabolism in Internet game overusers: A F-18-fluorodeoxyglucose Positron Emission Tomography study</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Bang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CNS Spectr</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="159" to="166" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Brain activities associated with gaming urge of online gaming addiction</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hsiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Psychiat. Res</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="739" to="747" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Cognition, Emotion and Autonomic Responses: The Integrative Role of the Prefrontal Cortex and Limbic Structures</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Comings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Blum</surname></persName>
+		</author>
+		<editor>Uylings, H.B.M., VanEden, C.G., DeBruin, J.P.C., Feenstra, M.G.P., Pennartz, C.M.A.</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Elsevier Science</publisher>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="325" to="341" />
+			<pubPlace>Amsterdam, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Reward deficiency syndrome: Genetic aspects of behavioral disorders</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Internet gambling: Issues, concerns, and recommendations</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="557" to="568" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Personality and motivations associated with Facebook use</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Orr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sisic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Arseneault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Simmering</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Orr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="578" to="586" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Uses of mass communications by the individual</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Blumler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gurevitch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mass Communication Research: Major Issues and Future Directions</title>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Davidson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Yu</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Praeger</publisher>
+			<date type="published" when="1974">1974</date>
+			<biblScope unit="page" from="11" to="35" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">An empirical study of the factors affecting social network service use</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="254" to="263" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">An analysis of self-construals, motivations, facebook use, and user satisfaction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Nam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Hum-Comput. Int</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1077" to="1099" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Older adolescents&apos; motivations for social network site use: The influence of gender, group identity, and collective self-esteem</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Barker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="209" to="213" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Online social networks: Why do students use facebook?</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M K</forename><surname>Cheung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P.-Y</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K O</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1337" to="1343" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Facebook and MySpace: Complement or substitute for face-to-face interaction? Cyberpsychol</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Kujath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behav. Soc. Network</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="75" to="78" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Computer-mediated communication: Impersonal, interpersonal, and hyperpersonal interaction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Walther</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Commun. Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="3" to="43" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The scope of Internet linguistics</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Crystal</surname></persName>
+		</author>
+		<ptr target="http://www.davidcrystal.com/DC_articles/Internet2.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of American Association for the Advancement of Science Conference; American Association for the Advancement of Science Conference</title>
+		<meeting>American Association for the Advancement of Science Conference; American Association for the Advancement of Science Conference<address><addrLine>Washington, DC, USA; Washington, DC, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Association for the Advancement of Science</publisher>
+			<date type="published" when="2005-02-21">17-21 February 2005. 18 August 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The Internet and language</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Thurlow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Concise Encyclopeia of Sociolinguistics</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Mesthrie</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Asher</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Pergamon; London, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="287" to="289" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The benefits of Facebook &quot;friends&quot;: Social capital and college students&apos; use of online social network sites</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+		<ptr target="http://jcmc.indiana.edu/vol12/issue4/ellison.html" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput-Mediat. Comm</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<date type="published" when="2007-08-18">2007. 18 August 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bourdieu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wacquant</surname></persName>
+		</author>
+		<title level="m">An Invitation to Reflexive Sociology</title>
+		<meeting><address><addrLine>Chicago, IL, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Putnam</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bowling Alone</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Simon &amp; Schuster</publisher>
+			<pubPlace>New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The network basis of social support: A network is more than the sum of its ties</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gulia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Networks in the Global Village</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Westview; Boulder, CO, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Public displays of connection</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Donath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Boyd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BT Technol. J</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="71" to="82" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Adolescents&apos; sense of community on MySpace and facebook: A mixed-methods approach</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Reich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Community Psychol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="688" to="705" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Social capital, self-esteem, and use of online social network sites: A longitudinal analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Steinfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lampe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Dev. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="434" to="445" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Potential determinants of heavier internet usage</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Saling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Hum-Comput. St</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="537" to="550" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Prevalence of Internet addiction and comparison of Internet addicts and non-addicts in Iranian high schools</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ghassemzadeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shahraray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Moradi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="731" to="733" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The influence of cultural differences on the use of social network services and the formation of social capital</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">G</forename><surname>Ji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hwangbo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Yi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L P</forename><surname>Rau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">W</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Hum-Comput. Int</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1100" to="1121" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Using social network sites: The effects of playfulness, critical mass and trust in a hedonic context</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sledgianowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kulviwat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput. Inform. Syst</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="74" to="83" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Taking risky opportunities in youthful content creation: Teenagers&apos; use of social networking sites for intimacy, privacy and self-expression</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Livingstone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Media Soc</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="393" to="411" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Cultural difference in motivations for using social network sites: A comparative study of American and Korean college students</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Choi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="365" to="372" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The faces of Facebookers: Investigating social enhancement and social compensation hypotheses: Predicting Facebook and offline popularity from sociability and self-esteem, and mapping the meanings of popularity with semantic networks</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zywica</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Danowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Comput-Mediat. Comm</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1" to="34" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Use of social-networking sites and subjective well-being: A study in South Korea</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kwon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol. Behav. Soc. Network</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="151" to="155" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Use of social network sites and instant messaging does not lead to increased offline social network size, or to emotionally closer relationships with offline network members</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Pollet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G B</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I M</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol. Behav. Soc. Network</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="253" to="258" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Self-presentation 2.0: Narcissism and self-esteem on facebook</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mehdizadeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol. Behav. Soc. Network</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="357" to="364" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Narcissism and social networking web sites</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Buffardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pers. Soc. Psychol. B</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1303" to="1314" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Identity construction on Facebook: Digital empowerment in anchored relationships</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grasmuck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="1816" to="1836" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Self-presentation and gender on MySpace</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Manago</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Greenfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Salimkhan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Dev. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="446" to="458" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Do narcissists dislike themselves &quot;deep down inside</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Bosson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Goheen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Lakey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Kernis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="227" to="229" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Narcissism at the crossroads: Phenotypic description of pathological narcissism across clinical theory, social/personality psychology, and psychiatric diagnosis</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Cain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Pincus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Ansell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Psychol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="638" to="656" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Social network and addiction</title>
+		<author>
+			<persName><forename type="first">La</forename><surname>Barbera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>La Paglia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Valsavoia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="628" to="629" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Who interacts on the Web?: The intersection of users&apos; personality and social media use</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Hinsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>De Zuniga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="247" to="253" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Social network use and personality</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Amichai-Hamburger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vinitzky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1289" to="1295" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Mccrae</surname></persName>
+		</author>
+		<title level="m">Revised NEO Personality Inventory (NEO-PI-R) and the NEO Five-Factor Inventory (NEO-FFI): Professional Manual; Psychological Assessment Resources</title>
+		<meeting><address><addrLine>Odessa, FL, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">The influence of shyness on the use of Facebook in an undergraduate sample</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Orr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Simmering</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Arseneault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Orr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="337" to="340" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Friend networking sites and their relationship to adolescents&apos; well-being and social self-esteem</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Valkenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Peter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Schouten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="584" to="590" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">MySpace: Social networking or social isolation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nyland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Marvez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Midwinter Conference of the Association for Education in Journalism and Mass Communication, Midwinter Conference of the Association for Education in Journalism and Mass Communication</title>
+		<meeting>the Midwinter Conference of the Association for Education in Journalism and Mass Communication, Midwinter Conference of the Association for Education in Journalism and Mass Communication<address><addrLine>Reno, NV, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007-02">February 2007</date>
+			<biblScope unit="page" from="23" to="24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">The online disinhibition effect</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Suler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="321" to="326" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Facebook and academic performance</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Kirschner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Karpinski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1237" to="1245" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title level="m" type="main">MySpace or Yours? Social Networking Sites Surveillance in Romantic Relationships</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Phillips</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Western States Communication Association</publisher>
+			<pubPlace>Mesa, AZ, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Social networking site or social surveillance site? Understanding the use of interpersonal electronic surveillance in romantic relationships</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Tokunaga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="705" to="713" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">More information than you ever wanted: Does facebook bring out the green-eyed monster of jealousy? CyberPsychol</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Muise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Christofides</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Desmarais</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behav</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="441" to="444" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Persch</surname></persName>
+		</author>
+		<ptr target="http://www.msnbc.msn.com/id/20431006/" />
+		<title level="m">Jealous Much? MySpace, Facebook Can Spark It; The Msnbc Digital Network</title>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007-08-18">2007. 18 August 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Social norms: Facebook and divorce</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Luscombe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Time</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="93" to="94" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grüsser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Thalemann</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Verhaltenssucht-Diagnostik</surname></persName>
+		</author>
+		<title level="m">Therapie, Forschung</title>
+		<meeting><address><addrLine>Hans Huber; Bern, Germany</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">How stable is the motive-alcohol use link? A cross-national validation of the drinking motives questionnaire revised among adolescents from Switzerland, Canada, and the United States</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kuntsche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Cooper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Stud. Alcohol Drugs</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="388" to="396" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Addiction to new technologies and to online social networking in young people: A new challenge</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Echeburua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>De Corral</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adicciones</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="91" to="95" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Psychological predictors of young adults&apos; use of social networking sites</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fornasier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol. Behav. Soc. Network</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="173" to="177" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">The theory of planned behavior applied to young people&apos;s use of social networkting web sites</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Pelling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="755" to="759" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Social network addiction: A new clinical disorder?</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Karaiskos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tzavellas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Balta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Paparrigopoulos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Psychiat</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">855</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">X</forename><surname>Zhou</surname></persName>
+		</author>
+		<title level="m">Gratifications, loneliness, leisure boredom and self-esteem as predictors of SNS-game addiction and usage pattern among Chinese college students</title>
+		<meeting><address><addrLine>Hong Kong, China</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+		<respStmt>
+			<orgName>Chinese University of Hong Kong</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">M.S. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wan</surname></persName>
+		</author>
+		<title level="m">Gratifications &amp; loneliness as predictors of campus-SNS websites addiction &amp; usage pattern among Chinese college students</title>
+		<meeting><address><addrLine>Hong Kong, China</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+		<respStmt>
+			<orgName>Chinese University of Hong Kong</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">M.S. Thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">The theory of planned behavior</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ajzen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organ. Behav. Hum</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="179" to="211" />
+			<date type="published" when="1991-12">Dec. 1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">The theory of planned behavior: Self-identity, social identity and group norms</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H M</forename><surname>Terry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brit. J. Soc. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="225" to="244" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">The need to belong: Desire for interpersonal attachments as a fundamental human motivation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Baumeister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Leary</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol. Bull</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="497" to="529" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Personality and self-esteem as predictors of young people&apos;s technology use</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ehrenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Juckes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Walsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="739" to="741" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Mccrae</surname></persName>
+		</author>
+		<title level="m">Psychological Assessment Resources</title>
+		<meeting><address><addrLine>Odessa, TX, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>NEO PI-R Professional Manual</note>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Coopersmith</surname></persName>
+		</author>
+		<title level="m">Self-esteem Inventories</title>
+		<meeting><address><addrLine>Palo Alto, CA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Consulting Psychologists Press</publisher>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Young and connected: Psychological influences of mobile phone use amongst Australian youth</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of an International Conference on Social and Cultural Aspects of Mobile Phones, Media, and Wireless Technologies</title>
+		<meeting>an International Conference on Social and Cultural Aspects of Mobile Phones, Media, and Wireless Technologies<address><addrLine>Sydney, Australia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007-02-04">2007. 2-4 July 2007</date>
+		</imprint>
+	</monogr>
+	<note>Mobile Media</note>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Goggin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hjorth</surname></persName>
+		</author>
+		<title level="m">University of</title>
+		<meeting><address><addrLine>Sydney; Sydney, Australia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="125" to="134" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">An investigation of Big Five and narrow personality traits in relation to Internet usage</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Landers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Lounsbury</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="283" to="293" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Internet gaming addiction: A systematic review of empirical research</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Ment. Health Addict</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Internet gambling behavior</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Encyclopedia of Cyber Behavior</title>
+		<meeting><address><addrLine>Hershey, PA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>IGI Global</publisher>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">Internet sex addiction: A review of empirical research</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Kuss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Addict. Res. Theory</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Internet addiction: The emergence of a new clinical disorder</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="237" to="244" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main">The revised UCLA Loneliness Scale: Concurrent and discriminant validity evidence</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Peplau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Cutrona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Pers. Soc. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">100</biblScope>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<analytic>
+		<title level="a" type="main">Receptions of boredom in leisure: Conceptualization, reliability and validity of the leisure boredom scale</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Iso-Ahola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Weissinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Leisure Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">101</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">Self-esteem and adolescent problems: Modeling reciprocal effects</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schooler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schoenbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. Sociol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page">102</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<analytic>
+		<title level="a" type="main">ICD 10: The ICD-10 Classification of Mental and Behavioral Disorders: Clinical Descriptions and Diagnostic Guidelines</title>
+	</analytic>
+	<monogr>
+		<title level="j">Addict. Behav</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">104</biblScope>
+			<date type="published" when="1992">1992. 2009</date>
+			<pubPlace>Geneva, Switzerland</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>World Health Organization (WHO</orgName>
+		</respStmt>
+	</monogr>
+	<note>Understanding comorbidity between substance use, anxiety and affective disorders: Broadening the research base</note>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main">Addictive behaviors in comorbid addiction and mental illness: Preliminary results from a self-report questionnaire</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Malat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dhayanandhan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Carullo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Turner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Addict. Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">105</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<analytic>
+		<title level="a" type="main">Clinical features, psychiatric comorbidity, and health-related quality of life in persons reporting compulsive computer use behavior</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Black</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Belsare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schlosser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Clin. Psychiat</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page">106</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<analytic>
+		<title level="a" type="main">Internet addiction as comorbid disorder in patients with a substance-related disorder: Results from a survey in different inpatient clinics</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Dickenhorst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Medenwaldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wölfling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Koch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Psychiat</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">107</biblScope>
+			<date type="published" when="1912">2011. 1912</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<analytic>
+		<title level="a" type="main">Family factors of Internet addiction and substance use experience in Taiwanese adolescents</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Ko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">108</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<analytic>
+		<title level="a" type="main">Factors associated with Internet addiction among adolescents</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">W</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">109</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Young</surname></persName>
+		</author>
+		<title level="m">Caught in the Net</title>
+		<meeting><address><addrLine>New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page">110</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<analytic>
+		<title level="a" type="main">Replication and validation of the drinking motive questionnaire revised (DMQ-R, Cooper, 1994) among adolescents in Switzerland</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kuntsche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Knibbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gmel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Engels</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur. Addict. Res</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">111</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<analytic>
+		<title level="a" type="main">Tridimensional personality of adolescents with Internet addiction and substance use experience</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Ko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Yen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can. J. Psychiat</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page">112</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<analytic>
+		<title level="a" type="main">The Facebook phenomenon: Social networking and gambling</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Downs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceeding of the Gambling and Social Responsibility Forum Conference</title>
+		<meeting>eeding of the Gambling and Social Responsibility Forum Conference<address><addrLine>Manchester, UK; Manchester Metropolitan University; Manchester, UK</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008-09-03">2-3 September 2008. 2008</date>
+			<biblScope unit="page">113</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<analytic>
+		<title level="a" type="main">Adolescent gambling-like experiences: Are they a cause for concern?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Delfabbro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Educ. Health</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">114</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<monogr>
+		<author>
+			<persName><forename type="first">Mori</forename><surname>Ipsos</surname></persName>
+		</author>
+		<title level="m">British Survey of Children, the National Lottery and Gambling 2008-2009</title>
+		<meeting><address><addrLine>Salford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Lottery Commission</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page">115</biblScope>
+		</imprint>
+	</monogr>
+	<note>Report of A Quantitative Survey</note>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<analytic>
+		<title level="a" type="main">Adolescent gambling on the Internet: A review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Parke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Adol. Med. Health</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">116</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<analytic>
+		<title level="a" type="main">The convergence of gambling and digital media: Implications for gambling in young people</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Delfabbro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Gambl. Stud</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">117</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b117">
+	<analytic>
+		<title level="a" type="main">Gaming in social networking sites: A growing concern?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Online Gambl. Law Rep</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">118</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b118">
+	<analytic>
+		<title level="a" type="main">Internet social network communities: Risk taking, trust, and privacy concerns</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nehmad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput. Hum. Behav</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">119</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b119">
+	<analytic>
+		<title level="a" type="main">Computer game playing: Clinical characteristics of dependence and abuse among adolescents</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lévy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wiener Klinsche Wochenschrift</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page">121</biblScope>
+			<date type="published" when="1997">1997. 2009</date>
+			<publisher>Perseus</publisher>
+			<pubPlace>Cambridge, MA, USA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Collective Intelligence: Mankind&apos;s Emerging World in Cyberspace</note>
+</biblStruct>
+
+<biblStruct xml:id="b120">
+	<analytic>
+		<title level="a" type="main">Video and computer game addiction</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wölfling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grüsser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Thalemann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Psychol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page">122</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b121">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bhandari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Wagner</surname></persName>
+		</author>
+		<title level="m">Self-report Utilization: Improving Measurement and Accuracy</title>
+		<meeting><address><addrLine>San Diego, CA, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>US National Institutes of Health</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page">123</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b122">
+	<analytic>
+		<title level="a" type="main">Internet addiction: A review of current assessment techniques and potential assessment questions</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Beard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CyberPsychol. Behav</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="7" to="14" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

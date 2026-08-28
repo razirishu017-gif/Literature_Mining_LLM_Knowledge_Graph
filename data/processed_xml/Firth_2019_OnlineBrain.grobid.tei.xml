@@ -1,0 +1,2878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The “online brain”: how the Internet may be changing our cognition</title>
+				<funder ref="#_XqqHWHB">
+					<orgName type="full">NHMRC</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">NIHR Greater Manchester Patient Safety Translational Research Centre</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Health Education England</orgName>
+				</funder>
+				<funder ref="#_f7P8Wfm">
+					<orgName type="full">NHMRCAustralian Research Council (ARC)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Institute for Health Research</orgName>
+					<orgName type="abbreviated">NIHR</orgName>
+				</funder>
+				<funder ref="#_h53bnsU">
+					<orgName type="full">Australian National Health and Medical Research Council</orgName>
+					<orgName type="abbreviated">NHMRC</orgName>
+				</funder>
+				<funder ref="#_7vWspyW">
+					<orgName type="full">National Institute for Health Research Integrated Clinical Academic Programme Clinical Lectureship</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Blackmores Institute Fellowship</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2019-05-06">2019-05-06</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Joseph</forename><surname>Firth</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">NICM Health Research Institute</orgName>
+								<orgName type="institution" key="instit2">Western Sydney University</orgName>
+								<address>
+									<settlement>Westmead</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Centre for Youth Mental Health</orgName>
+								<orgName type="institution">University of Melbourne</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><surname>Torous</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Division of Digital Psychiatry</orgName>
+								<orgName type="department" key="dep2">Department of Psychiatry</orgName>
+								<orgName type="department" key="dep3">Beth Israel Deaconess Medical Center</orgName>
+								<orgName type="institution">Harvard Medical School</orgName>
+								<address>
+									<settlement>Boston</settlement>
+									<region>MA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Brendon</forename><surname>Stubbs</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Department of Psychological Medicine</orgName>
+								<orgName type="department" key="dep2">Institute of Psychiatry, Psychology and Neuroscience</orgName>
+								<orgName type="institution">King&apos;s College London</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Physiotherapy Department</orgName>
+								<orgName type="institution">South London and Maudsley NHS Foundation Trust</orgName>
+								<address>
+									<settlement>London</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Josh</forename><forename type="middle">A</forename><surname>Firth</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department" key="dep1">Department of Zoology</orgName>
+								<orgName type="department" key="dep2">Edward Grey Institute</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff7">
+								<orgName type="department">Merton College</orgName>
+								<orgName type="institution">University of Oxford</orgName>
+								<address>
+									<settlement>Oxford</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Genevieve</forename><forename type="middle">Z</forename><surname>Steiner</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">NICM Health Research Institute</orgName>
+								<orgName type="institution" key="instit2">Western Sydney University</orgName>
+								<address>
+									<settlement>Westmead</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff8">
+								<orgName type="department">Translational Health Research Institute</orgName>
+								<orgName type="institution">Western Sydney University</orgName>
+								<address>
+									<settlement>Penrith</settlement>
+									<region>NSW</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Lee</forename><surname>Smith</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">Cambridge Centre for Sport and Exercise Sciences</orgName>
+								<orgName type="institution">Anglia Ruskin University</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mario</forename><surname>Alvarez‐jimenez</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">John</forename><surname>Gleeson</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Centre for Youth Mental Health</orgName>
+								<orgName type="institution">University of Melbourne</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff11">
+								<orgName type="department">School of Psychology</orgName>
+								<orgName type="institution">Australian Catholic University</orgName>
+								<address>
+									<settlement>Melbourne</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Davy</forename><surname>Vancampfort</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department">Department of Rehabilitation Sciences</orgName>
+								<orgName type="institution">KU Leuven</orgName>
+								<address>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff13">
+								<orgName type="department">University Psychiatric Center</orgName>
+								<orgName type="institution">KU Leuven</orgName>
+								<address>
+									<settlement>Leuven</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Christopher</forename><forename type="middle">J</forename><surname>Armitage</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Psychology and Mental Health</orgName>
+								<orgName type="institution">University of Manchester</orgName>
+								<address>
+									<settlement>Manchester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff14">
+								<orgName type="department">NIHR Manchester Biomedical Research Centre</orgName>
+								<orgName type="institution">Manchester University NHS Foundation Trust</orgName>
+							</affiliation>
+							<affiliation key="aff15">
+								<orgName type="department">Manchester Academic Health Science Centre</orgName>
+								<address>
+									<settlement>Manchester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff16">
+								<orgName type="institution">NIHR Greater Manchester Patient Safety Translational Research Centre</orgName>
+								<address>
+									<settlement>Manchester</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jerome</forename><surname>Sarris</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">NICM Health Research Institute</orgName>
+								<orgName type="institution" key="instit2">Western Sydney University</orgName>
+								<address>
+									<settlement>Westmead</settlement>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff17">
+								<orgName type="department">Department of Psychiatry</orgName>
+								<orgName type="laboratory">Professorial Unit</orgName>
+								<orgName type="institution" key="instit1">The Melbourne Clinic</orgName>
+								<orgName type="institution" key="instit2">University of Melbourne</orgName>
+								<address>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The “online brain”: how the Internet may be changing our cognition</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">World Psychiatry</title>
+						<title level="j" type="abbrev">World Psychiatry</title>
+						<idno type="ISSN">1723-8617</idno>
+						<idno type="eISSN">2051-5545</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">18</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="119" to="129"/>
+							<date type="published" when="2019-05-06" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">BCF4D083333482FD4626CB76F37107F9</idno>
+					<idno type="DOI">10.1002/wps.20617</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Internet</term>
+					<term>cognition</term>
+					<term>attention</term>
+					<term>memory</term>
+					<term>social structures</term>
+					<term>social media</term>
+					<term>addiction</term>
+					<term>virtual reality</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The impact of the Internet across multiple aspects of modern society is clear. However, the influence that it may have on our brain structure and functioning remains a central topic of investigation. Here we draw on recent psychological, psychiatric and neuroimaging findings to examine several key hypotheses on how the Internet may be changing our cognition. Specifically, we explore how unique features of the online world may be influencing: a) attentional capacities, as the constantly evolving stream of online information encourages our divided attention across multiple media sources, at the expense of sustained concentration; b) memory processes, as this vast and ubiquitous source of online information begins to shift the way we retrieve, store, and even value knowledge; and c) social cognition, as the ability for online social settings to resemble and evoke real-world social processes creates a new interplay between the Internet and our social lives, including our self-concepts and self-esteem. Overall, the available evidence indicates that the Internet can produce both acute and sustained alterations in each of these areas of cognition, which may be reflected in changes in the brain. However, an emerging priority for future research is to determine the effects of extensive online media usage on cognitive development in youth, and examine how this may differ from cognitive outcomes and brain impact of uses of Internet in the elderly. We conclude by proposing how Internet research could be integrated into broader research settings to study how this unprecedented new facet of society can affect our cognition and the brain across the life course.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The Internet is the most widespread and rapidly adopted technology in the history of humanity. In only decades, Inter net use has completely reinvented the ways in which we search for information, consume media and entertainment, and man age our social networks and relationships. With the even more recent advent of smartphones, Internet access has become portable and ubiquitous to the point at which the population of the developed world can be considered "online" <ref type="bibr" target="#b12">13</ref> .</p><p>However, the impact that this new channel for connection, information, communication, and screen time is having on our brains and cognitive functioning is unclear. Prior to the Inter net, a large body of research had convincingly demonstrated that the brain is somewhat malleable to environmental de mands and stimuli, particularly with regards to learning new processes, due to its capacity for neuroplasticity <ref type="bibr" target="#b3">4</ref> . Various sce narios have been observed to induce longterm changes in the neuronal architecture of the human brain, including second language acquisition <ref type="bibr" target="#b4">5</ref> , learning new motor skills (such as jug gling) <ref type="bibr" target="#b5">6</ref> , and even formal education or exam preparation <ref type="bibr" target="#b6">7</ref> . The widespread use of the Internet across the globe has introduced, for many, the necessity and opportunity to learn a myriad of new skills and ways to interact with society, which could bring about neural changes. As an example, even simple interactions with the Internet through the smartphone's touchscreen inter face have been demonstrated to bring about sustained neuro cognitive alterations due to neural changes in cortical regions associated with sensory and motor processing of the hand and thumb <ref type="bibr" target="#b7">8</ref> . Beyond this, the Internet also presents a novel plat form for almostendless learning of new information and com plex processes, relevant to both the online and offline world <ref type="bibr" target="#b8">9</ref> .</p><p>Along with neuroplastic mechanisms, other environmen tal and biological factors can also cause changes in the brain's structure and function, resulting in cognitive decline <ref type="bibr" target="#b9">10</ref> . In ag ing samples, for instance, there is evidence to indicate that age related cognitive decline may be partly driven by a process of atrophy. Some studies have shown that adopting a less engag ing lifestyle across the lifespan may accelerate loss of cognitive function <ref type="bibr" target="#b10">11</ref> , due to lower "cognitive reserve" (the ability of the brain to withstand insult from age and/or pathology) <ref type="bibr" target="#b11">12</ref> . Some emerging evidence indicates that disengaging from the "real world" in favor of virtual settings may similarly induce adverse neurocognitive changes. For example, a recent randomized controlled trial (RCT) <ref type="bibr" target="#b12">13</ref> found that six weeks of engaging in an online role playing game caused significant reductions in grey matter within the orbitofrontal cortex -a brain region impli cated in impulse control and decision making. However, the study did not address the extent to which these results were specific to online gaming, rather than general internet usage. Nonetheless, this raises the possibility that various types of In ternet usage could differentially affect the brain and cognitive processes -in both adverse and beneficial ways. This may be of particular relevance to the developing brains of children and adolescents, as many cognitive processes (particularly those relevant to higher executive functions and social cognition) are not entirely innate, but rather are strongly influenced by environmental factors <ref type="bibr" target="#b13">14</ref> .</p><p>Although only recently emerging, this possibility has led to a substantial body of research empirically investigating the mul tiple potential pathways through which the Internet could af fect our brains' structure, function, and cognitive development. Specifically, the bulk of existing research can be separated into three specific domains, examining how the internet is affecting: a) attention (i.e., how the constant influx of online information, prompts and notifications competing for our attention may encourage individuals to displace their concentration across multiple incoming media streams -and the consequences this may have for attentionalswitching versus sustainedattention tasks); b) memory and knowledge (i.e., the extent to which we rely on the Internet as our primary informational resource, and how unique properties of online information access may affect how we process new memories and value our internal knowl edge); c) social cognition (along with the personal and societal consequences of increasingly embedding our social networks, interactions, and status within the online world).</p><p>In this stateoftheart review, we present the current lead ing hypotheses of how the Internet may alter these cognitive processes, subsequently examining the extent to which these hypotheses are supported by recent findings from psychologi cal, psychiatric and neuroimaging research. In this way, we ag gregate the contemporary evidence arising from multiple fields of research to produce revised models on how the Internet may be affecting our brains and cognition. Furthermore, whereas studies to date have focused upon only specific age groups, we examine the effects of the Internet on the human brain across the entire life course. In particular, we explore how the potential benefits/drawbacks of extensive Internet integration with cognitive processes may differ among children and older adults. Finally, we identify important gaps in the existing litera ture to present key priorities for future research in order to gain new insights for minimizing detrimental effects of the Internet, while capitalizing on this new feature of our societies to poten tially influence neurocognitive processes in a beneficial way.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>"DIGITAL DISTRACTIONS": A HIJACK OF ATTENTION ON THE INFORMATION HIGHWAY?</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How does the Internet gain and sustain our attention?</head><p>The Internet consumes a considerable chunk of our atten tion on a daytoday basis. The vast majority of adults go on line daily, and over a quarter report being online "almost constantly" 2 . Within this, one in five American adults are now "smartphone only" Internet users <ref type="bibr" target="#b0">1</ref> . Importantly, the in troduction of these Internetenabled mobile devices has also reduced the "digital divide" previously experienced by lower and middle income countries <ref type="bibr" target="#b14">15</ref> . The amount and frequency of Internet usage is even more pronounced amongst young er people. Most adults today witnessed the beginning of the transition from "Internetfree" to "Interneteverywhere" socie ties. However, younger generations (termed "digital natives" <ref type="bibr" target="#b15">16</ref> ) have been brought up entirely within a "connected world" , par ticularly in developed countries. Consequently, digital natives are often the first to adopt new online technologies as they arise <ref type="bibr" target="#b15">16</ref> , and engage extensively with all existing features of the Internet. For instance, 95% of US teens have access to a smart phone, and 45% are online "almost constantly" <ref type="bibr" target="#b2">3</ref> .</p><p>Multiple factors are driving the rapid uptake and extensive usage of Internetenabled technologies across the globe. This is partly due to the Internet now being unavoidable, ubiquitous, and a highly functional aspect of modern living. For instance, Internet use is now deeply entwined with education, travel, socializing, commerce, and the majority of workplaces. Along with pragmatic uses, the Internet also offers an endless array of recreational and entertainment activities, through podcasts, ebooks, videos, streaming movies and gaming. However, the ability of the Internet to capture and hold attention is not solely due to the quality of media content available online. Rather, it is also driven by the underlying design and presentation of the online world. One such example is the selfevolving "attraction mechanism"; whereby aspects of the Internet that fail to gain attention are quickly drowned out in the sea of incoming in formation, while the successful aspects of the adverts, articles, apps or anything that does manage to capture our attention (even superficially) are logged (through clicks and scrolls), noticed (through online shares), and subsequently prolifer ated and expanded upon. Alongside this, leading technology companies have been accused of intentionally capitalizing on the addictive potential of Internet, by studying, testing, and refining the attentiongrabbing aspects of their websites and applications ("apps") to promote extremely high levels of en gagement, without due concern for user well being <ref type="bibr" target="#b16">17</ref> .</p><p>Furthermore, even when not using the Internet for any spe cific purpose, smartphones have introduced widespread and habitual "checking" behaviours, characterized by quick but fre quent inspections of the device for incoming information from news, social media, or personal contacts <ref type="bibr" target="#b17">18</ref> . These habits are thought to be the result of behavioural reinforcement from "in formation rewards" that are received immediately on checking the device <ref type="bibr" target="#b18">19</ref> , potentially engaging the corticostriatal dopa minergic system due to their readily available nature <ref type="bibr" target="#b19">20</ref> . The variableratio reinforcement schedule inherent to device check ing may further perpetuate these compulsive behaviours <ref type="bibr" target="#b20">21</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cognitive consequences of the attention-grabbing Internet</head><p>The unprecedented potential of the Internet to capture our attention presents an urgent need for understanding the impact that this may have on our thought processes and well being. Already, education providers are beginning to perceive detri mental effects of the Internet on children's attention, with over 85% of teachers endorsing the statement that "today's digital technologies are creating an easily distracted generation" <ref type="bibr" target="#b21">22</ref> . The primary hypothesis on how the Internet affects our attentional capacities is through hyperlinks, notifications, and prompts providing a limitless stream of different forms of digital media, thus encouraging us to interact with multiple inputs simulta neously, but only on a shallow level, in a behavioural pattern termed "media multitasking" <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24</ref> .</p><p>The seminal study by Ophir et al <ref type="bibr" target="#b22">23</ref> was among the first to ex plore the sustained impact of media multitasking on cognitive capacities. This was a crosssectional study of individuals who engaged in "heavy" (i.e., frequent and extensive) media multi tasking compared to those who did not. Cognitive testing of the two groups produced the thensurprising finding that those involved in heavy media multitasking performed worse in taskswitching tests than their counterparts -contrary to the authors' expectation that the "extra practice" afforded by frequent media multitasking would confer cognitive benefit in taskswitching scenarios. Closer inspection of findings sug gested that the impeded taskswitching ability in heavy media multitasking individuals was due to their increased suscep tibility to distraction from irrelevant environmental stimuli <ref type="bibr" target="#b22">23</ref> .</p><p>Since these initial findings, the effects of media multi tasking on cognition have come under increasing scrutiny, because the increasingly diverse forms of entertainment and activities available through the online world can further our capabilities (and temptation) of engaging in media multi tasking <ref type="bibr" target="#b24">25</ref> , even on single devices. For instance, Yeykelis et al <ref type="bibr" target="#b25">26</ref> measured partici pants' media multitasking between different types of online media content while using just one device (personal laptops), and found that switches occurred as frequently as every 19 seconds, with 75% of all onscreen content being viewed for less than one minute. Measures of skin conductance during the study found that arousal increased in the seconds leading up to media switching, reaching a high point at the moment of the switch, followed by a decline afterward <ref type="bibr" target="#b25">26</ref> . Again, this suggests that the proclivity for alternating between different computer windows, opening new hyperlinks, and performing new searches could be driven by the readily available nature of the informational rewards, which are potentially awaiting in the unattended media stream. Supporting this, the study also found that, whereas switching from work related content to entertainment was associated with increased arousal in antici pation of the switch, there was no anticipatory arousal spike as sociated with entertainment to workcontent switches <ref type="bibr" target="#b25">26</ref> .</p><p>The growing concern around the increasing amount of me dia multitasking with the spread of ubiquitous Internet access has resulted in further empirical studies. These have produced conflicting findings, with some failing to find any adverse effects on attention <ref type="bibr" target="#b26">27</ref> , and others indicating that media multi tasking may even be linked to increased performance for other aspects of cognition, such as multisensory integration <ref type="bibr" target="#b27">28</ref> . Nonetheless the literature, on balance, does seem to indicate that those who engage in frequent and extensive media multi tasking in their daytoday lives perform worse in various cognitive tasks than those who do not, particularly for sustained attention <ref type="bibr" target="#b24">25</ref> .</p><p>Imaging studies have shed light onto the neural differences which may account for these cognitive deficits. Functionally, those who engage in heavy media multitasking perform poor er in distracted attention tasks, even though exhibiting greater activity in right prefrontal regions <ref type="bibr" target="#b28">29</ref> . As right prefrontal regions are typically activated in response to distractor stimuli, the ob served increases in recruitment of these regions alongside poorer performance suggests that heavy media multitaskers require greater cognitive effort to maintain concentration when faced with distractor stimuli <ref type="bibr" target="#b28">29</ref> . Structurally, high levels of Internet usage <ref type="bibr" target="#b29">30</ref> and heavy media multitasking <ref type="bibr" target="#b30">31</ref> are asso ciated with decreased grey matter in prefrontal regions associ ated with maintaining goals in face of distraction (such as the right frontal pole and anterior cingulate cortex). However, the findings to date must be interpreted with caution, as various confounding factors may be affecting the results of these cross sectional imaging studies. Although the differences persist when controlling for general digital media use and other simple confounders (age, gender, etc.), further research is required to examine if the observed neural differences are specifically at tributable to heavy vs. light media multitasking, or in fact driv en by broader differences in lifestyle between the two groups.</p><p>Given the amount of time that people now spend in media multitasking via personal digital devices, it is increasingly rel evant to consider not only sustained changes which arise in those who engage in large amounts of media multitasking, but also the acute effects on immediate cognitive capacities. A metaanalysis of 41 studies showed that engaging in multi tasking was associated with significantly poorer overall cogni tive performance, with a moderatetolarge effect size (Cohen's d=-0.71, 95% CI: -0.86 to -0.57). This has been confirmed by more recent studies, further showing that even shortterm engagement with an extensively hyperlinked online environ ment (i.e., online shopping for 15 minutes) reduces attentional scope for a sustained duration after coming offline, whereas reading a magazine does not produce these deficits <ref type="bibr" target="#b31">32</ref> .</p><p>Overall, the available evidence strongly indicates that en gaging in multitasking via digital media does not improve our multitasking performance in other settings -and in fact seems to decrease this cognitive capacity through reducing our abil ity to ignore incoming distractions. Much of the multi tasking investigations so far have been focusing on personal com puters. However, smartphone technologies may even further encourage people to engage in media multitasking through high rates of incoming prompts from emails, direct messages and social media notifications occurring while both using and not using the device. Thus, along with determining longterm consequences of media multitasking, future research should examine how the constant multitasking made possible by Internetenabled mobile devices may impact daily functioning through acute but high frequency effects.</p><p>Furthermore, both the immediate and chronic effects of media multitasking are relatively unexplored in children and adolescents, who are the prime users of such technologies <ref type="bibr" target="#b32">33</ref> and are at a phase of development that is crucial for refining higher cognitive abilities <ref type="bibr" target="#b13">14</ref> . The first longitudinal study of me dia multitasking in young people has recently found that fre quent multitasking behaviours do predict the development of attentional deficits specifically in early adolescents, but not in older teens <ref type="bibr" target="#b33">34</ref> . Additionally, extensive media multitasking dur ing childhood and adolescence could also negatively impact cognitive development through indirect means, by reducing engagement with academic and social activities, as well as by interfering with sleep <ref type="bibr" target="#b34">35</ref> , or reducing the opportunity to engage in creative thinking <ref type="bibr" target="#b35">36,</ref><ref type="bibr" target="#b36">37</ref> . Clearly, further research is necessary to properly measure the effects of ubiquitous computing on children's cognitive development, and to find practical ways for ameliorating any detrimental impact this may be having.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>"iFORMATION": NEUROCOGNITIVE RESPONSES TO ONLINE INFORMATION GATHERING</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Internet and transactive memory</head><p>In response to the question "How has the Internet changed your life?" , some common answers include finding new friends, renewing old friendships, studying online, finding romantic relationships, furthering career opportunities, shopping, and travel <ref type="bibr" target="#b37">38</ref> . However, the most common answer is people stating that the Internet has "changed the way in which they access information" <ref type="bibr" target="#b37">38</ref> . Indeed, for the first time in human history, the majority of people living in the developed world have access to almost all factual information in existence literally at their fingertips.</p><p>Along with the obvious advantages, this unique situation also introduces the possibility of the Internet ultimately negat ing or replacing the need for certain human memory systemsparticularly for aspects of "semantic memory" (i.e., memory of facts) -which are somewhat independent from other types of memory in the human brain <ref type="bibr" target="#b38">39</ref> . An initial indication of Internet information gathering affecting typical memory processes was provided by Sparrow et al <ref type="bibr" target="#b39">40</ref> , who demonstrated that the ability to access information online caused people to become more likely to remember where these facts could be retrieved rather than the facts themselves, indicating that people quickly be come reliant on the Internet for information retrieval.</p><p>It could be argued that this is not unique to the Internet, but rather just an example of the online world acting as a form of external memory or "transactive memory" <ref type="bibr" target="#b39">40,</ref><ref type="bibr" target="#b40">41</ref> . Transactive memory has been an integral part of human societies for mil lennia, and refers to the process by which people opt to out source information to other individuals within their families, communities, etc., such that they are able to just remember the source of the knowledge, rather than attempting to store all of this information themselves <ref type="bibr" target="#b40">41</ref> . Although beneficial at a group level, using transactive memory systems does reduce an indi vidual's ability to recall the specifics of the externally stored in formation <ref type="bibr" target="#b41">42</ref> . This may be due to individuals using transactive memory for "cognitive offloading" , implicitly reducing their allocation of cognitive resources towards remembering this information, since they know this will be available for future reference externally. This phenomenon has been demonstrated in multiple contexts, including those of team work <ref type="bibr" target="#b42">43</ref> and other "nonInternet" technologies (e.g., photography reducing indi viduals' memories of the objects they photographed) <ref type="bibr" target="#b43">44</ref> .</p><p>However, it is becoming clear that the Internet actually pre sents something entirely novel and distinct from previous transactive memory systems <ref type="bibr" target="#b44">45,</ref><ref type="bibr" target="#b45">46</ref> . Crucially, the Internet seems to bypass the "transactional" aspect that is inherent to other forms of cognitive offloading in two ways. First, the Internet does not place any responsibility on the user to retain unique infor mation for others to draw upon (as would typically be re quired in human societies) <ref type="bibr" target="#b44">45</ref> . Second, unlike other transactive mem ory stores, the Internet acts as a single entity that is responsible for holding and retrieving virtually all factual information, and thus does not require individuals to remember what exact in formation is externally stored, or even where it is located. In this way, the Internet is becoming a "supernormal stimulus" <ref type="bibr" target="#b45">46</ref> for transactive memory -making all other options for cogni tive offloading (including books, friends, community) become redundant, as they are outcompeted by the novel capabilities for external information storage and retrieval made possible by the Internet.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How does a supernormal stimulus interact with normal cognition?</head><p>Unfortunately, the rapid methods of acquisition and con stant availability of information afforded by the Internet may not necessarily lead to better use of information gained. For instance, an experimental study <ref type="bibr" target="#b46">47</ref> found that individuals in structed to search for specific information online completed the information gathering task faster than those using printed encyclopedias, but were subsequently less able to recall the in formation accurately.</p><p>During Internet and encyclopedia information gathering tasks, functional magnetic resonance imaging was used to examine activation in the ventral and dorsal streams. These regions are referred to as the "what" and "where" streams, re spectively, due to their indicated roles in storing either the specific content (ventral stream) or external location (dorsal stream) of incoming information <ref type="bibr" target="#b46">47</ref> . Although there was no dif ference in activation of the dorsal stream, results showed that the poorer recall of Internetsought information compared to encyclopediabased learning was associated with reduced ac tivation of the ventral ("what") stream during online informa tion gathering. These findings further support the possibility, initially raised by Sparrow et al <ref type="bibr" target="#b39">40</ref> , that online information gath ering, while faster, may fail to sufficiently recruit brain regions for storing information on a longterm basis.</p><p>The potential for online searching to produce a sustained impact upon our cognitive processes has been investigated in a series of studies examining prepost changes following a sixday Internet search training paradigm. In these studies, young adults were given an hour per day of Internet search tasks, and undertook an array of cognitive and neuroimaging assessments pre and posttraining. Results showed that the sixday Internet search training reduced regional homogeneity and functional connectivity of brain areas involved in long term memory formation and retrieval (e.g., temporal gyrus) <ref type="bibr" target="#b47">48</ref> . This indicates that a reliance on online searching may impede mem ory retrieval by reducing the functional connectivity and syn chronization of associated brain regions <ref type="bibr" target="#b47">48</ref> . Furthermore, when faced with new questions after the six days, the training had increased participants' selfreported impulses towards using the Internet to answer those questions, which was reflected in a recruitment of prefrontal brain areas required for behavioural and impulse control <ref type="bibr" target="#b48">49</ref> . This increased propensity for relying on Internet searches for gathering new information has been repli cated in subsequent studies <ref type="bibr" target="#b49">50</ref> , and is in keeping with the "super normal stimulus" nature of the Internet, potentially suggesting that online information gathering quickly trains people to be come dependent on this tool when faced with unknown issues.</p><p>However, despite the possible adverse effects on regular "offline" memory, the sixdays training did make people more efficient at using the Internet for retrieving information, as par ticipants became faster at the search tasks, with no loss of accu racy <ref type="bibr" target="#b50">51</ref> . Search training also produced increases in white matter integrity of the fiber tracts connecting the frontal, occip ital, parietal and temporal lobes, significantly more than the non search control condition <ref type="bibr" target="#b51">52</ref> . In other studies, cognitive offload ing via digital devices has also been found to improve people's ability to focus on aspects that are not immediately retrievable, and thus remember these better in the future <ref type="bibr" target="#b52">53</ref> .</p><p>These findings seem to support the emergent hypotheses that relying on the Internet for factual memory storage may actually produce cognitive benefit in other areas, perhaps by "freeing up" cognitive resources <ref type="bibr" target="#b53">54</ref> , and thus enabling us to use our newly available cognitive capacities for more ambitious undertakings than previously possible <ref type="bibr" target="#b44">45</ref> . Researchers advo cating this view have pointed to multiple domains of collec tive human endeavor that have already been transformed by the Internet's provision of supernormal transactive memory, such as education, journalism and even academia <ref type="bibr" target="#b54">55</ref> . As online technologies continue to advance (particularly with regards to "wearables"), it is conceivable that the performance ben efits from the Internet, which are already visible at the societal level, could ultimately become integrated within individuals themselves, enabling new heights of cognitive function <ref type="bibr" target="#b55">56</ref> .</p><p>Unfortunately, however, a more sobering finding with re gards to the immediate possibility of ubiquitous Internet ac cess enabling new heights of human intelligence is provided by Barr et al <ref type="bibr" target="#b56">57</ref> , who observed that analytical thinkers, with higher cognitive capacities, actually use their smartphone less for transactive memory in daytoday situations compared to in dividuals with nonanalytical thinking styles. Furthermore, the reduced smartphone usage in analytical versus non analytical thinkers was specific to online information searching, with no differences in social media or entertainment usages, thus indi cating that the differences are likely due to the Internet further ing "cognitive miserliness" among less analytical thinkers <ref type="bibr" target="#b56">57</ref> .</p><p>Alongside this, the increasing reliance on the Internet for information may cause individuals to "blur the lines" between their own capabilities and their devices' <ref type="bibr" target="#b57">58</ref> . In a series of experi ments, Fisher et al <ref type="bibr" target="#b58">59</ref> investigated how the Internet influences our selfperceived knowledge. Results showed that online searching increases our sense of how much we know, even though the illusion of selfknowledge is only perceived for the domains in which the Internet can "fill in the gaps" for us. The experiments also demonstrated how quickly individuals inter nalized the Internet's external knowledge as their own -as even immediately after using the Internet to answer the task ques tions, participants attributed their higher quality explanations to "increased brain activity" . More recent studies have shown that illusions of selfknowledge similarly persist when using smartphones to retrieve online information <ref type="bibr" target="#b57">58</ref> . As individuals become more and more connected with their personal digital devices (which are also always accessible), it seems inevitable that the distinction between self and Internet's abilities will be come increasingly elusive, potentially creating a constant illu sion of "greater than actual knowledge" among large portions of the population.</p><p>Overall, the Internet clearly can provide a "superstimulus" for transactive memory, which is already changing the way we store, retrieve, and even value knowledge. However, with pop ular online information sources such as Google and Wikipedia less than 20 years old, it is currently not possible to ascertain how this may eventually be reflected in longterm changes to the structure and function of the human brain. Nonetheless, our constant connection with the online world through per sonal devices (i.e., smartphones), along with the emerging po tential for more direct integration through wearable devices, certainly indicates that we are set to become more reliant on the Internet for factual information as time goes on. Also, whereas the studies described above have focused on factual knowledge, the Internet is also now becoming a superstimulus for spatial information (through providing constant access to online maps and global positioning system). As spatial mem ory is somewhat independent from semantic memory in the human brain <ref type="bibr" target="#b59">60</ref> , further research should investigate the multi tude of ways in which extensive use of these external memory systems may reduce, enhance or alter our cognitive capacities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ONLINE SOCIAL NETWORKS: FAULTY CONNECTIONS, OR FALSE DICHOTOMY?</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human sociality in the online world</head><p>Social relationships and having a sense of connection are important determinants of happiness and stress relief <ref type="bibr" target="#b60">61,</ref><ref type="bibr" target="#b61">62</ref> , mental and physical wellbeing <ref type="bibr" target="#b62">63,</ref><ref type="bibr" target="#b63">64</ref> , and even mortality <ref type="bibr" target="#b64">65</ref> . Over the past decade, the proportion of an individual's social interactions that take place online within social networking sites (e.g., Facebook, Instagram, Twitter) has grown dramati cally <ref type="bibr" target="#b65">66,</ref><ref type="bibr" target="#b66">67</ref> , and our connection with these sites is now strongly meshed with the offline world. The realworld implications of this are perhaps best evidenced by the critical role that social media have played in multiple global affairs, including report edly starting and precipitating the London Riots, the Occupy movement <ref type="bibr" target="#b67">68</ref> , and even the Arab Spring <ref type="bibr" target="#b68">69</ref> , along with poten tially influencing the outcomes of the UK's European Union Referendum ("Brexit") <ref type="bibr" target="#b69">70</ref> and the 2016 US elections <ref type="bibr" target="#b70">71</ref> . Clearly, understanding the shift from realworld interactions into the online social environment (and vice versa) holds significance to almost all aspects of people's lives.</p><p>Our motivations towards using social media is broadly simi lar to the instinctual desires underlying "real world" social in teractions, as people are drawn to online sociality in order to exchange information and ideas, along with gaining social sup port and friendships <ref type="bibr" target="#b71">72</ref> . However, whether or not these virtual interactions engage the human brain in ways analogous to real world socialization remains a topic of debate since the turn of the century <ref type="bibr" target="#b72">73</ref> . Whereas it would be highly beneficial if social me dia sites could fulfil the implicit human needs for social connec tion, it may be that the distinction between online and offline networks is so great that entirely different cognitive domains are involved in navigating these different environments <ref type="bibr" target="#b73">74,</ref><ref type="bibr" target="#b74">75</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How does the online environment affect our fundamental social structures?</head><p>To investigate the neuroimaging correlates of offline and online networks, the seminal study by Kanai et al <ref type="bibr" target="#b73">74</ref> collected realworld social network size, online sociality (i.e., Facebook friends) and magnetic resonance imaging scans from 125 par ticipants. Results showed that both realworld social network size and number of Facebook friends were significantly as sociated with amygdala volume. As this has previously been established as a key brain region for social cognition and so cial network size <ref type="bibr" target="#b75">76</ref> , these results present a strong case for the overlap between online and offline sociality in the human brain.</p><p>However, those authors also found that the grey matter vol ume of other brain regions (specifically, posterior regions of the middle temporal gyrus and superior temporal sulcus, and the right entorhinal cortex) were predicted by the numbers of participants' Facebook friends, but held no relationship to their realworld social networks. This suggests that certain unique aspects of social media implicate aspects of the brain that are not central in "realworld" social settings. For instance, the tendency for online networks to encourage us towards holding many weak social connections, involving thousands of faceto name pairs, could require high associative memory capacities, which is not typically required in real world networks (as these are comprised of fewer, but more familiar, relationships) <ref type="bibr" target="#b73">74</ref> . As associative memory formation for nameface pairs involves the right entorhinal cortex <ref type="bibr" target="#b76">77,</ref><ref type="bibr" target="#b77">78</ref> , this could explain the exclusive relationship that this region holds with online social (but not realworld) network size <ref type="bibr" target="#b73">74</ref> . Indeed, one key difference which may separate how the brain handles online and offline social networks is the unique capacity afforded by the Internet for people to hold, and si multaneously interact with, millions of "friendships" <ref type="bibr" target="#b78">79,</ref><ref type="bibr" target="#b79">80</ref> . Em pirical testing of this hypothesis is a most fruitful area of in vestigation stemming from research into the fundamental similarities and differences between these two social worlds at a biological level <ref type="bibr" target="#b65">66</ref> . When defining "friendships" under a broad context (people who maintain contact and share an emotional bond) <ref type="bibr" target="#b65">66</ref> , two patterns are prominent across a diverse range of realworld social networks: a) the average individual has around 150 "friendships" (but this is highly variable between individuals), and b) this is made up of five hierarchical layers, consisting of primary partners, intimate relationships, best friends, close friends, and all friends, which follow a size scal ing ratio of around 3 (i.e., each cumulative layer is 3 times big ger than the last), and therefore have set average (cumulative/ inclusive) sizes of 1.5, 5, 15, 50 and 150 respectively <ref type="bibr" target="#b65">66</ref> . The pat terns of the average number of 150 total friendship connections, and the scaling sizes of the five hierarchical layers of relation ships making this up, have been found across regions and time periods within various human organizations, ranging from hunter gatherer societies <ref type="bibr" target="#b80">81,</ref><ref type="bibr" target="#b81">82</ref> and historical village popula tions <ref type="bibr" target="#b82">83</ref> , armies <ref type="bibr" target="#b65">66</ref> , residential camps <ref type="bibr" target="#b83">84</ref> , to personal networks of modern Europeans <ref type="bibr" target="#b84">85</ref> .</p><p>Thus, given the unprecedented potential that online social networks allow in terms of number of connections, and the var ied contexts these take place over <ref type="bibr" target="#b78">79,</ref><ref type="bibr" target="#b79">80</ref> , it is imaginable that this extraordinary environment may allow these two apparently set aspects of realworld social networks to be bypassed. However, recent findings have confirmed that usertouser friendship connections, posting patterns and exchanges within Twitter, Facebook, and even online gaming platforms, all indicate a similar average number of general friendships (around 150, de spite high skew), along with maintaining the same scaled sizes of the hierarchical structure of the five distinct friendship layers (as determined by reciprocal communication exchanges) <ref type="bibr">8689</ref> . Therefore, even within the unique realms of online social net works, the most fundamental operations of human social networks appear to remain relatively unchanged <ref type="bibr" target="#b87">88,</ref><ref type="bibr" target="#b88">89</ref> . So, it is highly conceivable that the social connections formed in the online world are processed in similar ways to those of the off line world, and thus have much potential to carry over from the Internet to shape "realworld" sociality, including our so cial interactions and our perceptions of social hierarchies, in ways that are not restricted to the context of the Internet.</p><p>The driving forces that sustain the set structural patterns of social networks, even when faced with the immense connec tive potential of the online world, may be broadly explained by two overlapping mechanisms. First, constraints on social cognition within the human brain seem to carry over across social contexts <ref type="bibr" target="#b65">66</ref> . For instance, humans struggle to engagingly interact with more than three individuals simultaneously in the real world, and this limitation on attention also appears to apply online <ref type="bibr" target="#b89">90,</ref><ref type="bibr" target="#b90">91</ref> . This evidence is in agreement with the hy pothesis that circumventing the cognitive constraints on social relationships may be difficult even when technology affords unnatural opportunities to do so <ref type="bibr" target="#b87">88</ref> .</p><p>The second driver of set boundaries on social activity is that simple underlying factors may produce social constraints, even within online settings. Most obviously, investment in so cial relationships is limited by time constraints, and this may contribute to the set patterns of both the number and type of social connections <ref type="bibr" target="#b92">93,</ref><ref type="bibr" target="#b93">94</ref> . In line with this, analyses across vari ous social contexts have shown that temporal limitations gov ern the number of social interactions that individuals engage in, and how they distribute these across their different kinds of relationships <ref type="bibr" target="#b92">93,</ref><ref type="bibr" target="#b93">94</ref> . Again, these general interaction rates remain similar within online social networks <ref type="bibr" target="#b86">87,</ref><ref type="bibr" target="#b87">88</ref> .</p><p>The possibility that the parameters on all social networks (online or offline) are governed by basic underlying factors is further supported by research showing that similar structures also exist within simpler social systems, such as animal soci eties <ref type="bibr" target="#b65">66,</ref><ref type="bibr" target="#b94">95</ref> . For instance, the sizes and scaling of hierarchical "friendship" layers found in online and offline human networks are also found in dolphins, elephants, and various primate spe cies <ref type="bibr" target="#b95">96</ref> , and the phenomena of humans increasing the number and strength of their social networks connections following the death of a friend on Facebook 97 is also seen in wild birds, which show compensatory upregulation of their social network con nections upon experiencing the loss of a social associate <ref type="bibr" target="#b97">98</ref> .</p><p>Supporting the idea that limited cognitive capacities govern our social structures is research showing that the brain regions predicting individual variation in social network size in humans also do so for macaques <ref type="bibr" target="#b98">99</ref> . Strong support for simple underly ing factors (such as time) governing our general patterning of social interactions can be found in studies demonstrating that entirely computationally simulated systems replicate some of the apparent complexities of human social networks, even un der relatively simple rules 100,101 . Examples include agentbased models generating similar social layering structures as humans when sociality is defined as time limited <ref type="bibr">100</ref> .</p><p>In light of the current evidence regarding how the Inter net may have affected human thinking surrounding social networks, it is undeniable that the online environment pos es unique potential and context for social activity <ref type="bibr" target="#b78">79,</ref><ref type="bibr" target="#b79">80,</ref><ref type="bibr">102,</ref><ref type="bibr">103</ref> , which may invoke some nonidentical cognitive processes and brain areas in comparison to the offline world <ref type="bibr" target="#b73">74,</ref><ref type="bibr" target="#b74">75</ref> . Neverthe less, aside from these comparatively finescale differences, it appears that our brains process the online and offline social networks in surprisingly similar ways, as demonstrated by the shared cognitive capacities and simple underlying factors ulti mately governing their fundamental structure <ref type="bibr" target="#b86">87,</ref><ref type="bibr" target="#b87">88</ref> . As such, the online social world has very significant implications for not only measuring and understanding human sociality, but also for governing the outcomes of social processes across various aspects of life.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social cognitive responses to the online social world</head><p>Given the evidence above, an appropriate metaphor for the relationship between online and realworld sociality could be a "new playing field for the same game" . Even beyond the funda mental structure, emerging research suggests that neurocogni tive responses to online social occurrences are similar to those of reallife interactions. For instance, being rejected online has been shown to increase activity in brain regions strongly linked with social cognition and realworld rejection (medial pre frontal cortex 104 ) in both adults and children 105107 . However, within the "same old game" of human sociality, online social media is bending some of the rules -potentially at the expense of users <ref type="bibr" target="#b16">17</ref> . For instance, whereas realworld acceptance and rejection is often ambiguous and open to selfinterpretation, social media platforms directly quantify our social success (or failure), by providing clear metrics in the form of "friends" , "fol lowers" , and "likes" (or the potentially painful loss/absence of these) <ref type="bibr">107</ref> . Given the addictive nature of this immediate, self defining feedback, social media companies may even capital ize upon this to maximally engage users <ref type="bibr" target="#b16">17</ref> . However, growing evidence indicates that relying on online feedback for self esteem can have adverse effects on young people, particularly those with low socialemotional wellbeing, due to high rates of cyberbullying 108 , increased anxiety and depression <ref type="bibr">109,</ref><ref type="bibr">110</ref> , and increased perceptions of social isolation and exclusion among those who feel rejected online <ref type="bibr">111</ref> .</p><p>Another process common to human social behaviour in both online and offline worlds is the tendency to make upward social comparisons <ref type="bibr">112,</ref><ref type="bibr">113</ref> . Whereas these can be adaptive and beneficial under regular environmental conditions 112 , this im plicit cognitive process can also be hijacked by the artificial environmental manufactured on social media <ref type="bibr">113,</ref><ref type="bibr">114</ref> , which showcases hypersuccessful individuals constantly putting their best foot forward, and even using digital manipulation of images to inflate physical attractiveness. By facilitating ex posure to these drastically upward social comparisons (which would rarely be encountered in everyday life), online social media can produce unrealistic expectations of oneself -leading to poor body image and negative selfconcept, particularly for younger people <ref type="bibr">107,</ref><ref type="bibr">111,</ref><ref type="bibr">115,</ref><ref type="bibr">116</ref> . For instance, in adolescents (par ticularly females), those who spent more time on social media and smartphones have a greater prevalence of mental health problems, including depression, than those who spent more time on "nonscreen" activities 116 , with greater than 5 hrs/day (versus 1 hr/day) associated with a 66% increased risk of one suiciderelated outcome <ref type="bibr">117</ref> .</p><p>However, a causal relationship between high levels of social media use and poorer mental health is currently difficult to es tablish, as there is most likely a complex interaction between several confounding factors, including reduced sleep and in person social interaction, and increased sedentary behaviour and perceived loneliness <ref type="bibr">116,</ref><ref type="bibr">118</ref> . Nonetheless, given the large amounts of social media use observed among young people, future research should thoroughly examine the potentially detrimental effects that this new setting for sociality may have on health and wellbeing, along with aiming to establish the driving factors -such that adjustments can be made in subse quent iterations of social media in order to produce more posi tive outcomes.</p><p>Whereas young people with mental disorders may be the most vulnerable to negative input from social media, these media may also present a new platform for improving men tal health in this population, if used correctly. In future, social media may also be exploited to promote ongoing engage ment with Internetbased interventions, while addressing key (but frequently neglected) targets such as social connected ness, social support and selfefficacy, to aim to bring about sustained functional improvements in severe and complex mental health conditions 119 . To achieve these goals, online so cial mediabased interventions need to be designed to pro mote engagement by harnessing, in an ethical and transparent manner, effective strategies used by the industry. For instance, developing technologies which are increasingly adopted by on line marketing and tech companies, such as natural language processing, sentiment analyses and machine learning, could be capitalized upon, for example making it possible to identify those at increased risk for suicide or relapse 120 , and rationaliz ing human driven support to those who need it most at the time they need it 121 . In addition, online systems will be able to learn from what helps individuals and when, opening a window into personalized, real time interventions <ref type="bibr">121</ref> .</p><p>While the use of online social mediabased interventions is in its infancy, pioneering efforts indicate that these interven tions are safe, engaging, and have the potential to improve clinical and social outcomes in both patients and their rela tives 122127 . That said, online interventions have failed up to now to be adopted by mental health services <ref type="bibr">128,</ref><ref type="bibr">129</ref> . The main reasons include high attrition rates, poor study designs which reduce translational potential, and a lack of consensus around the required standards of evidence for widespread implemen tation of Internetdelivered therapies 130132 . Efforts are currently underway to determine the longterm effects of the first gener ation of social mediabased interventions for mental illness via large randomized controlled trials <ref type="bibr">133,</ref><ref type="bibr">134</ref> . Alongside this clinical use, developing public health strategies for young adults in the general population to avoid the potential adverse effects and negative aspects of typical social media are also warranted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS AND DIRECTIONS</head><p>As digital technologies become increasingly integrated with everyday life, the Internet is becoming highly proficient at capturing our attention, while producing a global shift in how people gather information, and connect with one another. In this review, we found emerging support for several hypotheses regarding the pathways through which the Internet is influenc ing our brains and cognitive processes, particularly with re gards to: a) the multifaceted stream of incoming information encouraging us to engage in attentionalswitching and "multi tasking" , rather than sustained focus; b) the ubiquitous and rapid access to online factual information outcompeting previ ous transactive systems, and potentially even internal memory processes; c) the online social world paralleling "real world" cognitive processes, and becoming meshed with our offline sociality, introducing the possibility for the special properties of social media to impact on "real life" in unforeseen ways.</p><p>However, with fewer than 30 years since the Internet became publicly available, the longterm effects have yet to be estab lished. Within this, it seems particularly important that future research determines the impact of the Internet on us through out different points in the lifespan. For instance, the Internet's digital distractions and supernormal capacities for cognitive offl oading seem to create a nonideal environment for the re finement of higher cognitive functions in critical periods of children and adolescents' brain development. Indeed, the first longitudinal studies on this topic have found that adverse at tentional effects of digital multitasking are particularly pro nounced in early adolescence (even compared to older teens) <ref type="bibr" target="#b33">34</ref> , and that higher frequency of Internet use over 3 years in chil dren is linked with decreased verbal intelligence at follow up, along with impeded maturation of both grey and white matter regions <ref type="bibr">135</ref> .</p><p>On the other hand, the opposite may be true in older adults experiencing cognitive decline, for whom the online environ ment may provide a new source of positive cognitive stimula tion. For instance, Internet searching engaged more neural circuitry than reading text pages in Internet savvy older adults (aged 5576 years) <ref type="bibr" target="#b8">9</ref> . Furthermore, experimental studies have found that computer games available online and through smartphones can be used to attenuate agingrelated cogni tive decline <ref type="bibr">136138</ref> . Thus, the Internet may present a novel and accessible platform for adults to maintain cognitive function throughout old age. Building from this, successful cognitive aging has previously been shown to be dependent upon learn ing and deploying cognitive strategies, which can compensate for agingrelated decline in "raw" memory capacities 139 . This has previously been referred to as optimizing internal cogni tive processes (e.g., through mnemonic strategies), or tak ing advantage of cognitive offloading in traditional formats (list making, transactive memory, etc.) <ref type="bibr">139</ref> . Nonetheless, as Internet based technologies become more deeply integrated with our daily cognitive processing (through smartphones, wearables, etc.), digital natives could feasibly develop forms of "online cognition" in the aging brain, whereby older adults can increasingly take advantage of webbased transactive memory and other emerging online processes to fulfil (or even exceed) the typical capacities of a younger brain.</p><p>Although it is an emerging area of study, the same could apply for social aspects of the online world. Whereas young people seem particularly prone to the rejections, peer pres sure, and negative appraisals this world may induce 107 , older adults may ultimately be able to harness social media in order to overcome isolation and thus continue to benefit from the 20515545, 2019, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/wps.20617, Wiley Online Library on [01/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License diverse range of physical, mental and neurocognitive benefits associated with social connection <ref type="bibr" target="#b72">73</ref> . Viewed collectively, the nascent research in this area already indicates that equivalent types of Internet usage may have differential effects on indi viduals' cognitive and social functioning depending on their point in the lifespan.</p><p>For better or for worse, we are already conducting a mass scale experiment of extensive Internet usage across the global population. A more finescale analysis is essential to gaining a fuller understanding of the sustained impact of this usage across our society. This could include measuring frequency, duration and types of Internet usage as a standard part of na tional data projects, for instance through collecting Internet data (from either devicebased or selfreport measures) in "biobank" assessment protocols. Combining this with the ex tensive genetic, sociodemographic, lifestyle and neuroimag ing data gathered by some ongoing projects, researchers could be able to establish the impact of Internet usage on psychologi cal wellbeing and brain functioning across entire populations (rather than the currently limited study samples), while also controlling for multiple confounders.</p><p>Overall, this early phase of the Internet's introduction into our society is a crucial period for commencing rigorous and extensive research into how different types of Internet usage interact with human cognition, in order to maximize our op portunities for harnessing this new tool in a beneficial manner, while minimizing the potentially adverse effects.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>20515545, 2019, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/wps.20617, Wiley Online Library on [01/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>20515545, 2019, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/wps.20617, Wiley Online Library on [01/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p><rs type="person">J. Firth</rs> is supported by a <rs type="funder">Blackmores Institute Fellowship</rs>. <rs type="person">J. Sarris</rs> is supported by an <rs type="funder">Australian National Health and Medical Research Council (NHMRC)</rs> <rs type="grantName">Clinical Research Fellowship</rs> (<rs type="grantNumber">APP1125000</rs>). <rs type="person">B. Stubbs</rs> is supported by the <rs type="funder">Health Education England</rs> and the <rs type="funder">National Institute for Health Research Integrated Clinical Academic Programme Clinical Lectureship</rs> (<rs type="grantNumber">ICA CL 2017 03 001</rs>). G.Z. Steiner is supported by an <rs type="funder">NHMRCAustralian Research Council (ARC)</rs> <rs type="grantName">De mentia Research Development Fellowship</rs> (<rs type="grantNumber">APP1102532</rs>). <rs type="person">M. AlvarezJimenez</rs> is supported by an <rs type="funder">NHMRC</rs> <rs type="grantName">Career Development Fellowship</rs> (<rs type="grantNumber">APP1082934</rs>). <rs type="person">C.J. Armitage</rs> is supported by <rs type="funder">National Institute for Health Research (NIHR) Manchester Biomedical Research Centre</rs> and <rs type="funder">NIHR Greater Manchester Patient Safety Translational Research Centre</rs>. The views expressed in this paper are those of the authors and not necessarily those of the above mentioned entities.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_h53bnsU">
+					<idno type="grant-number">APP1125000</idno>
+					<orgName type="grant-name">Clinical Research Fellowship</orgName>
+				</org>
+				<org type="funding" xml:id="_7vWspyW">
+					<idno type="grant-number">ICA CL 2017 03 001</idno>
+				</org>
+				<org type="funding" xml:id="_f7P8Wfm">
+					<idno type="grant-number">APP1102532</idno>
+					<orgName type="grant-name">De mentia Research Development Fellowship</orgName>
+				</org>
+				<org type="funding" xml:id="_XqqHWHB">
+					<idno type="grant-number">APP1082934</idno>
+					<orgName type="grant-name">Career Development Fellowship</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Internet/broadband fact sheet</title>
+		<imprint>
+			<date type="published" when="2018-02-05">February 5, 2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>Pew Research Center ; Pew Research Cen ter</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">About a quarter of US adults say they are &apos;almost con stantly&apos; online</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jiang</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018-03-14">March 14, 2018</date>
+		</imprint>
+		<respStmt>
+			<orgName>Pew Research Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Teens, social media &amp; technology</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jiang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pew Re search Center</title>
+		<imprint>
+			<date type="published" when="2018-05-31">2018. May 31, 2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Neuroplasticity: changes in grey mat ter induced by training</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Draganski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gaser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Busch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">427</biblScope>
+			<biblScope unit="page">311</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Secondlanguage learning and changes in the brain</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Osterhout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Poliakov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Inoue</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurolinguistics</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">50921</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Training induces changes in white matter architecture</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scholz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Behrens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">1370</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Temporal and spatial dy namics of brain structure changes during extensive learning</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Draganski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gaser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kempermann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">63147</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Usedependent cortical process ing from fingertips in touchscreen phone users</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Gindrat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chytiris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Balerna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Biol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="109" to="116" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Your brain on Google: patterns of cere bral activation during internet searching</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Small</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Moody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Siddarth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Geriatr Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">11626</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Agingassociated cognitive decline</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Levy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int Psychogeriatr</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">638</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Use it or lose it: engaged lifestyle as a buffer of cognitive decline in aging?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Hultsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hertzog</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Small</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol Aging</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">24563</biblScope>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Do changes in lifestyle engagement moderate cognitive decline in normal aging? Evidence from the Victoria Longitudinal Study</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Small</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Dixon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcardle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuropsychology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">14455</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Orbitofrontal gray matter deficits as marker of Internet gaming disorder: converging evidence from a cross sectional and prospective longitudinal design</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Montag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sariyska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Addict Biol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">1009</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Mapping brain maturation and cognitive development during adolescence</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Paus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Cogn Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">608</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">mHealth: new horizons for health through mo bile technologies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Takane</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>World Health Organization</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Digital natives, digital immigrants part 1</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Prensky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">On the Horizon</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">16</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alter</surname></persName>
+		</author>
+		<title level="m">Irresistible: the rise of addictive technology and the business of keeping us hooked</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Penguin</publisher>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Determining typical smartphone usage: what data do we need?</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Wilcockson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol Behav Soc Networking</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="395" to="398" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Habits make smartphone use more pervasive</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oulasvirta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rattenbury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pers Ubiquit Comput</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">10514</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Separate neural systems value immediate and delayed monetary rewards</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Mcclure</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Laibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Loewenstein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">306</biblScope>
+			<biblScope unit="page" from="503" to="507" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Operant behavior</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F</forename><surname>Skinner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Psychol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">50315</biblScope>
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">How teens do research in the digital world</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Purcell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rainie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Heaps</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012-11-01">November 1, 2012</date>
+		</imprint>
+		<respStmt>
+			<orgName>Pew Research Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Cognitive control in media multitaskers</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ophir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page">155837</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">How has the Internet reshaped human cognition?</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Loh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kanai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuro scientist</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">50620</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Minds and brains of media multitaskers: cur rent findings and future directions</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Uncapher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page">988996</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Multitasking on a single device: arous al and the frequency, anticipation, and prediction of switching between media content on a computer</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yeykelis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Cummings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Reeves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Commun</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page">16792</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Media multitasking and failures of attention in everyday life</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Ralph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Thomson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Cheyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol Res</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">6619</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Does media multitasking always hurt? A positive cor relation between multitasking and multisensory integration</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Lui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Wong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychon Bull Rev</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">64753</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Media multitasking is associated with distractibility and increased prefrontal activity in adolescents and young adults</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moisala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Salmela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hietajärvi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NeuroImage</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page">11321</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Brains online: structural and functional correlates of habitual Internet use</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kühn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gallinat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Addict Biol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">41522</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Higher media multitasking activity is associated with smaller graymatter density in the anterior cingulate cortex</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Loh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kanai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">106698</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Attentional scope is reduced by Internet use: a behavior and ERP study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Peng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Zhao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">e0198543</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Rideout</surname></persName>
+		</author>
+		<title level="m">The Common Sense census: media use by tweens and teens</title>
+		<meeting><address><addrLine>San Francisco</addrLine></address></meeting>
+		<imprint>
+			<publisher>Common Sense Media Inc</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The relationship between media multitasking and attention problems in adolescents: re sults of two longitudinal studies</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Baumgartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Van Der Schuur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lemmens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum Commun Res</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page">330</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The consequences of media multitasking for youth: a review</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Van Der Schuur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Baumgartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Sumter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Human Behav</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page">20415</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Momentary interruptions can de rail the train of thought</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Altmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Trafton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Z</forename><surname>Hambrick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Psychol Gen</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page">21526</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Inspired by distraction: mind wan dering facilitates creative incubation</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Baird</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Smallwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Mrazek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol Sci</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">111722</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Impact of the Internet on our lives: male and female personal perspectives</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Colley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Maltby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Human Behav</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">200513</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Differential effects of early hippocampal pathology on episodic and semantic memory</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Varghakhadem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Gadian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Watkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">277</biblScope>
+			<biblScope unit="page">37680</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Google effects on memory: cognitive conse quences of having information at our fingertips</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sparrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wegner</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/wps.20617</idno>
+		<idno>. 20515545</idno>
+		<ptr target="https://onlinelibrary.wiley.com/terms-and-conditions" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">333</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">776</biblScope>
+			<date type="published" when="2011">2011. 2019. 01/07/2026</date>
+		</imprint>
+	</monogr>
+	<note>OA articles are governed by the applicable Creative Commons License</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Transactive memory: a contemporary analysis of the group mind</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wegner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Theories of group behavior</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Mullen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Goethals</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Basel</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Nature</publisher>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="page">185208</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Group versus individual training and group performance: the mediating role of transactive memory</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Moreland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Argote</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pers Soc Psychol Bull</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">38493</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Transactive memory systems: current issues and fu ture research directions</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Herndon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Organ Sci</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">125465</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Pointandshoot memories: the influence of taking photos on memory for a museum tour</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Henkel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol Sci</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">396402</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The internet has become the external hard drive for our memories</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wegner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Ward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Am</title>
+		<imprint>
+			<biblScope unit="volume">309</biblScope>
+			<biblScope unit="page">5861</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Supernormal: how the Internet is changing our memories and our minds</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Ward</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol Inq</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">3418</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Behavioural and brain responses related to Internet search and memory</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Potenza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page">254654</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Internet search alters intra and interregional synchronization in the temporal gyrus</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Psychol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">260</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Shortterm Internet search using makes people rely on search engines when facing unknown issues</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Luo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">176325</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Using the Internet to access informa tion inflates future use of the Internet to access other information</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Storm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Stone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Benjamin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memo ry</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">71723</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Shortterm Internetsearch practicing modulates brain activity during recollection</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Potenza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">335</biblScope>
+			<biblScope unit="page">8290</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Shortterm internetsearch training is associ ated with increased fractional anisotropy in the superior longitudinal fas ciculus in the parietal lobe</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Potenza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">372</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Savingenhanced memory: the benefits of sav ing on the learning and remembering of new information</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Storm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Stone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol Sci</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">1828</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The debate over digital technology and young people</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dvm</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Przybylski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">351</biblScope>
+			<biblScope unit="page">3064</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The Internet, cognitive enhancement, and the values of cog nition</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heersmink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Minds and Mach</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">389407</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Cognition and the Web: extended, transactive, or scaffolded</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heersmink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sutton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Erkenntnis</title>
+		<imprint/>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The brain in your pocket: evidence that smartphones are used to supplant thinking</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pennycook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Stolz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Human Behav</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">47380</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Blurring boundaries: effects of device features on metacognitive evaluations</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Yao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Human Behav</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">21320</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Searching for explanations: how the In ternet inflates estimates of internal knowledge</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Goddu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Keil</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Psychol Gen</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page">67487</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Functional neuroanatomy of remote episodic, semantic and spatial memory: a unified account based on multiple trace theory</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moscovitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Rosenbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gilboa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Anat</title>
+		<imprint>
+			<biblScope unit="volume">207</biblScope>
+			<biblScope unit="page">3566</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Christakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ</title>
+		<imprint>
+			<biblScope unit="volume">337</biblScope>
+			<biblScope unit="page">2338</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Social networks and health</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Christakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Sociol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">40529</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Social relationships and health</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>House</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Landis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Umberson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci ence</title>
+		<imprint>
+			<biblScope unit="volume">241</biblScope>
+			<biblScope unit="page">5405</biblScope>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Social relationships and physiological determinants of longevity across the human life span</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Boen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gerken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page">57883</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Social relationships and mortality risk: a metaanalytic review</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Holtlunstad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Layton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Med</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1000316</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">The anatomy of friendship</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Cogn Sci</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">3251</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Social features of online net works: the strength of intermediary ties in online social media</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Grabowicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Ramasco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">e29358</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">When atoms meet bits: social media, the mobile web and augmented revolution</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Jurgenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Future Internet</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">8391</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Social media in the Egyptian revolution: reconsid ering resource mobilization theory</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Eltantawy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Wiest</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Commun</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">120724</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Sunstein</surname></persName>
+		</author>
+		<title level="m"># Republic. Divided democracy in the age of social media</title>
+		<meeting><address><addrLine>Princeton</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Social media and fake news in the 2016 election</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Allcott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gentzkow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Econ Perspect</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page">21136</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Virtual community attraction: why people hang out online</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Ridings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gefen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Comput Mediat Commun</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">10110</biblScope>
+			<date type="published" when="2004">2004</date>
+			<publisher>JCMC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Computer networks as social networks</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wellman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">293</biblScope>
+			<biblScope unit="page">20314</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Online social network size is reflect ed in human brain structure</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kanai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Bahrami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Roylance</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Biol Sci</title>
+		<imprint>
+			<biblScope unit="volume">279</biblScope>
+			<biblScope unit="page">132734</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Brain and social networks: fundamental building blocks of human experience</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Falk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Bassett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Cogn Sci</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">67490</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Amygdala volume and social net work size in humans</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Bickart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Dautoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">163</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Putting names to faces: success ful encoding of associative memories activates the anterior hippocampal formation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sperling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Chua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cocchiarella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neuroimage</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">140010</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Encoding novel facename as sociations: a functional MRI study</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sperling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Cocchiarella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum Brain Mapp</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">12939</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Tastes, ties, and time: a new social network dataset using Facebook. com</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kaufman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gonzalez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc Net</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">33042</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Multirelational organization of largescale social networks in an online world</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Szell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lambiotte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thurner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page">1363641</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Discrete hierarchical organization of social group sizes</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">X</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sornette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Biol Sci</title>
+		<imprint>
+			<biblScope unit="volume">272</biblScope>
+			<biblScope unit="page">43944</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">The complex structure of hunter gatherer social networks</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Milne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Biol Sci</title>
+		<imprint>
+			<biblScope unit="volume">274</biblScope>
+			<biblScope unit="page">2195203</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Coevolution of neocortical size, group size and language in humans</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behav Brain Sci</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">68194</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Sizes of permanent campsite com munities reflect constraints on natural human communities</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kordsmeyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mac</forename><surname>Carron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dunbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Anthro pol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page">28994</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Social network size in humans</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum Nat</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="53" to="72" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Fractal multilevel organisation of human groups in a virtual world</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fuchs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sornette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thurner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Rep</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">6526</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">The structure of online social net works mirrors those in the offline world</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Dunbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Arnaboldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc Net</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page">3947</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Do online social media cut through the constraints that limit the size of offline social networks</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">R Soc Open Sci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">150292</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<title level="m" type="main">Online social networks: human cognitive constraints in Facebook and Twitter personal graphs</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Arnaboldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Passarella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conti</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Elsevier</publisher>
+			<pubPlace>Amster dam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Clique size and network characteristics in hyperlink cinema</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Krems</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum Nat</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">41429</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Sharing the joke: the size of natural laughter groups</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dezecache</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evol Hum Behav</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page">7759</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">The social brain hypothesis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evol Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">17890</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Relationships and the social brain: integrating psychological and evolutionary perspectives</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sutcliffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dunbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Binder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Psychol</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page">14968</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Time as a limited resource: communica tion strategy in mobile phone networks</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Miritello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc Net</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">8995</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Close social associations in animals and hu mans: functions and mechanisms of friendship</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Massen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Sterck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Vos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behaviour</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page">1379412</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Network scaling reveals consistent fractal pattern in hierarchical mammalian societies</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Bentley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Dunbar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol Lett</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">74851</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Connective recovery in social networks after the death of a friend</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Hobbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Hum Behav</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">92</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Wild birds respond to flockmate loss by increasing their social network associations to others</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Firth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Voelkl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Crates</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc R Soc B</title>
+		<imprint>
+			<biblScope unit="volume">284</biblScope>
+			<biblScope unit="page">20170299</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">The organization of dorsal frontal cor tex in humans and macaques</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sallet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Mars</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Noonan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page">100</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Indirectly connected: simple social dif ferences can explain the causes and apparent consequences of complex social network positions</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sutcliffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dunbar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D ;</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Firth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Sheldon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ljn</forename><surname>Brent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Biol Sci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">103</biblScope>
+			<date type="published" when="2007">2016. 2017. 2007</date>
+			<publisher>Watts DJ</publisher>
+		</imprint>
+	</monogr>
+	<note>Nature</note>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main">Prevalence and effect of cyber bullying on children and young people: a scoping review of social media studies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Bargh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">Y</forename><surname>Mckenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T ;</forename><surname>Grossmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Achterberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ack</forename><surname>Van Duijvenvoorde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Der Meulen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soc Cogn Affect Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="7707" to="7109" />
+			<date type="published" when="2004">2004. 2013. 2017. 2016. 2018. 2015</date>
+		</imprint>
+	</monogr>
+	<note>JAMA Pediatr</note>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<analytic>
+		<title level="a" type="main">Association between social media use and depression among US young adults</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vannucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Flannery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cm ;</forename><surname>Ohannessian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Y</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Sidani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shensa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Affect Disord</title>
+		<imprint>
+			<biblScope unit="volume">207</biblScope>
+			<biblScope unit="page" from="323" to="331" />
+			<date type="published" when="2016">2017. 2016</date>
+		</imprint>
+	</monogr>
+	<note>Depress Anxiety</note>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">Common Sense Media. Social media, social life: teens reveal their experi ences</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Collins</surname></persName>
+		</author>
+		<ptr target="https://www.commonsensemedia" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychol Bull</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="51" to="113" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>For better or worse: the impact of upward social comparison on selfevaluations</note>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<analytic>
+		<title level="a" type="main">Can&apos;t stop scrolling!: pathological use of so cial networking sites in emerging adulthood</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Verduyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ybarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Résibois</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Status of mind: social media and young people&apos;s mental health</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Royal Society for Public Health</publisher>
+			<date type="published" when="2017">2017. 2017. 2017</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">116</biblScope>
+		</imprint>
+	</monogr>
+	<note>Addict Res Theory</note>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<analytic>
+		<title level="a" type="main">Increases in depressive symptoms, suiciderelated outcomes, and suicide rates among U.S. adolescents af ter 2010 and links to increased new media screen time</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Twenge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Joiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Rogers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Psychol Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="317" to="117" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<analytic>
+		<title level="a" type="main">Digital media may explain a sub stantial portion of the rise in depressive symptoms among adolescent girls: response to Daly</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Twenge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Joiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Psychol Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">118</biblScope>
+			<date type="published" when="2018">2018. 2967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<analytic>
+		<title level="a" type="main">A randomized controlled trial of relapse prevention therapy for firstepisode psychosis patients: outcome at 30month followup</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Twenge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Joiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Martin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Psychol Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">120</biblScope>
+			<date type="published" when="2013">2018. 2013</date>
+		</imprint>
+	</monogr>
+	<note>Schizophr Bull</note>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<analytic>
+		<title level="a" type="main">Enhancing social function ing in young people at ultra high risk (UHR) for psychosis: a pilot study of a novel strengths and mindfulnessbased online social therapy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Torous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Larsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Depp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Psychiatry Rep</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">125</biblScope>
+			<date type="published" when="2013">2018. 2017. 2014. 2013. 2018</date>
+		</imprint>
+	</monogr>
+	<note>Schizophr Res</note>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<analytic>
+		<title level="a" type="main">Moderated online social therapy: a model for reducing stress in carers of young people diagnosed with men tal health disorders</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gleeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lederman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koval</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Psychol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="485" to="126" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<analytic>
+		<title level="a" type="main">Moderated online social therapy for de pression relapse prevention in young people: pilot study of a &apos;next genera tion&apos; online intervention</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gleeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Davey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Early Interv Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">131</biblScope>
+			<date type="published" when="2012">2018. 2018. 2018. 2017. 2012</date>
+		</imprint>
+	</monogr>
+	<note>J Appl Physiol</note>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<analytic>
+		<title level="a" type="main">Towards a consensus around standards for smartphone apps and digital mental health</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Torous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bertagnoli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Psychia try</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">133</biblScope>
+			<date type="published" when="2018">2019. 2018</date>
+		</imprint>
+	</monogr>
+	<note>World Psychiatry</note>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<analytic>
+		<title level="a" type="main">Moderated online social therapy for carers of young people recovering from firstepisode psychosis: study protocol for a randomised controlled trial</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gleeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lederman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Herrman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trials</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">134</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<analytic>
+		<title level="a" type="main">The Horyzons trial: protocol for a randomised controlled trial of a moderated online social therapy to maintain treatment effects from first episode psychosis services</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Alvarezjimenez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bendall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koval</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="24104" to="024135" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<analytic>
+		<title level="a" type="main">Impact of frequency of internet use on development of brain structures and verbal intelligence: longitudinal analyses</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Takeuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Taki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Asano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hum Brain Mapp</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="447179" to="447136" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<analytic>
+		<title level="a" type="main">Playing Super Mario induces structural brain plasticity: gray matter changes resulting from training with a com mercial video game</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kühn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gleich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Lorenz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Psychiatry</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">137</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<analytic>
+		<title level="a" type="main">Video game training enhances cognitive control in older adults</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Anguera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Boccanfuso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Rintoul</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">501</biblScope>
+			<biblScope unit="page">138</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<analytic>
+		<title level="a" type="main">Effects of smartphonebased memory training for older adults with subjective memory complaints: a randomized con trolled trial</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Seo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/wps.2061720515545</idno>
+		<ptr target="https://onlinelibrary.wiley.com/terms-and-conditions" />
+	</analytic>
+	<monogr>
+		<title level="m">Successful aging: perspectives from the behavioral sciences</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Baltes</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Baltes</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1990">2018. 1990. 2019. 01/07/2026</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">134</biblScope>
+		</imprint>
+	</monogr>
+	<note>Psychological perspectives on successful aging: the model of selective optimization with compensation. OA articles are governed by the applicable Creative Commons License</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

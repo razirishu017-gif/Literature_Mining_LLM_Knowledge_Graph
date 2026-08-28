@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The association between social media use and sleep disturbance among young adults</title>
+				<funder ref="#_aHV7WTA #_Ry4GcAm">
+					<orgName type="full">National Institutes of Health</orgName>
+					<orgName type="abbreviated">NIH</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2017-04-01">2017 April 01.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Jessica</forename><forename type="middle">C</forename><surname>Levenson</surname></persName>
+							<idno type="ORCID">0000-0003-3271-9944</idno>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Psychiatry</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MA</roleName><forename type="first">Ariel</forename><surname>Shensa</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Jaime</forename><forename type="middle">E</forename><surname>Sidani</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>MEd</roleName><forename type="first">Jason</forename><forename type="middle">B</forename><surname>Colditz</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>MD, PhD</roleName><forename type="first">Brian</forename><forename type="middle">A</forename><surname>Primack</surname></persName>
+							<email>bprimack@pitt.edu</email>
+							<idno type="ORCID">0000-0002-5962-0939</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Center for Research on Media, Technology, and Health</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of General Internal Medicine</orgName>
+								<orgName type="department" key="dep2">School of Medicine</orgName>
+								<orgName type="institution">University of Pittsburgh</orgName>
+								<address>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<address>
+									<addrLine>230 McKee Place, Suite 600</addrLine>
+									<postCode>15213-2582</postCode>
+									<settlement>Pittsburgh</settlement>
+									<region>PA</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The association between social media use and sleep disturbance among young adults</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Preventive Medicine</title>
+						<title level="j" type="abbrev">Preventive Medicine</title>
+						<idno type="ISSN">0091-7435</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">85</biblScope>
+							<biblScope unit="page" from="36" to="41"/>
+							<date type="published" when="2017-04-01">2017 April 01.</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CF8493726125AD9A21585CEAF8F2E354</idno>
+					<idno type="DOI">10.1016/j.ypmed.2016.01.001</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-07-08T18:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Health</term>
+					<term>Technology</term>
+					<term>Sleep Quality</term>
+					<term>PROMIS</term>
+					<term>Young Adults</term>
+					<term>Sleep Disturbance</term>
+					<term>Social Media</term>
+					<term>Facebook</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Introduction-Many factors contribute to sleep disturbance among young adults. Social media (SM) use is increasing rapidly, and little is known regarding its association with sleep disturbance.</p><p>Methods-In 2014 we assessed a nationally-representative sample of 1788 U.S. young adults ages 19-32. SM volume and frequency were assessed by self-reported minutes per day spent on SM (volume) and visits per week (frequency) using items adapted from the Pew Internet Research Questionnaire. We assessed sleep disturbance using the brief Patient-Reported Outcomes Measurement Information System (PROMIS ® ) Sleep Disturbance measure. Analyses performed in Pittsburgh utilized chi-square tests and ordered logistic regression using sample weights in order to estimate effects for the total U.S. population.</p><p>Results-In models that adjusted for all sociodemographic covariates, participants with higher SM use volume and frequency had significantly greater odds of having sleep disturbance. For example, compared with those in the lowest quartile of SM use per day, those in the highest quartile had an AOR of 1.95 (95% CI = 1.37-2.79) for sleep disturbance. Similarly, compared with those in the lowest quartile of SM use frequency per week, those in the highest quartile had an AOR of 2.92 (95% CI = 1.97-4.32) for sleep disturbance. Associations all demonstrated a significant linear trend.</p><p>Discussion-The strong association between SM use and sleep disturbance has important clinical implications for the health and well-being of young adults. Future work should aim to assess directionality and to better understand the influence of contextual factors associated with SM use.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Sleep and circadian functioning are essential to promoting good health. <ref type="bibr" target="#b0">1</ref> While it is recommended that young and midlife adults obtain 7-9 hours of sleep per night, 2 40% of American adults report getting less than 7 hours of sleep per night on weeknights. <ref type="bibr" target="#b2">3</ref> Moreover, 38% wake up feeling unrefreshed and 21% have difficulty falling asleep at least a few nights per week. Among young adults ages 19-29, 67% report not getting enough sleep to function properly. <ref type="bibr" target="#b3">4</ref> Sleep disturbance and insufficient sleep duration are associated with daytime sleepiness <ref type="bibr">5;6</ref> and a range of poor health outcomes. For example, insufficient sleep negatively affects cognitive performance, mood, immune function, cardiovascular risk, weight, and metabolism. <ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref> Additionally, a large multiethnic sample of U.S. adults showed that those with sleep duration shorter or longer than 7 hours were more likely to report fair or poor self-rated health, <ref type="bibr" target="#b9">10</ref> and a worldwide survey of over 16,000 students (ages 17-30) showed a dose-response association between fewer hours of sleep and reporting poor health. <ref type="bibr" target="#b10">11</ref> A range of biological, psychosocial, and environmental factors contribute to insufficient sleep and sleep disturbance among adolescents and young adults. This includes biological changes in the accumulation of homeostatic sleep pressure (the likelihood of falling asleep), increasing academic and vocational demands, and use of substances such as alcohol and caffeine. <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref> However, less is known about associations between use of social media (SM) and sleep quality and quantity. SM has been defined as "a collection of software that enables individuals and communities to gather, communicate, share, and in some cases collaborate or play" <ref type="bibr" target="#b15">16</ref> and a "group of Internet-based applications that build on the ideological and technological foundations of Web 2.0, and that allow the creation and exchange of User Generated Content." <ref type="bibr" target="#b16">17</ref> The rapidly growing rate of SM use in recent years <ref type="bibr" target="#b17">18</ref> raises concern that SM use may adversely affect sleep quality and may displace total amount of sleep. <ref type="bibr" target="#b18">19</ref> Prior work that has examined SM use and sleep has yielded inconsistent results. Two recent reviews in this area demonstrated an inverse association between electronic media use and sleep parameters such as longer time to fall asleep, delayed bedtime, and reduced total sleep time. <ref type="bibr">20;21</ref> However, another study among 11-13 year olds in the Midlands region of the United Kingdom demonstrated that, compared with SM, use of other technologies such as television, music, and video games was more substantially associated with sleep problems. <ref type="bibr" target="#b21">22</ref> Still, frequent use of social networking sites had the strongest impact on reduced weekday sleep duration among this sample. Other studies have suggested associations between SM use and sleep disturbance in countries such as Australia and China, <ref type="bibr">23;24</ref> but there is a need to explore these findings among large, nationally-representative populations in the U.S.</p><p>It will also be valuable to examine associations such as these among young adults. While nearly all research in this area has focused on children and adolescents, 96% of young adults in the 18-30 year-old range use some type of technology-such as cell phones (67%), computers (60%), and electronic music devices (43%)-before bed. <ref type="bibr" target="#b3">4</ref> Given this high prevalence of devices which could be used for SM, and the deleterious health consequences of disturbed and insufficient sleep among young adults, studies are needed to explicitly focus on the association of SM and sleep disturbance in young adults.</p><p>Thus, we conducted a large, nationally-representative study to assess SM use and sleep among U.S. young adults. Our specific aims were to 1) describe the extent of self-reported SM use in this sample; 2) describe the level of self-reported sleep disturbance among this sample; and 3) determine the association between SM use and sleep disturbance. This will help us to better understand the impact of SM use as these individuals emerge into adulthood, before most chronic illnesses are established. Moreover, we have the unique opportunity to examine the association between SM use and sleep among a group of young adults who are, arguably, the first generation to grow up with social media.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>We assessed a nationally-representative sample of U.S. young adults ages 19-32 who were participating in a longitudinal survey assessing multiple health behaviors. Our sample was drawn from a large-scale web-based research panel, which was developed and maintained by Growth from Knowledge (GfK), a survey research company. The research panel, known as the KnowledgePanel ® , has been shown to be a statistically valid method for surveying and analyzing health indicators from a nationally-representative sample. <ref type="bibr">25;26</ref> Participants were recruited via random digit dialing and address-based sampling, which reaches a sampling frame of over 97% of the U.S. population and provides access to people who use a home phone (also known as a "land line") as well as those who use cell phone only. <ref type="bibr">27;28</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedures</head><p>From March 2013 to April 2013 (baseline), 3254 GfK panel members completed an Internet-based survey. They were ages 18 to 30 when they completed the baseline assessment. From October 2014 to November 2014, a follow-up survey was sent via email to those who had completed the baseline survey, who were then ages 19 to 32. The data used for this study were collected as part of this 18-month follow-up, during which SM use items were included as part of the survey. Responses were received from 1796 participants (55.2%), of which 1,788 participants (54.9%) had complete sleep data and were included in the analysis. The median time for survey completion was 15 minutes and participants received $15 for their participation. This study was approved by the Institutional Review Board of the University of Pittsburgh and was granted a Certificate of Confidentiality from the National Institutes of Health.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measures</head><p>Participants completed online survey items assessing SM use (independent variable), sleep disturbance (dependent variable), and covariates.</p><p>Social Media Use-SM use was assessed with multiple items that were used to create two SM use variables. The first variable reflects volume of SM use, as measured by the number of total minutes that participants use SM per day on average for personal, non-work related use. Participants were asked to estimate using text fields for hours and minutes per day. For analysis, this variable was represented in quartiles: Q1 = 0-30 minutes; Q2 = 31-60 minutes; Q3 = 61-120 minutes; Q4 = 121 minutes or more. The second variable reflects frequency of SM use, as measured by the number of visits to SM platforms per week. The frequency variable was adopted from a Pew Internet Research survey asking participants to indicate how frequently they visit or use each of the 11 most popular SM platforms: Facebook, YouTube, Twitter, Google Plus, Instagram, Snapchat, Reddit, Tumblr, Pinterest, Vine, and LinkedIn. <ref type="bibr">29;30</ref> Response choices included: "I don't use this platform," "Less than once a week," "1-2 days a week," "3-6 days a week," "About once a day," "2-4 times a day," and "5 or more times a day." Summed weighted responses on this scale were used to estimate total site visits per week. We also collapsed these data into quartiles for analyses (Q1 = 0-8; Q2 = 9-30; Q3 = 31-57; Q4 = 58+).</p><p>Sleep Disturbance-We assessed sleep disturbance using four items from the Patient-Reported Outcomes Measurement Information System (PROMIS ® ) Sleep Disturbance measure, <ref type="bibr">31;32</ref> which assessed problems with sleep, difficulty falling asleep, whether sleep was refreshing, and sleep quality over the past 7 days. PROMIS measures have the advantage of being highly reliable and precise measures of patient-reported health, utilizing short forms of its measures to lessen participant burden while maintaining precision across a range of domains. <ref type="bibr">33;34</ref> The PROMIS Sleep Disturbance assessment, in particular, reflects a global measure of sleep, rather than focusing on a particular disorder. Previous work has described the development and psychometric testing of the PROMIS sleep disturbance measure among individuals age 18 and older. <ref type="bibr">31;32</ref> The four items included here were rated on a Likert scale, ranging from not at all (1) to very much (5). Items pertaining to sleep quality and the refreshing nature of sleep were reverse-coded. Because there were 4 items each on a 1-5 scale, raw scores ranged from 4-20. Due to the non-normal distribution of our data, we collapsed the sleep measure into tertiles based upon the raw score distribution, rather than converting to T-scores and treating the score variable as continuous. Low sleep disturbance corresponded to raw scores of 4-8, medium corresponded to raw scores of 9-11, and high corresponded to raw scores of 12-20.</p><p>Covariates-We examined associations between our dependent variable and each of the following demographic variables: age, sex, race/ethnicity, relationship status (single vs. committed relationship), living situation, household income, and education level. We divided participants into three age groups (19-23 years; 24-26 years; 27-32 years) and four mutually exclusive groups based on race/ethnicity (White, non-Hispanic; Black, non-Hispanic; Hispanic; or Other non-Hispanic). Categories for living situation, household income, and education level are depicted in Table <ref type="table" target="#tab_0">1</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis</head><p>We included all participants who completed the sleep and SM use items in our analyses. We conducted all primary analyses using survey weights, which were calculated by GfK and applied using a post-stratification adjustment based on socio-demographic benchmark distributions. We used descriptive statistics to characterize the demographic features of the weighted sample and to determine the level of sleep disturbance and SM use frequency and volume reported by our participants. We used chi-square tests to determine whether participants in each sleep disturbance group (low, medium, high) differed significantly on level of SM use (volume and frequency) and covariates.</p><p>We used ordered logistic regression to examine associations among each SM use variable and sleep disturbance, with the lowest level of each social media variable (Q1 for each variable) serving as the reference group. We first conducted this analysis without covariates, and then we conducted multivariable logistic regression including all covariates. The decision to include all covariates in the models was made a priori based on their possible impact on sleep disturbance. <ref type="bibr" target="#b34">35</ref> We first conducted appropriate diagnostics to ensure that the data satisfied the proportional-odds assumption, which is necessary to conduct ordered logistic regression.</p><p>We also conducted three sensitivity analyses in order to assess the robustness of our results. First, we included in the multivariable models only covariates with bivariable associations of P&lt;.15 or stronger with the outcome (sleep disturbance) to ensure that our models had not over-controlled. Second, we repeated all analyses without using survey weights. Finally, we repeated all analyses using SM use variables as continuous instead of categorical.</p><p>Statistical analyses were performed with Stata 12.1 (Stata Corp, College Station, Texas), and two-tailed P-values &lt; 0.05 were considered to be significant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>There were complete data for the independent and dependent variables for 1788 participants. Table <ref type="table" target="#tab_0">1</ref> depicts demographic characteristics of the weighted sample. As is noted in Table <ref type="table" target="#tab_0">1</ref>, 1768 participants reported SM volume (minutes per day), while 1781 reported SM frequency (visits per week). Thus, missing data accounted for between 0.4-1.6%, depending on the analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Social Media Use</head><p>Median volume was 61 minutes of SM use per day (IQR = 30, 135; range = 0-1447), while median frequency was 30 visits per week (IQR=8.5, 56.5; range=0-385).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sleep</head><p>Due to the non-normal distribution of our data, participants were grouped into low, medium, and high sleep disturbance groups based on raw score response distribution. Accounting for survey weights, 42.6% of our sample was in the low sleep disturbance group, 28.0% was in the medium disturbance group, and 29.4% was in the high sleep disturbance group.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bivariable Analyses</head><p>Table <ref type="table" target="#tab_0">1</ref> demonstrates associations between the two SM use variables and sleep disturbance, as well as covariates and sleep disturbance. SM volume and frequency were significantly associated with sleep disturbance, with greater level of SM use associated with higher levels of disturbance. Among the demographic variables, sex and level of household income were significantly associated with sleep disturbance. Females were more likely to have high levels of sleep disturbance than males, and lower levels of income were associated with higher levels of sleep disturbance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Multivariable Analyses</head><p>In fully-adjusted models (Table <ref type="table" target="#tab_1">2</ref>), participants with higher SM volume had significantly greater odds of having sleep disturbance. For example, compared with those in the lowest quartile, those in the highest quartile had an AOR of 1.95 (95% CI = 1.37 -2.79) for having a higher level of sleep disturbance. Similarly, compared with those in the lowest quartile for frequency of use, those in the highest quartile had an AOR of 2.92 (95% CI = 1.97 -4.32) for having a higher level of sleep disturbance. Post-estimate tests demonstrated linearity of the overall association between each of the independent variables and the dependent variable in both unadjusted and adjusted models (all P &lt; .001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sensitivity analyses</head><p>All sensitivity analyses generated results consistent with the primary results. Analyses which used more parsimonious models, no survey weights, and/or continuous independent variables did not result in differences in terms of either levels of significance or magnitude of findings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>We found that young adults ages 19-32 in the U.S. report a median of 61 minutes of SM use per day, and that, consistent with prior research, 4 more than half report medium or high levels of sleep disturbance. We also found that there were consistent, substantial, and progressive associations between SM use and sleep disturbance, whether SM use is operationalized in terms of volume or frequency.</p><p>It is interesting that associations with sleep disturbance were higher for the frequency variable than for the volume variable. For example, compared to those in the lowest quartile for frequency, those in the highest quartile had an AOR of about 3 for increased sleep disturbance, while for the volume variable the AOR was about 2. This may indicate that the frequency of visits is a better predictor of sleep difficulty than overall SM time. If this is the case, interventions may focus on SM use behaviors that take on an obsessive "checking" type of quality. However, these analyses should be replicated in other samples before more systematic translation to interventions.</p><p>Because the findings presented here are cross-sectional, it is not possible to determine whether SM use contributes to sleep disturbance, sleep disturbance contributes to SM use, or both. Nevertheless, there are several possible mechanisms underlying the association between SM use and sleep disturbance. SM use may directly cause disturbed sleep in three ways. <ref type="bibr" target="#b19">20</ref> First, SM use may directly displace sleep; for example, if an individual stays up late posting pictures on Instagram, his or her sleep time may be reduced. Second, SM use may promote emotional, cognitive, and/or physiological arousal. For example, watching a provoking video on YouTube or engaging in a contentious discussion on Facebook just before going to bed may contribute to disturbed sleep. Third, bright light emitted by SM devices may delay circadian rhythms. <ref type="bibr" target="#b35">36</ref> In each of these cases, sleep may be disturbed as a result of the stimulating and rewarding nature of SM.</p><p>Alternatively, those who have difficulty sleeping may subsequently spend more time using SM. In these cases, for example, someone with a pre-existing sleep condition may use SM as a pleasurable way to pass the time while awake or to distract him/herself from the distress of not sleeping. Indeed, there is some evidence that sleep problems predict longer duration of overall technology and media use, <ref type="bibr" target="#b36">37</ref> and one study reported that using media as a sleep aid is a common practice among adolescents. <ref type="bibr" target="#b37">38</ref> While that particular study did not assess social media use specifically, given the pervasive use of SM there may be good reason to believe that adolescents may also use SM as a sleep aid just as they use television and computer games.</p><p>It may also be that both of these hypotheses are true-difficulty sleeping may lead to increased use of SM, which may in turn lead to more problems sleeping. This cycle may be particularly problematic with regard to SM, even compared with traditional media activities. This is because many forms of SM involve interactive screen time, which may be more stimulating and engaging, and thus potentially detrimental to sleep-compared with more passive activities such as watching television and reading books. <ref type="bibr" target="#b20">21</ref> Regardless of specific directionality, these associations have meaningful clinical implications for screening and intervention. First, it may be valuable for providers to assess level of SM use in their young adult patients, especially when those patients have difficulty sleeping. Because about two-thirds of young adults report insufficient sleep to function, <ref type="bibr" target="#b3">4</ref> it may not be unreasonable to assess SM use for problematic patterns as standard practice. Similarly, it may be valuable for school-and clinic-based education programs to address healthy SM use, as has been done for other health behaviors such as obesity and safe driving. Public health programming and SM education can be used to inform the public of the strong associations between SM use and difficulty sleeping, as well as to disseminate information about evidence-based strategies for improving healthy SM use. For example, SM product manuals could include information on the impact of light-emitting devices on melatonin secretion, sleepiness, and circadian rhythms.</p><p>As noted above, one important direction for future research will involve determination of directionality of these associations. Longitudinal research may help illuminate this. Additionally, it will be valuable in the future to assess SM use in a more fine-grained manner. It is appropriate at this early stage of research to examine general variables such as overall volume and frequency of SM use. However, it is important to note that there are many different types of interactions that can occur over SM, and thus it will be an important task of future assessments to more comprehensively determine associations between sleep and various types of SM. For example, time on social media may be highly passive (spent primarily viewing others' profiles), or it may be spent as an active participant, and these distinct patterns of use may have different associations with sleep. Similarly, some individuals tend to have highly supportive and pleasant interactions over SM, while others tend to have more contentious interactions that might be more likely to lead to difficulty sleeping. Thus, questions as to the degree of activity/passivity and character of interactions will be interesting to address in the future.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Strengths and Limitations</head><p>This study is unique in its assessment of SM use and sleep disturbance in a nationallyrepresentative sample of young adults. While most work in this area has focused on the effect of media use on sleep among adolescents, it is also highly important to explore SM use as these individuals emerge into adulthood. "Emerging adulthood" has been considered a time of increasing independence and identity exploration, but it is also characterized by instability and a feeling of being "in-between" developmental stages. <ref type="bibr" target="#b38">39</ref> However, it is also during this period that individuals tend to not only establish but also consolidate behaviors that will last a lifetime. <ref type="bibr" target="#b38">39</ref> Thus, studying SM use and sleep behaviors of young adults may help us to understand whether SM use in young adulthood promotes SM use later in life, and whether these patterns predict the likelihood of having disturbed sleep as these individuals age. Additionally, this study had the benefit of utilizing a survey measure that allowed us to derive and analyze two different dimensions of SM use: frequency and volume. Both of these measures were significantly associated with sleep disturbance in multivariable models, suggesting that these measures may reflect qualitatively different components of SM use.</p><p>As noted above, one important limitation of the cross-sectional nature of the data is that we cannot determine the direction of association between SM use and sleep disturbance, nor can we attribute causality to any effect. Because of the dearth of information on the association of SM use and sleep among young adults, a cross-sectional depiction of these variables was appropriate for this study. Still, a follow-up longitudinal study that allows for the examination of the temporal relationship between these factors would be useful. Moreover, it would be beneficial for future research to examine a broader set of covariates (e.g., mental health status), perhaps within a path analysis, in order to more fully elucidate the nature and directionality of the relationships.</p><p>It was a necessary limitation that we relied on participants' retrospective report of their SM use and sleep in completing the survey. For example, in this large population it was not feasible to intensively validate sleep patterns using formal sleep studies or to validate SM use with ecological momentary assessment. However, it may be valuable for future studies to corroborate these findings when SM use and sleep disturbance are assessed in other ways. Additionally, because this study was limited to young adults ages 19 to 32 the results cannot be generalized to other age groups.</p><p>Last, PROMIS measures can be administered as Computerized Adaptive Tests within an Item Response Theory framework, which provides the highest level of measurement precision. However, this level of sophistication was unavailable for our survey panel, and we instead utilized the analogous 4-item Sleep Disturbance short form. This may have contributed to the non-normal distribution of our response data, limiting us to treat sleep disturbance as an ordinal-categorical variable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>In summary, this study assessed the association between social media use and sleep disturbance among a large, nationally-representative sample of young adults. The rate of SM use has been growing rapidly in recent years. Additionally, disturbed and insufficient sleep have been associated with poor health outcomes. Thus, the strong association between SM use and sleep disturbance has important clinical implications for the health and well-being of young adults. Future work should focus on longitudinal studies that can determine the direction of effect among these variables, as well as further explore the different types of SM interactions that are associated with sleep disturbance.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Weighted Whole Sample Characteristics and Bivariate Associations with Sleep Disturbance (N = 1,788), from a Nationally Representative Sample Assessed in 2014.</figDesc><table><row><cell></cell><cell>P Value b</cell><cell></cell><cell>.004</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>&lt;.001</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>.08</cell><cell></cell><cell></cell><cell></cell><cell>.03</cell><cell></cell><cell></cell><cell>.05</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sleep Disturbance</cell><cell>Low a (n = 709) Medium a (n = 489) High a (n = 590)</cell><cell></cell><cell></cell><cell>35.7 28.1 22.6</cell><cell>23.4 18.9 18.8</cell><cell>20.5 24.3 28.7</cell><cell>20.4 28.7 29.9</cell><cell></cell><cell>35.8 25.2 20.4</cell><cell>24.1 27.4 24.2</cell><cell>23.3 23.2 26.0</cell><cell>16.8 24.2 29.4</cell><cell></cell><cell></cell><cell>37.5 34.1 27.4</cell><cell>25.2 21.4 27.4</cell><cell>37.3 44.5 45.2</cell><cell></cell><cell>45.5 50.4 57.0</cell><cell>54.5 49.6 43.0</cell><cell></cell><cell>63.6 52.8 53.2</cell><cell>12.8 13.2 13.0</cell><cell>17.1 21.2 25.2</cell><cell>6.5 12.9 8.6</cell></row><row><cell></cell><cell>Whole Sample a</cell><cell></cell><cell></cell><cell>29.8</cell><cell>20.8</cell><cell>24.0</cell><cell>25.5</cell><cell></cell><cell>28.3</cell><cell>25.1</cell><cell>24.1</cell><cell>22.5</cell><cell></cell><cell></cell><cell>33.6</cell><cell>24.8</cell><cell>41.6</cell><cell></cell><cell>50.3</cell><cell>49.7</cell><cell></cell><cell>57.5</cell><cell>13.0</cell><cell>20.6</cell><cell>8.9</cell></row><row><cell></cell><cell>Independent Variables</cell><cell>Social Media Use</cell><cell>Minutes Per Day c</cell><cell>Q1 (0-30)</cell><cell>Q2 (31-60)</cell><cell>Q3 (61-120)</cell><cell>Q4 (121+)</cell><cell>Visits Per Week d</cell><cell>Q1 (0-8)</cell><cell>Q2 (9-30)</cell><cell>Q3 (31-57)</cell><cell>Q4 (58+)</cell><cell>Covariates</cell><cell>Age, y</cell><cell>19-23</cell><cell>24-26</cell><cell>27-32</cell><cell>Sex</cell><cell>Female</cell><cell>Male</cell><cell>Race</cell><cell>White, non-Hispanic</cell><cell>Black, non-Hispanic</cell><cell>Hispanic</cell><cell>Other e</cell></row></table><note><p>h Includes engaged, married, and in a domestic partnership. i Defined as not living with a parent/guardian or significant other.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Weighted Bivariate and Multivariate Associations Between Social Media Use and Sleep Disturbance, from a Nationally Representative Sample Assessed in 2014. Sleep disturbance is divided into low, medium, and high tertiles. b Adjusted for all covariates, including age, sex, race/ethnicity, relationship status, living situation, household income, and education level.cSignificance level determined by post-estimate tests for an overall linear effect of the categorical independent variable.</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Sleep Disturbance a</cell></row><row><cell>Social Media Use</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>OR (95% CI)</cell><cell>P c</cell><cell>AOR (95% CI) b</cell><cell>P c</cell></row><row><cell>Minutes Per Day d,e</cell><cell></cell><cell>&lt; .001</cell><cell></cell><cell>&lt; .001</cell></row><row><cell>Q1 (0-30)</cell><cell>REF</cell><cell></cell><cell>REF</cell></row><row><cell>Q2 (31-60)</cell><cell>1.18 (0.80-1.73)</cell><cell></cell><cell>1.26 (0.86-1.84)</cell></row><row><cell>Q3 (61-120)</cell><cell>1.85 (1.28-2.69)</cell><cell></cell><cell>1.91 (1.31-2.78)</cell></row><row><cell>Q4 (121+)</cell><cell>1.93 (1.37-2.71)</cell><cell></cell><cell>1.95 (1.37-2.79)</cell></row><row><cell>Visits Per Week f,g</cell><cell></cell><cell>&lt; .001</cell><cell></cell><cell>&lt; .001</cell></row><row><cell>Q1 (0-8)</cell><cell>REF</cell><cell></cell><cell>REF</cell></row><row><cell>Q2 (9-30)</cell><cell>1.60 (1.12-2.30)</cell><cell></cell><cell>1.73 (1.19-2.50)</cell></row><row><cell>Q3 (31-57)</cell><cell>1.70 (1.15-2.50)</cell><cell></cell><cell>1.90 (1.28-2.83)</cell></row><row><cell>Q4 (58+)</cell><cell>2.43 (1.66-3.56)</cell><cell></cell><cell>2.92 (1.97-4.32)</cell></row><row><cell cols="2">d n=1768 in bivariate model.</cell><cell></cell><cell></cell></row><row><cell cols="2">e n=1765 in multivariable model.</cell><cell></cell><cell></cell></row><row><cell cols="2">f n=1781 in bivariate model.</cell><cell></cell><cell></cell></row></table><note><p>Abbreviations: OR, odds ratio; CI, confidence interval; AOR, adjusted odds ratio. a g n=1778 in multivariable model.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Prev Med. Author manuscript; available in PMC 2017 April 01.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>Funding: This study was conducted with support from <rs type="funder">NIH</rs> grants <rs type="grantNumber">T32-HL082610</rs> (JCL) and <rs type="grantNumber">R01-CA140150</rs> (BAP and JES).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_aHV7WTA">
+					<idno type="grant-number">T32-HL082610</idno>
+				</org>
+				<org type="funding" xml:id="_Ry4GcAm">
+					<idno type="grant-number">R01-CA140150</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Sleep health: Can we define it? Does it matter?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Buysse</surname></persName>
+		</author>
+		<idno type="PMID">24470692</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="9" to="17" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">National Sleep Foundations&apos; sleep time duration recommendations: methodology and results summary</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hirshkowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Whiton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Albert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Health</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="40" to="43" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep in America Poll</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="30" />
+			<date type="published" when="2005">2005. 2005</date>
+			<publisher>National sleep foundation</publisher>
+			<pubPlace>Washington</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The sleep and technology use of Americans: findings from the National Sleep Foundation&apos;s 2011 Sleep in America poll</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gradisar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Wolfson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Czeisler</surname></persName>
+		</author>
+		<idno type="PMID">24340291</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Sleep Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1291" to="1299" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Effect of chronic sleep restriction on sleepiness and working memory in adolescents and young adults</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Vandyke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gozal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Shen</surname></persName>
+		</author>
+		<idno type="PMID">21950514</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Exp Neuropsychol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="892" to="900" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Sleep loss and daytime sleepiness in the general adult population of Japan</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Uchiyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kim</surname></persName>
+		</author>
+		<idno type="PMID">10699223</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Psychiatry Res</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Behavioral and physiological consequences of sleep restriction</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Dinges</surname></persName>
+		</author>
+		<idno type="PMID">17803017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Sleep Med</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="519" to="528" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Problems associated with short sleep: bridging the gap between laboratory and epidemiological studies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Grandner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Gehrman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Perlis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Pack</surname></persName>
+		</author>
+		<idno type="PMID">19896872</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Med Rev</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="239" to="247" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Metabolic consequences of sleep and sleep loss</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Van</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Spiegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Tasali</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Leproult</surname></persName>
+		</author>
+		<idno type="PMID">18929315</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">Suppl 1</biblScope>
+			<biblScope unit="page" from="23" to="S28" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Sleep duration and self-rated health: the national health interview survey 2008</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shankar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Charumathi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kalidindi</surname></persName>
+		</author>
+		<idno type="PMID">21886354</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1173" to="1177" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Sleep duration and health in young adults</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Steptoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Peacey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wardle</surname></persName>
+		</author>
+		<idno type="PMID">16983045</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="1689" to="1692" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The sleepy adolescent: causes and consequences of sleepiness in teens</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Meltzer</surname></persName>
+		</author>
+		<idno type="PMID">18513671</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Paediatr Respir Rev</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="114" to="120" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Causes and consequences of sleepiness among college students</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Hershner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Chervin</surname></persName>
+		</author>
+		<idno type="PMID">25018659</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Sci Sleep</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="73" to="84" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Insufficient sleep in adolescents and young adults: an update on causes and consequences</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Owens</surname></persName>
+		</author>
+		<idno type="PMID">25157012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="e921" to="e932" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Excessive sleepiness in adolescents and young adults: causes, consequences, and treatment strategies</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Millman</surname></persName>
+		</author>
+		<idno type="PMID">15930245</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="1774" to="1786" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Social media is here to stay…now what? Microsoft Research Tech Fest</title>
+		<imprint>
+			<date type="published" when="2009-02-26">Feb 26.2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Users of the world, unit! The challenges and opportunities of Social Media</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haenlein</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bus Horiz</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="59" to="68" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Social media update</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Duggan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lampe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lenhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Madden</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014. 2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>Pew Research Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Children&apos;s Media Use and Sleep Problems: Issues and Unanswered Questions</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Zimmerman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Kaiser Family Foundation</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Electronic media use and sleep in school-aged children and adolescents: A review</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gradisar</surname></persName>
+		</author>
+		<idno type="PMID">20673649</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Med</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="735" to="742" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Screen time and sleep among school-aged children and adolescents: a systematic literature review</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guan</surname></persName>
+		</author>
+		<idno type="PMID">25193149</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Med Rev</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="50" to="58" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Associations between specific technologies and adolescent sleep quantity, sleep quality, and parasomnias</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Arora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Broglia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Taheri</surname></persName>
+		</author>
+		<idno type="PMID">24394730</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Med</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="240" to="247" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Associations between problematic internet use and adolescents&apos; physical and psychological symptoms: possible role of sleep quality</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>An</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tao</surname></persName>
+		</author>
+		<idno type="PMID">25026104</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Addict Med</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="282" to="287" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Adolescent Problematic Social Networking and School Experiences: The Mediating Effects of Sleep Disruptions and Sleep Quality</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vernon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Barber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Modecki</surname></persName>
+		</author>
+		<idno type="PMID">26167837</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cyberpsychol Behav Soc Netw</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="386" to="392" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Research synthesis: AAPOR report on online panels</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Blumberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Brick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Opin Q</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="711" to="781" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Use of the Internet for health information by the chronically ill</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Wagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Bundorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Singer</surname></persName>
+		</author>
+		<idno type="PMID">15670445</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Prev Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">KnowledgePanel design summary</title>
+		<ptr target="http://www.knowledgenetworks.com/ganp/docs/KnowledgePanel%28R%29-Design-Summary.pdf.2012" />
+	</analytic>
+	<monogr>
+		<title level="j">GfK Knowledge Panel</title>
+		<imprint>
+			<date type="published" when="2015-07-29">Jul 29. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Gfk</forename><forename type="middle">Gfk</forename><surname>Knowledgepanel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Knowledgepanel</surname></persName>
+		</author>
+		<ptr target="https://www.gfk.com/us/Solutions/consumer-panels/Pages/GfK-KnowledgePanel.aspx" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Social media update</title>
+		<ptr target="http://www.webcitation.org/6ajEhvS11.2014" />
+		<imprint>
+			<date type="published" when="2014-08-01">2014. Aug 1. 2015</date>
+		</imprint>
+		<respStmt>
+			<orgName>Pew Research Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">State of the media: the social media report</title>
+		<author>
+			<persName><surname>Nielsen</surname></persName>
+		</author>
+		<ptr target="http://www.nielsen.com/us/en/insights/reports/2012/state-of-the-media-the-social-media-report-2012.htm.2015" />
+		<imprint>
+			<date type="published" when="2012-02-18">2012. Feb 18. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Development and validation of patient-reported outcome measures for sleep disturbance and sleep-related impairments</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Buysse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Moul</surname></persName>
+		</author>
+		<idno type="PMID">20550019</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="781" to="792" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Development of short forms from the PROMIS Sleep Disturbance and Sleep-Related Impairment item banks</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Buysse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Germain</surname></persName>
+		</author>
+		<idno type="PMID">22250775</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Behav Sleep Med</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="6" to="24" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Nih</forename><surname>About</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015-12-22">2015. Dec 22.2015</date>
+			<publisher>PROMIS website</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Selecting an Instrument</title>
+		<author>
+			<orgName type="collaboration">NIH</orgName>
+		</author>
+		<imprint>
+			<date type="published" when="2015-12-22">2015. Dec 22.2015</date>
+			<publisher>PROMIS website</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Who gets the best sleep? Ethnic and socioeconomic factors related to sleep complaints</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Grandner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Gehrman</surname></persName>
+		</author>
+		<idno type="PMID">20388566</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Med</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="470" to="478" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aeschbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Duffy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Czeisler</surname></persName>
+		</author>
+		<idno type="PMID">25535358</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="1232" to="1237" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Sleep problems: predictor or outcome of media use among emerging adults at university?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tavernier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Willoughby</surname></persName>
+		</author>
+		<idno type="PMID">24552437</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Sleep Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="389" to="396" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Nodding off or switching off? The use of popular media as a sleep aid in secondary-school children</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Eggermont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Den Bulck</surname></persName>
+		</author>
+		<idno type="PMID">16898880</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Paediatr Child Health</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="428" to="433" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Arnett</surname></persName>
+		</author>
+		<title level="m">Emerging Adulthood: The Winding Road from the Late Teens through the Twenties</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
